@@ -1,0 +1,10 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Himachal Pradesh,Onion,2026-01-30,2351.74,HIGH
+Himachal Pradesh,Onion,2026-01-31,2368.98,HIGH
+Himachal Pradesh,Onion,2026-02-01,2386.22,HIGH
+Himachal Pradesh,Potato,2026-01-30,1043.85,HIGH
+Himachal Pradesh,Potato,2026-01-31,1113.49,HIGH
+Himachal Pradesh,Potato,2026-02-01,1183.13,HIGH
+Himachal Pradesh,Tomato,2026-01-30,2592.89,HIGH
+Himachal Pradesh,Tomato,2026-01-31,2487.54,HIGH
+Himachal Pradesh,Tomato,2026-02-01,2382.19,HIGH

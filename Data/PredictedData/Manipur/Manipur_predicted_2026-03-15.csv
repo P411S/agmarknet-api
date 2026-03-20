@@ -1,0 +1,16 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Manipur,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-14,8804.55,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,8750.0,90.90999999999985,2026-03-14,8804.55,predicted
+Manipur,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-15,8840.91,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,8750.0,90.90999999999985,2026-03-15,8840.91,predicted
+Manipur,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-16,8877.27,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,8750.0,90.90999999999985,2026-03-16,8877.27,predicted
+Manipur,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-14,13612.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,13750.0,0.0,2026-03-14,13612.5,predicted
+Manipur,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-15,13750.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,13750.0,0.0,2026-03-15,13750.0,predicted
+Manipur,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-16,13887.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,13750.0,0.0,2026-03-16,13887.5,predicted
+Manipur,Onion,Vegetables,,,2026-03-14,3250.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,3250.0,0.0,2026-03-14,3250.0,predicted
+Manipur,Onion,Vegetables,,,2026-03-15,3250.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,3250.0,0.0,2026-03-15,3250.0,predicted
+Manipur,Onion,Vegetables,,,2026-03-16,3250.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,3250.0,0.0,2026-03-16,3250.0,predicted
+Manipur,Paddy(Common),Cereals,,,2026-03-13,2846.25,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-12,2026-03-15,2875.0,0.0,2026-03-13,2846.25,predicted
+Manipur,Paddy(Common),Cereals,,,2026-03-14,2875.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-12,2026-03-15,2875.0,0.0,2026-03-14,2875.0,predicted
+Manipur,Paddy(Common),Cereals,,,2026-03-15,2903.75,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-12,2026-03-15,2875.0,0.0,2026-03-15,2903.75,predicted
+Manipur,Potato,Vegetables,,,2026-03-14,1750.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,1750.0,0.0,2026-03-14,1750.0,predicted
+Manipur,Potato,Vegetables,,,2026-03-15,1750.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,1750.0,0.0,2026-03-15,1750.0,predicted
+Manipur,Potato,Vegetables,,,2026-03-16,1750.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,1750.0,0.0,2026-03-16,1750.0,predicted

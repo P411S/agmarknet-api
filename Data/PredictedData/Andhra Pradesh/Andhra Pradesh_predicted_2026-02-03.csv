@@ -1,0 +1,19 @@
+state,commodity,price_date,price,price_type
+Andhra Pradesh,Bengal Gram(Gram)(Whole),2026-01-31,5350.0,Predicted
+Andhra Pradesh,Bengal Gram(Gram)(Whole),2026-02-01,5350.0,Predicted
+Andhra Pradesh,Bengal Gram(Gram)(Whole),2026-02-02,5350.0,Predicted
+Andhra Pradesh,Cotton,2026-02-01,7906.14,Predicted
+Andhra Pradesh,Cotton,2026-02-02,7986.0,Predicted
+Andhra Pradesh,Cotton,2026-02-03,8065.86,Predicted
+Andhra Pradesh,Groundnut,2026-02-01,7864.56,Predicted
+Andhra Pradesh,Groundnut,2026-02-02,7944.0,Predicted
+Andhra Pradesh,Groundnut,2026-02-03,8023.44,Predicted
+Andhra Pradesh,Paddy(Common),2026-02-01,2350.0,Predicted
+Andhra Pradesh,Paddy(Common),2026-02-02,2350.0,Predicted
+Andhra Pradesh,Paddy(Common),2026-02-03,2350.0,Predicted
+Andhra Pradesh,Potato,2026-02-01,1980.0,Predicted
+Andhra Pradesh,Potato,2026-02-02,2000.0,Predicted
+Andhra Pradesh,Potato,2026-02-03,2020.0,Predicted
+Andhra Pradesh,Tomato,2026-02-02,1191.55,Predicted
+Andhra Pradesh,Tomato,2026-02-03,1176.37,Predicted
+Andhra Pradesh,Tomato,2026-02-04,1161.19,Predicted

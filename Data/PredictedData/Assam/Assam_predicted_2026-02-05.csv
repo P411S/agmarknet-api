@@ -1,0 +1,19 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Assam,Pulses,Lentil(Masur)(Whole),,,2026-02-04,9116.25,predicted,hybrid_ma,MEDIUM,9416.67,416.6700000000001,2026-02-05
+Assam,Pulses,Lentil(Masur)(Whole),,,2026-02-05,9208.33,predicted,hybrid_ma,MEDIUM,9416.67,416.6700000000001,2026-02-05
+Assam,Pulses,Lentil(Masur)(Whole),,,2026-02-06,9300.42,predicted,hybrid_ma,MEDIUM,9416.67,416.6700000000001,2026-02-05
+Assam,Oil Seeds,Mustard,,,2026-02-04,6300.0,predicted,fallback_copy,LOW,6300.0,0.0,2026-02-05
+Assam,Oil Seeds,Mustard,,,2026-02-05,6300.0,predicted,fallback_copy,LOW,6300.0,0.0,2026-02-05
+Assam,Oil Seeds,Mustard,,,2026-02-06,6300.0,predicted,fallback_copy,LOW,6300.0,0.0,2026-02-05
+Assam,Vegetables,Onion,,,2026-02-04,2534.26,predicted,hybrid_trend,HIGH,2643.35,-181.80999999999995,2026-02-05
+Assam,Vegetables,Onion,,,2026-02-05,2461.54,predicted,hybrid_trend,HIGH,2643.35,-181.80999999999995,2026-02-05
+Assam,Vegetables,Onion,,,2026-02-06,2388.82,predicted,hybrid_trend,HIGH,2643.35,-181.80999999999995,2026-02-05
+Assam,Cereals,Paddy(Common),,,2026-02-04,2100.0,predicted,fallback_copy,LOW,2100.0,0.0,2026-02-05
+Assam,Cereals,Paddy(Common),,,2026-02-05,2100.0,predicted,fallback_copy,LOW,2100.0,0.0,2026-02-05
+Assam,Cereals,Paddy(Common),,,2026-02-06,2100.0,predicted,fallback_copy,LOW,2100.0,0.0,2026-02-05
+Assam,Vegetables,Potato,,,2026-02-04,1766.9,predicted,hybrid_trend,HIGH,1586.47,300.72,2026-02-05
+Assam,Vegetables,Potato,,,2026-02-05,1887.19,predicted,hybrid_trend,HIGH,1586.47,300.72,2026-02-05
+Assam,Vegetables,Potato,,,2026-02-06,2007.48,predicted,hybrid_trend,HIGH,1586.47,300.72,2026-02-05
+Assam,Vegetables,Tomato,,,2026-02-04,2338.86,predicted,hybrid_trend,HIGH,2521.36,-304.1700000000001,2026-02-05
+Assam,Vegetables,Tomato,,,2026-02-05,2217.19,predicted,hybrid_trend,HIGH,2521.36,-304.1700000000001,2026-02-05
+Assam,Vegetables,Tomato,,,2026-02-06,2095.52,predicted,hybrid_trend,HIGH,2521.36,-304.1700000000001,2026-02-05

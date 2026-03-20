@@ -1,0 +1,19 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Assam,Pulses,Lentil(Masur)(Whole),,,2026-02-13,9244.09,predicted,hybrid_trend,HIGH,9296.12,-86.70999999999913,2026-02-14
+Assam,Pulses,Lentil(Masur)(Whole),,,2026-02-14,9209.41,predicted,hybrid_trend,HIGH,9296.12,-86.70999999999913,2026-02-14
+Assam,Pulses,Lentil(Masur)(Whole),,,2026-02-15,9174.73,predicted,hybrid_trend,HIGH,9296.12,-86.70999999999913,2026-02-14
+Assam,Oil Seeds,Mustard,,,2026-02-11,6250.0,predicted,fallback_copy,LOW,6250.0,0.0,2026-02-14
+Assam,Oil Seeds,Mustard,,,2026-02-12,6250.0,predicted,fallback_copy,LOW,6250.0,0.0,2026-02-14
+Assam,Oil Seeds,Mustard,,,2026-02-13,6250.0,predicted,fallback_copy,LOW,6250.0,0.0,2026-02-14
+Assam,Vegetables,Onion,,,2026-02-13,2384.39,predicted,hybrid_trend,HIGH,2427.45,-71.76999999999998,2026-02-14
+Assam,Vegetables,Onion,,,2026-02-14,2355.68,predicted,hybrid_trend,HIGH,2427.45,-71.76999999999998,2026-02-14
+Assam,Vegetables,Onion,,,2026-02-15,2326.97,predicted,hybrid_trend,HIGH,2427.45,-71.76999999999998,2026-02-14
+Assam,Cereals,Paddy(Common),,,2026-02-11,2100.0,predicted,fallback_copy,LOW,2100.0,0.0,2026-02-14
+Assam,Cereals,Paddy(Common),,,2026-02-12,2100.0,predicted,fallback_copy,LOW,2100.0,0.0,2026-02-14
+Assam,Cereals,Paddy(Common),,,2026-02-13,2100.0,predicted,fallback_copy,LOW,2100.0,0.0,2026-02-14
+Assam,Vegetables,Potato,,,2026-02-13,1175.98,predicted,hybrid_trend,HIGH,1175.72,0.44000000000005457,2026-02-14
+Assam,Vegetables,Potato,,,2026-02-14,1176.16,predicted,hybrid_trend,HIGH,1175.72,0.44000000000005457,2026-02-14
+Assam,Vegetables,Potato,,,2026-02-15,1176.34,predicted,hybrid_trend,HIGH,1175.72,0.44000000000005457,2026-02-14
+Assam,Vegetables,Tomato,,,2026-02-13,2564.77,predicted,hybrid_trend,HIGH,2458.67,176.82999999999993,2026-02-14
+Assam,Vegetables,Tomato,,,2026-02-14,2635.5,predicted,hybrid_trend,HIGH,2458.67,176.82999999999993,2026-02-14
+Assam,Vegetables,Tomato,,,2026-02-15,2706.23,predicted,hybrid_trend,HIGH,2458.67,176.82999999999993,2026-02-14

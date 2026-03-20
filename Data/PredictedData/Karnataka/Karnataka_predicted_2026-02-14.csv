@@ -1,0 +1,16 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),,,2026-02-12,8171.4,predicted,hybrid_trend,HIGH,8109.0,104.0,2026-02-14
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),,,2026-02-13,8213.0,predicted,hybrid_trend,HIGH,8109.0,104.0,2026-02-14
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),,,2026-02-14,8254.6,predicted,hybrid_trend,HIGH,8109.0,104.0,2026-02-14
+Karnataka,Fibre Crops,Cotton,,,2026-02-12,8269.4,predicted,hybrid_trend,HIGH,8300.0,-51.0,2026-02-14
+Karnataka,Fibre Crops,Cotton,,,2026-02-13,8249.0,predicted,hybrid_trend,HIGH,8300.0,-51.0,2026-02-14
+Karnataka,Fibre Crops,Cotton,,,2026-02-14,8228.6,predicted,hybrid_trend,HIGH,8300.0,-51.0,2026-02-14
+Karnataka,Oil Seeds,Groundnut,,,2026-02-12,8644.0,predicted,hybrid_trend,HIGH,8452.0,320.0,2026-02-14
+Karnataka,Oil Seeds,Groundnut,,,2026-02-13,8772.0,predicted,hybrid_trend,HIGH,8452.0,320.0,2026-02-14
+Karnataka,Oil Seeds,Groundnut,,,2026-02-14,8900.0,predicted,hybrid_trend,HIGH,8452.0,320.0,2026-02-14
+Karnataka,Cereals,Paddy(Common),,,2026-02-12,2721.0,predicted,hybrid_trend,HIGH,2619.0,170.0,2026-02-14
+Karnataka,Cereals,Paddy(Common),,,2026-02-13,2789.0,predicted,hybrid_trend,HIGH,2619.0,170.0,2026-02-14
+Karnataka,Cereals,Paddy(Common),,,2026-02-14,2857.0,predicted,hybrid_trend,HIGH,2619.0,170.0,2026-02-14
+Karnataka,Oil Seeds,Sunflower,,,2026-02-10,5530.0,predicted,fallback_copy,LOW,5530.0,0.0,2026-02-14
+Karnataka,Oil Seeds,Sunflower,,,2026-02-11,5530.0,predicted,fallback_copy,LOW,5530.0,0.0,2026-02-14
+Karnataka,Oil Seeds,Sunflower,,,2026-02-12,5530.0,predicted,fallback_copy,LOW,5530.0,0.0,2026-02-14

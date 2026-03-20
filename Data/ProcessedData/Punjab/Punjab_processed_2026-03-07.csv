@@ -1,0 +1,12 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Punjab,Cereals,Maize,2026-03-04,1744.0,2026-03-07,Actual
+Punjab,Fibre Crops,Cotton,2026-03-05,7040.0,2026-03-07,Actual
+Punjab,Vegetables,Onion,2026-03-05,1274.83,2026-03-07,Actual
+Punjab,Vegetables,Onion,2026-03-04,1301.86,2026-03-07,Actual
+Punjab,Vegetables,Onion,2026-03-03,1244.71,2026-03-07,Actual
+Punjab,Vegetables,Potato,2026-03-05,335.58,2026-03-07,Actual
+Punjab,Vegetables,Potato,2026-03-04,326.06,2026-03-07,Actual
+Punjab,Vegetables,Potato,2026-03-03,311.27,2026-03-07,Actual
+Punjab,Vegetables,Tomato,2026-03-05,808.77,2026-03-07,Actual
+Punjab,Vegetables,Tomato,2026-03-04,1296.8,2026-03-07,Actual
+Punjab,Vegetables,Tomato,2026-03-03,1479.95,2026-03-07,Actual

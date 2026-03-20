@@ -1,0 +1,31 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Haryana,Bajra(Pearl Millet/Cumbu),2026-01-30,1760.0,HIGH
+Haryana,Bajra(Pearl Millet/Cumbu),2026-01-31,1700.0,HIGH
+Haryana,Bajra(Pearl Millet/Cumbu),2026-02-01,1640.0,HIGH
+Haryana,Bengal Gram(Gram)(Whole),2026-01-29,5318.0,LOW
+Haryana,Bengal Gram(Gram)(Whole),2026-01-30,5318.0,LOW
+Haryana,Bengal Gram(Gram)(Whole),2026-01-31,5318.0,LOW
+Haryana,Cotton,2026-01-30,7615.03,HIGH
+Haryana,Cotton,2026-01-31,7611.71,HIGH
+Haryana,Cotton,2026-02-01,7608.39,HIGH
+Haryana,Green Gram(Moong)(Whole),2026-01-29,6545.0,LOW
+Haryana,Green Gram(Moong)(Whole),2026-01-30,6545.0,LOW
+Haryana,Green Gram(Moong)(Whole),2026-01-31,6545.0,LOW
+Haryana,Mustard,2026-01-29,6221.95,LOW
+Haryana,Mustard,2026-01-30,6221.95,LOW
+Haryana,Mustard,2026-01-31,6221.95,LOW
+Haryana,Onion,2026-01-30,1719.38,HIGH
+Haryana,Onion,2026-01-31,1723.35,HIGH
+Haryana,Onion,2026-02-01,1727.32,HIGH
+Haryana,Paddy(Common),2026-01-30,3917.52,HIGH
+Haryana,Paddy(Common),2026-01-31,3831.76,HIGH
+Haryana,Paddy(Common),2026-02-01,3746.0,HIGH
+Haryana,Potato,2026-01-30,654.37,HIGH
+Haryana,Potato,2026-01-31,648.18,HIGH
+Haryana,Potato,2026-02-01,641.99,HIGH
+Haryana,Tomato,2026-01-30,1893.22,HIGH
+Haryana,Tomato,2026-01-31,1754.52,HIGH
+Haryana,Tomato,2026-02-01,1615.82,HIGH
+Haryana,Wheat,2026-01-28,2600.0,LOW
+Haryana,Wheat,2026-01-29,2600.0,LOW
+Haryana,Wheat,2026-01-30,2600.0,LOW

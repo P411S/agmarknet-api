@@ -1,0 +1,21 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Madhya Pradesh,Arhar(Tur/Red Gram)(Whole),hybrid_trend,,,,LOW,3
+Madhya Pradesh,Bajra(Pearl Millet/Cumbu),hybrid_trend,,,,LOW,3
+Madhya Pradesh,Barley(Jau),hybrid_trend,,,,LOW,3
+Madhya Pradesh,Bengal Gram(Gram)(Whole),hybrid_trend,,,,LOW,3
+Madhya Pradesh,Black Gram(Urd Beans)(Whole),hybrid_trend,,,,LOW,3
+Madhya Pradesh,Cotton,hybrid_trend,,,,LOW,3
+Madhya Pradesh,Green Gram(Moong)(Whole),hybrid_trend,,,,LOW,3
+Madhya Pradesh,Groundnut,hybrid_trend,,,,LOW,3
+Madhya Pradesh,Jowar(Sorghum),hybrid_ma,,,,LOW,2
+Madhya Pradesh,Lentil(Masur)(Whole),hybrid_trend,,,,LOW,3
+Madhya Pradesh,Maize,hybrid_trend,,,,LOW,3
+Madhya Pradesh,Mustard,hybrid_trend,,,,LOW,3
+Madhya Pradesh,Niger Seed(Ramtil),hybrid_ma,,,,LOW,2
+Madhya Pradesh,Onion,hybrid_trend,,,,LOW,3
+Madhya Pradesh,Paddy(Common),hybrid_trend,,,,LOW,3
+Madhya Pradesh,Potato,hybrid_trend,,,,LOW,3
+Madhya Pradesh,"Sesamum(Sesame,Gingelly,Til)",hybrid_trend,,,,LOW,3
+Madhya Pradesh,Soyabean,hybrid_trend,,,,LOW,3
+Madhya Pradesh,Tomato,hybrid_trend,,,,LOW,3
+Madhya Pradesh,Wheat,hybrid_trend,,,,LOW,3

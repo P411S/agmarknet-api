@@ -1,0 +1,28 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Karnataka,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-02-27,7605.92,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,7721.26,-192.23999999999978,2026-02-27,7605.92,predicted
+Karnataka,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-02-28,7529.02,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,7721.26,-192.23999999999978,2026-02-28,7529.02,predicted
+Karnataka,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-03-01,7452.12,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,7721.26,-192.23999999999978,2026-03-01,7452.12,predicted
+Karnataka,Bengal Gram(Gram)(Whole),Pulses,,,2026-02-26,4776.26,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,4649.0,-351.0,2026-02-26,4776.26,predicted
+Karnataka,Bengal Gram(Gram)(Whole),Pulses,,,2026-02-27,4824.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,4649.0,-351.0,2026-02-27,4824.5,predicted
+Karnataka,Bengal Gram(Gram)(Whole),Pulses,,,2026-02-28,4872.74,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,4649.0,-351.0,2026-02-28,4872.74,predicted
+Karnataka,Copra,Oil Seeds,,,2026-02-26,29502.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,29500.0,-600.0,2026-02-26,29502.0,predicted
+Karnataka,Copra,Oil Seeds,,,2026-02-27,29800.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,29500.0,-600.0,2026-02-27,29800.0,predicted
+Karnataka,Copra,Oil Seeds,,,2026-02-28,30098.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,29500.0,-600.0,2026-02-28,30098.0,predicted
+Karnataka,Cotton,Fibre Crops,,,2026-02-27,7840.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,7900.0,-100.0,2026-02-27,7840.0,predicted
+Karnataka,Cotton,Fibre Crops,,,2026-02-28,7800.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,7900.0,-100.0,2026-02-28,7800.0,predicted
+Karnataka,Cotton,Fibre Crops,,,2026-03-01,7760.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,7900.0,-100.0,2026-03-01,7760.0,predicted
+Karnataka,Green Gram(Moong)(Whole),Pulses,,,2026-02-26,3500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,3500.0,0.0,2026-02-26,3500.0,predicted
+Karnataka,Green Gram(Moong)(Whole),Pulses,,,2026-02-27,3500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,3500.0,0.0,2026-02-27,3500.0,predicted
+Karnataka,Green Gram(Moong)(Whole),Pulses,,,2026-02-28,3500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,3500.0,0.0,2026-02-28,3500.0,predicted
+Karnataka,Groundnut,Oil Seeds,,,2026-02-27,8545.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,8899.0,-590.0,2026-02-27,8545.0,predicted
+Karnataka,Groundnut,Oil Seeds,,,2026-02-28,8309.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,8899.0,-590.0,2026-02-28,8309.0,predicted
+Karnataka,Groundnut,Oil Seeds,,,2026-03-01,8073.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,8899.0,-590.0,2026-03-01,8073.0,predicted
+Karnataka,Jowar(Sorghum),Cereals,,,2026-02-26,4240.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,4240.0,0.0,2026-02-26,4240.0,predicted
+Karnataka,Jowar(Sorghum),Cereals,,,2026-02-27,4240.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,4240.0,0.0,2026-02-27,4240.0,predicted
+Karnataka,Jowar(Sorghum),Cereals,,,2026-02-28,4240.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,4240.0,0.0,2026-02-28,4240.0,predicted
+Karnataka,Paddy(Common),Cereals,,,2026-02-27,2716.56,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,2710.35,10.349999999999909,2026-02-27,2716.56,predicted
+Karnataka,Paddy(Common),Cereals,,,2026-02-28,2720.7,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,2710.35,10.349999999999909,2026-02-28,2720.7,predicted
+Karnataka,Paddy(Common),Cereals,,,2026-03-01,2724.84,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,2710.35,10.349999999999909,2026-03-01,2724.84,predicted
+Karnataka,Soyabean,Oil Seeds,,,2026-02-26,5400.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,5400.0,0.0,2026-02-26,5400.0,predicted
+Karnataka,Soyabean,Oil Seeds,,,2026-02-27,5400.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,5400.0,0.0,2026-02-27,5400.0,predicted
+Karnataka,Soyabean,Oil Seeds,,,2026-02-28,5400.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,5400.0,0.0,2026-02-28,5400.0,predicted

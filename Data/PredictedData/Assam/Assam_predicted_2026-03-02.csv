@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-03-01,9340.92,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,9363.52,-37.659999999999854,2026-03-01,9340.92,predicted
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-03-02,9325.86,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,9363.52,-37.659999999999854,2026-03-02,9325.86,predicted
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-03-03,9310.8,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,9363.52,-37.659999999999854,2026-03-03,9310.8,predicted
+Assam,Onion,Vegetables,,,2026-03-01,2131.64,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2112.42,32.0300000000002,2026-03-01,2131.64,predicted
+Assam,Onion,Vegetables,,,2026-03-02,2144.45,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2112.42,32.0300000000002,2026-03-02,2144.45,predicted
+Assam,Onion,Vegetables,,,2026-03-03,2157.26,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2112.42,32.0300000000002,2026-03-03,2157.26,predicted
+Assam,Potato,Vegetables,,,2026-03-01,1153.21,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,1144.4,14.680000000000064,2026-03-01,1153.21,predicted
+Assam,Potato,Vegetables,,,2026-03-02,1159.08,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,1144.4,14.680000000000064,2026-03-02,1159.08,predicted
+Assam,Potato,Vegetables,,,2026-03-03,1164.95,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,1144.4,14.680000000000064,2026-03-03,1164.95,predicted
+Assam,Tomato,Vegetables,,,2026-03-01,1849.11,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,1870.97,-36.440000000000055,2026-03-01,1849.11,predicted
+Assam,Tomato,Vegetables,,,2026-03-02,1834.53,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,1870.97,-36.440000000000055,2026-03-02,1834.53,predicted
+Assam,Tomato,Vegetables,,,2026-03-03,1819.95,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,1870.97,-36.440000000000055,2026-03-03,1819.95,predicted

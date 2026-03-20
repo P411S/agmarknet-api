@@ -1,0 +1,28 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),,,2026-02-05,8098.2,predicted,hybrid_trend,HIGH,8103.0,-8.0,2026-02-06
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),,,2026-02-06,8095.0,predicted,hybrid_trend,HIGH,8103.0,-8.0,2026-02-06
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),,,2026-02-07,8091.8,predicted,hybrid_trend,HIGH,8103.0,-8.0,2026-02-06
+Telangana,Fibre Crops,Cotton,,,2026-02-05,7901.59,predicted,hybrid_trend,HIGH,7897.86,6.219999999999345,2026-02-06
+Telangana,Fibre Crops,Cotton,,,2026-02-06,7904.08,predicted,hybrid_trend,HIGH,7897.86,6.219999999999345,2026-02-06
+Telangana,Fibre Crops,Cotton,,,2026-02-07,7906.57,predicted,hybrid_trend,HIGH,7897.86,6.219999999999345,2026-02-06
+Telangana,Cereals,Maize,,,2026-02-04,2326.5,predicted,hybrid_ma,MEDIUM,2350.0,0.0,2026-02-06
+Telangana,Cereals,Maize,,,2026-02-05,2350.0,predicted,hybrid_ma,MEDIUM,2350.0,0.0,2026-02-06
+Telangana,Cereals,Maize,,,2026-02-06,2373.5,predicted,hybrid_ma,MEDIUM,2350.0,0.0,2026-02-06
+Telangana,Vegetables,Onion,,,2026-02-05,1190.28,predicted,hybrid_trend,HIGH,1190.58,-0.5,2026-02-06
+Telangana,Vegetables,Onion,,,2026-02-06,1190.08,predicted,hybrid_trend,HIGH,1190.58,-0.5,2026-02-06
+Telangana,Vegetables,Onion,,,2026-02-07,1189.88,predicted,hybrid_trend,HIGH,1190.58,-0.5,2026-02-06
+Telangana,Cereals,Paddy(Common),,,2026-02-05,2417.25,predicted,hybrid_trend,HIGH,2429.51,-20.429999999999836,2026-02-06
+Telangana,Cereals,Paddy(Common),,,2026-02-06,2409.08,predicted,hybrid_trend,HIGH,2429.51,-20.429999999999836,2026-02-06
+Telangana,Cereals,Paddy(Common),,,2026-02-07,2400.91,predicted,hybrid_trend,HIGH,2429.51,-20.429999999999836,2026-02-06
+Telangana,Vegetables,Potato,,,2026-02-05,1049.29,predicted,hybrid_trend,HIGH,1109.63,-100.56999999999994,2026-02-06
+Telangana,Vegetables,Potato,,,2026-02-06,1009.06,predicted,hybrid_trend,HIGH,1109.63,-100.56999999999994,2026-02-06
+Telangana,Vegetables,Potato,,,2026-02-07,968.83,predicted,hybrid_trend,HIGH,1109.63,-100.56999999999994,2026-02-06
+Telangana,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",,,2026-02-05,9808.0,predicted,fallback_copy,LOW,9808.0,0.0,2026-02-06
+Telangana,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",,,2026-02-06,9808.0,predicted,fallback_copy,LOW,9808.0,0.0,2026-02-06
+Telangana,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",,,2026-02-07,9808.0,predicted,fallback_copy,LOW,9808.0,0.0,2026-02-06
+Telangana,Oil Seeds,Soyabean,,,2026-02-05,5749.4,predicted,hybrid_trend,HIGH,5735.0,24.0,2026-02-06
+Telangana,Oil Seeds,Soyabean,,,2026-02-06,5759.0,predicted,hybrid_trend,HIGH,5735.0,24.0,2026-02-06
+Telangana,Oil Seeds,Soyabean,,,2026-02-07,5768.6,predicted,hybrid_trend,HIGH,5735.0,24.0,2026-02-06
+Telangana,Vegetables,Tomato,,,2026-02-05,654.24,predicted,hybrid_trend,HIGH,708.76,-90.87,2026-02-06
+Telangana,Vegetables,Tomato,,,2026-02-06,617.89,predicted,hybrid_trend,HIGH,708.76,-90.87,2026-02-06
+Telangana,Vegetables,Tomato,,,2026-02-07,581.54,predicted,hybrid_trend,HIGH,708.76,-90.87,2026-02-06

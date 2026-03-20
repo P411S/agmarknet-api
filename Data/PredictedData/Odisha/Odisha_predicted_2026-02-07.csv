@@ -1,0 +1,19 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Odisha,Fibre Crops,Cotton,,,2026-02-06,7990.0,predicted,fallback_copy,LOW,7990.0,0.0,2026-02-07
+Odisha,Fibre Crops,Cotton,,,2026-02-07,7990.0,predicted,fallback_copy,LOW,7990.0,0.0,2026-02-07
+Odisha,Fibre Crops,Cotton,,,2026-02-08,7990.0,predicted,fallback_copy,LOW,7990.0,0.0,2026-02-07
+Odisha,Vegetables,Onion,,,2026-02-06,3294.24,predicted,hybrid_trend,HIGH,2811.49,804.5899999999997,2026-02-07
+Odisha,Vegetables,Onion,,,2026-02-07,3616.08,predicted,hybrid_trend,HIGH,2811.49,804.5899999999997,2026-02-07
+Odisha,Vegetables,Onion,,,2026-02-08,3937.92,predicted,hybrid_trend,HIGH,2811.49,804.5899999999997,2026-02-07
+Odisha,Cereals,Paddy(Common),,,2026-02-06,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-07
+Odisha,Cereals,Paddy(Common),,,2026-02-07,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-07
+Odisha,Cereals,Paddy(Common),,,2026-02-08,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-07
+Odisha,Vegetables,Potato,,,2026-02-06,2387.91,predicted,hybrid_trend,HIGH,1998.86,648.4099999999999,2026-02-07
+Odisha,Vegetables,Potato,,,2026-02-07,2647.27,predicted,hybrid_trend,HIGH,1998.86,648.4099999999999,2026-02-07
+Odisha,Vegetables,Potato,,,2026-02-08,2906.63,predicted,hybrid_trend,HIGH,1998.86,648.4099999999999,2026-02-07
+Odisha,Cereals,Ragi(Finger Millet),,,2026-02-05,4837.14,predicted,hybrid_ma,MEDIUM,4886.0,0.0,2026-02-07
+Odisha,Cereals,Ragi(Finger Millet),,,2026-02-06,4886.0,predicted,hybrid_ma,MEDIUM,4886.0,0.0,2026-02-07
+Odisha,Cereals,Ragi(Finger Millet),,,2026-02-07,4934.86,predicted,hybrid_ma,MEDIUM,4886.0,0.0,2026-02-07
+Odisha,Vegetables,Tomato,,,2026-02-06,2275.55,predicted,hybrid_trend,HIGH,2309.08,-55.88999999999987,2026-02-07
+Odisha,Vegetables,Tomato,,,2026-02-07,2253.19,predicted,hybrid_trend,HIGH,2309.08,-55.88999999999987,2026-02-07
+Odisha,Vegetables,Tomato,,,2026-02-08,2230.83,predicted,hybrid_trend,HIGH,2309.08,-55.88999999999987,2026-02-07

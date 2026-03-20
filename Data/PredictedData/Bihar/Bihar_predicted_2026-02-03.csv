@@ -1,0 +1,13 @@
+state,commodity,price_date,price,price_type
+Bihar,Onion,2026-02-02,2601.54,Predicted
+Bihar,Onion,2026-02-03,2576.92,Predicted
+Bihar,Onion,2026-02-04,2552.3,Predicted
+Bihar,Paddy(Common),2026-02-02,2370.0,Predicted
+Bihar,Paddy(Common),2026-02-03,2370.0,Predicted
+Bihar,Paddy(Common),2026-02-04,2370.0,Predicted
+Bihar,Potato,2026-02-02,1930.55,Predicted
+Bihar,Potato,2026-02-03,2101.9,Predicted
+Bihar,Potato,2026-02-04,2273.25,Predicted
+Bihar,Wheat,2026-02-01,2623.5,Predicted
+Bihar,Wheat,2026-02-02,2650.0,Predicted
+Bihar,Wheat,2026-02-03,2676.5,Predicted

@@ -1,0 +1,16 @@
+state,commodity,price_date,price,price_type
+Punjab,Cotton,2026-02-01,7616.01,Predicted
+Punjab,Cotton,2026-02-02,7692.93,Predicted
+Punjab,Cotton,2026-02-03,7769.86,Predicted
+Punjab,Maize,2026-02-02,2173.0,Predicted
+Punjab,Maize,2026-02-03,2173.0,Predicted
+Punjab,Maize,2026-02-04,2173.0,Predicted
+Punjab,Onion,2026-02-02,2235.97,Predicted
+Punjab,Onion,2026-02-03,2326.61,Predicted
+Punjab,Onion,2026-02-04,2417.25,Predicted
+Punjab,Potato,2026-02-02,493.26,Predicted
+Punjab,Potato,2026-02-03,524.06,Predicted
+Punjab,Potato,2026-02-04,554.86,Predicted
+Punjab,Tomato,2026-02-02,2869.25,Predicted
+Punjab,Tomato,2026-02-03,3155.41,Predicted
+Punjab,Tomato,2026-02-04,3441.57,Predicted

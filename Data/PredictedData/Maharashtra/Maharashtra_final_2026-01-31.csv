@@ -1,0 +1,99 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Maharashtra,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-31,2026-01-29,3774.03,False,,,,
+Maharashtra,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-31,2026-01-28,3773.22,False,,,,
+Maharashtra,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-31,2026-01-27,3715.46,False,,,,
+Maharashtra,Cereals,Jowar(Sorghum),2026-01-31,2026-01-29,3900.0,False,,,,
+Maharashtra,Cereals,Jowar(Sorghum),2026-01-31,2026-01-28,5879.38,False,,,,
+Maharashtra,Cereals,Jowar(Sorghum),2026-01-31,2026-01-27,5370.89,False,,,,
+Maharashtra,Cereals,Maize,2026-01-31,2026-01-29,3250.0,False,,,,
+Maharashtra,Cereals,Maize,2026-01-31,2026-01-28,3020.07,False,,,,
+Maharashtra,Cereals,Maize,2026-01-31,2026-01-27,3237.61,False,,,,
+Maharashtra,Cereals,Paddy(Common),2026-01-31,2026-01-29,2805.51,False,,,,
+Maharashtra,Cereals,Paddy(Common),2026-01-31,2026-01-28,2688.18,False,,,,
+Maharashtra,Cereals,Paddy(Common),2026-01-31,2026-01-27,2663.78,False,,,,
+Maharashtra,Cereals,Ragi(Finger Millet),2026-01-31,2026-01-28,5150.0,False,,,,
+Maharashtra,Cereals,Ragi(Finger Millet),2026-01-31,2026-01-27,5200.0,False,,,,
+Maharashtra,Cereals,Wheat,2026-01-31,2026-01-29,3548.92,False,,,,
+Maharashtra,Cereals,Wheat,2026-01-31,2026-01-28,3485.77,False,,,,
+Maharashtra,Cereals,Wheat,2026-01-31,2026-01-27,2940.45,False,,,,
+Maharashtra,Fibre Crops,Cotton,2026-01-31,2026-01-29,7956.46,False,,,,
+Maharashtra,Fibre Crops,Cotton,2026-01-31,2026-01-28,7986.74,False,,,,
+Maharashtra,Fibre Crops,Cotton,2026-01-31,2026-01-27,8028.65,False,,,,
+Maharashtra,Oil Seeds,Groundnut,2026-01-31,2026-01-28,8102.0,False,,,,
+Maharashtra,Oil Seeds,Groundnut,2026-01-31,2026-01-27,7901.0,False,,,,
+Maharashtra,Oil Seeds,Mustard,2026-01-31,2026-01-29,8000.0,False,,,,
+Maharashtra,Oil Seeds,Mustard,2026-01-31,2026-01-28,8000.0,False,,,,
+Maharashtra,Oil Seeds,Safflower,2026-01-31,2026-01-29,7461.62,False,,,,
+Maharashtra,Oil Seeds,Safflower,2026-01-31,2026-01-28,6800.0,False,,,,
+Maharashtra,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,2026-01-29,15769.23,False,,,,
+Maharashtra,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,2026-01-28,15547.95,False,,,,
+Maharashtra,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,2026-01-27,16083.33,False,,,,
+Maharashtra,Oil Seeds,Soyabean,2026-01-31,2026-01-29,5709.91,False,,,,
+Maharashtra,Oil Seeds,Soyabean,2026-01-31,2026-01-28,5581.93,False,,,,
+Maharashtra,Oil Seeds,Soyabean,2026-01-31,2026-01-27,5583.34,False,,,,
+Maharashtra,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-29,8615.57,False,,,,
+Maharashtra,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-28,8402.79,False,,,,
+Maharashtra,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-27,8254.53,False,,,,
+Maharashtra,Pulses,Bengal Gram(Gram)(Whole),2026-01-31,2026-01-29,6713.7,False,,,,
+Maharashtra,Pulses,Bengal Gram(Gram)(Whole),2026-01-31,2026-01-28,7040.1,False,,,,
+Maharashtra,Pulses,Bengal Gram(Gram)(Whole),2026-01-31,2026-01-27,7008.67,False,,,,
+Maharashtra,Pulses,Black Gram(Urd Beans)(Whole),2026-01-31,2026-01-29,9410.0,False,,,,
+Maharashtra,Pulses,Black Gram(Urd Beans)(Whole),2026-01-31,2026-01-28,9027.38,False,,,,
+Maharashtra,Pulses,Black Gram(Urd Beans)(Whole),2026-01-31,2026-01-27,9224.38,False,,,,
+Maharashtra,Pulses,Green Gram(Moong)(Whole),2026-01-31,2026-01-29,10347.19,False,,,,
+Maharashtra,Pulses,Green Gram(Moong)(Whole),2026-01-31,2026-01-28,10397.76,False,,,,
+Maharashtra,Pulses,Green Gram(Moong)(Whole),2026-01-31,2026-01-27,10267.47,False,,,,
+Maharashtra,Pulses,Lentil(Masur)(Whole),2026-01-31,2026-01-29,7528.87,False,,,,
+Maharashtra,Pulses,Lentil(Masur)(Whole),2026-01-31,2026-01-28,7957.44,False,,,,
+Maharashtra,Pulses,Lentil(Masur)(Whole),2026-01-31,2026-01-27,8271.64,False,,,,
+Maharashtra,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,8743.24
+Maharashtra,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,8828.35
+Maharashtra,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,8913.46
+Maharashtra,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-01-30,3774.52
+Maharashtra,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-01-31,3774.84
+Maharashtra,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-02-01,3775.16
+Maharashtra,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,6517.86
+Maharashtra,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,6387.3
+Maharashtra,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,6256.74
+Maharashtra,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,9639.57
+Maharashtra,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,9792.62
+Maharashtra,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,9945.67
+Maharashtra,,Cotton,,,,True,HYBRID_MODEL,,2026-01-30,7938.29
+Maharashtra,,Cotton,,,,True,HYBRID_MODEL,,2026-01-31,7926.18
+Maharashtra,,Cotton,,,,True,HYBRID_MODEL,,2026-02-01,7914.07
+Maharashtra,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,10316.85
+Maharashtra,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,10296.62
+Maharashtra,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,10276.39
+Maharashtra,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-29,7921.48
+Maharashtra,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-30,8001.5
+Maharashtra,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-31,8081.52
+Maharashtra,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-30,2712.37
+Maharashtra,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-31,1920.62
+Maharashtra,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-02-01,1128.87
+Maharashtra,,Lentil(Masur)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,7271.73
+Maharashtra,,Lentil(Masur)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,7100.3
+Maharashtra,,Lentil(Masur)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,6928.87
+Maharashtra,,Maize,,,,True,HYBRID_MODEL,,2026-01-30,3387.96
+Maharashtra,,Maize,,,,True,HYBRID_MODEL,,2026-01-31,3479.93
+Maharashtra,,Maize,,,,True,HYBRID_MODEL,,2026-02-01,3571.9
+Maharashtra,,Mustard,,,,True,HYBRID_MODEL,,2026-01-30,7920.0
+Maharashtra,,Mustard,,,,True,HYBRID_MODEL,,2026-01-31,8000.0
+Maharashtra,,Mustard,,,,True,HYBRID_MODEL,,2026-02-01,8080.0
+Maharashtra,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-30,2875.91
+Maharashtra,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-31,2922.84
+Maharashtra,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-02-01,2969.77
+Maharashtra,,Ragi(Finger Millet),,,,True,HYBRID_MODEL,,2026-01-29,5123.25
+Maharashtra,,Ragi(Finger Millet),,,,True,HYBRID_MODEL,,2026-01-30,5175.0
+Maharashtra,,Ragi(Finger Millet),,,,True,HYBRID_MODEL,,2026-01-31,5226.75
+Maharashtra,,Safflower,,,,True,HYBRID_MODEL,,2026-01-30,7059.5
+Maharashtra,,Safflower,,,,True,HYBRID_MODEL,,2026-01-31,7130.81
+Maharashtra,,Safflower,,,,True,HYBRID_MODEL,,2026-02-01,7202.12
+Maharashtra,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-30,15902.0
+Maharashtra,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-31,15990.51
+Maharashtra,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-02-01,16079.02
+Maharashtra,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-30,5786.7
+Maharashtra,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-31,5837.89
+Maharashtra,,Soyabean,,,,True,HYBRID_MODEL,,2026-02-01,5889.08
+Maharashtra,,Wheat,,,,True,HYBRID_MODEL,,2026-01-30,3586.81
+Maharashtra,,Wheat,,,,True,HYBRID_MODEL,,2026-01-31,3612.07
+Maharashtra,,Wheat,,,,True,HYBRID_MODEL,,2026-02-01,3637.33

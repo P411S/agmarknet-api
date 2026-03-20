@@ -1,0 +1,4 @@
+state,commodity_group,commodity,predicted_date,predicted_price,confidence_score,model_used
+Karnataka,Cereals,Paddy(Common),2026-01-27,2546.87,0.4,BOOTSTRAP
+Karnataka,Cereals,Paddy(Common),2026-01-28,2598.06,0.4,BOOTSTRAP
+Karnataka,Cereals,Paddy(Common),2026-01-29,2566.27,0.4,BOOTSTRAP

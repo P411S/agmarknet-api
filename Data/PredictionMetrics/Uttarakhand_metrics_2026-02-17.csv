@@ -1,0 +1,5 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Uttarakhand,Onion,hybrid_ma,0.0,0.0,0.0,LOW,2
+Uttarakhand,Paddy(Common),fallback_copy,0.0,0.0,0.0,LOW,1
+Uttarakhand,Potato,hybrid_ma,0.0,0.0,0.0,LOW,2
+Uttarakhand,Tomato,hybrid_ma,0.0,0.0,0.0,LOW,2

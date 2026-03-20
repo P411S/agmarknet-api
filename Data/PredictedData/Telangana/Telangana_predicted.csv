@@ -1,0 +1,22 @@
+state,commodity_group,commodity,predicted_date,predicted_price,confidence_score,model_used
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-25,7436.91,0.4,BOOTSTRAP
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-26,7582.92,0.4,BOOTSTRAP
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-27,7661.31,0.4,BOOTSTRAP
+Telangana,Fibre Crops,Cotton,2026-01-27,7844.59,0.85,ARIMA
+Telangana,Fibre Crops,Cotton,2026-01-28,7844.54,0.85,ARIMA
+Telangana,Fibre Crops,Cotton,2026-01-29,7844.59,0.85,ARIMA
+Telangana,Vegetables,Onion,2026-01-27,1213.89,0.85,ARIMA
+Telangana,Vegetables,Onion,2026-01-28,1223.24,0.85,ARIMA
+Telangana,Vegetables,Onion,2026-01-29,1229.53,0.85,ARIMA
+Telangana,Cereals,Paddy(Common),2026-01-27,2398.45,0.85,ARIMA
+Telangana,Cereals,Paddy(Common),2026-01-28,2395.78,0.85,ARIMA
+Telangana,Cereals,Paddy(Common),2026-01-29,2396.83,0.85,ARIMA
+Telangana,Vegetables,Potato,2026-01-27,1048.06,0.85,ARIMA
+Telangana,Vegetables,Potato,2026-01-28,1050.49,0.85,ARIMA
+Telangana,Vegetables,Potato,2026-01-29,1050.8,0.85,ARIMA
+Telangana,Oil Seeds,Soyabean,2026-01-25,5391.35,0.4,BOOTSTRAP
+Telangana,Oil Seeds,Soyabean,2026-01-26,5509.0,0.4,BOOTSTRAP
+Telangana,Oil Seeds,Soyabean,2026-01-27,5442.47,0.4,BOOTSTRAP
+Telangana,Vegetables,Tomato,2026-01-27,999.43,0.85,ARIMA
+Telangana,Vegetables,Tomato,2026-01-28,1013.79,0.85,ARIMA
+Telangana,Vegetables,Tomato,2026-01-29,999.46,0.85,ARIMA

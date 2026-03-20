@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Manipur,Bengal Gram(Gram)(Whole),Pulses,,,2026-02-18,8662.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,8750.0,0.0,2026-02-18,8662.5,predicted
+Manipur,Bengal Gram(Gram)(Whole),Pulses,,,2026-02-19,8750.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,8750.0,0.0,2026-02-19,8750.0,predicted
+Manipur,Bengal Gram(Gram)(Whole),Pulses,,,2026-02-20,8837.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,8750.0,0.0,2026-02-20,8837.5,predicted
+Manipur,Black Gram(Urd Beans)(Whole),Pulses,,,2026-02-18,13612.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,13750.0,0.0,2026-02-18,13612.5,predicted
+Manipur,Black Gram(Urd Beans)(Whole),Pulses,,,2026-02-19,13750.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,13750.0,0.0,2026-02-19,13750.0,predicted
+Manipur,Black Gram(Urd Beans)(Whole),Pulses,,,2026-02-20,13887.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,13750.0,0.0,2026-02-20,13887.5,predicted
+Manipur,Onion,Vegetables,,,2026-02-18,3712.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,3750.0,0.0,2026-02-18,3712.5,predicted
+Manipur,Onion,Vegetables,,,2026-02-19,3750.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,3750.0,0.0,2026-02-19,3750.0,predicted
+Manipur,Onion,Vegetables,,,2026-02-20,3787.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,3750.0,0.0,2026-02-20,3787.5,predicted
+Manipur,Potato,Vegetables,,,2026-02-18,2227.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,2250.0,0.0,2026-02-18,2227.5,predicted
+Manipur,Potato,Vegetables,,,2026-02-19,2250.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,2250.0,0.0,2026-02-19,2250.0,predicted
+Manipur,Potato,Vegetables,,,2026-02-20,2272.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,2250.0,0.0,2026-02-20,2272.5,predicted

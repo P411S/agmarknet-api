@@ -1,0 +1,25 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Karnataka,Arhar(Tur/Red Gram)(Whole),2026-01-30,9015.29,HIGH
+Karnataka,Arhar(Tur/Red Gram)(Whole),2026-01-31,9166.86,HIGH
+Karnataka,Arhar(Tur/Red Gram)(Whole),2026-02-01,9318.43,HIGH
+Karnataka,Bengal Gram(Gram)(Whole),2026-01-30,5404.0,HIGH
+Karnataka,Bengal Gram(Gram)(Whole),2026-01-31,5336.0,HIGH
+Karnataka,Bengal Gram(Gram)(Whole),2026-02-01,5268.0,HIGH
+Karnataka,Cotton,2026-01-30,8220.0,HIGH
+Karnataka,Cotton,2026-01-31,8300.0,HIGH
+Karnataka,Cotton,2026-02-01,8380.0,HIGH
+Karnataka,Groundnut,2026-01-30,12187.0,HIGH
+Karnataka,Groundnut,2026-01-31,12775.0,HIGH
+Karnataka,Groundnut,2026-02-01,13363.0,HIGH
+Karnataka,Jowar(Sorghum),2026-01-28,3826.0,LOW
+Karnataka,Jowar(Sorghum),2026-01-29,3826.0,LOW
+Karnataka,Jowar(Sorghum),2026-01-30,3826.0,LOW
+Karnataka,Maize,2026-01-28,1810.0,LOW
+Karnataka,Maize,2026-01-29,1810.0,LOW
+Karnataka,Maize,2026-01-30,1810.0,LOW
+Karnataka,Paddy(Common),2026-01-30,2676.52,HIGH
+Karnataka,Paddy(Common),2026-01-31,2713.54,HIGH
+Karnataka,Paddy(Common),2026-02-01,2750.56,HIGH
+Karnataka,Soyabean,2026-01-30,5225.0,LOW
+Karnataka,Soyabean,2026-01-31,5225.0,LOW
+Karnataka,Soyabean,2026-02-01,5225.0,LOW

@@ -1,0 +1,3 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Goa,Onion,fallback_copy,0.0,0.0,0.0,LOW,1
+Goa,Potato,fallback_copy,0.0,0.0,0.0,LOW,1

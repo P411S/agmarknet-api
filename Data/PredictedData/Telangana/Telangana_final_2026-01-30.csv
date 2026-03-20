@@ -1,0 +1,58 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Telangana,Cereals,Maize,2026-01-30,2026-01-28,2400.0,False,,,,
+Telangana,Cereals,Maize,2026-01-30,2026-01-27,2319.64,False,,,,
+Telangana,Cereals,Paddy(Common),2026-01-30,2026-01-28,2472.54,False,,,,
+Telangana,Cereals,Paddy(Common),2026-01-30,2026-01-27,2401.41,False,,,,
+Telangana,Cereals,Paddy(Common),2026-01-30,2026-01-26,2391.69,False,,,,
+Telangana,Fibre Crops,Cotton,2026-01-30,2026-01-28,7920.93,False,,,,
+Telangana,Fibre Crops,Cotton,2026-01-30,2026-01-27,7892.13,False,,,,
+Telangana,Fibre Crops,Cotton,2026-01-30,2026-01-26,7844.54,False,,,,
+Telangana,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-30,2026-01-27,10501.0,False,,,,
+Telangana,Oil Seeds,Soyabean,2026-01-30,2026-01-28,5699.0,False,,,,
+Telangana,Oil Seeds,Soyabean,2026-01-30,2026-01-27,5304.0,False,,,,
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-30,2026-01-28,8302.0,False,,,,
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-30,2026-01-27,7369.77,False,,,,
+Telangana,Pulses,Black Gram(Urd Beans)(Whole),2026-01-30,2026-01-27,7889.0,False,,,,
+Telangana,Pulses,Green Gram(Moong)(Whole),2026-01-30,2026-01-27,8063.0,False,,,,
+Telangana,Vegetables,Onion,2026-01-30,2026-01-28,1179.99,False,,,,
+Telangana,Vegetables,Onion,2026-01-30,2026-01-27,1192.95,False,,,,
+Telangana,Vegetables,Onion,2026-01-30,2026-01-26,1200.0,False,,,,
+Telangana,Vegetables,Potato,2026-01-30,2026-01-28,998.82,False,,,,
+Telangana,Vegetables,Potato,2026-01-30,2026-01-27,1104.74,False,,,,
+Telangana,Vegetables,Potato,2026-01-30,2026-01-26,1029.36,False,,,,
+Telangana,Vegetables,Tomato,2026-01-30,2026-01-28,1368.78,False,,,,
+Telangana,Vegetables,Tomato,2026-01-30,2026-01-27,813.21,False,,,,
+Telangana,Vegetables,Tomato,2026-01-30,2026-01-26,1013.82,False,,,,
+Telangana,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,7757.53
+Telangana,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,7835.89
+Telangana,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,7914.24
+Telangana,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-28,7889.0
+Telangana,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,7889.0
+Telangana,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,7889.0
+Telangana,,Cotton,,,,True,HYBRID_MODEL,,2026-01-29,7938.21
+Telangana,,Cotton,,,,True,HYBRID_MODEL,,2026-01-30,7949.73
+Telangana,,Cotton,,,,True,HYBRID_MODEL,,2026-01-31,7961.25
+Telangana,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-28,8063.0
+Telangana,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,8063.0
+Telangana,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,8063.0
+Telangana,,Maize,,,,True,HYBRID_MODEL,,2026-01-29,2336.22
+Telangana,,Maize,,,,True,HYBRID_MODEL,,2026-01-30,2359.82
+Telangana,,Maize,,,,True,HYBRID_MODEL,,2026-01-31,2383.42
+Telangana,,Onion,,,,True,HYBRID_MODEL,,2026-01-29,1172.21
+Telangana,,Onion,,,,True,HYBRID_MODEL,,2026-01-30,1167.03
+Telangana,,Onion,,,,True,HYBRID_MODEL,,2026-01-31,1161.85
+Telangana,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-29,2515.22
+Telangana,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-30,2543.67
+Telangana,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-31,2572.12
+Telangana,,Potato,,,,True,HYBRID_MODEL,,2026-01-29,935.27
+Telangana,,Potato,,,,True,HYBRID_MODEL,,2026-01-30,892.9
+Telangana,,Potato,,,,True,HYBRID_MODEL,,2026-01-31,850.53
+Telangana,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-28,10501.0
+Telangana,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-29,10501.0
+Telangana,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-30,10501.0
+Telangana,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-29,5446.48
+Telangana,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-30,5501.5
+Telangana,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-31,5556.52
+Telangana,,Tomato,,,,True,HYBRID_MODEL,,2026-01-29,1702.12
+Telangana,,Tomato,,,,True,HYBRID_MODEL,,2026-01-30,1924.35
+Telangana,,Tomato,,,,True,HYBRID_MODEL,,2026-01-31,2146.58

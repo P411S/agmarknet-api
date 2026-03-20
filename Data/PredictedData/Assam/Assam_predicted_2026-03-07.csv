@@ -1,0 +1,22 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-03-06,9367.3,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,9333.73,55.94999999999891,2026-03-06,9367.3,predicted
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-03-07,9389.68,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,9333.73,55.94999999999891,2026-03-07,9389.68,predicted
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-03-08,9412.06,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,9333.73,55.94999999999891,2026-03-08,9412.06,predicted
+Assam,Maize,Cereals,,,2026-03-04,1600.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-03,2026-03-07,1600.0,0.0,2026-03-04,1600.0,predicted
+Assam,Maize,Cereals,,,2026-03-05,1600.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-03,2026-03-07,1600.0,0.0,2026-03-05,1600.0,predicted
+Assam,Maize,Cereals,,,2026-03-06,1600.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-03,2026-03-07,1600.0,0.0,2026-03-06,1600.0,predicted
+Assam,Mustard,Oil Seeds,,,2026-03-04,6200.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-03,2026-03-07,6200.0,0.0,2026-03-04,6200.0,predicted
+Assam,Mustard,Oil Seeds,,,2026-03-05,6200.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-03,2026-03-07,6200.0,0.0,2026-03-05,6200.0,predicted
+Assam,Mustard,Oil Seeds,,,2026-03-06,6200.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-03,2026-03-07,6200.0,0.0,2026-03-06,6200.0,predicted
+Assam,Onion,Vegetables,,,2026-03-06,2290.4,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,2116.13,290.45000000000005,2026-03-06,2290.4,predicted
+Assam,Onion,Vegetables,,,2026-03-07,2406.58,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,2116.13,290.45000000000005,2026-03-07,2406.58,predicted
+Assam,Onion,Vegetables,,,2026-03-08,2522.76,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,2116.13,290.45000000000005,2026-03-08,2522.76,predicted
+Assam,Paddy(Common),Cereals,,,2026-03-04,2100.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-03,2026-03-07,2100.0,0.0,2026-03-04,2100.0,predicted
+Assam,Paddy(Common),Cereals,,,2026-03-05,2100.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-03,2026-03-07,2100.0,0.0,2026-03-05,2100.0,predicted
+Assam,Paddy(Common),Cereals,,,2026-03-06,2100.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-03,2026-03-07,2100.0,0.0,2026-03-06,2100.0,predicted
+Assam,Potato,Vegetables,,,2026-03-06,1157.25,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,1115.69,69.25999999999999,2026-03-06,1157.25,predicted
+Assam,Potato,Vegetables,,,2026-03-07,1184.95,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,1115.69,69.25999999999999,2026-03-07,1184.95,predicted
+Assam,Potato,Vegetables,,,2026-03-08,1212.65,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,1115.69,69.25999999999999,2026-03-08,1212.65,predicted
+Assam,Tomato,Vegetables,,,2026-03-06,2502.83,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,2154.4,580.72,2026-03-06,2502.83,predicted
+Assam,Tomato,Vegetables,,,2026-03-07,2735.12,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,2154.4,580.72,2026-03-07,2735.12,predicted
+Assam,Tomato,Vegetables,,,2026-03-08,2967.41,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,2154.4,580.72,2026-03-08,2967.41,predicted

@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Uttarakhand,Onion,Vegetables,,,2026-02-22,1670.69,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-21,2026-02-23,1613.1,95.98000000000002,2026-02-22,1670.69,predicted
+Uttarakhand,Onion,Vegetables,,,2026-02-23,1709.08,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-21,2026-02-23,1613.1,95.98000000000002,2026-02-23,1709.08,predicted
+Uttarakhand,Onion,Vegetables,,,2026-02-24,1747.47,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-21,2026-02-23,1613.1,95.98000000000002,2026-02-24,1747.47,predicted
+Uttarakhand,Paddy(Common),Cereals,,,2026-02-21,2065.14,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-20,2026-02-23,2015.0,-142.0,2026-02-21,2065.14,predicted
+Uttarakhand,Paddy(Common),Cereals,,,2026-02-22,2086.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-20,2026-02-23,2015.0,-142.0,2026-02-22,2086.0,predicted
+Uttarakhand,Paddy(Common),Cereals,,,2026-02-23,2106.86,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-20,2026-02-23,2015.0,-142.0,2026-02-23,2106.86,predicted
+Uttarakhand,Potato,Vegetables,,,2026-02-22,568.41,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-21,2026-02-23,613.79,-75.63,2026-02-22,568.41,predicted
+Uttarakhand,Potato,Vegetables,,,2026-02-23,538.16,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-21,2026-02-23,613.79,-75.63,2026-02-23,538.16,predicted
+Uttarakhand,Potato,Vegetables,,,2026-02-24,507.91,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-21,2026-02-23,613.79,-75.63,2026-02-24,507.91,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-02-22,1422.92,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-21,2026-02-23,1340.98,136.55999999999995,2026-02-22,1422.92,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-02-23,1477.54,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-21,2026-02-23,1340.98,136.55999999999995,2026-02-23,1477.54,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-02-24,1532.16,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-21,2026-02-23,1340.98,136.55999999999995,2026-02-24,1532.16,predicted

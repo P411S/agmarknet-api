@@ -1,0 +1,7 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Nagaland,Potato,Vegetables,,,2026-03-10,2600.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-09,2026-03-11,2600.0,0.0,2026-03-10,2600.0,predicted
+Nagaland,Potato,Vegetables,,,2026-03-11,2600.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-09,2026-03-11,2600.0,0.0,2026-03-11,2600.0,predicted
+Nagaland,Potato,Vegetables,,,2026-03-12,2600.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-09,2026-03-11,2600.0,0.0,2026-03-12,2600.0,predicted
+Nagaland,Tomato,Vegetables,,,2026-03-10,3500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-09,2026-03-11,3500.0,0.0,2026-03-10,3500.0,predicted
+Nagaland,Tomato,Vegetables,,,2026-03-11,3500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-09,2026-03-11,3500.0,0.0,2026-03-11,3500.0,predicted
+Nagaland,Tomato,Vegetables,,,2026-03-12,3500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-09,2026-03-11,3500.0,0.0,2026-03-12,3500.0,predicted

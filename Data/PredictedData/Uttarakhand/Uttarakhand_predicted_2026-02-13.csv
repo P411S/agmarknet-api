@@ -1,0 +1,13 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Uttarakhand,Vegetables,Onion,,,2026-02-12,1579.03,predicted,hybrid_trend,HIGH,1552.53,44.17000000000007,2026-02-13
+Uttarakhand,Vegetables,Onion,,,2026-02-13,1596.7,predicted,hybrid_trend,HIGH,1552.53,44.17000000000007,2026-02-13
+Uttarakhand,Vegetables,Onion,,,2026-02-14,1614.37,predicted,hybrid_trend,HIGH,1552.53,44.17000000000007,2026-02-13
+Uttarakhand,Cereals,Paddy(Common),,,2026-02-12,1911.69,predicted,hybrid_ma,MEDIUM,1913.0,-36.0,2026-02-13
+Uttarakhand,Cereals,Paddy(Common),,,2026-02-13,1931.0,predicted,hybrid_ma,MEDIUM,1913.0,-36.0,2026-02-13
+Uttarakhand,Cereals,Paddy(Common),,,2026-02-14,1950.31,predicted,hybrid_ma,MEDIUM,1913.0,-36.0,2026-02-13
+Uttarakhand,Vegetables,Potato,,,2026-02-12,657.55,predicted,hybrid_trend,HIGH,672.83,-25.469999999999914,2026-02-13
+Uttarakhand,Vegetables,Potato,,,2026-02-13,647.36,predicted,hybrid_trend,HIGH,672.83,-25.469999999999914,2026-02-13
+Uttarakhand,Vegetables,Potato,,,2026-02-14,637.17,predicted,hybrid_trend,HIGH,672.83,-25.469999999999914,2026-02-13
+Uttarakhand,Vegetables,Tomato,,,2026-02-12,1079.2,predicted,hybrid_trend,HIGH,1266.58,-312.3000000000002,2026-02-13
+Uttarakhand,Vegetables,Tomato,,,2026-02-13,954.28,predicted,hybrid_trend,HIGH,1266.58,-312.3000000000002,2026-02-13
+Uttarakhand,Vegetables,Tomato,,,2026-02-14,829.36,predicted,hybrid_trend,HIGH,1266.58,-312.3000000000002,2026-02-13

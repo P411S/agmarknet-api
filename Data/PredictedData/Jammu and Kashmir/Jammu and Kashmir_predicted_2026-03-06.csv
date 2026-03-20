@@ -1,0 +1,10 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Jammu and Kashmir,Onion,Vegetables,,,2026-03-05,1956.67,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,1950.0,11.1099999999999,2026-03-05,1956.67,predicted
+Jammu and Kashmir,Onion,Vegetables,,,2026-03-06,1961.11,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,1950.0,11.1099999999999,2026-03-06,1961.11,predicted
+Jammu and Kashmir,Onion,Vegetables,,,2026-03-07,1965.55,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,1950.0,11.1099999999999,2026-03-07,1965.55,predicted
+Jammu and Kashmir,Potato,Vegetables,,,2026-03-05,1248.92,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,1150.0,164.86,2026-03-05,1248.92,predicted
+Jammu and Kashmir,Potato,Vegetables,,,2026-03-06,1314.86,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,1150.0,164.86,2026-03-06,1314.86,predicted
+Jammu and Kashmir,Potato,Vegetables,,,2026-03-07,1380.8,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,1150.0,164.86,2026-03-07,1380.8,predicted
+Jammu and Kashmir,Tomato,Vegetables,,,2026-03-05,2710.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,2400.0,516.6700000000001,2026-03-05,2710.0,predicted
+Jammu and Kashmir,Tomato,Vegetables,,,2026-03-06,2916.67,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,2400.0,516.6700000000001,2026-03-06,2916.67,predicted
+Jammu and Kashmir,Tomato,Vegetables,,,2026-03-07,3123.34,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,2400.0,516.6700000000001,2026-03-07,3123.34,predicted

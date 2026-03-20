@@ -1,0 +1,9 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Kerala,Arhar(Tur/Red Gram)(Whole),hybrid_ma,0.0,0.0,0.0,LOW,2
+Kerala,Bengal Gram(Gram)(Whole),hybrid_ma,0.0,0.0,0.0,LOW,2
+Kerala,Black Gram(Urd Beans)(Whole),hybrid_ma,0.0,0.0,0.0,LOW,2
+Kerala,Copra,hybrid_ma,0.0,0.0,0.0,LOW,2
+Kerala,Green Gram(Moong)(Whole),hybrid_ma,0.0,0.0,0.0,LOW,2
+Kerala,Onion,hybrid_trend,0.0,0.0,0.0,LOW,3
+Kerala,Potato,hybrid_trend,0.0,0.0,0.0,LOW,3
+Kerala,Tomato,hybrid_trend,0.0,0.0,0.0,LOW,3

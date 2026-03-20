@@ -1,0 +1,21 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Manipur,Pulses,Bengal Gram(Gram)(Whole),2026-01-30,2026-01-28,7697.37,False,,,,
+Manipur,Pulses,Bengal Gram(Gram)(Whole),2026-01-30,2026-01-27,8750.0,False,,,,
+Manipur,Pulses,Black Gram(Urd Beans)(Whole),2026-01-30,2026-01-28,13750.0,False,,,,
+Manipur,Pulses,Black Gram(Urd Beans)(Whole),2026-01-30,2026-01-27,13750.0,False,,,,
+Manipur,Vegetables,Onion,2026-01-30,2026-01-28,3677.59,False,,,,
+Manipur,Vegetables,Onion,2026-01-30,2026-01-27,3750.0,False,,,,
+Manipur,Vegetables,Potato,2026-01-30,2026-01-28,2250.0,False,,,,
+Manipur,Vegetables,Potato,2026-01-30,2026-01-27,2250.0,False,,,,
+Manipur,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,8141.45
+Manipur,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,8223.68
+Manipur,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,8305.92
+Manipur,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,13612.5
+Manipur,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,13750.0
+Manipur,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,13887.5
+Manipur,,Onion,,,,True,HYBRID_MODEL,,2026-01-29,3676.66
+Manipur,,Onion,,,,True,HYBRID_MODEL,,2026-01-30,3713.8
+Manipur,,Onion,,,,True,HYBRID_MODEL,,2026-01-31,3750.93
+Manipur,,Potato,,,,True,HYBRID_MODEL,,2026-01-29,2227.5
+Manipur,,Potato,,,,True,HYBRID_MODEL,,2026-01-30,2250.0
+Manipur,,Potato,,,,True,HYBRID_MODEL,,2026-01-31,2272.5

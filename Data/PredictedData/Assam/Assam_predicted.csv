@@ -1,0 +1,13 @@
+state,commodity_group,commodity,predicted_date,predicted_price,confidence_score,model_used
+Assam,Pulses,Lentil(Masur)(Whole),2026-01-25,9298.28,0.4,BOOTSTRAP
+Assam,Pulses,Lentil(Masur)(Whole),2026-01-26,9175.83,0.4,BOOTSTRAP
+Assam,Pulses,Lentil(Masur)(Whole),2026-01-27,9235.37,0.4,BOOTSTRAP
+Assam,Vegetables,Onion,2026-01-26,2784.98,0.65,MA
+Assam,Vegetables,Onion,2026-01-27,2832.05,0.65,MA
+Assam,Vegetables,Onion,2026-01-28,2880.0,0.65,MA
+Assam,Vegetables,Potato,2026-01-26,1142.62,0.65,MA
+Assam,Vegetables,Potato,2026-01-27,1147.74,0.65,MA
+Assam,Vegetables,Potato,2026-01-28,1131.75,0.65,MA
+Assam,Vegetables,Tomato,2026-01-26,3679.25,0.65,MA
+Assam,Vegetables,Tomato,2026-01-27,3519.39,0.65,MA
+Assam,Vegetables,Tomato,2026-01-28,3513.21,0.65,MA

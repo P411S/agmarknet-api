@@ -1,0 +1,11 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Tripura,Cereals,Paddy(Common),2026-02-22,2250.0,2026-02-25,Actual
+Tripura,Vegetables,Onion,2026-02-23,2688.24,2026-02-25,Actual
+Tripura,Vegetables,Onion,2026-02-22,2720.56,2026-02-25,Actual
+Tripura,Vegetables,Onion,2026-02-21,2615.38,2026-02-25,Actual
+Tripura,Vegetables,Potato,2026-02-23,1520.14,2026-02-25,Actual
+Tripura,Vegetables,Potato,2026-02-22,1574.72,2026-02-25,Actual
+Tripura,Vegetables,Potato,2026-02-21,1724.56,2026-02-25,Actual
+Tripura,Vegetables,Tomato,2026-02-23,3436.84,2026-02-25,Actual
+Tripura,Vegetables,Tomato,2026-02-22,2855.77,2026-02-25,Actual
+Tripura,Vegetables,Tomato,2026-02-21,3536.11,2026-02-25,Actual

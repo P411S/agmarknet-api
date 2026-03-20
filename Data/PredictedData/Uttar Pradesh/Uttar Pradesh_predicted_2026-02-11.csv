@@ -1,0 +1,52 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Uttar Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),,,2026-02-10,2089.68,predicted,hybrid_trend,HIGH,2099.67,-16.65000000000009,2026-02-11
+Uttar Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),,,2026-02-11,2083.02,predicted,hybrid_trend,HIGH,2099.67,-16.65000000000009,2026-02-11
+Uttar Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),,,2026-02-12,2076.36,predicted,hybrid_trend,HIGH,2099.67,-16.65000000000009,2026-02-11
+Uttar Pradesh,Cereals,Barley(Jau),,,2026-02-10,2264.29,predicted,fallback_copy,LOW,2264.29,0.0,2026-02-11
+Uttar Pradesh,Cereals,Barley(Jau),,,2026-02-11,2264.29,predicted,fallback_copy,LOW,2264.29,0.0,2026-02-11
+Uttar Pradesh,Cereals,Barley(Jau),,,2026-02-12,2264.29,predicted,fallback_copy,LOW,2264.29,0.0,2026-02-11
+Uttar Pradesh,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-10,5576.11,predicted,hybrid_trend,HIGH,5582.8,-11.149999999999636,2026-02-11
+Uttar Pradesh,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-11,5571.65,predicted,hybrid_trend,HIGH,5582.8,-11.149999999999636,2026-02-11
+Uttar Pradesh,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-12,5567.19,predicted,hybrid_trend,HIGH,5582.8,-11.149999999999636,2026-02-11
+Uttar Pradesh,Pulses,Black Gram(Urd Beans)(Whole),,,2026-02-10,7538.68,predicted,fallback_copy,LOW,7538.68,0.0,2026-02-11
+Uttar Pradesh,Pulses,Black Gram(Urd Beans)(Whole),,,2026-02-11,7538.68,predicted,fallback_copy,LOW,7538.68,0.0,2026-02-11
+Uttar Pradesh,Pulses,Black Gram(Urd Beans)(Whole),,,2026-02-12,7538.68,predicted,fallback_copy,LOW,7538.68,0.0,2026-02-11
+Uttar Pradesh,Pulses,Green Gram(Moong)(Whole),,,2026-02-08,7800.0,predicted,fallback_copy,LOW,7800.0,0.0,2026-02-11
+Uttar Pradesh,Pulses,Green Gram(Moong)(Whole),,,2026-02-09,7800.0,predicted,fallback_copy,LOW,7800.0,0.0,2026-02-11
+Uttar Pradesh,Pulses,Green Gram(Moong)(Whole),,,2026-02-10,7800.0,predicted,fallback_copy,LOW,7800.0,0.0,2026-02-11
+Uttar Pradesh,Oil Seeds,Groundnut,,,2026-02-10,6573.6,predicted,hybrid_ma,MEDIUM,6780.0,280.0,2026-02-11
+Uttar Pradesh,Oil Seeds,Groundnut,,,2026-02-11,6640.0,predicted,hybrid_ma,MEDIUM,6780.0,280.0,2026-02-11
+Uttar Pradesh,Oil Seeds,Groundnut,,,2026-02-12,6706.4,predicted,hybrid_ma,MEDIUM,6780.0,280.0,2026-02-11
+Uttar Pradesh,Cereals,Jowar(Sorghum),,,2026-02-08,2250.0,predicted,fallback_copy,LOW,2250.0,0.0,2026-02-11
+Uttar Pradesh,Cereals,Jowar(Sorghum),,,2026-02-09,2250.0,predicted,fallback_copy,LOW,2250.0,0.0,2026-02-11
+Uttar Pradesh,Cereals,Jowar(Sorghum),,,2026-02-10,2250.0,predicted,fallback_copy,LOW,2250.0,0.0,2026-02-11
+Uttar Pradesh,Pulses,Lentil(Masur)(Whole),,,2026-02-10,7210.0,predicted,hybrid_trend,HIGH,7150.0,100.0,2026-02-11
+Uttar Pradesh,Pulses,Lentil(Masur)(Whole),,,2026-02-11,7250.0,predicted,hybrid_trend,HIGH,7150.0,100.0,2026-02-11
+Uttar Pradesh,Pulses,Lentil(Masur)(Whole),,,2026-02-12,7290.0,predicted,hybrid_trend,HIGH,7150.0,100.0,2026-02-11
+Uttar Pradesh,Cereals,Maize,,,2026-02-10,1815.73,predicted,hybrid_trend,HIGH,1889.22,-122.48000000000002,2026-02-11
+Uttar Pradesh,Cereals,Maize,,,2026-02-11,1766.74,predicted,hybrid_trend,HIGH,1889.22,-122.48000000000002,2026-02-11
+Uttar Pradesh,Cereals,Maize,,,2026-02-12,1717.75,predicted,hybrid_trend,HIGH,1889.22,-122.48000000000002,2026-02-11
+Uttar Pradesh,Oil Seeds,Mustard,,,2026-02-10,6266.44,predicted,hybrid_trend,HIGH,6339.71,-122.10999999999967,2026-02-11
+Uttar Pradesh,Oil Seeds,Mustard,,,2026-02-11,6217.6,predicted,hybrid_trend,HIGH,6339.71,-122.10999999999967,2026-02-11
+Uttar Pradesh,Oil Seeds,Mustard,,,2026-02-12,6168.76,predicted,hybrid_trend,HIGH,6339.71,-122.10999999999967,2026-02-11
+Uttar Pradesh,Vegetables,Onion,,,2026-02-10,1418.96,predicted,hybrid_trend,HIGH,1443.99,-41.710000000000036,2026-02-11
+Uttar Pradesh,Vegetables,Onion,,,2026-02-11,1402.28,predicted,hybrid_trend,HIGH,1443.99,-41.710000000000036,2026-02-11
+Uttar Pradesh,Vegetables,Onion,,,2026-02-12,1385.6,predicted,hybrid_trend,HIGH,1443.99,-41.710000000000036,2026-02-11
+Uttar Pradesh,Cereals,Paddy(Common),,,2026-02-10,2260.67,predicted,hybrid_trend,HIGH,2268.75,-13.460000000000036,2026-02-11
+Uttar Pradesh,Cereals,Paddy(Common),,,2026-02-11,2255.29,predicted,hybrid_trend,HIGH,2268.75,-13.460000000000036,2026-02-11
+Uttar Pradesh,Cereals,Paddy(Common),,,2026-02-12,2249.91,predicted,hybrid_trend,HIGH,2268.75,-13.460000000000036,2026-02-11
+Uttar Pradesh,Vegetables,Potato,,,2026-02-10,577.7,predicted,hybrid_trend,HIGH,570.23,12.450000000000045,2026-02-11
+Uttar Pradesh,Vegetables,Potato,,,2026-02-11,582.68,predicted,hybrid_trend,HIGH,570.23,12.450000000000045,2026-02-11
+Uttar Pradesh,Vegetables,Potato,,,2026-02-12,587.66,predicted,hybrid_trend,HIGH,570.23,12.450000000000045,2026-02-11
+Uttar Pradesh,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",,,2026-02-08,10000.0,predicted,fallback_copy,LOW,10000.0,0.0,2026-02-11
+Uttar Pradesh,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",,,2026-02-09,10000.0,predicted,fallback_copy,LOW,10000.0,0.0,2026-02-11
+Uttar Pradesh,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",,,2026-02-10,10000.0,predicted,fallback_copy,LOW,10000.0,0.0,2026-02-11
+Uttar Pradesh,Oil Seeds,Soyabean,,,2026-02-10,5625.0,predicted,fallback_copy,LOW,5625.0,0.0,2026-02-11
+Uttar Pradesh,Oil Seeds,Soyabean,,,2026-02-11,5625.0,predicted,fallback_copy,LOW,5625.0,0.0,2026-02-11
+Uttar Pradesh,Oil Seeds,Soyabean,,,2026-02-12,5625.0,predicted,fallback_copy,LOW,5625.0,0.0,2026-02-11
+Uttar Pradesh,Vegetables,Tomato,,,2026-02-10,1515.29,predicted,hybrid_trend,HIGH,1462.79,87.5,2026-02-11
+Uttar Pradesh,Vegetables,Tomato,,,2026-02-11,1550.29,predicted,hybrid_trend,HIGH,1462.79,87.5,2026-02-11
+Uttar Pradesh,Vegetables,Tomato,,,2026-02-12,1585.29,predicted,hybrid_trend,HIGH,1462.79,87.5,2026-02-11
+Uttar Pradesh,Cereals,Wheat,,,2026-02-10,2487.0,predicted,hybrid_trend,HIGH,2479.68,12.199999999999818,2026-02-11
+Uttar Pradesh,Cereals,Wheat,,,2026-02-11,2491.88,predicted,hybrid_trend,HIGH,2479.68,12.199999999999818,2026-02-11
+Uttar Pradesh,Cereals,Wheat,,,2026-02-12,2496.76,predicted,hybrid_trend,HIGH,2479.68,12.199999999999818,2026-02-11

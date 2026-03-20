@@ -1,0 +1,40 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Gujarat,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-16,2388.67,2026-03-18,Actual
+Gujarat,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-14,2383.85,2026-03-18,Actual
+Gujarat,Cereals,Barley(Jau),2026-03-16,2225.0,2026-03-18,Actual
+Gujarat,Cereals,Barley(Jau),2026-03-14,2113.41,2026-03-18,Actual
+Gujarat,Cereals,Jowar(Sorghum),2026-03-16,4530.76,2026-03-18,Actual
+Gujarat,Cereals,Jowar(Sorghum),2026-03-14,4751.37,2026-03-18,Actual
+Gujarat,Cereals,Maize,2026-03-16,2372.37,2026-03-18,Actual
+Gujarat,Cereals,Maize,2026-03-14,1500.0,2026-03-18,Actual
+Gujarat,Cereals,Paddy(Common),2026-03-16,2352.3,2026-03-18,Actual
+Gujarat,Cereals,Paddy(Common),2026-03-14,2338.84,2026-03-18,Actual
+Gujarat,Cereals,Wheat,2026-03-16,2498.12,2026-03-18,Actual
+Gujarat,Cereals,Wheat,2026-03-14,2445.2,2026-03-18,Actual
+Gujarat,Fibre Crops,Cotton,2026-03-16,7482.09,2026-03-18,Actual
+Gujarat,Fibre Crops,Cotton,2026-03-14,7424.21,2026-03-18,Actual
+Gujarat,Oil Seeds,Groundnut,2026-03-16,7103.55,2026-03-18,Actual
+Gujarat,Oil Seeds,Groundnut,2026-03-14,6992.51,2026-03-18,Actual
+Gujarat,Oil Seeds,Mustard,2026-03-16,6121.45,2026-03-18,Actual
+Gujarat,Oil Seeds,Mustard,2026-03-14,6103.84,2026-03-18,Actual
+Gujarat,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-16,8884.56,2026-03-18,Actual
+Gujarat,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-14,9594.14,2026-03-18,Actual
+Gujarat,Oil Seeds,Soyabean,2026-03-16,5051.89,2026-03-18,Actual
+Gujarat,Oil Seeds,Soyabean,2026-03-14,5124.82,2026-03-18,Actual
+Gujarat,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-16,7136.87,2026-03-18,Actual
+Gujarat,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-14,7166.24,2026-03-18,Actual
+Gujarat,Pulses,Bengal Gram(Gram)(Whole),2026-03-16,5405.56,2026-03-18,Actual
+Gujarat,Pulses,Bengal Gram(Gram)(Whole),2026-03-14,5288.85,2026-03-18,Actual
+Gujarat,Pulses,Black Gram(Urd Beans)(Whole),2026-03-16,7535.44,2026-03-18,Actual
+Gujarat,Pulses,Black Gram(Urd Beans)(Whole),2026-03-14,7592.65,2026-03-18,Actual
+Gujarat,Pulses,Green Gram(Moong)(Whole),2026-03-16,7745.22,2026-03-18,Actual
+Gujarat,Pulses,Green Gram(Moong)(Whole),2026-03-14,5605.0,2026-03-18,Actual
+Gujarat,Vegetables,Onion,2026-03-16,967.23,2026-03-18,Actual
+Gujarat,Vegetables,Onion,2026-03-15,1608.22,2026-03-18,Actual
+Gujarat,Vegetables,Onion,2026-03-14,1071.63,2026-03-18,Actual
+Gujarat,Vegetables,Potato,2026-03-16,827.6,2026-03-18,Actual
+Gujarat,Vegetables,Potato,2026-03-15,1368.37,2026-03-18,Actual
+Gujarat,Vegetables,Potato,2026-03-14,733.31,2026-03-18,Actual
+Gujarat,Vegetables,Tomato,2026-03-16,1011.22,2026-03-18,Actual
+Gujarat,Vegetables,Tomato,2026-03-15,1117.62,2026-03-18,Actual
+Gujarat,Vegetables,Tomato,2026-03-14,1111.71,2026-03-18,Actual

@@ -1,0 +1,10 @@
+state,commodity,price_date,price,price_type
+Chandigarh,Onion,2026-02-01,1700.0,Predicted
+Chandigarh,Onion,2026-02-02,1700.0,Predicted
+Chandigarh,Onion,2026-02-03,1700.0,Predicted
+Chandigarh,Potato,2026-02-01,400.0,Predicted
+Chandigarh,Potato,2026-02-02,400.0,Predicted
+Chandigarh,Potato,2026-02-03,400.0,Predicted
+Chandigarh,Tomato,2026-02-01,2800.0,Predicted
+Chandigarh,Tomato,2026-02-02,2800.0,Predicted
+Chandigarh,Tomato,2026-02-03,2800.0,Predicted

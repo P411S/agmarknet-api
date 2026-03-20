@@ -1,0 +1,7 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Goa,Onion,2026-01-31,1720.0,HIGH
+Goa,Onion,2026-02-01,1800.0,HIGH
+Goa,Onion,2026-02-02,1880.0,HIGH
+Goa,Potato,2026-01-31,1680.0,HIGH
+Goa,Potato,2026-02-01,1800.0,HIGH
+Goa,Potato,2026-02-02,1920.0,HIGH

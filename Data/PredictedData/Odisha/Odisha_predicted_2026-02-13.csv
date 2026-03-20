@@ -1,0 +1,19 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Odisha,Fibre Crops,Cotton,,,2026-02-11,7425.0,predicted,hybrid_ma,MEDIUM,7500.0,0.0,2026-02-13
+Odisha,Fibre Crops,Cotton,,,2026-02-12,7500.0,predicted,hybrid_ma,MEDIUM,7500.0,0.0,2026-02-13
+Odisha,Fibre Crops,Cotton,,,2026-02-13,7575.0,predicted,hybrid_ma,MEDIUM,7500.0,0.0,2026-02-13
+Odisha,Cereals,Maize,,,2026-02-12,2500.0,predicted,fallback_copy,LOW,2500.0,0.0,2026-02-13
+Odisha,Cereals,Maize,,,2026-02-13,2500.0,predicted,fallback_copy,LOW,2500.0,0.0,2026-02-13
+Odisha,Cereals,Maize,,,2026-02-14,2500.0,predicted,fallback_copy,LOW,2500.0,0.0,2026-02-13
+Odisha,Vegetables,Onion,,,2026-02-12,1713.9,predicted,hybrid_trend,HIGH,2369.23,-1092.2199999999998,2026-02-13
+Odisha,Vegetables,Onion,,,2026-02-13,1277.01,predicted,hybrid_trend,HIGH,2369.23,-1092.2199999999998,2026-02-13
+Odisha,Vegetables,Onion,,,2026-02-14,840.12,predicted,hybrid_trend,HIGH,2369.23,-1092.2199999999998,2026-02-13
+Odisha,Cereals,Paddy(Common),,,2026-02-12,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-13
+Odisha,Cereals,Paddy(Common),,,2026-02-13,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-13
+Odisha,Cereals,Paddy(Common),,,2026-02-14,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-13
+Odisha,Vegetables,Potato,,,2026-02-12,1982.96,predicted,hybrid_trend,HIGH,2013.37,-50.68000000000029,2026-02-13
+Odisha,Vegetables,Potato,,,2026-02-13,1962.69,predicted,hybrid_trend,HIGH,2013.37,-50.68000000000029,2026-02-13
+Odisha,Vegetables,Potato,,,2026-02-14,1942.42,predicted,hybrid_trend,HIGH,2013.37,-50.68000000000029,2026-02-13
+Odisha,Vegetables,Tomato,,,2026-02-12,2100.22,predicted,hybrid_trend,HIGH,2013.92,143.84000000000015,2026-02-13
+Odisha,Vegetables,Tomato,,,2026-02-13,2157.76,predicted,hybrid_trend,HIGH,2013.92,143.84000000000015,2026-02-13
+Odisha,Vegetables,Tomato,,,2026-02-14,2215.3,predicted,hybrid_trend,HIGH,2013.92,143.84000000000015,2026-02-13

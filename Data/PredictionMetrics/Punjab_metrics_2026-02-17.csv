@@ -1,0 +1,6 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Punjab,Cotton,hybrid_trend,0.0,0.0,0.0,LOW,3
+Punjab,Onion,hybrid_trend,0.0,0.0,0.0,LOW,3
+Punjab,Potato,hybrid_trend,0.0,0.0,0.0,LOW,3
+Punjab,Tomato,hybrid_trend,0.0,0.0,0.0,LOW,3
+Punjab,Wheat,fallback_copy,0.0,0.0,0.0,LOW,1

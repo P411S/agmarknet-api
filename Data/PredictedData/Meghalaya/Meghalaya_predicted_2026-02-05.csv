@@ -1,0 +1,4 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Meghalaya,Vegetables,Potato,,,2026-01-31,1500.0,predicted,fallback_copy,LOW,1500.0,0.0,2026-02-05
+Meghalaya,Vegetables,Potato,,,2026-02-01,1500.0,predicted,fallback_copy,LOW,1500.0,0.0,2026-02-05
+Meghalaya,Vegetables,Potato,,,2026-02-02,1500.0,predicted,fallback_copy,LOW,1500.0,0.0,2026-02-05

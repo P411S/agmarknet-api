@@ -1,0 +1,10 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Chandigarh,Onion,2026-01-29,1683.0,MEDIUM
+Chandigarh,Onion,2026-01-30,1700.0,MEDIUM
+Chandigarh,Onion,2026-01-31,1717.0,MEDIUM
+Chandigarh,Potato,2026-01-29,396.0,MEDIUM
+Chandigarh,Potato,2026-01-30,400.0,MEDIUM
+Chandigarh,Potato,2026-01-31,404.0,MEDIUM
+Chandigarh,Tomato,2026-01-29,2772.0,MEDIUM
+Chandigarh,Tomato,2026-01-30,2800.0,MEDIUM
+Chandigarh,Tomato,2026-01-31,2828.0,MEDIUM

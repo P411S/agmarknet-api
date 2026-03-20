@@ -1,0 +1,39 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Andhra Pradesh,Cereals,Paddy(Common),2026-01-30,2026-01-28,2350.0,False,,,,
+Andhra Pradesh,Fibre Crops,Cotton,2026-01-30,2026-01-28,8080.0,False,,,,
+Andhra Pradesh,Fibre Crops,Cotton,2026-01-30,2026-01-27,8011.0,False,,,,
+Andhra Pradesh,Oil Seeds,Groundnut,2026-01-30,2026-01-28,10729.65,False,,,,
+Andhra Pradesh,Oil Seeds,Groundnut,2026-01-30,2026-01-27,10666.0,False,,,,
+Andhra Pradesh,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-30,2026-01-28,8169.0,False,,,,
+Andhra Pradesh,Pulses,Black Gram(Urd Beans)(Whole),2026-01-30,2026-01-28,8311.0,False,,,,
+Andhra Pradesh,Vegetables,Onion,2026-01-30,2026-01-28,1485.0,False,,,,
+Andhra Pradesh,Vegetables,Potato,2026-01-30,2026-01-28,2500.0,False,,,,
+Andhra Pradesh,Vegetables,Potato,2026-01-30,2026-01-27,2500.0,False,,,,
+Andhra Pradesh,Vegetables,Potato,2026-01-30,2026-01-26,2500.0,False,,,,
+Andhra Pradesh,Vegetables,Tomato,2026-01-30,2026-01-28,1520.85,False,,,,
+Andhra Pradesh,Vegetables,Tomato,2026-01-30,2026-01-27,1639.63,False,,,,
+Andhra Pradesh,Vegetables,Tomato,2026-01-30,2026-01-26,1682.46,False,,,,
+Andhra Pradesh,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,8169.0
+Andhra Pradesh,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,8169.0
+Andhra Pradesh,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,8169.0
+Andhra Pradesh,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,8311.0
+Andhra Pradesh,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,8311.0
+Andhra Pradesh,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,8311.0
+Andhra Pradesh,,Cotton,,,,True,HYBRID_MODEL,,2026-01-29,7965.05
+Andhra Pradesh,,Cotton,,,,True,HYBRID_MODEL,,2026-01-30,8045.5
+Andhra Pradesh,,Cotton,,,,True,HYBRID_MODEL,,2026-01-31,8125.95
+Andhra Pradesh,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-29,10590.85
+Andhra Pradesh,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-30,10697.83
+Andhra Pradesh,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-31,10804.8
+Andhra Pradesh,,Onion,,,,True,HYBRID_MODEL,,2026-01-29,1485.0
+Andhra Pradesh,,Onion,,,,True,HYBRID_MODEL,,2026-01-30,1485.0
+Andhra Pradesh,,Onion,,,,True,HYBRID_MODEL,,2026-01-31,1485.0
+Andhra Pradesh,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-29,2350.0
+Andhra Pradesh,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-30,2350.0
+Andhra Pradesh,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-31,2350.0
+Andhra Pradesh,,Potato,,,,True,HYBRID_MODEL,,2026-01-29,2500.0
+Andhra Pradesh,,Potato,,,,True,HYBRID_MODEL,,2026-01-30,2500.0
+Andhra Pradesh,,Potato,,,,True,HYBRID_MODEL,,2026-01-31,2500.0
+Andhra Pradesh,,Tomato,,,,True,HYBRID_MODEL,,2026-01-29,1449.58
+Andhra Pradesh,,Tomato,,,,True,HYBRID_MODEL,,2026-01-30,1402.07
+Andhra Pradesh,,Tomato,,,,True,HYBRID_MODEL,,2026-01-31,1354.56

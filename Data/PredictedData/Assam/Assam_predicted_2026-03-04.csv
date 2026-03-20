@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-03-03,9289.13,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-02,2026-03-04,9402.4,38.8799999999992,2026-03-03,9289.13,predicted
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-03-04,9382.96,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-02,2026-03-04,9402.4,38.8799999999992,2026-03-04,9382.96,predicted
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-03-05,9476.79,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-02,2026-03-04,9402.4,38.8799999999992,2026-03-05,9476.79,predicted
+Assam,Onion,Vegetables,,,2026-03-03,2130.38,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-02,2026-03-04,2120.2,16.9699999999998,2026-03-03,2130.38,predicted
+Assam,Onion,Vegetables,,,2026-03-04,2137.17,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-02,2026-03-04,2120.2,16.9699999999998,2026-03-04,2137.17,predicted
+Assam,Onion,Vegetables,,,2026-03-05,2143.96,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-02,2026-03-04,2120.2,16.9699999999998,2026-03-05,2143.96,predicted
+Assam,Potato,Vegetables,,,2026-03-03,1157.17,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-02,2026-03-04,1152.23,8.230000000000018,2026-03-03,1157.17,predicted
+Assam,Potato,Vegetables,,,2026-03-04,1160.46,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-02,2026-03-04,1152.23,8.230000000000018,2026-03-04,1160.46,predicted
+Assam,Potato,Vegetables,,,2026-03-05,1163.75,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-02,2026-03-04,1152.23,8.230000000000018,2026-03-05,1163.75,predicted
+Assam,Tomato,Vegetables,,,2026-03-03,2526.98,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-02,2026-03-04,2141.86,641.8600000000001,2026-03-03,2526.98,predicted
+Assam,Tomato,Vegetables,,,2026-03-04,2783.72,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-02,2026-03-04,2141.86,641.8600000000001,2026-03-04,2783.72,predicted
+Assam,Tomato,Vegetables,,,2026-03-05,3040.46,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-02,2026-03-04,2141.86,641.8600000000001,2026-03-05,3040.46,predicted

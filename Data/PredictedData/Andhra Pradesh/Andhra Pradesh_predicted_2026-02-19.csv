@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-02-18,5066.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5066.0,0.0,2026-02-18,5066.0,predicted
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-02-19,5066.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5066.0,0.0,2026-02-19,5066.0,predicted
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-02-20,5066.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5066.0,0.0,2026-02-20,5066.0,predicted
+Andhra Pradesh,Paddy(Common),Cereals,,,2026-02-18,2350.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,2350.0,0.0,2026-02-18,2350.0,predicted
+Andhra Pradesh,Paddy(Common),Cereals,,,2026-02-19,2350.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,2350.0,0.0,2026-02-19,2350.0,predicted
+Andhra Pradesh,Paddy(Common),Cereals,,,2026-02-20,2350.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,2350.0,0.0,2026-02-20,2350.0,predicted
+Andhra Pradesh,Potato,Vegetables,,,2026-02-18,1386.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,1400.0,0.0,2026-02-18,1386.0,predicted
+Andhra Pradesh,Potato,Vegetables,,,2026-02-19,1400.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,1400.0,0.0,2026-02-19,1400.0,predicted
+Andhra Pradesh,Potato,Vegetables,,,2026-02-20,1414.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,1400.0,0.0,2026-02-20,1414.0,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-02-18,1511.04,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,1490.05,34.99000000000001,2026-02-18,1511.04,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-02-19,1525.04,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,1490.05,34.99000000000001,2026-02-19,1525.04,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-02-20,1539.04,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,1490.05,34.99000000000001,2026-02-20,1539.04,predicted

@@ -1,0 +1,4 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Meghalaya,Potato,2026-01-30,1390.0,HIGH
+Meghalaya,Potato,2026-01-31,1350.0,HIGH
+Meghalaya,Potato,2026-02-01,1310.0,HIGH

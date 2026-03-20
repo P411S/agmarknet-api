@@ -1,0 +1,22 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Andhra Pradesh,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-10,5179.0,predicted,fallback_copy,LOW,5179.0,0.0,2026-02-11
+Andhra Pradesh,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-11,5179.0,predicted,fallback_copy,LOW,5179.0,0.0,2026-02-11
+Andhra Pradesh,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-12,5179.0,predicted,fallback_copy,LOW,5179.0,0.0,2026-02-11
+Andhra Pradesh,Pulses,Black Gram(Urd Beans)(Whole),,,2026-02-10,8000.0,predicted,fallback_copy,LOW,8000.0,0.0,2026-02-11
+Andhra Pradesh,Pulses,Black Gram(Urd Beans)(Whole),,,2026-02-11,8000.0,predicted,fallback_copy,LOW,8000.0,0.0,2026-02-11
+Andhra Pradesh,Pulses,Black Gram(Urd Beans)(Whole),,,2026-02-12,8000.0,predicted,fallback_copy,LOW,8000.0,0.0,2026-02-11
+Andhra Pradesh,Fibre Crops,Cotton,,,2026-02-10,7691.31,predicted,hybrid_ma,MEDIUM,7769.0,0.0,2026-02-11
+Andhra Pradesh,Fibre Crops,Cotton,,,2026-02-11,7769.0,predicted,hybrid_ma,MEDIUM,7769.0,0.0,2026-02-11
+Andhra Pradesh,Fibre Crops,Cotton,,,2026-02-12,7846.69,predicted,hybrid_ma,MEDIUM,7769.0,0.0,2026-02-11
+Andhra Pradesh,Oil Seeds,Groundnut,,,2026-02-10,8630.8,predicted,hybrid_ma,MEDIUM,8889.0,342.0400000000009,2026-02-11
+Andhra Pradesh,Oil Seeds,Groundnut,,,2026-02-11,8717.98,predicted,hybrid_ma,MEDIUM,8889.0,342.0400000000009,2026-02-11
+Andhra Pradesh,Oil Seeds,Groundnut,,,2026-02-12,8805.16,predicted,hybrid_ma,MEDIUM,8889.0,342.0400000000009,2026-02-11
+Andhra Pradesh,Cereals,Paddy(Common),,,2026-02-10,2350.0,predicted,fallback_copy,LOW,2350.0,0.0,2026-02-11
+Andhra Pradesh,Cereals,Paddy(Common),,,2026-02-11,2350.0,predicted,fallback_copy,LOW,2350.0,0.0,2026-02-11
+Andhra Pradesh,Cereals,Paddy(Common),,,2026-02-12,2350.0,predicted,fallback_copy,LOW,2350.0,0.0,2026-02-11
+Andhra Pradesh,Vegetables,Potato,,,2026-02-10,1584.0,predicted,hybrid_ma,MEDIUM,1600.0,0.0,2026-02-11
+Andhra Pradesh,Vegetables,Potato,,,2026-02-11,1600.0,predicted,hybrid_ma,MEDIUM,1600.0,0.0,2026-02-11
+Andhra Pradesh,Vegetables,Potato,,,2026-02-12,1616.0,predicted,hybrid_ma,MEDIUM,1600.0,0.0,2026-02-11
+Andhra Pradesh,Vegetables,Tomato,,,2026-02-10,1524.83,predicted,hybrid_trend,HIGH,1437.52,145.51999999999998,2026-02-11
+Andhra Pradesh,Vegetables,Tomato,,,2026-02-11,1583.04,predicted,hybrid_trend,HIGH,1437.52,145.51999999999998,2026-02-11
+Andhra Pradesh,Vegetables,Tomato,,,2026-02-12,1641.25,predicted,hybrid_trend,HIGH,1437.52,145.51999999999998,2026-02-11

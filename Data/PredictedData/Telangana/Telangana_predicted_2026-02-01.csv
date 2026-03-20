@@ -1,0 +1,25 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Telangana,Arhar(Tur/Red Gram)(Whole),2026-01-31,8592.8,HIGH
+Telangana,Arhar(Tur/Red Gram)(Whole),2026-02-01,8544.0,HIGH
+Telangana,Arhar(Tur/Red Gram)(Whole),2026-02-02,8495.2,HIGH
+Telangana,Cotton,2026-01-31,7726.48,HIGH
+Telangana,Cotton,2026-02-01,7676.74,HIGH
+Telangana,Cotton,2026-02-02,7627.0,HIGH
+Telangana,Maize,2026-01-31,2400.0,HIGH
+Telangana,Maize,2026-02-01,2400.0,HIGH
+Telangana,Maize,2026-02-02,2400.0,HIGH
+Telangana,Onion,2026-01-31,1197.37,HIGH
+Telangana,Onion,2026-02-01,1214.66,HIGH
+Telangana,Onion,2026-02-02,1231.95,HIGH
+Telangana,Paddy(Common),2026-01-31,2399.07,HIGH
+Telangana,Paddy(Common),2026-02-01,2402.41,HIGH
+Telangana,Paddy(Common),2026-02-02,2405.75,HIGH
+Telangana,Potato,2026-01-31,1158.91,HIGH
+Telangana,Potato,2026-02-01,1198.32,HIGH
+Telangana,Potato,2026-02-02,1237.73,HIGH
+Telangana,Soyabean,2026-01-31,5789.0,HIGH
+Telangana,Soyabean,2026-02-01,5789.0,HIGH
+Telangana,Soyabean,2026-02-02,5789.0,HIGH
+Telangana,Tomato,2026-01-31,799.27,HIGH
+Telangana,Tomato,2026-02-01,798.06,HIGH
+Telangana,Tomato,2026-02-02,796.85,HIGH

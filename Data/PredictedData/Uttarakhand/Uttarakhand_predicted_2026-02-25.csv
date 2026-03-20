@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Uttarakhand,Onion,Vegetables,,,2026-02-24,1356.88,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-23,2026-02-25,1373.05,-26.950000000000045,2026-02-24,1356.88,predicted
+Uttarakhand,Onion,Vegetables,,,2026-02-25,1346.1,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-23,2026-02-25,1373.05,-26.950000000000045,2026-02-25,1346.1,predicted
+Uttarakhand,Onion,Vegetables,,,2026-02-26,1335.32,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-23,2026-02-25,1373.05,-26.950000000000045,2026-02-26,1335.32,predicted
+Uttarakhand,Potato,Vegetables,,,2026-02-24,326.42,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-23,2026-02-25,614.5,-480.1400000000001,2026-02-24,326.42,predicted
+Uttarakhand,Potato,Vegetables,,,2026-02-25,134.36,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-23,2026-02-25,614.5,-480.1400000000001,2026-02-25,134.36,predicted
+Uttarakhand,Potato,Vegetables,,,2026-02-26,-57.7,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-23,2026-02-25,614.5,-480.1400000000001,2026-02-26,-57.7,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-02-24,1611.19,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-23,2026-02-25,1300.83,517.2599999999999,2026-02-24,1611.19,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-02-25,1818.09,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-23,2026-02-25,1300.83,517.2599999999999,2026-02-25,1818.09,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-02-26,2024.99,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-23,2026-02-25,1300.83,517.2599999999999,2026-02-26,2024.99,predicted
+Uttarakhand,Wheat,Cereals,,,2026-02-24,2500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-23,2026-02-25,2500.0,0.0,2026-02-24,2500.0,predicted
+Uttarakhand,Wheat,Cereals,,,2026-02-25,2500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-23,2026-02-25,2500.0,0.0,2026-02-25,2500.0,predicted
+Uttarakhand,Wheat,Cereals,,,2026-02-26,2500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-23,2026-02-25,2500.0,0.0,2026-02-26,2500.0,predicted

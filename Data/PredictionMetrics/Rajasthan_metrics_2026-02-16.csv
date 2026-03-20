@@ -1,0 +1,20 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Rajasthan,Arhar(Tur/Red Gram)(Whole),hybrid_ma,,,,LOW,2
+Rajasthan,Bajra(Pearl Millet/Cumbu),hybrid_trend,,,,LOW,3
+Rajasthan,Barley(Jau),hybrid_trend,,,,LOW,3
+Rajasthan,Bengal Gram(Gram)(Whole),hybrid_trend,,,,LOW,3
+Rajasthan,Black Gram(Urd Beans)(Whole),hybrid_trend,,,,LOW,3
+Rajasthan,Cotton,hybrid_trend,,,,LOW,3
+Rajasthan,Green Gram(Moong)(Whole),hybrid_trend,,,,LOW,3
+Rajasthan,Groundnut,hybrid_ma,,,,LOW,2
+Rajasthan,Jowar(Sorghum),hybrid_trend,,,,LOW,3
+Rajasthan,Lentil(Masur)(Whole),hybrid_trend,,,,LOW,3
+Rajasthan,Maize,hybrid_trend,,,,LOW,3
+Rajasthan,Mustard,hybrid_trend,,,,LOW,3
+Rajasthan,Onion,hybrid_trend,,,,LOW,3
+Rajasthan,Paddy(Common),hybrid_trend,,,,LOW,3
+Rajasthan,Potato,hybrid_trend,,,,LOW,3
+Rajasthan,"Sesamum(Sesame,Gingelly,Til)",hybrid_ma,,,,LOW,2
+Rajasthan,Soyabean,hybrid_trend,,,,LOW,3
+Rajasthan,Tomato,hybrid_trend,,,,LOW,3
+Rajasthan,Wheat,hybrid_trend,,,,LOW,3

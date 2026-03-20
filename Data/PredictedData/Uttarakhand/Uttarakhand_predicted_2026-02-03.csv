@@ -1,0 +1,13 @@
+state,commodity,price_date,price,price_type
+Uttarakhand,Onion,2026-02-02,1498.92,Predicted
+Uttarakhand,Onion,2026-02-03,1455.19,Predicted
+Uttarakhand,Onion,2026-02-04,1411.46,Predicted
+Uttarakhand,Paddy(Common),2026-02-01,1915.0,Predicted
+Uttarakhand,Paddy(Common),2026-02-02,1915.0,Predicted
+Uttarakhand,Paddy(Common),2026-02-03,1915.0,Predicted
+Uttarakhand,Potato,2026-02-02,1140.94,Predicted
+Uttarakhand,Potato,2026-02-03,1287.28,Predicted
+Uttarakhand,Potato,2026-02-04,1433.62,Predicted
+Uttarakhand,Tomato,2026-02-02,3316.34,Predicted
+Uttarakhand,Tomato,2026-02-03,3826.46,Predicted
+Uttarakhand,Tomato,2026-02-04,4336.58,Predicted

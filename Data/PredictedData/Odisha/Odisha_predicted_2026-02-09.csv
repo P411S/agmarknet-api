@@ -1,0 +1,19 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Odisha,Fibre Crops,Cotton,,,2026-02-07,7910.1,predicted,hybrid_ma,MEDIUM,7990.0,0.0,2026-02-09
+Odisha,Fibre Crops,Cotton,,,2026-02-08,7990.0,predicted,hybrid_ma,MEDIUM,7990.0,0.0,2026-02-09
+Odisha,Fibre Crops,Cotton,,,2026-02-09,8069.9,predicted,hybrid_ma,MEDIUM,7990.0,0.0,2026-02-09
+Odisha,Vegetables,Onion,,,2026-02-07,2567.75,predicted,hybrid_trend,HIGH,2659.15,-152.3399999999997,2026-02-09
+Odisha,Vegetables,Onion,,,2026-02-08,2506.81,predicted,hybrid_trend,HIGH,2659.15,-152.3399999999997,2026-02-09
+Odisha,Vegetables,Onion,,,2026-02-09,2445.87,predicted,hybrid_trend,HIGH,2659.15,-152.3399999999997,2026-02-09
+Odisha,Cereals,Paddy(Common),,,2026-02-07,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-09
+Odisha,Cereals,Paddy(Common),,,2026-02-08,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-09
+Odisha,Cereals,Paddy(Common),,,2026-02-09,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-09
+Odisha,Vegetables,Potato,,,2026-02-07,761.24,predicted,hybrid_trend,HIGH,1225.35,-773.51,2026-02-09
+Odisha,Vegetables,Potato,,,2026-02-08,451.84,predicted,hybrid_trend,HIGH,1225.35,-773.51,2026-02-09
+Odisha,Vegetables,Potato,,,2026-02-09,142.44,predicted,hybrid_trend,HIGH,1225.35,-773.51,2026-02-09
+Odisha,Cereals,Ragi(Finger Millet),,,2026-02-05,4886.0,predicted,fallback_copy,LOW,4886.0,0.0,2026-02-09
+Odisha,Cereals,Ragi(Finger Millet),,,2026-02-06,4886.0,predicted,fallback_copy,LOW,4886.0,0.0,2026-02-09
+Odisha,Cereals,Ragi(Finger Millet),,,2026-02-07,4886.0,predicted,fallback_copy,LOW,4886.0,0.0,2026-02-09
+Odisha,Vegetables,Tomato,,,2026-02-07,1498.84,predicted,hybrid_trend,HIGH,1802.68,-506.39999999999986,2026-02-09
+Odisha,Vegetables,Tomato,,,2026-02-08,1296.28,predicted,hybrid_trend,HIGH,1802.68,-506.39999999999986,2026-02-09
+Odisha,Vegetables,Tomato,,,2026-02-09,1093.72,predicted,hybrid_trend,HIGH,1802.68,-506.39999999999986,2026-02-09

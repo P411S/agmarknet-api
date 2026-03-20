@@ -1,0 +1,43 @@
+state,commodity_group,commodity,price_date,price,source_date
+Maharashtra,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-28,3773.22,2026-01-30
+Maharashtra,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-27,3715.46,2026-01-30
+Maharashtra,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-26,3113.75,2026-01-30
+Maharashtra,Cereals,Jowar(Sorghum),2026-01-28,5879.38,2026-01-30
+Maharashtra,Cereals,Jowar(Sorghum),2026-01-27,5370.89,2026-01-30
+Maharashtra,Cereals,Jowar(Sorghum),2026-01-26,3900.0,2026-01-30
+Maharashtra,Cereals,Maize,2026-01-28,3020.07,2026-01-30
+Maharashtra,Cereals,Maize,2026-01-27,3237.61,2026-01-30
+Maharashtra,Cereals,Paddy(Common),2026-01-28,2688.18,2026-01-30
+Maharashtra,Cereals,Paddy(Common),2026-01-27,2663.78,2026-01-30
+Maharashtra,Cereals,Paddy(Common),2026-01-26,2700.0,2026-01-30
+Maharashtra,Cereals,Ragi(Finger Millet),2026-01-28,5150.0,2026-01-30
+Maharashtra,Cereals,Ragi(Finger Millet),2026-01-27,5200.0,2026-01-30
+Maharashtra,Cereals,Wheat,2026-01-28,3485.77,2026-01-30
+Maharashtra,Cereals,Wheat,2026-01-27,2940.45,2026-01-30
+Maharashtra,Cereals,Wheat,2026-01-26,2739.29,2026-01-30
+Maharashtra,Fibre Crops,Cotton,2026-01-28,7986.74,2026-01-30
+Maharashtra,Fibre Crops,Cotton,2026-01-27,8028.65,2026-01-30
+Maharashtra,Fibre Crops,Cotton,2026-01-26,7900.0,2026-01-30
+Maharashtra,Oil Seeds,Groundnut,2026-01-28,8102.0,2026-01-30
+Maharashtra,Oil Seeds,Groundnut,2026-01-27,7901.0,2026-01-30
+Maharashtra,Oil Seeds,Mustard,2026-01-28,8000.0,2026-01-30
+Maharashtra,Oil Seeds,Safflower,2026-01-28,6800.0,2026-01-30
+Maharashtra,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-28,15547.95,2026-01-30
+Maharashtra,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-27,16083.33,2026-01-30
+Maharashtra,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-26,14000.0,2026-01-30
+Maharashtra,Oil Seeds,Soyabean,2026-01-28,5581.93,2026-01-30
+Maharashtra,Oil Seeds,Soyabean,2026-01-27,5583.34,2026-01-30
+Maharashtra,Oil Seeds,Soyabean,2026-01-26,5461.11,2026-01-30
+Maharashtra,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-28,8402.79,2026-01-30
+Maharashtra,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-27,8254.53,2026-01-30
+Maharashtra,Pulses,Bengal Gram(Gram)(Whole),2026-01-28,7040.1,2026-01-30
+Maharashtra,Pulses,Bengal Gram(Gram)(Whole),2026-01-27,7008.67,2026-01-30
+Maharashtra,Pulses,Bengal Gram(Gram)(Whole),2026-01-26,7000.0,2026-01-30
+Maharashtra,Pulses,Black Gram(Urd Beans)(Whole),2026-01-28,9027.38,2026-01-30
+Maharashtra,Pulses,Black Gram(Urd Beans)(Whole),2026-01-27,9224.38,2026-01-30
+Maharashtra,Pulses,Black Gram(Urd Beans)(Whole),2026-01-26,10500.0,2026-01-30
+Maharashtra,Pulses,Green Gram(Moong)(Whole),2026-01-28,10397.76,2026-01-30
+Maharashtra,Pulses,Green Gram(Moong)(Whole),2026-01-27,10267.47,2026-01-30
+Maharashtra,Pulses,Green Gram(Moong)(Whole),2026-01-26,10500.0,2026-01-30
+Maharashtra,Pulses,Lentil(Masur)(Whole),2026-01-28,7957.44,2026-01-30
+Maharashtra,Pulses,Lentil(Masur)(Whole),2026-01-27,8271.64,2026-01-30

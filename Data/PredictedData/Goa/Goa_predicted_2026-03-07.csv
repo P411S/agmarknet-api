@@ -1,0 +1,10 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Goa,Copra,Oil Seeds,,,2026-03-05,12450.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-04,2026-03-07,12450.0,0.0,2026-03-05,12450.0,predicted
+Goa,Copra,Oil Seeds,,,2026-03-06,12450.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-04,2026-03-07,12450.0,0.0,2026-03-06,12450.0,predicted
+Goa,Copra,Oil Seeds,,,2026-03-07,12450.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-04,2026-03-07,12450.0,0.0,2026-03-07,12450.0,predicted
+Goa,Onion,Vegetables,,,2026-03-06,1030.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,1000.0,50.0,2026-03-06,1030.0,predicted
+Goa,Onion,Vegetables,,,2026-03-07,1050.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,1000.0,50.0,2026-03-07,1050.0,predicted
+Goa,Onion,Vegetables,,,2026-03-08,1070.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,1000.0,50.0,2026-03-08,1070.0,predicted
+Goa,Potato,Vegetables,,,2026-03-06,1100.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,1100.0,0.0,2026-03-06,1100.0,predicted
+Goa,Potato,Vegetables,,,2026-03-07,1100.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,1100.0,0.0,2026-03-07,1100.0,predicted
+Goa,Potato,Vegetables,,,2026-03-08,1100.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-05,2026-03-07,1100.0,0.0,2026-03-08,1100.0,predicted

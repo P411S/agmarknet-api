@@ -1,0 +1,19 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Himachal Pradesh,Vegetables,Onion,2026-01-30,2026-01-28,2282.76,False,,,,
+Himachal Pradesh,Vegetables,Onion,2026-01-30,2026-01-27,2411.15,False,,,,
+Himachal Pradesh,Vegetables,Onion,2026-01-30,2026-01-26,2457.53,False,,,,
+Himachal Pradesh,Vegetables,Potato,2026-01-30,2026-01-28,765.31,False,,,,
+Himachal Pradesh,Vegetables,Potato,2026-01-30,2026-01-27,921.99,False,,,,
+Himachal Pradesh,Vegetables,Potato,2026-01-30,2026-01-26,900.0,False,,,,
+Himachal Pradesh,Vegetables,Tomato,2026-01-30,2026-01-28,3014.3,False,,,,
+Himachal Pradesh,Vegetables,Tomato,2026-01-30,2026-01-27,3127.09,False,,,,
+Himachal Pradesh,Vegetables,Tomato,2026-01-30,2026-01-26,3108.2,False,,,,
+Himachal Pradesh,,Onion,,,,True,HYBRID_MODEL,,2026-01-29,2205.73
+Himachal Pradesh,,Onion,,,,True,HYBRID_MODEL,,2026-01-30,2154.37
+Himachal Pradesh,,Onion,,,,True,HYBRID_MODEL,,2026-01-31,2103.01
+Himachal Pradesh,,Potato,,,,True,HYBRID_MODEL,,2026-01-29,671.3
+Himachal Pradesh,,Potato,,,,True,HYBRID_MODEL,,2026-01-30,608.63
+Himachal Pradesh,,Potato,,,,True,HYBRID_MODEL,,2026-01-31,545.96
+Himachal Pradesh,,Tomato,,,,True,HYBRID_MODEL,,2026-01-29,2946.63
+Himachal Pradesh,,Tomato,,,,True,HYBRID_MODEL,,2026-01-30,2901.51
+Himachal Pradesh,,Tomato,,,,True,HYBRID_MODEL,,2026-01-31,2856.39

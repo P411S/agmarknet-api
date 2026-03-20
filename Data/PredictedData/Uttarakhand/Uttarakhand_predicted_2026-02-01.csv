@@ -1,0 +1,10 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Uttarakhand,Onion,2026-01-31,1389.87,HIGH
+Uttarakhand,Onion,2026-02-01,1370.16,HIGH
+Uttarakhand,Onion,2026-02-02,1350.45,HIGH
+Uttarakhand,Potato,2026-01-31,1057.52,HIGH
+Uttarakhand,Potato,2026-02-01,1156.82,HIGH
+Uttarakhand,Potato,2026-02-02,1256.12,HIGH
+Uttarakhand,Tomato,2026-01-31,1448.62,HIGH
+Uttarakhand,Tomato,2026-02-01,1505.73,HIGH
+Uttarakhand,Tomato,2026-02-02,1562.84,HIGH

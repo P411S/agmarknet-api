@@ -1,0 +1,35 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Odisha,Cereals,Paddy(Common),2026-01-30,2026-01-28,2369.0,False,,,,
+Odisha,Cereals,Paddy(Common),2026-01-30,2026-01-27,2369.0,False,,,,
+Odisha,Cereals,Paddy(Common),2026-01-30,2026-01-26,2369.0,False,,,,
+Odisha,Cereals,Ragi(Finger Millet),2026-01-30,2026-01-28,4886.0,False,,,,
+Odisha,Cereals,Ragi(Finger Millet),2026-01-30,2026-01-27,4886.0,False,,,,
+Odisha,Cereals,Ragi(Finger Millet),2026-01-30,2026-01-26,4886.0,False,,,,
+Odisha,Fibre Crops,Cotton,2026-01-30,2026-01-28,8040.0,False,,,,
+Odisha,Vegetables,Onion,2026-01-30,2026-01-28,2117.95,False,,,,
+Odisha,Vegetables,Onion,2026-01-30,2026-01-27,2265.12,False,,,,
+Odisha,Vegetables,Onion,2026-01-30,2026-01-26,2315.79,False,,,,
+Odisha,Vegetables,Potato,2026-01-30,2026-01-28,1529.41,False,,,,
+Odisha,Vegetables,Potato,2026-01-30,2026-01-27,1998.99,False,,,,
+Odisha,Vegetables,Potato,2026-01-30,2026-01-26,2012.5,False,,,,
+Odisha,Vegetables,Tomato,2026-01-30,2026-01-28,2453.8,False,,,,
+Odisha,Vegetables,Tomato,2026-01-30,2026-01-27,2868.89,False,,,,
+Odisha,Vegetables,Tomato,2026-01-30,2026-01-26,2868.14,False,,,,
+Odisha,,Cotton,,,,True,HYBRID_MODEL,,2026-01-29,8040.0
+Odisha,,Cotton,,,,True,HYBRID_MODEL,,2026-01-30,8040.0
+Odisha,,Cotton,,,,True,HYBRID_MODEL,,2026-01-31,8040.0
+Odisha,,Onion,,,,True,HYBRID_MODEL,,2026-01-29,2029.65
+Odisha,,Onion,,,,True,HYBRID_MODEL,,2026-01-30,1970.78
+Odisha,,Onion,,,,True,HYBRID_MODEL,,2026-01-31,1911.91
+Odisha,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-29,2369.0
+Odisha,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-30,2369.0
+Odisha,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-31,2369.0
+Odisha,,Potato,,,,True,HYBRID_MODEL,,2026-01-29,1247.66
+Odisha,,Potato,,,,True,HYBRID_MODEL,,2026-01-30,1059.83
+Odisha,,Potato,,,,True,HYBRID_MODEL,,2026-01-31,872.0
+Odisha,,Ragi(Finger Millet),,,,True,HYBRID_MODEL,,2026-01-29,4886.0
+Odisha,,Ragi(Finger Millet),,,,True,HYBRID_MODEL,,2026-01-30,4886.0
+Odisha,,Ragi(Finger Millet),,,,True,HYBRID_MODEL,,2026-01-31,4886.0
+Odisha,,Tomato,,,,True,HYBRID_MODEL,,2026-01-29,2204.75
+Odisha,,Tomato,,,,True,HYBRID_MODEL,,2026-01-30,2038.71
+Odisha,,Tomato,,,,True,HYBRID_MODEL,,2026-01-31,1872.67

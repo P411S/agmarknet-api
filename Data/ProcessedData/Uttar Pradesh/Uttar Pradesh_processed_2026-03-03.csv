@@ -1,0 +1,36 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Uttar Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-01,1818.83,2026-03-03,Actual
+Uttar Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),2026-02-28,2571.5,2026-03-03,Actual
+Uttar Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),2026-02-27,2102.62,2026-03-03,Actual
+Uttar Pradesh,Cereals,Barley(Jau),2026-02-27,1950.0,2026-03-03,Actual
+Uttar Pradesh,Cereals,Maize,2026-03-01,2180.0,2026-03-03,Actual
+Uttar Pradesh,Cereals,Maize,2026-02-28,2101.93,2026-03-03,Actual
+Uttar Pradesh,Cereals,Maize,2026-02-27,2103.46,2026-03-03,Actual
+Uttar Pradesh,Cereals,Paddy(Common),2026-03-01,2238.36,2026-03-03,Actual
+Uttar Pradesh,Cereals,Paddy(Common),2026-02-28,2313.06,2026-03-03,Actual
+Uttar Pradesh,Cereals,Paddy(Common),2026-02-27,2239.41,2026-03-03,Actual
+Uttar Pradesh,Cereals,Wheat,2026-03-01,2489.64,2026-03-03,Actual
+Uttar Pradesh,Cereals,Wheat,2026-02-28,2442.91,2026-03-03,Actual
+Uttar Pradesh,Cereals,Wheat,2026-02-27,2439.13,2026-03-03,Actual
+Uttar Pradesh,Oil Seeds,Groundnut,2026-02-27,6229.73,2026-03-03,Actual
+Uttar Pradesh,Oil Seeds,Mustard,2026-03-01,6166.67,2026-03-03,Actual
+Uttar Pradesh,Oil Seeds,Mustard,2026-02-28,5924.16,2026-03-03,Actual
+Uttar Pradesh,Oil Seeds,Mustard,2026-02-27,6197.78,2026-03-03,Actual
+Uttar Pradesh,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-01,11730.0,2026-03-03,Actual
+Uttar Pradesh,Pulses,Arhar(Tur/Red Gram)(Whole),2026-02-27,11154.0,2026-03-03,Actual
+Uttar Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-03-01,6580.0,2026-03-03,Actual
+Uttar Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-02-28,5266.5,2026-03-03,Actual
+Uttar Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-02-27,5535.29,2026-03-03,Actual
+Uttar Pradesh,Pulses,Black Gram(Urd Beans)(Whole),2026-02-27,7000.0,2026-03-03,Actual
+Uttar Pradesh,Pulses,Lentil(Masur)(Whole),2026-03-01,7425.0,2026-03-03,Actual
+Uttar Pradesh,Pulses,Lentil(Masur)(Whole),2026-02-28,7450.0,2026-03-03,Actual
+Uttar Pradesh,Pulses,Lentil(Masur)(Whole),2026-02-27,6956.25,2026-03-03,Actual
+Uttar Pradesh,Vegetables,Onion,2026-03-01,1539.6,2026-03-03,Actual
+Uttar Pradesh,Vegetables,Onion,2026-02-28,1409.06,2026-03-03,Actual
+Uttar Pradesh,Vegetables,Onion,2026-02-27,1436.16,2026-03-03,Actual
+Uttar Pradesh,Vegetables,Potato,2026-03-01,692.01,2026-03-03,Actual
+Uttar Pradesh,Vegetables,Potato,2026-02-28,537.41,2026-03-03,Actual
+Uttar Pradesh,Vegetables,Potato,2026-02-27,547.96,2026-03-03,Actual
+Uttar Pradesh,Vegetables,Tomato,2026-03-01,1467.33,2026-03-03,Actual
+Uttar Pradesh,Vegetables,Tomato,2026-02-28,1317.58,2026-03-03,Actual
+Uttar Pradesh,Vegetables,Tomato,2026-02-27,1328.67,2026-03-03,Actual

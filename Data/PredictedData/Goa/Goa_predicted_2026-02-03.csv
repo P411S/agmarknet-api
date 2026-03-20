@@ -1,0 +1,7 @@
+state,commodity,price_date,price,price_type
+Goa,Onion,2026-02-02,1485.0,Predicted
+Goa,Onion,2026-02-03,1500.0,Predicted
+Goa,Onion,2026-02-04,1515.0,Predicted
+Goa,Potato,2026-02-02,1336.5,Predicted
+Goa,Potato,2026-02-03,1350.0,Predicted
+Goa,Potato,2026-02-04,1363.5,Predicted

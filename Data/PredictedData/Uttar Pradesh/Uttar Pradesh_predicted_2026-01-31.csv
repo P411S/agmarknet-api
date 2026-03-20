@@ -1,0 +1,52 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Uttar Pradesh,Arhar(Tur/Red Gram)(Whole),2026-01-29,6000.0,LOW
+Uttar Pradesh,Arhar(Tur/Red Gram)(Whole),2026-01-30,6000.0,LOW
+Uttar Pradesh,Arhar(Tur/Red Gram)(Whole),2026-01-31,6000.0,LOW
+Uttar Pradesh,Bajra(Pearl Millet/Cumbu),2026-01-30,2453.94,HIGH
+Uttar Pradesh,Bajra(Pearl Millet/Cumbu),2026-01-31,2591.12,HIGH
+Uttar Pradesh,Bajra(Pearl Millet/Cumbu),2026-02-01,2728.3,HIGH
+Uttar Pradesh,Barley(Jau),2026-01-30,2274.43,HIGH
+Uttar Pradesh,Barley(Jau),2026-01-31,2283.04,HIGH
+Uttar Pradesh,Barley(Jau),2026-02-01,2291.65,HIGH
+Uttar Pradesh,Bengal Gram(Gram)(Whole),2026-01-30,5711.19,HIGH
+Uttar Pradesh,Bengal Gram(Gram)(Whole),2026-01-31,5793.45,HIGH
+Uttar Pradesh,Bengal Gram(Gram)(Whole),2026-02-01,5875.71,HIGH
+Uttar Pradesh,Black Gram(Urd Beans)(Whole),2026-01-30,7944.75,MEDIUM
+Uttar Pradesh,Black Gram(Urd Beans)(Whole),2026-01-31,8025.0,MEDIUM
+Uttar Pradesh,Black Gram(Urd Beans)(Whole),2026-02-01,8105.25,MEDIUM
+Uttar Pradesh,Groundnut,2026-01-30,7599.09,HIGH
+Uttar Pradesh,Groundnut,2026-01-31,7773.63,HIGH
+Uttar Pradesh,Groundnut,2026-02-01,7948.17,HIGH
+Uttar Pradesh,Jowar(Sorghum),2026-01-29,4455.0,MEDIUM
+Uttar Pradesh,Jowar(Sorghum),2026-01-30,4500.0,MEDIUM
+Uttar Pradesh,Jowar(Sorghum),2026-01-31,4545.0,MEDIUM
+Uttar Pradesh,Lentil(Masur)(Whole),2026-01-30,5467.91,HIGH
+Uttar Pradesh,Lentil(Masur)(Whole),2026-01-31,5288.54,HIGH
+Uttar Pradesh,Lentil(Masur)(Whole),2026-02-01,5109.17,HIGH
+Uttar Pradesh,Maize,2026-01-30,2280.31,HIGH
+Uttar Pradesh,Maize,2026-01-31,2325.35,HIGH
+Uttar Pradesh,Maize,2026-02-01,2370.39,HIGH
+Uttar Pradesh,Mustard,2026-01-30,5833.01,HIGH
+Uttar Pradesh,Mustard,2026-01-31,5635.93,HIGH
+Uttar Pradesh,Mustard,2026-02-01,5438.85,HIGH
+Uttar Pradesh,Onion,2026-01-30,1479.85,HIGH
+Uttar Pradesh,Onion,2026-01-31,1473.39,HIGH
+Uttar Pradesh,Onion,2026-02-01,1466.93,HIGH
+Uttar Pradesh,Paddy(Common),2026-01-30,2343.15,HIGH
+Uttar Pradesh,Paddy(Common),2026-01-31,2351.15,HIGH
+Uttar Pradesh,Paddy(Common),2026-02-01,2359.15,HIGH
+Uttar Pradesh,Potato,2026-01-30,584.66,HIGH
+Uttar Pradesh,Potato,2026-01-31,581.84,HIGH
+Uttar Pradesh,Potato,2026-02-01,579.02,HIGH
+Uttar Pradesh,"Sesamum(Sesame,Gingelly,Til)",2026-01-30,9069.74,MEDIUM
+Uttar Pradesh,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,9161.35,MEDIUM
+Uttar Pradesh,"Sesamum(Sesame,Gingelly,Til)",2026-02-01,9252.96,MEDIUM
+Uttar Pradesh,Soyabean,2026-01-30,5200.0,LOW
+Uttar Pradesh,Soyabean,2026-01-31,5200.0,LOW
+Uttar Pradesh,Soyabean,2026-02-01,5200.0,LOW
+Uttar Pradesh,Tomato,2026-01-30,1388.7,HIGH
+Uttar Pradesh,Tomato,2026-01-31,1295.77,HIGH
+Uttar Pradesh,Tomato,2026-02-01,1202.84,HIGH
+Uttar Pradesh,Wheat,2026-01-30,2489.74,HIGH
+Uttar Pradesh,Wheat,2026-01-31,2486.98,HIGH
+Uttar Pradesh,Wheat,2026-02-01,2484.22,HIGH

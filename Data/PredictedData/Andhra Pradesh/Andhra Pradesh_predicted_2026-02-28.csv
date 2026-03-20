@@ -1,0 +1,19 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Andhra Pradesh,Bengal Gram(Gram)(Whole),Pulses,,,2026-02-26,4914.36,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,5019.0,110.0,2026-02-26,4914.36,predicted
+Andhra Pradesh,Bengal Gram(Gram)(Whole),Pulses,,,2026-02-27,4964.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,5019.0,110.0,2026-02-27,4964.0,predicted
+Andhra Pradesh,Bengal Gram(Gram)(Whole),Pulses,,,2026-02-28,5013.64,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,5019.0,110.0,2026-02-28,5013.64,predicted
+Andhra Pradesh,Black Gram(Urd Beans)(Whole),Pulses,,,2026-02-26,7769.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,7769.0,0.0,2026-02-26,7769.0,predicted
+Andhra Pradesh,Black Gram(Urd Beans)(Whole),Pulses,,,2026-02-27,7769.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,7769.0,0.0,2026-02-27,7769.0,predicted
+Andhra Pradesh,Black Gram(Urd Beans)(Whole),Pulses,,,2026-02-28,7769.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,7769.0,0.0,2026-02-28,7769.0,predicted
+Andhra Pradesh,Cotton,Fibre Crops,,,2026-02-26,7624.98,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,7679.0,-46.0,2026-02-26,7624.98,predicted
+Andhra Pradesh,Cotton,Fibre Crops,,,2026-02-27,7702.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,7679.0,-46.0,2026-02-27,7702.0,predicted
+Andhra Pradesh,Cotton,Fibre Crops,,,2026-02-28,7779.02,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,7679.0,-46.0,2026-02-28,7779.02,predicted
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-02-27,5362.39,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6900.0,-2562.6900000000005,2026-02-27,5362.39,predicted
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-02-28,4337.31,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6900.0,-2562.6900000000005,2026-02-28,4337.31,predicted
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-03-01,3312.23,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6900.0,-2562.6900000000005,2026-03-01,3312.23,predicted
+Andhra Pradesh,Onion,Vegetables,,,2026-02-26,985.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,985.0,0.0,2026-02-26,985.0,predicted
+Andhra Pradesh,Onion,Vegetables,,,2026-02-27,985.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,985.0,0.0,2026-02-27,985.0,predicted
+Andhra Pradesh,Onion,Vegetables,,,2026-02-28,985.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-25,2026-02-28,985.0,0.0,2026-02-28,985.0,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-02-27,1012.96,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1065.03,-86.77999999999997,2026-02-27,1012.96,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-02-28,978.25,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1065.03,-86.77999999999997,2026-02-28,978.25,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-03-01,943.54,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1065.03,-86.77999999999997,2026-03-01,943.54,predicted

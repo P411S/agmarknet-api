@@ -1,0 +1,23 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Telangana,Cereals,Maize,2026-03-15,2300.0,2026-03-17,Actual
+Telangana,Cereals,Maize,2026-03-14,2276.02,2026-03-17,Actual
+Telangana,Cereals,Maize,2026-03-13,2126.23,2026-03-17,Actual
+Telangana,Cereals,Paddy(Common),2026-03-15,2373.71,2026-03-17,Actual
+Telangana,Cereals,Paddy(Common),2026-03-14,2369.01,2026-03-17,Actual
+Telangana,Cereals,Paddy(Common),2026-03-13,2388.61,2026-03-17,Actual
+Telangana,Fibre Crops,Cotton,2026-03-15,6264.0,2026-03-17,Actual
+Telangana,Fibre Crops,Cotton,2026-03-14,6192.0,2026-03-17,Actual
+Telangana,Fibre Crops,Cotton,2026-03-13,6474.38,2026-03-17,Actual
+Telangana,Oil Seeds,Soyabean,2026-03-13,5459.0,2026-03-17,Actual
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-14,7443.0,2026-03-17,Actual
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-13,7496.47,2026-03-17,Actual
+Telangana,Pulses,Bengal Gram(Gram)(Whole),2026-03-13,5185.91,2026-03-17,Actual
+Telangana,Vegetables,Onion,2026-03-15,1000.0,2026-03-17,Actual
+Telangana,Vegetables,Onion,2026-03-14,1027.46,2026-03-17,Actual
+Telangana,Vegetables,Onion,2026-03-13,1117.21,2026-03-17,Actual
+Telangana,Vegetables,Potato,2026-03-15,1019.61,2026-03-17,Actual
+Telangana,Vegetables,Potato,2026-03-14,784.54,2026-03-17,Actual
+Telangana,Vegetables,Potato,2026-03-13,761.71,2026-03-17,Actual
+Telangana,Vegetables,Tomato,2026-03-15,703.73,2026-03-17,Actual
+Telangana,Vegetables,Tomato,2026-03-14,696.1,2026-03-17,Actual
+Telangana,Vegetables,Tomato,2026-03-13,559.48,2026-03-17,Actual

@@ -1,0 +1,13 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Manipur,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-06,8800.0,predicted,hybrid_trend,HIGH,8750.0,83.32999999999993,2026-02-07
+Manipur,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-07,8833.33,predicted,hybrid_trend,HIGH,8750.0,83.32999999999993,2026-02-07
+Manipur,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-08,8866.66,predicted,hybrid_trend,HIGH,8750.0,83.32999999999993,2026-02-07
+Manipur,Vegetables,Onion,,,2026-02-06,3750.0,predicted,hybrid_trend,HIGH,3750.0,0.0,2026-02-07
+Manipur,Vegetables,Onion,,,2026-02-07,3750.0,predicted,hybrid_trend,HIGH,3750.0,0.0,2026-02-07
+Manipur,Vegetables,Onion,,,2026-02-08,3750.0,predicted,hybrid_trend,HIGH,3750.0,0.0,2026-02-07
+Manipur,Cereals,Paddy(Common),,,2026-02-05,2846.25,predicted,hybrid_ma,MEDIUM,2875.0,0.0,2026-02-07
+Manipur,Cereals,Paddy(Common),,,2026-02-06,2875.0,predicted,hybrid_ma,MEDIUM,2875.0,0.0,2026-02-07
+Manipur,Cereals,Paddy(Common),,,2026-02-07,2903.75,predicted,hybrid_ma,MEDIUM,2875.0,0.0,2026-02-07
+Manipur,Vegetables,Potato,,,2026-02-06,2250.0,predicted,hybrid_trend,HIGH,2250.0,0.0,2026-02-07
+Manipur,Vegetables,Potato,,,2026-02-07,2250.0,predicted,hybrid_trend,HIGH,2250.0,0.0,2026-02-07
+Manipur,Vegetables,Potato,,,2026-02-08,2250.0,predicted,hybrid_trend,HIGH,2250.0,0.0,2026-02-07

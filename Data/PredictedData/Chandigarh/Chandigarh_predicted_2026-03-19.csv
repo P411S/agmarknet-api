@@ -1,0 +1,10 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Chandigarh,Onion,Vegetables,,,2026-03-18,1188.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1200.0,0.0,2026-03-18,1188.0,predicted
+Chandigarh,Onion,Vegetables,,,2026-03-19,1200.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1200.0,0.0,2026-03-19,1200.0,predicted
+Chandigarh,Onion,Vegetables,,,2026-03-20,1212.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1200.0,0.0,2026-03-20,1212.0,predicted
+Chandigarh,Potato,Vegetables,,,2026-03-18,198.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,200.0,0.0,2026-03-18,198.0,predicted
+Chandigarh,Potato,Vegetables,,,2026-03-19,200.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,200.0,0.0,2026-03-19,200.0,predicted
+Chandigarh,Potato,Vegetables,,,2026-03-20,202.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,200.0,0.0,2026-03-20,202.0,predicted
+Chandigarh,Tomato,Vegetables,,,2026-03-18,1287.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1400.0,200.0,2026-03-18,1287.0,predicted
+Chandigarh,Tomato,Vegetables,,,2026-03-19,1300.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1400.0,200.0,2026-03-19,1300.0,predicted
+Chandigarh,Tomato,Vegetables,,,2026-03-20,1313.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1400.0,200.0,2026-03-20,1313.0,predicted

@@ -1,0 +1,89 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Uttar Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-30,2026-01-28,1905.24,False,,,,
+Uttar Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-30,2026-01-27,2194.84,False,,,,
+Uttar Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-30,2026-01-26,1912.01,False,,,,
+Uttar Pradesh,Cereals,Barley(Jau),2026-01-30,2026-01-28,2240.0,False,,,,
+Uttar Pradesh,Cereals,Barley(Jau),2026-01-30,2026-01-27,2225.0,False,,,,
+Uttar Pradesh,Cereals,Jowar(Sorghum),2026-01-30,2026-01-28,6400.0,False,,,,
+Uttar Pradesh,Cereals,Jowar(Sorghum),2026-01-30,2026-01-27,2600.0,False,,,,
+Uttar Pradesh,Cereals,Maize,2026-01-30,2026-01-28,2100.13,False,,,,
+Uttar Pradesh,Cereals,Maize,2026-01-30,2026-01-27,2053.81,False,,,,
+Uttar Pradesh,Cereals,Maize,2026-01-30,2026-01-26,1911.75,False,,,,
+Uttar Pradesh,Cereals,Paddy(Common),2026-01-30,2026-01-28,2311.15,False,,,,
+Uttar Pradesh,Cereals,Paddy(Common),2026-01-30,2026-01-27,2229.63,False,,,,
+Uttar Pradesh,Cereals,Paddy(Common),2026-01-30,2026-01-26,2451.65,False,,,,
+Uttar Pradesh,Cereals,Wheat,2026-01-30,2026-01-28,2500.78,False,,,,
+Uttar Pradesh,Cereals,Wheat,2026-01-30,2026-01-27,2512.55,False,,,,
+Uttar Pradesh,Cereals,Wheat,2026-01-30,2026-01-26,2540.21,False,,,,
+Uttar Pradesh,Oil Seeds,Groundnut,2026-01-30,2026-01-28,6900.91,False,,,,
+Uttar Pradesh,Oil Seeds,Groundnut,2026-01-30,2026-01-27,6000.0,False,,,,
+Uttar Pradesh,Oil Seeds,Groundnut,2026-01-30,2026-01-26,6750.0,False,,,,
+Uttar Pradesh,Oil Seeds,Mustard,2026-01-30,2026-01-28,6621.33,False,,,,
+Uttar Pradesh,Oil Seeds,Mustard,2026-01-30,2026-01-27,6608.74,False,,,,
+Uttar Pradesh,Oil Seeds,Mustard,2026-01-30,2026-01-26,6330.82,False,,,,
+Uttar Pradesh,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-30,2026-01-28,9172.7,False,,,,
+Uttar Pradesh,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-30,2026-01-26,9130.0,False,,,,
+Uttar Pradesh,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-30,2026-01-28,6000.0,False,,,,
+Uttar Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-01-30,2026-01-28,5382.13,False,,,,
+Uttar Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-01-30,2026-01-27,5449.27,False,,,,
+Uttar Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-01-30,2026-01-26,5350.0,False,,,,
+Uttar Pradesh,Pulses,Black Gram(Urd Beans)(Whole),2026-01-30,2026-01-27,8850.0,False,,,,
+Uttar Pradesh,Pulses,Lentil(Masur)(Whole),2026-01-30,2026-01-28,6185.38,False,,,,
+Uttar Pradesh,Pulses,Lentil(Masur)(Whole),2026-01-30,2026-01-27,7192.28,False,,,,
+Uttar Pradesh,Vegetables,Onion,2026-01-30,2026-01-28,1505.67,False,,,,
+Uttar Pradesh,Vegetables,Onion,2026-01-30,2026-01-27,1496.58,False,,,,
+Uttar Pradesh,Vegetables,Onion,2026-01-30,2026-01-26,1470.57,False,,,,
+Uttar Pradesh,Vegetables,Potato,2026-01-30,2026-01-28,595.92,False,,,,
+Uttar Pradesh,Vegetables,Potato,2026-01-30,2026-01-27,620.59,False,,,,
+Uttar Pradesh,Vegetables,Potato,2026-01-30,2026-01-26,626.08,False,,,,
+Uttar Pradesh,Vegetables,Tomato,2026-01-30,2026-01-28,1760.43,False,,,,
+Uttar Pradesh,Vegetables,Tomato,2026-01-30,2026-01-27,1791.37,False,,,,
+Uttar Pradesh,Vegetables,Tomato,2026-01-30,2026-01-26,2017.39,False,,,,
+Uttar Pradesh,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,6000.0
+Uttar Pradesh,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,6000.0
+Uttar Pradesh,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,6000.0
+Uttar Pradesh,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-01-29,1731.48
+Uttar Pradesh,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-01-30,1615.64
+Uttar Pradesh,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-01-31,1499.8
+Uttar Pradesh,,Barley(Jau),,,,True,HYBRID_MODEL,,2026-01-29,2210.18
+Uttar Pradesh,,Barley(Jau),,,,True,HYBRID_MODEL,,2026-01-30,2232.5
+Uttar Pradesh,,Barley(Jau),,,,True,HYBRID_MODEL,,2026-01-31,2254.82
+Uttar Pradesh,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,5341.85
+Uttar Pradesh,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,5314.99
+Uttar Pradesh,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,5288.13
+Uttar Pradesh,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-28,8850.0
+Uttar Pradesh,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,8850.0
+Uttar Pradesh,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,8850.0
+Uttar Pradesh,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-29,7441.46
+Uttar Pradesh,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-30,7801.82
+Uttar Pradesh,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-31,8162.18
+Uttar Pradesh,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-29,4455.0
+Uttar Pradesh,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-30,4500.0
+Uttar Pradesh,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-31,4545.0
+Uttar Pradesh,,Lentil(Masur)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,6621.94
+Uttar Pradesh,,Lentil(Masur)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,6688.83
+Uttar Pradesh,,Lentil(Masur)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,6755.72
+Uttar Pradesh,,Maize,,,,True,HYBRID_MODEL,,2026-01-29,2127.92
+Uttar Pradesh,,Maize,,,,True,HYBRID_MODEL,,2026-01-30,2146.45
+Uttar Pradesh,,Maize,,,,True,HYBRID_MODEL,,2026-01-31,2164.98
+Uttar Pradesh,,Mustard,,,,True,HYBRID_MODEL,,2026-01-29,6628.88
+Uttar Pradesh,,Mustard,,,,True,HYBRID_MODEL,,2026-01-30,6633.92
+Uttar Pradesh,,Mustard,,,,True,HYBRID_MODEL,,2026-01-31,6638.96
+Uttar Pradesh,,Onion,,,,True,HYBRID_MODEL,,2026-01-29,1511.12
+Uttar Pradesh,,Onion,,,,True,HYBRID_MODEL,,2026-01-30,1514.76
+Uttar Pradesh,,Onion,,,,True,HYBRID_MODEL,,2026-01-31,1518.4
+Uttar Pradesh,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-29,2360.06
+Uttar Pradesh,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-30,2392.67
+Uttar Pradesh,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-31,2425.28
+Uttar Pradesh,,Potato,,,,True,HYBRID_MODEL,,2026-01-29,581.12
+Uttar Pradesh,,Potato,,,,True,HYBRID_MODEL,,2026-01-30,571.25
+Uttar Pradesh,,Potato,,,,True,HYBRID_MODEL,,2026-01-31,561.38
+Uttar Pradesh,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-29,9059.84
+Uttar Pradesh,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-30,9151.35
+Uttar Pradesh,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-31,9242.86
+Uttar Pradesh,,Tomato,,,,True,HYBRID_MODEL,,2026-01-29,1741.87
+Uttar Pradesh,,Tomato,,,,True,HYBRID_MODEL,,2026-01-30,1729.49
+Uttar Pradesh,,Tomato,,,,True,HYBRID_MODEL,,2026-01-31,1717.11
+Uttar Pradesh,,Wheat,,,,True,HYBRID_MODEL,,2026-01-29,2493.72
+Uttar Pradesh,,Wheat,,,,True,HYBRID_MODEL,,2026-01-30,2489.01
+Uttar Pradesh,,Wheat,,,,True,HYBRID_MODEL,,2026-01-31,2484.3

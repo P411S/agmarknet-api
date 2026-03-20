@@ -1,0 +1,10 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+West Bengal,Groundnut,fallback_copy,,,,LOW,1
+West Bengal,Maize,hybrid_ma,,,,LOW,2
+West Bengal,Mustard,hybrid_trend,,,,LOW,3
+West Bengal,Onion,hybrid_trend,,,,LOW,3
+West Bengal,Paddy(Common),hybrid_trend,,,,LOW,3
+West Bengal,Potato,hybrid_trend,,,,LOW,3
+West Bengal,"Sesamum(Sesame,Gingelly,Til)",hybrid_trend,,,,LOW,3
+West Bengal,Tomato,hybrid_trend,,,,LOW,3
+West Bengal,Wheat,hybrid_trend,,,,LOW,3

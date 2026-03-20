@@ -1,0 +1,10 @@
+state,commodity_group,commodity,predicted_date,predicted_price,confidence_score,model_used
+Bihar,Vegetables,Onion,2026-01-27,2755.51,0.85,ARIMA
+Bihar,Vegetables,Onion,2026-01-28,2781.33,0.85,ARIMA
+Bihar,Vegetables,Onion,2026-01-29,2793.35,0.85,ARIMA
+Bihar,Cereals,Paddy(Common),2026-01-27,2370.0,0.85,ARIMA
+Bihar,Cereals,Paddy(Common),2026-01-28,2370.0,0.85,ARIMA
+Bihar,Cereals,Paddy(Common),2026-01-29,2370.0,0.85,ARIMA
+Bihar,Vegetables,Potato,2026-01-27,1666.77,0.85,ARIMA
+Bihar,Vegetables,Potato,2026-01-28,1212.9,0.85,ARIMA
+Bihar,Vegetables,Potato,2026-01-29,1653.82,0.85,ARIMA

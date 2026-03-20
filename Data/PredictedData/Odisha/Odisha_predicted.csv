@@ -1,0 +1,19 @@
+state,commodity_group,commodity,predicted_date,predicted_price,confidence_score,model_used
+Odisha,Fibre Crops,Cotton,2026-01-25,8100.05,0.4,BOOTSTRAP
+Odisha,Fibre Crops,Cotton,2026-01-26,7890.15,0.4,BOOTSTRAP
+Odisha,Fibre Crops,Cotton,2026-01-27,7995.69,0.4,BOOTSTRAP
+Odisha,Vegetables,Onion,2026-01-27,2301.34,0.85,ARIMA
+Odisha,Vegetables,Onion,2026-01-28,2292.4,0.85,ARIMA
+Odisha,Vegetables,Onion,2026-01-29,2286.87,0.85,ARIMA
+Odisha,Cereals,Paddy(Common),2026-01-27,2369.0,0.85,ARIMA
+Odisha,Cereals,Paddy(Common),2026-01-28,2369.0,0.85,ARIMA
+Odisha,Cereals,Paddy(Common),2026-01-29,2369.0,0.85,ARIMA
+Odisha,Vegetables,Potato,2026-01-27,1578.12,0.85,ARIMA
+Odisha,Vegetables,Potato,2026-01-28,2012.46,0.85,ARIMA
+Odisha,Vegetables,Potato,2026-01-29,1578.16,0.85,ARIMA
+Odisha,Cereals,Ragi(Finger Millet),2026-01-27,4886.0,0.85,ARIMA
+Odisha,Cereals,Ragi(Finger Millet),2026-01-28,4886.0,0.85,ARIMA
+Odisha,Cereals,Ragi(Finger Millet),2026-01-29,4886.0,0.85,ARIMA
+Odisha,Vegetables,Tomato,2026-01-27,2307.07,0.85,ARIMA
+Odisha,Vegetables,Tomato,2026-01-28,2832.31,0.85,ARIMA
+Odisha,Vegetables,Tomato,2026-01-29,2340.61,0.85,ARIMA

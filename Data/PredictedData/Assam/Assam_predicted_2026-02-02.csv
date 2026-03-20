@@ -1,0 +1,13 @@
+state,commodity,price_date,price,price_type
+Assam,Lentil(Masur)(Whole),2026-02-01,8576.8,Predicted
+Assam,Lentil(Masur)(Whole),2026-02-02,8508.24,Predicted
+Assam,Lentil(Masur)(Whole),2026-02-03,8439.68,Predicted
+Assam,Onion,2026-02-01,2723.57,Predicted
+Assam,Onion,2026-02-02,2727.88,Predicted
+Assam,Onion,2026-02-03,2732.19,Predicted
+Assam,Potato,2026-02-01,1337.68,Predicted
+Assam,Potato,2026-02-02,1359.82,Predicted
+Assam,Potato,2026-02-03,1381.96,Predicted
+Assam,Tomato,2026-02-01,2521.73,Predicted
+Assam,Tomato,2026-02-02,2546.34,Predicted
+Assam,Tomato,2026-02-03,2570.95,Predicted

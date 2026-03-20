@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Uttarakhand,Maize,Cereals,,,2026-03-02,2500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-01,2026-03-05,2500.0,0.0,2026-03-02,2500.0,predicted
+Uttarakhand,Maize,Cereals,,,2026-03-03,2500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-01,2026-03-05,2500.0,0.0,2026-03-03,2500.0,predicted
+Uttarakhand,Maize,Cereals,,,2026-03-04,2500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-01,2026-03-05,2500.0,0.0,2026-03-04,2500.0,predicted
+Uttarakhand,Onion,Vegetables,,,2026-03-03,1427.81,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-02,2026-03-05,1486.97,89.47000000000003,2026-03-03,1427.81,predicted
+Uttarakhand,Onion,Vegetables,,,2026-03-04,1442.24,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-02,2026-03-05,1486.97,89.47000000000003,2026-03-04,1442.24,predicted
+Uttarakhand,Onion,Vegetables,,,2026-03-05,1456.66,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-02,2026-03-05,1486.97,89.47000000000003,2026-03-05,1456.66,predicted
+Uttarakhand,Potato,Vegetables,,,2026-03-03,735.14,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-02,2026-03-05,687.88,-109.38,2026-03-03,735.14,predicted
+Uttarakhand,Potato,Vegetables,,,2026-03-04,742.57,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-02,2026-03-05,687.88,-109.38,2026-03-04,742.57,predicted
+Uttarakhand,Potato,Vegetables,,,2026-03-05,750.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-02,2026-03-05,687.88,-109.38,2026-03-05,750.0,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-03-03,934.9,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-02,2026-03-05,1085.46,282.23,2026-03-03,934.9,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-03-04,944.35,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-02,2026-03-05,1085.46,282.23,2026-03-04,944.35,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-03-05,953.79,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-02,2026-03-05,1085.46,282.23,2026-03-05,953.79,predicted

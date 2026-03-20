@@ -1,0 +1,13 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Assam,Pulses,Lentil(Masur)(Whole),2026-03-07,9487.23,2026-03-09,Actual
+Assam,Pulses,Lentil(Masur)(Whole),2026-03-06,9441.18,2026-03-09,Actual
+Assam,Pulses,Lentil(Masur)(Whole),2026-03-05,9333.73,2026-03-09,Actual
+Assam,Vegetables,Onion,2026-03-07,1897.33,2026-03-09,Actual
+Assam,Vegetables,Onion,2026-03-06,2051.96,2026-03-09,Actual
+Assam,Vegetables,Onion,2026-03-05,2116.13,2026-03-09,Actual
+Assam,Vegetables,Potato,2026-03-07,1110.14,2026-03-09,Actual
+Assam,Vegetables,Potato,2026-03-06,1127.57,2026-03-09,Actual
+Assam,Vegetables,Potato,2026-03-05,1115.69,2026-03-09,Actual
+Assam,Vegetables,Tomato,2026-03-07,1597.37,2026-03-09,Actual
+Assam,Vegetables,Tomato,2026-03-06,1802.91,2026-03-09,Actual
+Assam,Vegetables,Tomato,2026-03-05,2154.4,2026-03-09,Actual

@@ -1,0 +1,10 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Chandigarh,Vegetables,Onion,,,2026-02-05,1386.0,predicted,hybrid_ma,MEDIUM,1500.0,200.0,2026-02-06
+Chandigarh,Vegetables,Onion,,,2026-02-06,1400.0,predicted,hybrid_ma,MEDIUM,1500.0,200.0,2026-02-06
+Chandigarh,Vegetables,Onion,,,2026-02-07,1414.0,predicted,hybrid_ma,MEDIUM,1500.0,200.0,2026-02-06
+Chandigarh,Vegetables,Potato,,,2026-02-05,297.0,predicted,hybrid_ma,MEDIUM,300.0,0.0,2026-02-06
+Chandigarh,Vegetables,Potato,,,2026-02-06,300.0,predicted,hybrid_ma,MEDIUM,300.0,0.0,2026-02-06
+Chandigarh,Vegetables,Potato,,,2026-02-07,303.0,predicted,hybrid_ma,MEDIUM,300.0,0.0,2026-02-06
+Chandigarh,Vegetables,Tomato,,,2026-02-05,2376.0,predicted,hybrid_ma,MEDIUM,2000.0,-800.0,2026-02-06
+Chandigarh,Vegetables,Tomato,,,2026-02-06,2400.0,predicted,hybrid_ma,MEDIUM,2000.0,-800.0,2026-02-06
+Chandigarh,Vegetables,Tomato,,,2026-02-07,2424.0,predicted,hybrid_ma,MEDIUM,2000.0,-800.0,2026-02-06

@@ -1,0 +1,18 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Uttar Pradesh,Arhar(Tur/Red Gram)(Whole),fallback_copy,0.0,0.0,0.0,LOW,1
+Uttar Pradesh,Bajra(Pearl Millet/Cumbu),hybrid_trend,0.0,0.0,0.0,LOW,3
+Uttar Pradesh,Barley(Jau),hybrid_ma,0.0,0.0,0.0,LOW,2
+Uttar Pradesh,Bengal Gram(Gram)(Whole),hybrid_trend,0.0,0.0,0.0,LOW,3
+Uttar Pradesh,Black Gram(Urd Beans)(Whole),hybrid_trend,0.0,0.0,0.0,LOW,3
+Uttar Pradesh,Green Gram(Moong)(Whole),hybrid_ma,0.0,0.0,0.0,LOW,2
+Uttar Pradesh,Groundnut,hybrid_trend,0.0,0.0,0.0,LOW,3
+Uttar Pradesh,Lentil(Masur)(Whole),hybrid_trend,0.0,0.0,0.0,LOW,3
+Uttar Pradesh,Maize,hybrid_trend,0.0,0.0,0.0,LOW,3
+Uttar Pradesh,Mustard,hybrid_trend,0.0,0.0,0.0,LOW,3
+Uttar Pradesh,Onion,hybrid_trend,0.0,0.0,0.0,LOW,3
+Uttar Pradesh,Paddy(Common),hybrid_trend,0.0,0.0,0.0,LOW,3
+Uttar Pradesh,Potato,hybrid_trend,0.0,0.0,0.0,LOW,3
+Uttar Pradesh,"Sesamum(Sesame,Gingelly,Til)",fallback_copy,0.0,0.0,0.0,LOW,1
+Uttar Pradesh,Soyabean,fallback_copy,0.0,0.0,0.0,LOW,1
+Uttar Pradesh,Tomato,hybrid_trend,0.0,0.0,0.0,LOW,3
+Uttar Pradesh,Wheat,hybrid_trend,0.0,0.0,0.0,LOW,3

@@ -1,0 +1,9 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Andhra Pradesh,Bengal Gram(Gram)(Whole),fallback_copy,0.0,0.0,0.0,LOW,1
+Andhra Pradesh,Black Gram(Urd Beans)(Whole),fallback_copy,0.0,0.0,0.0,LOW,1
+Andhra Pradesh,Cotton,fallback_copy,0.0,0.0,0.0,LOW,1
+Andhra Pradesh,Groundnut,hybrid_trend,0.0,0.0,0.0,LOW,3
+Andhra Pradesh,Onion,fallback_copy,0.0,0.0,0.0,LOW,1
+Andhra Pradesh,Potato,hybrid_ma,0.0,0.0,0.0,LOW,2
+Andhra Pradesh,Sunflower Seed,fallback_copy,0.0,0.0,0.0,LOW,1
+Andhra Pradesh,Tomato,hybrid_trend,0.0,0.0,0.0,LOW,3

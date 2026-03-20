@@ -1,0 +1,22 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Karnataka,Arhar(Tur/Red Gram)(Whole),2026-01-29,8265.64,MEDIUM
+Karnataka,Arhar(Tur/Red Gram)(Whole),2026-01-30,8349.13,MEDIUM
+Karnataka,Arhar(Tur/Red Gram)(Whole),2026-01-31,8432.62,MEDIUM
+Karnataka,Bengal Gram(Gram)(Whole),2026-01-29,5625.68,MEDIUM
+Karnataka,Bengal Gram(Gram)(Whole),2026-01-30,5682.5,MEDIUM
+Karnataka,Bengal Gram(Gram)(Whole),2026-01-31,5739.32,MEDIUM
+Karnataka,Cotton,2026-01-29,7821.0,MEDIUM
+Karnataka,Cotton,2026-01-30,7900.0,MEDIUM
+Karnataka,Cotton,2026-01-31,7979.0,MEDIUM
+Karnataka,Groundnut,2026-01-29,9751.5,MEDIUM
+Karnataka,Groundnut,2026-01-30,9850.0,MEDIUM
+Karnataka,Groundnut,2026-01-31,9948.5,MEDIUM
+Karnataka,Jowar(Sorghum),2026-01-28,3826.0,LOW
+Karnataka,Jowar(Sorghum),2026-01-29,3826.0,LOW
+Karnataka,Jowar(Sorghum),2026-01-30,3826.0,LOW
+Karnataka,Maize,2026-01-28,1810.0,LOW
+Karnataka,Maize,2026-01-29,1810.0,LOW
+Karnataka,Maize,2026-01-30,1810.0,LOW
+Karnataka,Paddy(Common),2026-01-29,2591.97,HIGH
+Karnataka,Paddy(Common),2026-01-30,2634.31,HIGH
+Karnataka,Paddy(Common),2026-01-31,2676.65,HIGH

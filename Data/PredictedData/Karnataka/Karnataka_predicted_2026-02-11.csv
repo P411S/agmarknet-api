@@ -1,0 +1,19 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),,,2026-02-10,7931.44,predicted,hybrid_ma,MEDIUM,7989.0,-45.11999999999989,2026-02-11
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),,,2026-02-11,8011.56,predicted,hybrid_ma,MEDIUM,7989.0,-45.11999999999989,2026-02-11
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),,,2026-02-12,8091.68,predicted,hybrid_ma,MEDIUM,7989.0,-45.11999999999989,2026-02-11
+Karnataka,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-08,5608.0,predicted,fallback_copy,LOW,5608.0,0.0,2026-02-11
+Karnataka,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-09,5608.0,predicted,fallback_copy,LOW,5608.0,0.0,2026-02-11
+Karnataka,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-10,5608.0,predicted,fallback_copy,LOW,5608.0,0.0,2026-02-11
+Karnataka,Fibre Crops,Cotton,,,2026-02-10,8076.91,predicted,hybrid_ma,MEDIUM,8290.0,263.0,2026-02-11
+Karnataka,Fibre Crops,Cotton,,,2026-02-11,8158.5,predicted,hybrid_ma,MEDIUM,8290.0,263.0,2026-02-11
+Karnataka,Fibre Crops,Cotton,,,2026-02-12,8240.09,predicted,hybrid_ma,MEDIUM,8290.0,263.0,2026-02-11
+Karnataka,Oil Seeds,Groundnut,,,2026-02-10,8342.73,predicted,hybrid_ma,MEDIUM,8885.0,916.0,2026-02-11
+Karnataka,Oil Seeds,Groundnut,,,2026-02-11,8427.0,predicted,hybrid_ma,MEDIUM,8885.0,916.0,2026-02-11
+Karnataka,Oil Seeds,Groundnut,,,2026-02-12,8511.27,predicted,hybrid_ma,MEDIUM,8885.0,916.0,2026-02-11
+Karnataka,Cereals,Paddy(Common),,,2026-02-10,2336.46,predicted,hybrid_ma,MEDIUM,2501.13,282.1300000000001,2026-02-11
+Karnataka,Cereals,Paddy(Common),,,2026-02-11,2360.07,predicted,hybrid_ma,MEDIUM,2501.13,282.1300000000001,2026-02-11
+Karnataka,Cereals,Paddy(Common),,,2026-02-12,2383.67,predicted,hybrid_ma,MEDIUM,2501.13,282.1300000000001,2026-02-11
+Karnataka,Oil Seeds,Sunflower,,,2026-02-10,5530.0,predicted,fallback_copy,LOW,5530.0,0.0,2026-02-11
+Karnataka,Oil Seeds,Sunflower,,,2026-02-11,5530.0,predicted,fallback_copy,LOW,5530.0,0.0,2026-02-11
+Karnataka,Oil Seeds,Sunflower,,,2026-02-12,5530.0,predicted,fallback_copy,LOW,5530.0,0.0,2026-02-11

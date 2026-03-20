@@ -1,0 +1,36 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Uttar Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-09,1948.1,2026-03-11,Actual
+Uttar Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-08,1872.57,2026-03-11,Actual
+Uttar Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-07,1859.12,2026-03-11,Actual
+Uttar Pradesh,Cereals,Barley(Jau),2026-03-09,1980.0,2026-03-11,Actual
+Uttar Pradesh,Cereals,Maize,2026-03-09,1835.11,2026-03-11,Actual
+Uttar Pradesh,Cereals,Maize,2026-03-08,1831.31,2026-03-11,Actual
+Uttar Pradesh,Cereals,Maize,2026-03-07,1839.88,2026-03-11,Actual
+Uttar Pradesh,Cereals,Paddy(Common),2026-03-09,2010.38,2026-03-11,Actual
+Uttar Pradesh,Cereals,Paddy(Common),2026-03-08,1913.27,2026-03-11,Actual
+Uttar Pradesh,Cereals,Paddy(Common),2026-03-07,2255.18,2026-03-11,Actual
+Uttar Pradesh,Cereals,Wheat,2026-03-09,2434.77,2026-03-11,Actual
+Uttar Pradesh,Cereals,Wheat,2026-03-08,2461.45,2026-03-11,Actual
+Uttar Pradesh,Cereals,Wheat,2026-03-07,2445.82,2026-03-11,Actual
+Uttar Pradesh,Oil Seeds,Groundnut,2026-03-09,6600.0,2026-03-11,Actual
+Uttar Pradesh,Oil Seeds,Mustard,2026-03-09,5984.77,2026-03-11,Actual
+Uttar Pradesh,Oil Seeds,Mustard,2026-03-08,6236.61,2026-03-11,Actual
+Uttar Pradesh,Oil Seeds,Mustard,2026-03-07,6238.76,2026-03-11,Actual
+Uttar Pradesh,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-08,8500.0,2026-03-11,Actual
+Uttar Pradesh,Oil Seeds,Soyabean,2026-03-09,5100.0,2026-03-11,Actual
+Uttar Pradesh,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-07,10510.0,2026-03-11,Actual
+Uttar Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-03-09,5231.82,2026-03-11,Actual
+Uttar Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-03-08,5269.31,2026-03-11,Actual
+Uttar Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-03-07,5428.0,2026-03-11,Actual
+Uttar Pradesh,Pulses,Lentil(Masur)(Whole),2026-03-09,5800.0,2026-03-11,Actual
+Uttar Pradesh,Pulses,Lentil(Masur)(Whole),2026-03-08,6052.0,2026-03-11,Actual
+Uttar Pradesh,Pulses,Lentil(Masur)(Whole),2026-03-07,7430.0,2026-03-11,Actual
+Uttar Pradesh,Vegetables,Onion,2026-03-09,1364.21,2026-03-11,Actual
+Uttar Pradesh,Vegetables,Onion,2026-03-08,1340.9,2026-03-11,Actual
+Uttar Pradesh,Vegetables,Onion,2026-03-07,1328.07,2026-03-11,Actual
+Uttar Pradesh,Vegetables,Potato,2026-03-09,549.58,2026-03-11,Actual
+Uttar Pradesh,Vegetables,Potato,2026-03-08,636.42,2026-03-11,Actual
+Uttar Pradesh,Vegetables,Potato,2026-03-07,541.77,2026-03-11,Actual
+Uttar Pradesh,Vegetables,Tomato,2026-03-09,1339.21,2026-03-11,Actual
+Uttar Pradesh,Vegetables,Tomato,2026-03-08,1303.72,2026-03-11,Actual
+Uttar Pradesh,Vegetables,Tomato,2026-03-07,1235.17,2026-03-11,Actual

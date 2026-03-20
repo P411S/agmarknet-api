@@ -1,0 +1,19 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Odisha,Fibre Crops,Cotton,,,2026-02-01,8010.0,predicted,fallback_copy,LOW,8010.0,0.0,2026-02-04
+Odisha,Fibre Crops,Cotton,,,2026-02-02,8010.0,predicted,fallback_copy,LOW,8010.0,0.0,2026-02-04
+Odisha,Fibre Crops,Cotton,,,2026-02-03,8010.0,predicted,fallback_copy,LOW,8010.0,0.0,2026-02-04
+Odisha,Vegetables,Onion,,,2026-02-03,1953.14,predicted,hybrid_trend,HIGH,2045.71,-154.28999999999996,2026-02-04
+Odisha,Vegetables,Onion,,,2026-02-04,1891.42,predicted,hybrid_trend,HIGH,2045.71,-154.28999999999996,2026-02-04
+Odisha,Vegetables,Onion,,,2026-02-05,1829.7,predicted,hybrid_trend,HIGH,2045.71,-154.28999999999996,2026-02-04
+Odisha,Cereals,Paddy(Common),,,2026-02-03,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-04
+Odisha,Cereals,Paddy(Common),,,2026-02-04,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-04
+Odisha,Cereals,Paddy(Common),,,2026-02-05,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-04
+Odisha,Vegetables,Potato,,,2026-02-03,2695.28,predicted,hybrid_trend,HIGH,2134.55,934.5500000000002,2026-02-04
+Odisha,Vegetables,Potato,,,2026-02-04,3069.1,predicted,hybrid_trend,HIGH,2134.55,934.5500000000002,2026-02-04
+Odisha,Vegetables,Potato,,,2026-02-05,3442.92,predicted,hybrid_trend,HIGH,2134.55,934.5500000000002,2026-02-04
+Odisha,Cereals,Ragi(Finger Millet),,,2026-02-03,4886.0,predicted,hybrid_trend,HIGH,4886.0,0.0,2026-02-04
+Odisha,Cereals,Ragi(Finger Millet),,,2026-02-04,4886.0,predicted,hybrid_trend,HIGH,4886.0,0.0,2026-02-04
+Odisha,Cereals,Ragi(Finger Millet),,,2026-02-05,4886.0,predicted,hybrid_trend,HIGH,4886.0,0.0,2026-02-04
+Odisha,Vegetables,Tomato,,,2026-02-03,2892.55,predicted,hybrid_trend,HIGH,2444.99,745.9299999999998,2026-02-04
+Odisha,Vegetables,Tomato,,,2026-02-04,3190.92,predicted,hybrid_trend,HIGH,2444.99,745.9299999999998,2026-02-04
+Odisha,Vegetables,Tomato,,,2026-02-05,3489.29,predicted,hybrid_trend,HIGH,2444.99,745.9299999999998,2026-02-04

@@ -1,0 +1,22 @@
+state,commodity_group,commodity,predicted_date,predicted_price,confidence_score,model_used
+Haryana,Pulses,Bengal Gram(Gram)(Whole),2026-01-27,5300.15,0.65,MA
+Haryana,Pulses,Bengal Gram(Gram)(Whole),2026-01-28,5395.53,0.65,MA
+Haryana,Pulses,Bengal Gram(Gram)(Whole),2026-01-29,5277.88,0.65,MA
+Haryana,Fibre Crops,Cotton,2026-01-27,7578.5,0.65,MA
+Haryana,Fibre Crops,Cotton,2026-01-28,7546.28,0.65,MA
+Haryana,Fibre Crops,Cotton,2026-01-29,7539.81,0.65,MA
+Haryana,Oil Seeds,Mustard,2026-01-27,6764.53,0.65,MA
+Haryana,Oil Seeds,Mustard,2026-01-28,6789.13,0.65,MA
+Haryana,Oil Seeds,Mustard,2026-01-29,6564.66,0.65,MA
+Haryana,Vegetables,Onion,2026-01-27,2012.97,0.85,ARIMA
+Haryana,Vegetables,Onion,2026-01-28,2076.32,0.85,ARIMA
+Haryana,Vegetables,Onion,2026-01-29,2109.51,0.85,ARIMA
+Haryana,Cereals,Paddy(Common),2026-01-26,4049.49,0.65,MA
+Haryana,Cereals,Paddy(Common),2026-01-27,4231.67,0.65,MA
+Haryana,Cereals,Paddy(Common),2026-01-28,4048.18,0.65,MA
+Haryana,Vegetables,Potato,2026-01-27,635.68,0.85,ARIMA
+Haryana,Vegetables,Potato,2026-01-28,635.14,0.85,ARIMA
+Haryana,Vegetables,Potato,2026-01-29,635.12,0.85,ARIMA
+Haryana,Vegetables,Tomato,2026-01-27,2217.37,0.85,ARIMA
+Haryana,Vegetables,Tomato,2026-01-28,2217.92,0.85,ARIMA
+Haryana,Vegetables,Tomato,2026-01-29,2217.63,0.85,ARIMA

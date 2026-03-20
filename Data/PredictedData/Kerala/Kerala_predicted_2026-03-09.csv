@@ -1,0 +1,25 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Kerala,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-03-08,11600.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,11600.0,0.0,2026-03-08,11600.0,predicted
+Kerala,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-03-09,11600.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,11600.0,0.0,2026-03-09,11600.0,predicted
+Kerala,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-03-10,11600.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,11600.0,0.0,2026-03-10,11600.0,predicted
+Kerala,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-08,7660.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,7600.0,100.0,2026-03-08,7660.0,predicted
+Kerala,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-09,7700.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,7600.0,100.0,2026-03-09,7700.0,predicted
+Kerala,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-10,7740.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,7600.0,100.0,2026-03-10,7740.0,predicted
+Kerala,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-08,12680.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,12500.0,300.0,2026-03-08,12680.0,predicted
+Kerala,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-09,12800.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,12500.0,300.0,2026-03-09,12800.0,predicted
+Kerala,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-10,12920.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,12500.0,300.0,2026-03-10,12920.0,predicted
+Kerala,Copra,Oil Seeds,,,2026-03-08,13827.35,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,14506.06,-1131.1900000000005,2026-03-08,13827.35,predicted
+Kerala,Copra,Oil Seeds,,,2026-03-09,13374.87,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,14506.06,-1131.1900000000005,2026-03-09,13374.87,predicted
+Kerala,Copra,Oil Seeds,,,2026-03-10,12922.39,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,14506.06,-1131.1900000000005,2026-03-10,12922.39,predicted
+Kerala,Green Gram(Moong)(Whole),Pulses,,,2026-03-08,12960.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,12500.0,766.6700000000001,2026-03-08,12960.0,predicted
+Kerala,Green Gram(Moong)(Whole),Pulses,,,2026-03-09,13266.67,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,12500.0,766.6700000000001,2026-03-09,13266.67,predicted
+Kerala,Green Gram(Moong)(Whole),Pulses,,,2026-03-10,13573.34,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,12500.0,766.6700000000001,2026-03-10,13573.34,predicted
+Kerala,Onion,Vegetables,,,2026-03-08,3243.96,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,3045.22,331.23,2026-03-08,3243.96,predicted
+Kerala,Onion,Vegetables,,,2026-03-09,3376.45,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,3045.22,331.23,2026-03-09,3376.45,predicted
+Kerala,Onion,Vegetables,,,2026-03-10,3508.94,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,3045.22,331.23,2026-03-10,3508.94,predicted
+Kerala,Potato,Vegetables,,,2026-03-08,2985.54,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,3095.12,-182.6300000000001,2026-03-08,2985.54,predicted
+Kerala,Potato,Vegetables,,,2026-03-09,2912.49,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,3095.12,-182.6300000000001,2026-03-09,2912.49,predicted
+Kerala,Potato,Vegetables,,,2026-03-10,2839.44,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,3095.12,-182.6300000000001,2026-03-10,2839.44,predicted
+Kerala,Tomato,Vegetables,,,2026-03-08,1838.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,2040.3,-337.16999999999985,2026-03-08,1838.0,predicted
+Kerala,Tomato,Vegetables,,,2026-03-09,1703.13,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,2040.3,-337.16999999999985,2026-03-09,1703.13,predicted
+Kerala,Tomato,Vegetables,,,2026-03-10,1568.26,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,2040.3,-337.16999999999985,2026-03-10,1568.26,predicted

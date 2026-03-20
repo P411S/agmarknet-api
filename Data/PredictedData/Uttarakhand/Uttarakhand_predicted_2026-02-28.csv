@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Uttarakhand,Mustard,Oil Seeds,,,2026-02-27,6400.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6400.0,0.0,2026-02-27,6400.0,predicted
+Uttarakhand,Mustard,Oil Seeds,,,2026-02-28,6400.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6400.0,0.0,2026-02-28,6400.0,predicted
+Uttarakhand,Mustard,Oil Seeds,,,2026-03-01,6400.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6400.0,0.0,2026-03-01,6400.0,predicted
+Uttarakhand,Onion,Vegetables,,,2026-02-27,1599.14,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1592.98,10.269999999999982,2026-02-27,1599.14,predicted
+Uttarakhand,Onion,Vegetables,,,2026-02-28,1603.25,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1592.98,10.269999999999982,2026-02-28,1603.25,predicted
+Uttarakhand,Onion,Vegetables,,,2026-03-01,1607.36,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1592.98,10.269999999999982,2026-03-01,1607.36,predicted
+Uttarakhand,Potato,Vegetables,,,2026-02-27,605.14,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,618.69,-22.579999999999927,2026-02-27,605.14,predicted
+Uttarakhand,Potato,Vegetables,,,2026-02-28,596.11,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,618.69,-22.579999999999927,2026-02-28,596.11,predicted
+Uttarakhand,Potato,Vegetables,,,2026-03-01,587.08,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,618.69,-22.579999999999927,2026-03-01,587.08,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-02-27,1526.26,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1340.0,310.43000000000006,2026-02-27,1526.26,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-02-28,1650.43,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1340.0,310.43000000000006,2026-02-28,1650.43,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-03-01,1774.6,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1340.0,310.43000000000006,2026-03-01,1774.6,predicted

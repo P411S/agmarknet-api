@@ -1,0 +1,18 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Odisha,Cereals,Maize,2026-02-13,2500.0,2026-02-15,Actual
+Odisha,Cereals,Maize,2026-02-12,2500.0,2026-02-15,Actual
+Odisha,Cereals,Maize,2026-02-11,2500.0,2026-02-15,Actual
+Odisha,Cereals,Paddy(Common),2026-02-13,2369.0,2026-02-15,Actual
+Odisha,Cereals,Paddy(Common),2026-02-12,2369.0,2026-02-15,Actual
+Odisha,Cereals,Paddy(Common),2026-02-11,2369.0,2026-02-15,Actual
+Odisha,Fibre Crops,Cotton,2026-02-13,7500.0,2026-02-15,Actual
+Odisha,Fibre Crops,Cotton,2026-02-12,7990.0,2026-02-15,Actual
+Odisha,Vegetables,Onion,2026-02-13,1838.89,2026-02-15,Actual
+Odisha,Vegetables,Onion,2026-02-12,1826.98,2026-02-15,Actual
+Odisha,Vegetables,Onion,2026-02-11,2369.23,2026-02-15,Actual
+Odisha,Vegetables,Potato,2026-02-13,969.9,2026-02-15,Actual
+Odisha,Vegetables,Potato,2026-02-12,2006.49,2026-02-15,Actual
+Odisha,Vegetables,Potato,2026-02-11,2013.37,2026-02-15,Actual
+Odisha,Vegetables,Tomato,2026-02-13,1696.88,2026-02-15,Actual
+Odisha,Vegetables,Tomato,2026-02-12,1567.24,2026-02-15,Actual
+Odisha,Vegetables,Tomato,2026-02-11,2013.92,2026-02-15,Actual

@@ -1,0 +1,7 @@
+state,commodity_group,commodity,predicted_date,predicted_price,confidence_score,model_used
+Andhra Pradesh,Vegetables,Potato,2026-01-27,2616.81,0.65,MA
+Andhra Pradesh,Vegetables,Potato,2026-01-28,2517.02,0.65,MA
+Andhra Pradesh,Vegetables,Potato,2026-01-29,2524.97,0.65,MA
+Andhra Pradesh,Vegetables,Tomato,2026-01-27,2003.08,0.85,ARIMA
+Andhra Pradesh,Vegetables,Tomato,2026-01-28,1697.54,0.85,ARIMA
+Andhra Pradesh,Vegetables,Tomato,2026-01-29,1988.71,0.85,ARIMA

@@ -1,0 +1,34 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Telangana,Arhar(Tur/Red Gram)(Whole),2026-01-29,7757.53,MEDIUM
+Telangana,Arhar(Tur/Red Gram)(Whole),2026-01-30,7835.89,MEDIUM
+Telangana,Arhar(Tur/Red Gram)(Whole),2026-01-31,7914.24,MEDIUM
+Telangana,Black Gram(Urd Beans)(Whole),2026-01-28,7889.0,LOW
+Telangana,Black Gram(Urd Beans)(Whole),2026-01-29,7889.0,LOW
+Telangana,Black Gram(Urd Beans)(Whole),2026-01-30,7889.0,LOW
+Telangana,Cotton,2026-01-29,7938.21,HIGH
+Telangana,Cotton,2026-01-30,7949.73,HIGH
+Telangana,Cotton,2026-01-31,7961.25,HIGH
+Telangana,Green Gram(Moong)(Whole),2026-01-28,8063.0,LOW
+Telangana,Green Gram(Moong)(Whole),2026-01-29,8063.0,LOW
+Telangana,Green Gram(Moong)(Whole),2026-01-30,8063.0,LOW
+Telangana,Maize,2026-01-29,2336.22,MEDIUM
+Telangana,Maize,2026-01-30,2359.82,MEDIUM
+Telangana,Maize,2026-01-31,2383.42,MEDIUM
+Telangana,Onion,2026-01-29,1172.21,HIGH
+Telangana,Onion,2026-01-30,1167.03,HIGH
+Telangana,Onion,2026-01-31,1161.85,HIGH
+Telangana,Paddy(Common),2026-01-29,2515.22,HIGH
+Telangana,Paddy(Common),2026-01-30,2543.67,HIGH
+Telangana,Paddy(Common),2026-01-31,2572.12,HIGH
+Telangana,Potato,2026-01-29,935.27,HIGH
+Telangana,Potato,2026-01-30,892.9,HIGH
+Telangana,Potato,2026-01-31,850.53,HIGH
+Telangana,"Sesamum(Sesame,Gingelly,Til)",2026-01-28,10501.0,LOW
+Telangana,"Sesamum(Sesame,Gingelly,Til)",2026-01-29,10501.0,LOW
+Telangana,"Sesamum(Sesame,Gingelly,Til)",2026-01-30,10501.0,LOW
+Telangana,Soyabean,2026-01-29,5446.48,MEDIUM
+Telangana,Soyabean,2026-01-30,5501.5,MEDIUM
+Telangana,Soyabean,2026-01-31,5556.52,MEDIUM
+Telangana,Tomato,2026-01-29,1702.12,HIGH
+Telangana,Tomato,2026-01-30,1924.35,HIGH
+Telangana,Tomato,2026-01-31,2146.58,HIGH

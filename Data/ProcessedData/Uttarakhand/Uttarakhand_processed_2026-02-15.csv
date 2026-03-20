@@ -1,0 +1,12 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Uttarakhand,Cereals,Paddy(Common),2026-02-13,2040.0,2026-02-15,Actual
+Uttarakhand,Cereals,Paddy(Common),2026-02-11,1913.0,2026-02-15,Actual
+Uttarakhand,Vegetables,Onion,2026-02-13,1518.59,2026-02-15,Actual
+Uttarakhand,Vegetables,Onion,2026-02-12,1497.36,2026-02-15,Actual
+Uttarakhand,Vegetables,Onion,2026-02-11,1552.53,2026-02-15,Actual
+Uttarakhand,Vegetables,Potato,2026-02-13,635.76,2026-02-15,Actual
+Uttarakhand,Vegetables,Potato,2026-02-12,656.98,2026-02-15,Actual
+Uttarakhand,Vegetables,Potato,2026-02-11,672.83,2026-02-15,Actual
+Uttarakhand,Vegetables,Tomato,2026-02-13,1113.37,2026-02-15,Actual
+Uttarakhand,Vegetables,Tomato,2026-02-12,1433.02,2026-02-15,Actual
+Uttarakhand,Vegetables,Tomato,2026-02-11,1266.58,2026-02-15,Actual

@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Tripura,Onion,Vegetables,,,2026-02-19,2304.77,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,2447.62,-238.09000000000015,2026-02-19,2304.77,predicted
+Tripura,Onion,Vegetables,,,2026-02-20,2209.53,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,2447.62,-238.09000000000015,2026-02-20,2209.53,predicted
+Tripura,Onion,Vegetables,,,2026-02-21,2114.29,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,2447.62,-238.09000000000015,2026-02-21,2114.29,predicted
+Tripura,Paddy(Common),Cereals,,,2026-02-18,3950.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,3950.0,0.0,2026-02-18,3950.0,predicted
+Tripura,Paddy(Common),Cereals,,,2026-02-19,3950.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,3950.0,0.0,2026-02-19,3950.0,predicted
+Tripura,Paddy(Common),Cereals,,,2026-02-20,3950.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,3950.0,0.0,2026-02-20,3950.0,predicted
+Tripura,Potato,Vegetables,,,2026-02-19,1869.33,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,1843.33,43.32999999999993,2026-02-19,1869.33,predicted
+Tripura,Potato,Vegetables,,,2026-02-20,1886.66,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,1843.33,43.32999999999993,2026-02-20,1886.66,predicted
+Tripura,Potato,Vegetables,,,2026-02-21,1903.99,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,1843.33,43.32999999999993,2026-02-21,1903.99,predicted
+Tripura,Tomato,Vegetables,,,2026-02-19,3684.27,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,3613.16,118.51999999999998,2026-02-19,3684.27,predicted
+Tripura,Tomato,Vegetables,,,2026-02-20,3731.68,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,3613.16,118.51999999999998,2026-02-20,3731.68,predicted
+Tripura,Tomato,Vegetables,,,2026-02-21,3779.09,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,3613.16,118.51999999999998,2026-02-21,3779.09,predicted

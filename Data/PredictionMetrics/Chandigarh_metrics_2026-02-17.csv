@@ -1,0 +1,4 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Chandigarh,Onion,hybrid_trend,0.0,0.0,0.0,LOW,3
+Chandigarh,Potato,hybrid_trend,0.0,0.0,0.0,LOW,3
+Chandigarh,Tomato,hybrid_trend,0.0,0.0,0.0,LOW,3

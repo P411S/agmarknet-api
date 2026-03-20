@@ -1,0 +1,18 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Gujarat,Arhar(Tur/Red Gram)(Whole),hybrid_trend,,,,LOW,3
+Gujarat,Bajra(Pearl Millet/Cumbu),hybrid_trend,,,,LOW,3
+Gujarat,Bengal Gram(Gram)(Whole),hybrid_trend,,,,LOW,3
+Gujarat,Black Gram(Urd Beans)(Whole),hybrid_trend,,,,LOW,3
+Gujarat,Cotton,hybrid_trend,,,,LOW,3
+Gujarat,Green Gram(Moong)(Whole),hybrid_trend,,,,LOW,3
+Gujarat,Groundnut,hybrid_trend,,,,LOW,3
+Gujarat,Jowar(Sorghum),hybrid_trend,,,,LOW,3
+Gujarat,Maize,hybrid_ma,,,,LOW,2
+Gujarat,Mustard,hybrid_trend,,,,LOW,3
+Gujarat,Onion,hybrid_trend,,,,LOW,3
+Gujarat,Paddy(Common),hybrid_trend,,,,LOW,3
+Gujarat,Potato,hybrid_trend,,,,LOW,3
+Gujarat,"Sesamum(Sesame,Gingelly,Til)",hybrid_trend,,,,LOW,3
+Gujarat,Soyabean,hybrid_trend,,,,LOW,3
+Gujarat,Tomato,hybrid_trend,,,,LOW,3
+Gujarat,Wheat,hybrid_trend,,,,LOW,3

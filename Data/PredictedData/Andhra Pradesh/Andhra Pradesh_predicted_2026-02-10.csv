@@ -1,0 +1,13 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Andhra Pradesh,Fibre Crops,Cotton,,,2026-02-08,7815.06,predicted,hybrid_ma,MEDIUM,7769.0,-250.0,2026-02-10
+Andhra Pradesh,Fibre Crops,Cotton,,,2026-02-09,7894.0,predicted,hybrid_ma,MEDIUM,7769.0,-250.0,2026-02-10
+Andhra Pradesh,Fibre Crops,Cotton,,,2026-02-10,7972.94,predicted,hybrid_ma,MEDIUM,7769.0,-250.0,2026-02-10
+Andhra Pradesh,Oil Seeds,Groundnut,,,2026-02-08,8054.28,predicted,hybrid_ma,MEDIUM,8546.96,822.6399999999994,2026-02-10
+Andhra Pradesh,Oil Seeds,Groundnut,,,2026-02-09,8135.64,predicted,hybrid_ma,MEDIUM,8546.96,822.6399999999994,2026-02-10
+Andhra Pradesh,Oil Seeds,Groundnut,,,2026-02-10,8217.0,predicted,hybrid_ma,MEDIUM,8546.96,822.6399999999994,2026-02-10
+Andhra Pradesh,Vegetables,Potato,,,2026-02-08,1584.0,predicted,hybrid_ma,MEDIUM,1600.0,0.0,2026-02-10
+Andhra Pradesh,Vegetables,Potato,,,2026-02-09,1600.0,predicted,hybrid_ma,MEDIUM,1600.0,0.0,2026-02-10
+Andhra Pradesh,Vegetables,Potato,,,2026-02-10,1616.0,predicted,hybrid_ma,MEDIUM,1600.0,0.0,2026-02-10
+Andhra Pradesh,Vegetables,Tomato,,,2026-02-09,1343.45,predicted,hybrid_trend,HIGH,1292.0,85.75,2026-02-10
+Andhra Pradesh,Vegetables,Tomato,,,2026-02-10,1377.75,predicted,hybrid_trend,HIGH,1292.0,85.75,2026-02-10
+Andhra Pradesh,Vegetables,Tomato,,,2026-02-11,1412.05,predicted,hybrid_trend,HIGH,1292.0,85.75,2026-02-10

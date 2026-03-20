@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-02-21,9700.12,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,9783.9,-139.63000000000102,2026-02-21,9700.12,predicted
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-02-22,9644.27,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,9783.9,-139.63000000000102,2026-02-22,9644.27,predicted
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-02-23,9588.42,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,9783.9,-139.63000000000102,2026-02-23,9588.42,predicted
+Assam,Onion,Vegetables,,,2026-02-21,2178.11,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,2250.93,-121.36000000000013,2026-02-21,2178.11,predicted
+Assam,Onion,Vegetables,,,2026-02-22,2129.57,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,2250.93,-121.36000000000013,2026-02-22,2129.57,predicted
+Assam,Onion,Vegetables,,,2026-02-23,2081.03,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,2250.93,-121.36000000000013,2026-02-23,2081.03,predicted
+Assam,Potato,Vegetables,,,2026-02-21,1369.48,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,1278.57,151.51,2026-02-21,1369.48,predicted
+Assam,Potato,Vegetables,,,2026-02-22,1430.08,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,1278.57,151.51,2026-02-22,1430.08,predicted
+Assam,Potato,Vegetables,,,2026-02-23,1490.68,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,1278.57,151.51,2026-02-23,1490.68,predicted
+Assam,Tomato,Vegetables,,,2026-02-21,2088.92,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,2157.5,-114.30000000000018,2026-02-21,2088.92,predicted
+Assam,Tomato,Vegetables,,,2026-02-22,2043.2,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,2157.5,-114.30000000000018,2026-02-22,2043.2,predicted
+Assam,Tomato,Vegetables,,,2026-02-23,1997.48,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,2157.5,-114.30000000000018,2026-02-23,1997.48,predicted

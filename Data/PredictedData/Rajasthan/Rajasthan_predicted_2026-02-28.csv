@@ -1,0 +1,58 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Rajasthan,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-02-27,6241.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6295.0,-90.0,2026-02-27,6241.0,predicted
+Rajasthan,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-02-28,6205.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6295.0,-90.0,2026-02-28,6205.0,predicted
+Rajasthan,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-03-01,6169.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6295.0,-90.0,2026-03-01,6169.0,predicted
+Rajasthan,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-02-27,2090.63,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,2031.7,98.21000000000004,2026-02-27,2090.63,predicted
+Rajasthan,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-02-28,2129.91,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,2031.7,98.21000000000004,2026-02-28,2129.91,predicted
+Rajasthan,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-03-01,2169.19,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,2031.7,98.21000000000004,2026-03-01,2169.19,predicted
+Rajasthan,Barley(Jau),Cereals,,,2026-02-27,2222.71,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,2172.02,84.48000000000002,2026-02-27,2222.71,predicted
+Rajasthan,Barley(Jau),Cereals,,,2026-02-28,2256.5,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,2172.02,84.48000000000002,2026-02-28,2256.5,predicted
+Rajasthan,Barley(Jau),Cereals,,,2026-03-01,2290.29,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,2172.02,84.48000000000002,2026-03-01,2290.29,predicted
+Rajasthan,Bengal Gram(Gram)(Whole),Pulses,,,2026-02-27,4838.23,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,4971.87,-222.73000000000047,2026-02-27,4838.23,predicted
+Rajasthan,Bengal Gram(Gram)(Whole),Pulses,,,2026-02-28,4749.14,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,4971.87,-222.73000000000047,2026-02-28,4749.14,predicted
+Rajasthan,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-01,4660.05,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,4971.87,-222.73000000000047,2026-03-01,4660.05,predicted
+Rajasthan,Black Gram(Urd Beans)(Whole),Pulses,,,2026-02-27,6147.7,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6030.02,196.1300000000001,2026-02-27,6147.7,predicted
+Rajasthan,Black Gram(Urd Beans)(Whole),Pulses,,,2026-02-28,6226.15,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6030.02,196.1300000000001,2026-02-28,6226.15,predicted
+Rajasthan,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-01,6304.6,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6030.02,196.1300000000001,2026-03-01,6304.6,predicted
+Rajasthan,Cotton,Fibre Crops,,,2026-02-27,7400.55,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,7381.96,30.98999999999978,2026-02-27,7400.55,predicted
+Rajasthan,Cotton,Fibre Crops,,,2026-02-28,7412.95,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,7381.96,30.98999999999978,2026-02-28,7412.95,predicted
+Rajasthan,Cotton,Fibre Crops,,,2026-03-01,7425.35,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,7381.96,30.98999999999978,2026-03-01,7425.35,predicted
+Rajasthan,Green Gram(Moong)(Whole),Pulses,,,2026-02-27,7770.81,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,7583.33,312.46000000000004,2026-02-27,7770.81,predicted
+Rajasthan,Green Gram(Moong)(Whole),Pulses,,,2026-02-28,7895.79,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,7583.33,312.46000000000004,2026-02-28,7895.79,predicted
+Rajasthan,Green Gram(Moong)(Whole),Pulses,,,2026-03-01,8020.77,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,7583.33,312.46000000000004,2026-03-01,8020.77,predicted
+Rajasthan,Groundnut,Oil Seeds,,,2026-02-27,6108.96,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6260.46,-252.5,2026-02-27,6108.96,predicted
+Rajasthan,Groundnut,Oil Seeds,,,2026-02-28,6007.96,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6260.46,-252.5,2026-02-28,6007.96,predicted
+Rajasthan,Groundnut,Oil Seeds,,,2026-03-01,5906.96,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,6260.46,-252.5,2026-03-01,5906.96,predicted
+Rajasthan,Jowar(Sorghum),Cereals,,,2026-02-25,3224.46,fallback_copy,0.0,0.0,0.0,LOW,2026-02-24,2026-02-28,3224.46,0.0,2026-02-25,3224.46,predicted
+Rajasthan,Jowar(Sorghum),Cereals,,,2026-02-26,3224.46,fallback_copy,0.0,0.0,0.0,LOW,2026-02-24,2026-02-28,3224.46,0.0,2026-02-26,3224.46,predicted
+Rajasthan,Jowar(Sorghum),Cereals,,,2026-02-27,3224.46,fallback_copy,0.0,0.0,0.0,LOW,2026-02-24,2026-02-28,3224.46,0.0,2026-02-27,3224.46,predicted
+Rajasthan,Lentil(Masur)(Whole),Pulses,,,2026-02-27,5673.38,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,5705.0,-52.69999999999982,2026-02-27,5673.38,predicted
+Rajasthan,Lentil(Masur)(Whole),Pulses,,,2026-02-28,5652.3,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,5705.0,-52.69999999999982,2026-02-28,5652.3,predicted
+Rajasthan,Lentil(Masur)(Whole),Pulses,,,2026-03-01,5631.22,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,5705.0,-52.69999999999982,2026-03-01,5631.22,predicted
+Rajasthan,Maize,Cereals,,,2026-02-27,1487.09,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1476.25,18.059999999999945,2026-02-27,1487.09,predicted
+Rajasthan,Maize,Cereals,,,2026-02-28,1494.31,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1476.25,18.059999999999945,2026-02-28,1494.31,predicted
+Rajasthan,Maize,Cereals,,,2026-03-01,1501.53,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1476.25,18.059999999999945,2026-03-01,1501.53,predicted
+Rajasthan,Mustard,Oil Seeds,,,2026-02-27,5944.06,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,5906.91,61.92000000000007,2026-02-27,5944.06,predicted
+Rajasthan,Mustard,Oil Seeds,,,2026-02-28,5968.83,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,5906.91,61.92000000000007,2026-02-28,5968.83,predicted
+Rajasthan,Mustard,Oil Seeds,,,2026-03-01,5993.6,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,5906.91,61.92000000000007,2026-03-01,5993.6,predicted
+Rajasthan,Onion,Vegetables,,,2026-02-27,1221.16,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1129.94,152.04000000000008,2026-02-27,1221.16,predicted
+Rajasthan,Onion,Vegetables,,,2026-02-28,1281.98,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1129.94,152.04000000000008,2026-02-28,1281.98,predicted
+Rajasthan,Onion,Vegetables,,,2026-03-01,1342.8,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,1129.94,152.04000000000008,2026-03-01,1342.8,predicted
+Rajasthan,Paddy(Common),Cereals,,,2026-02-27,3679.2,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,3663.0,27.0,2026-02-27,3679.2,predicted
+Rajasthan,Paddy(Common),Cereals,,,2026-02-28,3690.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,3663.0,27.0,2026-02-28,3690.0,predicted
+Rajasthan,Paddy(Common),Cereals,,,2026-03-01,3700.8,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,3663.0,27.0,2026-03-01,3700.8,predicted
+Rajasthan,Potato,Vegetables,,,2026-02-27,552.16,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,561.42,-15.440000000000055,2026-02-27,552.16,predicted
+Rajasthan,Potato,Vegetables,,,2026-02-28,545.98,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,561.42,-15.440000000000055,2026-02-28,545.98,predicted
+Rajasthan,Potato,Vegetables,,,2026-03-01,539.8,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,561.42,-15.440000000000055,2026-03-01,539.8,predicted
+Rajasthan,"Sesamum(Sesame,Gingelly,Til)",Oil Seeds,,,2026-02-27,18857.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,18950.0,-155.0,2026-02-27,18857.0,predicted
+Rajasthan,"Sesamum(Sesame,Gingelly,Til)",Oil Seeds,,,2026-02-28,18795.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,18950.0,-155.0,2026-02-28,18795.0,predicted
+Rajasthan,"Sesamum(Sesame,Gingelly,Til)",Oil Seeds,,,2026-03-01,18733.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,18950.0,-155.0,2026-03-01,18733.0,predicted
+Rajasthan,Soyabean,Oil Seeds,,,2026-02-27,5059.4,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,5026.52,54.80000000000018,2026-02-27,5059.4,predicted
+Rajasthan,Soyabean,Oil Seeds,,,2026-02-28,5081.32,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,5026.52,54.80000000000018,2026-02-28,5081.32,predicted
+Rajasthan,Soyabean,Oil Seeds,,,2026-03-01,5103.24,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,5026.52,54.80000000000018,2026-03-01,5103.24,predicted
+Rajasthan,Tomato,Vegetables,,,2026-02-27,657.74,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,786.34,-214.32999999999993,2026-02-27,657.74,predicted
+Rajasthan,Tomato,Vegetables,,,2026-02-28,572.01,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,786.34,-214.32999999999993,2026-02-28,572.01,predicted
+Rajasthan,Tomato,Vegetables,,,2026-03-01,486.28,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,786.34,-214.32999999999993,2026-03-01,486.28,predicted
+Rajasthan,Wheat,Cereals,,,2026-02-27,2290.33,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,2335.59,-75.42999999999984,2026-02-27,2290.33,predicted
+Rajasthan,Wheat,Cereals,,,2026-02-28,2260.16,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,2335.59,-75.42999999999984,2026-02-28,2260.16,predicted
+Rajasthan,Wheat,Cereals,,,2026-03-01,2229.99,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-26,2026-02-28,2335.59,-75.42999999999984,2026-03-01,2229.99,predicted

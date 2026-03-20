@@ -1,0 +1,58 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Rajasthan,Arhar(Tur/Red Gram)(Whole),2026-01-30,7056.0,HIGH
+Rajasthan,Arhar(Tur/Red Gram)(Whole),2026-01-31,7120.0,HIGH
+Rajasthan,Arhar(Tur/Red Gram)(Whole),2026-02-01,7184.0,HIGH
+Rajasthan,Bajra(Pearl Millet/Cumbu),2026-01-30,2271.07,HIGH
+Rajasthan,Bajra(Pearl Millet/Cumbu),2026-01-31,2329.12,HIGH
+Rajasthan,Bajra(Pearl Millet/Cumbu),2026-02-01,2387.17,HIGH
+Rajasthan,Barley(Jau),2026-01-30,2435.57,HIGH
+Rajasthan,Barley(Jau),2026-01-31,2469.46,HIGH
+Rajasthan,Barley(Jau),2026-02-01,2503.35,HIGH
+Rajasthan,Bengal Gram(Gram)(Whole),2026-01-30,5225.72,HIGH
+Rajasthan,Bengal Gram(Gram)(Whole),2026-01-31,5220.72,HIGH
+Rajasthan,Bengal Gram(Gram)(Whole),2026-02-01,5215.72,HIGH
+Rajasthan,Black Gram(Urd Beans)(Whole),2026-01-30,5990.19,HIGH
+Rajasthan,Black Gram(Urd Beans)(Whole),2026-01-31,5771.9,HIGH
+Rajasthan,Black Gram(Urd Beans)(Whole),2026-02-01,5553.61,HIGH
+Rajasthan,Cotton,2026-01-30,7461.24,HIGH
+Rajasthan,Cotton,2026-01-31,7390.26,HIGH
+Rajasthan,Cotton,2026-02-01,7319.28,HIGH
+Rajasthan,Green Gram(Moong)(Whole),2026-01-30,7153.3,HIGH
+Rajasthan,Green Gram(Moong)(Whole),2026-01-31,7203.38,HIGH
+Rajasthan,Green Gram(Moong)(Whole),2026-02-01,7253.46,HIGH
+Rajasthan,Groundnut,2026-01-30,6538.46,HIGH
+Rajasthan,Groundnut,2026-01-31,6668.48,HIGH
+Rajasthan,Groundnut,2026-02-01,6798.5,HIGH
+Rajasthan,Jowar(Sorghum),2026-01-30,1770.37,HIGH
+Rajasthan,Jowar(Sorghum),2026-01-31,1683.95,HIGH
+Rajasthan,Jowar(Sorghum),2026-02-01,1597.53,HIGH
+Rajasthan,Lentil(Masur)(Whole),2026-01-29,5953.92,LOW
+Rajasthan,Lentil(Masur)(Whole),2026-01-30,5953.92,LOW
+Rajasthan,Lentil(Masur)(Whole),2026-01-31,5953.92,LOW
+Rajasthan,Maize,2026-01-30,1571.52,HIGH
+Rajasthan,Maize,2026-01-31,1573.11,HIGH
+Rajasthan,Maize,2026-02-01,1574.7,HIGH
+Rajasthan,Mustard,2026-01-30,6740.39,HIGH
+Rajasthan,Mustard,2026-01-31,6792.31,HIGH
+Rajasthan,Mustard,2026-02-01,6844.23,HIGH
+Rajasthan,Onion,2026-01-30,1349.48,HIGH
+Rajasthan,Onion,2026-01-31,1350.52,HIGH
+Rajasthan,Onion,2026-02-01,1351.56,HIGH
+Rajasthan,Paddy(Common),2026-01-30,3287.61,HIGH
+Rajasthan,Paddy(Common),2026-01-31,3272.02,HIGH
+Rajasthan,Paddy(Common),2026-02-01,3256.43,HIGH
+Rajasthan,Potato,2026-01-30,505.11,HIGH
+Rajasthan,Potato,2026-01-31,486.03,HIGH
+Rajasthan,Potato,2026-02-01,466.95,HIGH
+Rajasthan,"Sesamum(Sesame,Gingelly,Til)",2026-01-30,11697.89,MEDIUM
+Rajasthan,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,11816.06,MEDIUM
+Rajasthan,"Sesamum(Sesame,Gingelly,Til)",2026-02-01,11934.22,MEDIUM
+Rajasthan,Soyabean,2026-01-30,4947.66,HIGH
+Rajasthan,Soyabean,2026-01-31,4864.55,HIGH
+Rajasthan,Soyabean,2026-02-01,4781.44,HIGH
+Rajasthan,Tomato,2026-01-30,1116.66,HIGH
+Rajasthan,Tomato,2026-01-31,1044.71,HIGH
+Rajasthan,Tomato,2026-02-01,972.76,HIGH
+Rajasthan,Wheat,2026-01-30,2638.31,HIGH
+Rajasthan,Wheat,2026-01-31,2659.18,HIGH
+Rajasthan,Wheat,2026-02-01,2680.05,HIGH

@@ -1,0 +1,51 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Madhya Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-02,2261.99,2026-03-04,Actual
+Madhya Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),2026-02-28,1738.0,2026-03-04,Actual
+Madhya Pradesh,Cereals,Barley(Jau),2026-03-02,1925.14,2026-03-04,Actual
+Madhya Pradesh,Cereals,Jowar(Sorghum),2026-02-28,1992.0,2026-03-04,Actual
+Madhya Pradesh,Cereals,Maize,2026-03-02,1553.35,2026-03-04,Actual
+Madhya Pradesh,Cereals,Maize,2026-03-01,1536.52,2026-03-04,Actual
+Madhya Pradesh,Cereals,Maize,2026-02-28,1559.21,2026-03-04,Actual
+Madhya Pradesh,Cereals,Paddy(Common),2026-03-02,3895.98,2026-03-04,Actual
+Madhya Pradesh,Cereals,Paddy(Common),2026-03-01,3421.81,2026-03-04,Actual
+Madhya Pradesh,Cereals,Paddy(Common),2026-02-28,3739.54,2026-03-04,Actual
+Madhya Pradesh,Cereals,Wheat,2026-03-02,2235.22,2026-03-04,Actual
+Madhya Pradesh,Cereals,Wheat,2026-03-01,2288.19,2026-03-04,Actual
+Madhya Pradesh,Cereals,Wheat,2026-02-28,2270.44,2026-03-04,Actual
+Madhya Pradesh,Fibre Crops,Cotton,2026-03-02,7432.16,2026-03-04,Actual
+Madhya Pradesh,Fibre Crops,Cotton,2026-03-01,6785.01,2026-03-04,Actual
+Madhya Pradesh,Fibre Crops,Cotton,2026-02-28,7288.36,2026-03-04,Actual
+Madhya Pradesh,Oil Seeds,Groundnut,2026-03-02,6931.31,2026-03-04,Actual
+Madhya Pradesh,Oil Seeds,Groundnut,2026-03-01,6112.57,2026-03-04,Actual
+Madhya Pradesh,Oil Seeds,Groundnut,2026-02-28,5530.18,2026-03-04,Actual
+Madhya Pradesh,Oil Seeds,Mustard,2026-03-02,5797.89,2026-03-04,Actual
+Madhya Pradesh,Oil Seeds,Mustard,2026-03-01,5802.6,2026-03-04,Actual
+Madhya Pradesh,Oil Seeds,Mustard,2026-02-28,5592.44,2026-03-04,Actual
+Madhya Pradesh,Oil Seeds,Niger Seed(Ramtil),2026-03-01,9975.0,2026-03-04,Actual
+Madhya Pradesh,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-02,9168.28,2026-03-04,Actual
+Madhya Pradesh,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-02-28,7525.0,2026-03-04,Actual
+Madhya Pradesh,Oil Seeds,Soyabean,2026-03-02,5131.69,2026-03-04,Actual
+Madhya Pradesh,Oil Seeds,Soyabean,2026-03-01,4979.86,2026-03-04,Actual
+Madhya Pradesh,Oil Seeds,Soyabean,2026-02-28,5123.26,2026-03-04,Actual
+Madhya Pradesh,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-02,7700.3,2026-03-04,Actual
+Madhya Pradesh,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-01,7822.43,2026-03-04,Actual
+Madhya Pradesh,Pulses,Arhar(Tur/Red Gram)(Whole),2026-02-28,7744.87,2026-03-04,Actual
+Madhya Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-03-02,5084.01,2026-03-04,Actual
+Madhya Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-03-01,5084.46,2026-03-04,Actual
+Madhya Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-02-28,5317.73,2026-03-04,Actual
+Madhya Pradesh,Pulses,Black Gram(Urd Beans)(Whole),2026-03-02,7181.59,2026-03-04,Actual
+Madhya Pradesh,Pulses,Black Gram(Urd Beans)(Whole),2026-02-28,7746.3,2026-03-04,Actual
+Madhya Pradesh,Pulses,Green Gram(Moong)(Whole),2026-03-02,7287.1,2026-03-04,Actual
+Madhya Pradesh,Pulses,Green Gram(Moong)(Whole),2026-02-28,8131.94,2026-03-04,Actual
+Madhya Pradesh,Pulses,Lentil(Masur)(Whole),2026-03-02,6085.86,2026-03-04,Actual
+Madhya Pradesh,Pulses,Lentil(Masur)(Whole),2026-03-01,6369.23,2026-03-04,Actual
+Madhya Pradesh,Pulses,Lentil(Masur)(Whole),2026-02-28,6354.16,2026-03-04,Actual
+Madhya Pradesh,Vegetables,Onion,2026-03-02,1166.44,2026-03-04,Actual
+Madhya Pradesh,Vegetables,Onion,2026-03-01,731.06,2026-03-04,Actual
+Madhya Pradesh,Vegetables,Onion,2026-02-28,967.93,2026-03-04,Actual
+Madhya Pradesh,Vegetables,Potato,2026-03-02,547.64,2026-03-04,Actual
+Madhya Pradesh,Vegetables,Potato,2026-03-01,850.0,2026-03-04,Actual
+Madhya Pradesh,Vegetables,Potato,2026-02-28,468.12,2026-03-04,Actual
+Madhya Pradesh,Vegetables,Tomato,2026-03-02,517.1,2026-03-04,Actual
+Madhya Pradesh,Vegetables,Tomato,2026-03-01,899.58,2026-03-04,Actual
+Madhya Pradesh,Vegetables,Tomato,2026-02-28,800.0,2026-03-04,Actual

@@ -1,0 +1,18 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Haryana,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-01,1800.0,2026-03-03,Actual
+Haryana,Cereals,Bajra(Pearl Millet/Cumbu),2026-02-27,1900.0,2026-03-03,Actual
+Haryana,Cereals,Paddy(Common),2026-02-28,4600.0,2026-03-03,Actual
+Haryana,Fibre Crops,Cotton,2026-02-28,7212.44,2026-03-03,Actual
+Haryana,Fibre Crops,Cotton,2026-02-27,7155.45,2026-03-03,Actual
+Haryana,Oil Seeds,Mustard,2026-03-01,6137.05,2026-03-03,Actual
+Haryana,Oil Seeds,Mustard,2026-02-28,5891.11,2026-03-03,Actual
+Haryana,Oil Seeds,Mustard,2026-02-27,5920.19,2026-03-03,Actual
+Haryana,Vegetables,Onion,2026-03-01,1422.87,2026-03-03,Actual
+Haryana,Vegetables,Onion,2026-02-28,1361.87,2026-03-03,Actual
+Haryana,Vegetables,Onion,2026-02-27,1456.93,2026-03-03,Actual
+Haryana,Vegetables,Potato,2026-03-01,500.57,2026-03-03,Actual
+Haryana,Vegetables,Potato,2026-02-28,445.87,2026-03-03,Actual
+Haryana,Vegetables,Potato,2026-02-27,587.92,2026-03-03,Actual
+Haryana,Vegetables,Tomato,2026-03-01,1230.29,2026-03-03,Actual
+Haryana,Vegetables,Tomato,2026-02-28,1167.65,2026-03-03,Actual
+Haryana,Vegetables,Tomato,2026-02-27,1319.72,2026-03-03,Actual

@@ -1,0 +1,13 @@
+state,commodity_group,commodity,predicted_date,predicted_price,confidence_score,model_used
+Tripura,Vegetables,Onion,2026-01-27,2922.61,0.85,ARIMA
+Tripura,Vegetables,Onion,2026-01-28,3199.96,0.85,ARIMA
+Tripura,Vegetables,Onion,2026-01-29,2922.65,0.85,ARIMA
+Tripura,Cereals,Paddy(Common),2026-01-26,2250.48,0.4,BOOTSTRAP
+Tripura,Cereals,Paddy(Common),2026-01-27,2192.1,0.4,BOOTSTRAP
+Tripura,Cereals,Paddy(Common),2026-01-28,2224.06,0.4,BOOTSTRAP
+Tripura,Vegetables,Potato,2026-01-27,1609.78,0.85,ARIMA
+Tripura,Vegetables,Potato,2026-01-28,1631.56,0.85,ARIMA
+Tripura,Vegetables,Potato,2026-01-29,1651.31,0.85,ARIMA
+Tripura,Vegetables,Tomato,2026-01-27,5131.83,0.85,ARIMA
+Tripura,Vegetables,Tomato,2026-01-28,5740.13,0.85,ARIMA
+Tripura,Vegetables,Tomato,2026-01-29,6325.76,0.85,ARIMA

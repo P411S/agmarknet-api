@@ -1,0 +1,19 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),,,2026-02-06,8830.75,predicted,hybrid_trend,HIGH,8627.62,338.5500000000011,2026-02-07
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),,,2026-02-07,8966.17,predicted,hybrid_trend,HIGH,8627.62,338.5500000000011,2026-02-07
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),,,2026-02-08,9101.59,predicted,hybrid_trend,HIGH,8627.62,338.5500000000011,2026-02-07
+Karnataka,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-06,5593.5,predicted,hybrid_ma,MEDIUM,5525.0,-250.0,2026-02-07
+Karnataka,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-07,5650.0,predicted,hybrid_ma,MEDIUM,5525.0,-250.0,2026-02-07
+Karnataka,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-08,5706.5,predicted,hybrid_ma,MEDIUM,5525.0,-250.0,2026-02-07
+Karnataka,Fibre Crops,Cotton,,,2026-02-06,7462.8,predicted,hybrid_trend,HIGH,7758.0,-492.0,2026-02-07
+Karnataka,Fibre Crops,Cotton,,,2026-02-07,7266.0,predicted,hybrid_trend,HIGH,7758.0,-492.0,2026-02-07
+Karnataka,Fibre Crops,Cotton,,,2026-02-08,7069.2,predicted,hybrid_trend,HIGH,7758.0,-492.0,2026-02-07
+Karnataka,Oil Seeds,Groundnut,,,2026-02-06,8158.6,predicted,hybrid_trend,HIGH,8110.0,81.0,2026-02-07
+Karnataka,Oil Seeds,Groundnut,,,2026-02-07,8191.0,predicted,hybrid_trend,HIGH,8110.0,81.0,2026-02-07
+Karnataka,Oil Seeds,Groundnut,,,2026-02-08,8223.4,predicted,hybrid_trend,HIGH,8110.0,81.0,2026-02-07
+Karnataka,Vegetables,Onion,,,2026-02-06,1100.0,predicted,fallback_copy,LOW,1100.0,0.0,2026-02-07
+Karnataka,Vegetables,Onion,,,2026-02-07,1100.0,predicted,fallback_copy,LOW,1100.0,0.0,2026-02-07
+Karnataka,Vegetables,Onion,,,2026-02-08,1100.0,predicted,fallback_copy,LOW,1100.0,0.0,2026-02-07
+Karnataka,Cereals,Paddy(Common),,,2026-02-06,2375.18,predicted,hybrid_trend,HIGH,2541.61,-277.3899999999999,2026-02-07
+Karnataka,Cereals,Paddy(Common),,,2026-02-07,2264.22,predicted,hybrid_trend,HIGH,2541.61,-277.3899999999999,2026-02-07
+Karnataka,Cereals,Paddy(Common),,,2026-02-08,2153.26,predicted,hybrid_trend,HIGH,2541.61,-277.3899999999999,2026-02-07

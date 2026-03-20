@@ -1,0 +1,37 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Telangana,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-03-18,7235.77,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,7025.0,-567.7200000000003,2026-03-18,7235.77,predicted
+Telangana,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-03-19,7308.86,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,7025.0,-567.7200000000003,2026-03-19,7308.86,predicted
+Telangana,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-03-20,7381.95,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,7025.0,-567.7200000000003,2026-03-20,7381.95,predicted
+Telangana,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-17,5189.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-16,2026-03-19,5189.0,0.0,2026-03-17,5189.0,predicted
+Telangana,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-18,5189.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-16,2026-03-19,5189.0,0.0,2026-03-18,5189.0,predicted
+Telangana,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-19,5189.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-16,2026-03-19,5189.0,0.0,2026-03-19,5189.0,predicted
+Telangana,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-17,7000.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-16,2026-03-19,7000.0,0.0,2026-03-17,7000.0,predicted
+Telangana,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-18,7000.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-16,2026-03-19,7000.0,0.0,2026-03-18,7000.0,predicted
+Telangana,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-19,7000.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-16,2026-03-19,7000.0,0.0,2026-03-19,7000.0,predicted
+Telangana,Cotton,Fibre Crops,,,2026-03-18,6528.18,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,6715.81,-312.71999999999935,2026-03-18,6528.18,predicted
+Telangana,Cotton,Fibre Crops,,,2026-03-19,6403.09,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,6715.81,-312.71999999999935,2026-03-19,6403.09,predicted
+Telangana,Cotton,Fibre Crops,,,2026-03-20,6278.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,6715.81,-312.71999999999935,2026-03-20,6278.0,predicted
+Telangana,Green Gram(Moong)(Whole),Pulses,,,2026-03-18,6484.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,6500.0,-100.0,2026-03-18,6484.5,predicted
+Telangana,Green Gram(Moong)(Whole),Pulses,,,2026-03-19,6550.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,6500.0,-100.0,2026-03-19,6550.0,predicted
+Telangana,Green Gram(Moong)(Whole),Pulses,,,2026-03-20,6615.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,6500.0,-100.0,2026-03-20,6615.5,predicted
+Telangana,Groundnut,Oil Seeds,,,2026-03-18,6766.15,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,6860.0,51.0,2026-03-18,6766.15,predicted
+Telangana,Groundnut,Oil Seeds,,,2026-03-19,6834.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,6860.0,51.0,2026-03-19,6834.5,predicted
+Telangana,Groundnut,Oil Seeds,,,2026-03-20,6902.85,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,6860.0,51.0,2026-03-20,6902.85,predicted
+Telangana,Maize,Cereals,,,2026-03-18,2327.96,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,2300.0,46.59999999999991,2026-03-18,2327.96,predicted
+Telangana,Maize,Cereals,,,2026-03-19,2346.6,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,2300.0,46.59999999999991,2026-03-19,2346.6,predicted
+Telangana,Maize,Cereals,,,2026-03-20,2365.24,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,2300.0,46.59999999999991,2026-03-20,2365.24,predicted
+Telangana,Onion,Vegetables,,,2026-03-18,1046.67,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1100.0,-88.88000000000011,2026-03-18,1046.67,predicted
+Telangana,Onion,Vegetables,,,2026-03-19,1011.12,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1100.0,-88.88000000000011,2026-03-19,1011.12,predicted
+Telangana,Onion,Vegetables,,,2026-03-20,975.57,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1100.0,-88.88000000000011,2026-03-20,975.57,predicted
+Telangana,Paddy(Common),Cereals,,,2026-03-18,2417.16,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,2400.01,28.590000000000146,2026-03-18,2417.16,predicted
+Telangana,Paddy(Common),Cereals,,,2026-03-19,2428.6,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,2400.01,28.590000000000146,2026-03-19,2428.6,predicted
+Telangana,Paddy(Common),Cereals,,,2026-03-20,2440.04,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,2400.01,28.590000000000146,2026-03-20,2440.04,predicted
+Telangana,Potato,Vegetables,,,2026-03-18,1011.47,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1042.27,-51.32999999999993,2026-03-18,1011.47,predicted
+Telangana,Potato,Vegetables,,,2026-03-19,990.94,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1042.27,-51.32999999999993,2026-03-19,990.94,predicted
+Telangana,Potato,Vegetables,,,2026-03-20,970.41,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1042.27,-51.32999999999993,2026-03-20,970.41,predicted
+Telangana,Soyabean,Oil Seeds,,,2026-03-17,5319.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-16,2026-03-19,5319.0,0.0,2026-03-17,5319.0,predicted
+Telangana,Soyabean,Oil Seeds,,,2026-03-18,5319.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-16,2026-03-19,5319.0,0.0,2026-03-18,5319.0,predicted
+Telangana,Soyabean,Oil Seeds,,,2026-03-19,5319.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-16,2026-03-19,5319.0,0.0,2026-03-19,5319.0,predicted
+Telangana,Tomato,Vegetables,,,2026-03-18,640.83,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,700.0,-98.61000000000001,2026-03-18,640.83,predicted
+Telangana,Tomato,Vegetables,,,2026-03-19,601.39,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,700.0,-98.61000000000001,2026-03-19,601.39,predicted
+Telangana,Tomato,Vegetables,,,2026-03-20,561.95,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,700.0,-98.61000000000001,2026-03-20,561.95,predicted

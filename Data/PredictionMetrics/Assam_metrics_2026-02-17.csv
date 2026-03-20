@@ -1,0 +1,5 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Assam,Lentil(Masur)(Whole),hybrid_trend,0.0,0.0,0.0,LOW,3
+Assam,Onion,hybrid_trend,0.0,0.0,0.0,LOW,3
+Assam,Potato,hybrid_trend,0.0,0.0,0.0,LOW,3
+Assam,Tomato,hybrid_trend,0.0,0.0,0.0,LOW,3

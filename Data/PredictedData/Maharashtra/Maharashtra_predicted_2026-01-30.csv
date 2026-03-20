@@ -1,0 +1,52 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Maharashtra,Arhar(Tur/Red Gram)(Whole),2026-01-29,8245.37,MEDIUM
+Maharashtra,Arhar(Tur/Red Gram)(Whole),2026-01-30,8328.66,MEDIUM
+Maharashtra,Arhar(Tur/Red Gram)(Whole),2026-01-31,8411.95,MEDIUM
+Maharashtra,Bajra(Pearl Millet/Cumbu),2026-01-29,3807.88,HIGH
+Maharashtra,Bajra(Pearl Millet/Cumbu),2026-01-30,3830.98,HIGH
+Maharashtra,Bajra(Pearl Millet/Cumbu),2026-01-31,3854.08,HIGH
+Maharashtra,Bengal Gram(Gram)(Whole),2026-01-29,7058.96,HIGH
+Maharashtra,Bengal Gram(Gram)(Whole),2026-01-30,7071.53,HIGH
+Maharashtra,Bengal Gram(Gram)(Whole),2026-01-31,7084.1,HIGH
+Maharashtra,Black Gram(Urd Beans)(Whole),2026-01-29,8909.18,HIGH
+Maharashtra,Black Gram(Urd Beans)(Whole),2026-01-30,8830.38,HIGH
+Maharashtra,Black Gram(Urd Beans)(Whole),2026-01-31,8751.58,HIGH
+Maharashtra,Cotton,2026-01-29,7961.59,HIGH
+Maharashtra,Cotton,2026-01-30,7944.83,HIGH
+Maharashtra,Cotton,2026-01-31,7928.07,HIGH
+Maharashtra,Green Gram(Moong)(Whole),2026-01-29,10475.93,HIGH
+Maharashtra,Green Gram(Moong)(Whole),2026-01-30,10528.05,HIGH
+Maharashtra,Green Gram(Moong)(Whole),2026-01-31,10580.17,HIGH
+Maharashtra,Groundnut,2026-01-29,7921.48,MEDIUM
+Maharashtra,Groundnut,2026-01-30,8001.5,MEDIUM
+Maharashtra,Groundnut,2026-01-31,8081.52,MEDIUM
+Maharashtra,Jowar(Sorghum),2026-01-29,6184.47,HIGH
+Maharashtra,Jowar(Sorghum),2026-01-30,6387.87,HIGH
+Maharashtra,Jowar(Sorghum),2026-01-31,6591.27,HIGH
+Maharashtra,Lentil(Masur)(Whole),2026-01-29,8033.39,MEDIUM
+Maharashtra,Lentil(Masur)(Whole),2026-01-30,8114.54,MEDIUM
+Maharashtra,Lentil(Masur)(Whole),2026-01-31,8195.69,MEDIUM
+Maharashtra,Maize,2026-01-29,3097.55,MEDIUM
+Maharashtra,Maize,2026-01-30,3128.84,MEDIUM
+Maharashtra,Maize,2026-01-31,3160.13,MEDIUM
+Maharashtra,Mustard,2026-01-29,8000.0,LOW
+Maharashtra,Mustard,2026-01-30,8000.0,LOW
+Maharashtra,Mustard,2026-01-31,8000.0,LOW
+Maharashtra,Paddy(Common),2026-01-29,2702.82,HIGH
+Maharashtra,Paddy(Common),2026-01-30,2712.58,HIGH
+Maharashtra,Paddy(Common),2026-01-31,2722.34,HIGH
+Maharashtra,Ragi(Finger Millet),2026-01-29,5123.25,MEDIUM
+Maharashtra,Ragi(Finger Millet),2026-01-30,5175.0,MEDIUM
+Maharashtra,Ragi(Finger Millet),2026-01-31,5226.75,MEDIUM
+Maharashtra,Safflower,2026-01-29,6800.0,LOW
+Maharashtra,Safflower,2026-01-30,6800.0,LOW
+Maharashtra,Safflower,2026-01-31,6800.0,LOW
+Maharashtra,"Sesamum(Sesame,Gingelly,Til)",2026-01-29,15226.72,HIGH
+Maharashtra,"Sesamum(Sesame,Gingelly,Til)",2026-01-30,15012.57,HIGH
+Maharashtra,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,14798.42,HIGH
+Maharashtra,Soyabean,2026-01-29,5581.08,HIGH
+Maharashtra,Soyabean,2026-01-30,5580.52,HIGH
+Maharashtra,Soyabean,2026-01-31,5579.96,HIGH
+Maharashtra,Wheat,2026-01-29,3812.96,HIGH
+Maharashtra,Wheat,2026-01-30,4031.09,HIGH
+Maharashtra,Wheat,2026-01-31,4249.22,HIGH

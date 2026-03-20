@@ -1,0 +1,2 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Meghalaya,Potato,fallback_copy,,,,LOW,1

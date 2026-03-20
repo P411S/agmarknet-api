@@ -1,0 +1,13 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Punjab,Fibre Crops,Cotton,,,2026-02-08,7602.91,predicted,hybrid_ma,MEDIUM,7765.0,170.57999999999993,2026-02-10
+Punjab,Fibre Crops,Cotton,,,2026-02-09,7679.71,predicted,hybrid_ma,MEDIUM,7765.0,170.57999999999993,2026-02-10
+Punjab,Fibre Crops,Cotton,,,2026-02-10,7756.51,predicted,hybrid_ma,MEDIUM,7765.0,170.57999999999993,2026-02-10
+Punjab,Vegetables,Onion,,,2026-02-09,2066.74,predicted,hybrid_trend,HIGH,1838.85,379.80999999999995,2026-02-10
+Punjab,Vegetables,Onion,,,2026-02-10,2218.66,predicted,hybrid_trend,HIGH,1838.85,379.80999999999995,2026-02-10
+Punjab,Vegetables,Onion,,,2026-02-11,2370.58,predicted,hybrid_trend,HIGH,1838.85,379.80999999999995,2026-02-10
+Punjab,Vegetables,Potato,,,2026-02-09,558.46,predicted,hybrid_trend,HIGH,547.74,17.870000000000005,2026-02-10
+Punjab,Vegetables,Potato,,,2026-02-10,565.61,predicted,hybrid_trend,HIGH,547.74,17.870000000000005,2026-02-10
+Punjab,Vegetables,Potato,,,2026-02-11,572.76,predicted,hybrid_trend,HIGH,547.74,17.870000000000005,2026-02-10
+Punjab,Vegetables,Tomato,,,2026-02-09,2159.48,predicted,hybrid_trend,HIGH,1794.26,608.7,2026-02-10
+Punjab,Vegetables,Tomato,,,2026-02-10,2402.96,predicted,hybrid_trend,HIGH,1794.26,608.7,2026-02-10
+Punjab,Vegetables,Tomato,,,2026-02-11,2646.44,predicted,hybrid_trend,HIGH,1794.26,608.7,2026-02-10

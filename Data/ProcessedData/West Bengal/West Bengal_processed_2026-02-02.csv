@@ -1,0 +1,27 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+West Bengal,Cereals,Maize,2026-01-30,2235.0,2026-02-02,Actual
+West Bengal,Cereals,Maize,2026-01-29,2275.0,2026-02-02,Actual
+West Bengal,Cereals,Paddy(Common),2026-01-31,2381.94,2026-02-02,Actual
+West Bengal,Cereals,Paddy(Common),2026-01-30,2316.63,2026-02-02,Actual
+West Bengal,Cereals,Paddy(Common),2026-01-29,2294.88,2026-02-02,Actual
+West Bengal,Cereals,Wheat,2026-01-31,2694.72,2026-02-02,Actual
+West Bengal,Cereals,Wheat,2026-01-30,2583.4,2026-02-02,Actual
+West Bengal,Cereals,Wheat,2026-01-29,2712.69,2026-02-02,Actual
+West Bengal,Oil Seeds,Groundnut,2026-01-30,9600.0,2026-02-02,Actual
+West Bengal,Oil Seeds,Groundnut,2026-01-29,9600.0,2026-02-02,Actual
+West Bengal,Oil Seeds,Mustard,2026-01-31,6361.8,2026-02-02,Actual
+West Bengal,Oil Seeds,Mustard,2026-01-30,6967.05,2026-02-02,Actual
+West Bengal,Oil Seeds,Mustard,2026-01-29,6745.73,2026-02-02,Actual
+West Bengal,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,6750.0,2026-02-02,Actual
+West Bengal,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-30,6746.58,2026-02-02,Actual
+West Bengal,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-29,6749.23,2026-02-02,Actual
+West Bengal,Pulses,Lentil(Masur)(Whole),2026-01-30,10000.0,2026-02-02,Actual
+West Bengal,Vegetables,Onion,2026-01-31,2066.72,2026-02-02,Actual
+West Bengal,Vegetables,Onion,2026-01-30,2049.61,2026-02-02,Actual
+West Bengal,Vegetables,Onion,2026-01-29,2006.64,2026-02-02,Actual
+West Bengal,Vegetables,Potato,2026-01-31,1019.64,2026-02-02,Actual
+West Bengal,Vegetables,Potato,2026-01-30,1040.05,2026-02-02,Actual
+West Bengal,Vegetables,Potato,2026-01-29,1015.03,2026-02-02,Actual
+West Bengal,Vegetables,Tomato,2026-01-31,2179.63,2026-02-02,Actual
+West Bengal,Vegetables,Tomato,2026-01-30,2359.09,2026-02-02,Actual
+West Bengal,Vegetables,Tomato,2026-01-29,2392.63,2026-02-02,Actual

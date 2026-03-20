@@ -1,0 +1,25 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Andhra Pradesh,Arhar(Tur/Red Gram)(Whole),2026-01-29,8169.0,LOW
+Andhra Pradesh,Arhar(Tur/Red Gram)(Whole),2026-01-30,8169.0,LOW
+Andhra Pradesh,Arhar(Tur/Red Gram)(Whole),2026-01-31,8169.0,LOW
+Andhra Pradesh,Black Gram(Urd Beans)(Whole),2026-01-29,8311.0,LOW
+Andhra Pradesh,Black Gram(Urd Beans)(Whole),2026-01-30,8311.0,LOW
+Andhra Pradesh,Black Gram(Urd Beans)(Whole),2026-01-31,8311.0,LOW
+Andhra Pradesh,Cotton,2026-01-29,7965.05,MEDIUM
+Andhra Pradesh,Cotton,2026-01-30,8045.5,MEDIUM
+Andhra Pradesh,Cotton,2026-01-31,8125.95,MEDIUM
+Andhra Pradesh,Groundnut,2026-01-29,10590.85,MEDIUM
+Andhra Pradesh,Groundnut,2026-01-30,10697.83,MEDIUM
+Andhra Pradesh,Groundnut,2026-01-31,10804.8,MEDIUM
+Andhra Pradesh,Onion,2026-01-29,1485.0,LOW
+Andhra Pradesh,Onion,2026-01-30,1485.0,LOW
+Andhra Pradesh,Onion,2026-01-31,1485.0,LOW
+Andhra Pradesh,Paddy(Common),2026-01-29,2350.0,LOW
+Andhra Pradesh,Paddy(Common),2026-01-30,2350.0,LOW
+Andhra Pradesh,Paddy(Common),2026-01-31,2350.0,LOW
+Andhra Pradesh,Potato,2026-01-29,2500.0,HIGH
+Andhra Pradesh,Potato,2026-01-30,2500.0,HIGH
+Andhra Pradesh,Potato,2026-01-31,2500.0,HIGH
+Andhra Pradesh,Tomato,2026-01-29,1449.58,HIGH
+Andhra Pradesh,Tomato,2026-01-30,1402.07,HIGH
+Andhra Pradesh,Tomato,2026-01-31,1354.56,HIGH

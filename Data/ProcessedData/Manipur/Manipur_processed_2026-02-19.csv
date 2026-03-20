@@ -1,0 +1,9 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Manipur,Pulses,Bengal Gram(Gram)(Whole),2026-02-17,8750.0,2026-02-19,Actual
+Manipur,Pulses,Bengal Gram(Gram)(Whole),2026-02-16,8750.0,2026-02-19,Actual
+Manipur,Pulses,Black Gram(Urd Beans)(Whole),2026-02-17,13750.0,2026-02-19,Actual
+Manipur,Pulses,Black Gram(Urd Beans)(Whole),2026-02-16,13750.0,2026-02-19,Actual
+Manipur,Vegetables,Onion,2026-02-17,3750.0,2026-02-19,Actual
+Manipur,Vegetables,Onion,2026-02-16,3750.0,2026-02-19,Actual
+Manipur,Vegetables,Potato,2026-02-17,2250.0,2026-02-19,Actual
+Manipur,Vegetables,Potato,2026-02-16,2250.0,2026-02-19,Actual

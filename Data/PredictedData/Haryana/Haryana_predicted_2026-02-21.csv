@@ -1,0 +1,25 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Haryana,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-02-20,1802.17,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,1820.0,-0.7400000000000091,2026-02-20,1802.17,predicted
+Haryana,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-02-21,1820.37,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,1820.0,-0.7400000000000091,2026-02-21,1820.37,predicted
+Haryana,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-02-22,1838.57,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,1820.0,-0.7400000000000091,2026-02-22,1838.57,predicted
+Haryana,Cotton,Fibre Crops,,,2026-02-20,7218.93,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,7209.32,16.00999999999931,2026-02-20,7218.93,predicted
+Haryana,Cotton,Fibre Crops,,,2026-02-21,7225.33,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,7209.32,16.00999999999931,2026-02-21,7225.33,predicted
+Haryana,Cotton,Fibre Crops,,,2026-02-22,7231.73,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,7209.32,16.00999999999931,2026-02-22,7231.73,predicted
+Haryana,Mustard,Oil Seeds,,,2026-02-20,6099.85,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,6140.63,-67.97000000000025,2026-02-20,6099.85,predicted
+Haryana,Mustard,Oil Seeds,,,2026-02-21,6072.66,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,6140.63,-67.97000000000025,2026-02-21,6072.66,predicted
+Haryana,Mustard,Oil Seeds,,,2026-02-22,6045.47,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,6140.63,-67.97000000000025,2026-02-22,6045.47,predicted
+Haryana,Onion,Vegetables,,,2026-02-20,1441.19,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,1433.38,13.02000000000021,2026-02-20,1441.19,predicted
+Haryana,Onion,Vegetables,,,2026-02-21,1446.4,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,1433.38,13.02000000000021,2026-02-21,1446.4,predicted
+Haryana,Onion,Vegetables,,,2026-02-22,1451.61,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,1433.38,13.02000000000021,2026-02-22,1451.61,predicted
+Haryana,Paddy(Common),Cereals,,,2026-02-20,4358.88,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,4351.04,13.069999999999709,2026-02-20,4358.88,predicted
+Haryana,Paddy(Common),Cereals,,,2026-02-21,4364.11,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,4351.04,13.069999999999709,2026-02-21,4364.11,predicted
+Haryana,Paddy(Common),Cereals,,,2026-02-22,4369.34,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,4351.04,13.069999999999709,2026-02-22,4369.34,predicted
+Haryana,Potato,Vegetables,,,2026-02-20,665.9,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,607.42,97.45999999999998,2026-02-20,665.9,predicted
+Haryana,Potato,Vegetables,,,2026-02-21,704.88,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,607.42,97.45999999999998,2026-02-21,704.88,predicted
+Haryana,Potato,Vegetables,,,2026-02-22,743.86,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,607.42,97.45999999999998,2026-02-22,743.86,predicted
+Haryana,Tomato,Vegetables,,,2026-02-20,1409.5,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,1403.22,10.470000000000027,2026-02-20,1409.5,predicted
+Haryana,Tomato,Vegetables,,,2026-02-21,1413.69,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,1403.22,10.470000000000027,2026-02-21,1413.69,predicted
+Haryana,Tomato,Vegetables,,,2026-02-22,1417.88,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,1403.22,10.470000000000027,2026-02-22,1417.88,predicted
+Haryana,Toria,Oil Seeds,,,2026-02-20,6051.4,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,6130.0,-131.0,2026-02-20,6051.4,predicted
+Haryana,Toria,Oil Seeds,,,2026-02-21,5999.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,6130.0,-131.0,2026-02-21,5999.0,predicted
+Haryana,Toria,Oil Seeds,,,2026-02-22,5946.6,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,6130.0,-131.0,2026-02-22,5946.6,predicted

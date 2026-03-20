@@ -1,0 +1,120 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Madhya Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-30,2026-01-28,1917.98,False,,,,
+Madhya Pradesh,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-30,2026-01-27,1848.65,False,,,,
+Madhya Pradesh,Cereals,Barley(Jau),2026-01-30,2026-01-28,2316.81,False,,,,
+Madhya Pradesh,Cereals,Barley(Jau),2026-01-30,2026-01-27,2391.17,False,,,,
+Madhya Pradesh,Cereals,Jowar(Sorghum),2026-01-30,2026-01-27,6580.0,False,,,,
+Madhya Pradesh,Cereals,Jowar(Sorghum),2026-01-30,2026-01-26,7220.0,False,,,,
+Madhya Pradesh,Cereals,Maize,2026-01-30,2026-01-28,1558.05,False,,,,
+Madhya Pradesh,Cereals,Maize,2026-01-30,2026-01-27,1548.76,False,,,,
+Madhya Pradesh,Cereals,Maize,2026-01-30,2026-01-26,1579.85,False,,,,
+Madhya Pradesh,Cereals,Paddy(Common),2026-01-30,2026-01-28,3741.8,False,,,,
+Madhya Pradesh,Cereals,Paddy(Common),2026-01-30,2026-01-27,3767.87,False,,,,
+Madhya Pradesh,Cereals,Paddy(Common),2026-01-30,2026-01-26,3715.78,False,,,,
+Madhya Pradesh,Cereals,Wheat,2026-01-30,2026-01-28,2539.32,False,,,,
+Madhya Pradesh,Cereals,Wheat,2026-01-30,2026-01-27,2529.62,False,,,,
+Madhya Pradesh,Cereals,Wheat,2026-01-30,2026-01-26,2494.84,False,,,,
+Madhya Pradesh,Fibre Crops,Cotton,2026-01-30,2026-01-28,7590.91,False,,,,
+Madhya Pradesh,Fibre Crops,Cotton,2026-01-30,2026-01-27,7658.17,False,,,,
+Madhya Pradesh,Fibre Crops,Cotton,2026-01-30,2026-01-26,7321.29,False,,,,
+Madhya Pradesh,Oil Seeds,Groundnut,2026-01-30,2026-01-28,6201.89,False,,,,
+Madhya Pradesh,Oil Seeds,Groundnut,2026-01-30,2026-01-27,6363.89,False,,,,
+Madhya Pradesh,Oil Seeds,Groundnut,2026-01-30,2026-01-26,8627.35,False,,,,
+Madhya Pradesh,Oil Seeds,Mustard,2026-01-30,2026-01-28,6493.71,False,,,,
+Madhya Pradesh,Oil Seeds,Mustard,2026-01-30,2026-01-27,6283.9,False,,,,
+Madhya Pradesh,Oil Seeds,Mustard,2026-01-30,2026-01-26,6123.93,False,,,,
+Madhya Pradesh,Oil Seeds,Niger Seed(Ramtil),2026-01-30,2026-01-27,9600.0,False,,,,
+Madhya Pradesh,Oil Seeds,Safflower,2026-01-30,2026-01-28,3245.0,False,,,,
+Madhya Pradesh,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-30,2026-01-28,8641.47,False,,,,
+Madhya Pradesh,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-30,2026-01-27,8009.16,False,,,,
+Madhya Pradesh,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-30,2026-01-26,13392.77,False,,,,
+Madhya Pradesh,Oil Seeds,Soyabean,2026-01-30,2026-01-28,5534.33,False,,,,
+Madhya Pradesh,Oil Seeds,Soyabean,2026-01-30,2026-01-27,5448.02,False,,,,
+Madhya Pradesh,Oil Seeds,Soyabean,2026-01-30,2026-01-26,5191.27,False,,,,
+Madhya Pradesh,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-30,2026-01-28,7704.95,False,,,,
+Madhya Pradesh,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-30,2026-01-27,7123.33,False,,,,
+Madhya Pradesh,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-30,2026-01-26,7712.46,False,,,,
+Madhya Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-01-30,2026-01-28,5557.72,False,,,,
+Madhya Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-01-30,2026-01-27,5522.37,False,,,,
+Madhya Pradesh,Pulses,Bengal Gram(Gram)(Whole),2026-01-30,2026-01-26,5264.74,False,,,,
+Madhya Pradesh,Pulses,Black Gram(Urd Beans)(Whole),2026-01-30,2026-01-28,7644.65,False,,,,
+Madhya Pradesh,Pulses,Black Gram(Urd Beans)(Whole),2026-01-30,2026-01-27,7814.13,False,,,,
+Madhya Pradesh,Pulses,Black Gram(Urd Beans)(Whole),2026-01-30,2026-01-26,6340.01,False,,,,
+Madhya Pradesh,Pulses,Green Gram(Moong)(Whole),2026-01-30,2026-01-28,7511.9,False,,,,
+Madhya Pradesh,Pulses,Green Gram(Moong)(Whole),2026-01-30,2026-01-27,7745.27,False,,,,
+Madhya Pradesh,Pulses,Green Gram(Moong)(Whole),2026-01-30,2026-01-26,6973.65,False,,,,
+Madhya Pradesh,Pulses,Lentil(Masur)(Whole),2026-01-30,2026-01-28,5810.66,False,,,,
+Madhya Pradesh,Pulses,Lentil(Masur)(Whole),2026-01-30,2026-01-27,5872.47,False,,,,
+Madhya Pradesh,Pulses,Lentil(Masur)(Whole),2026-01-30,2026-01-26,5265.27,False,,,,
+Madhya Pradesh,Vegetables,Onion,2026-01-30,2026-01-28,1097.97,False,,,,
+Madhya Pradesh,Vegetables,Onion,2026-01-30,2026-01-27,1244.87,False,,,,
+Madhya Pradesh,Vegetables,Onion,2026-01-30,2026-01-26,1000.0,False,,,,
+Madhya Pradesh,Vegetables,Potato,2026-01-30,2026-01-28,871.1,False,,,,
+Madhya Pradesh,Vegetables,Potato,2026-01-30,2026-01-27,1011.24,False,,,,
+Madhya Pradesh,Vegetables,Potato,2026-01-30,2026-01-26,1265.8,False,,,,
+Madhya Pradesh,Vegetables,Tomato,2026-01-30,2026-01-28,1800.0,False,,,,
+Madhya Pradesh,Vegetables,Tomato,2026-01-30,2026-01-27,1400.0,False,,,,
+Madhya Pradesh,Vegetables,Tomato,2026-01-30,2026-01-26,1000.0,False,,,,
+Madhya Pradesh,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,8053.92
+Madhya Pradesh,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,8286.57
+Madhya Pradesh,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,8519.22
+Madhya Pradesh,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-01-29,1864.48
+Madhya Pradesh,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-01-30,1883.32
+Madhya Pradesh,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-01-31,1902.15
+Madhya Pradesh,,Barley(Jau),,,,True,HYBRID_MODEL,,2026-01-29,2330.45
+Madhya Pradesh,,Barley(Jau),,,,True,HYBRID_MODEL,,2026-01-30,2353.99
+Madhya Pradesh,,Barley(Jau),,,,True,HYBRID_MODEL,,2026-01-31,2377.53
+Madhya Pradesh,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,5578.93
+Madhya Pradesh,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,5593.07
+Madhya Pradesh,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,5607.21
+Madhya Pradesh,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,7542.96
+Madhya Pradesh,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,7475.17
+Madhya Pradesh,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,7407.38
+Madhya Pradesh,,Cotton,,,,True,HYBRID_MODEL,,2026-01-29,7550.55
+Madhya Pradesh,,Cotton,,,,True,HYBRID_MODEL,,2026-01-30,7523.65
+Madhya Pradesh,,Cotton,,,,True,HYBRID_MODEL,,2026-01-31,7496.75
+Madhya Pradesh,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,7371.88
+Madhya Pradesh,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,7278.53
+Madhya Pradesh,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,7185.18
+Madhya Pradesh,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-29,6104.69
+Madhya Pradesh,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-30,6039.89
+Madhya Pradesh,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-31,5975.09
+Madhya Pradesh,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-28,6831.0
+Madhya Pradesh,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-29,6900.0
+Madhya Pradesh,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-30,6969.0
+Madhya Pradesh,,Lentil(Masur)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,5773.57
+Madhya Pradesh,,Lentil(Masur)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,5748.85
+Madhya Pradesh,,Lentil(Masur)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,5724.13
+Madhya Pradesh,,Maize,,,,True,HYBRID_MODEL,,2026-01-29,1563.62
+Madhya Pradesh,,Maize,,,,True,HYBRID_MODEL,,2026-01-30,1567.34
+Madhya Pradesh,,Maize,,,,True,HYBRID_MODEL,,2026-01-31,1571.06
+Madhya Pradesh,,Mustard,,,,True,HYBRID_MODEL,,2026-01-29,6619.6
+Madhya Pradesh,,Mustard,,,,True,HYBRID_MODEL,,2026-01-30,6703.52
+Madhya Pradesh,,Mustard,,,,True,HYBRID_MODEL,,2026-01-31,6787.44
+Madhya Pradesh,,Niger Seed(Ramtil),,,,True,HYBRID_MODEL,,2026-01-28,9600.0
+Madhya Pradesh,,Niger Seed(Ramtil),,,,True,HYBRID_MODEL,,2026-01-29,9600.0
+Madhya Pradesh,,Niger Seed(Ramtil),,,,True,HYBRID_MODEL,,2026-01-30,9600.0
+Madhya Pradesh,,Onion,,,,True,HYBRID_MODEL,,2026-01-29,1009.83
+Madhya Pradesh,,Onion,,,,True,HYBRID_MODEL,,2026-01-30,951.07
+Madhya Pradesh,,Onion,,,,True,HYBRID_MODEL,,2026-01-31,892.31
+Madhya Pradesh,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-29,3726.16
+Madhya Pradesh,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-30,3715.73
+Madhya Pradesh,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-31,3705.3
+Madhya Pradesh,,Potato,,,,True,HYBRID_MODEL,,2026-01-29,787.02
+Madhya Pradesh,,Potato,,,,True,HYBRID_MODEL,,2026-01-30,730.96
+Madhya Pradesh,,Potato,,,,True,HYBRID_MODEL,,2026-01-31,674.9
+Madhya Pradesh,,Safflower,,,,True,HYBRID_MODEL,,2026-01-29,3245.0
+Madhya Pradesh,,Safflower,,,,True,HYBRID_MODEL,,2026-01-30,3245.0
+Madhya Pradesh,,Safflower,,,,True,HYBRID_MODEL,,2026-01-31,3245.0
+Madhya Pradesh,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-29,9020.86
+Madhya Pradesh,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-30,9273.78
+Madhya Pradesh,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-31,9526.7
+Madhya Pradesh,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-29,5586.12
+Madhya Pradesh,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-30,5620.64
+Madhya Pradesh,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-31,5655.16
+Madhya Pradesh,,Tomato,,,,True,HYBRID_MODEL,,2026-01-29,2040.0
+Madhya Pradesh,,Tomato,,,,True,HYBRID_MODEL,,2026-01-30,2200.0
+Madhya Pradesh,,Tomato,,,,True,HYBRID_MODEL,,2026-01-31,2360.0
+Madhya Pradesh,,Wheat,,,,True,HYBRID_MODEL,,2026-01-29,2545.14
+Madhya Pradesh,,Wheat,,,,True,HYBRID_MODEL,,2026-01-30,2549.02
+Madhya Pradesh,,Wheat,,,,True,HYBRID_MODEL,,2026-01-31,2552.9

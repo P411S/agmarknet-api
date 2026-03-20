@@ -1,0 +1,25 @@
+state,commodity,price_date,price,price_type
+Kerala,Arhar(Tur/Red Gram)(Whole),2026-02-01,11500.0,Predicted
+Kerala,Arhar(Tur/Red Gram)(Whole),2026-02-02,11366.67,Predicted
+Kerala,Arhar(Tur/Red Gram)(Whole),2026-02-03,11233.34,Predicted
+Kerala,Bengal Gram(Gram)(Whole),2026-02-01,8810.0,Predicted
+Kerala,Bengal Gram(Gram)(Whole),2026-02-02,8950.0,Predicted
+Kerala,Bengal Gram(Gram)(Whole),2026-02-03,9090.0,Predicted
+Kerala,Black Gram(Urd Beans)(Whole),2026-02-01,12312.0,Predicted
+Kerala,Black Gram(Urd Beans)(Whole),2026-02-02,12370.0,Predicted
+Kerala,Black Gram(Urd Beans)(Whole),2026-02-03,12428.0,Predicted
+Kerala,Copra,2026-02-01,19964.81,Predicted
+Kerala,Copra,2026-02-02,19962.19,Predicted
+Kerala,Copra,2026-02-03,19959.57,Predicted
+Kerala,Green Gram(Moong)(Whole),2026-02-01,11860.0,Predicted
+Kerala,Green Gram(Moong)(Whole),2026-02-02,12033.33,Predicted
+Kerala,Green Gram(Moong)(Whole),2026-02-03,12206.66,Predicted
+Kerala,Onion,2026-02-01,2615.21,Predicted
+Kerala,Onion,2026-02-02,2556.39,Predicted
+Kerala,Onion,2026-02-03,2497.57,Predicted
+Kerala,Potato,2026-02-01,2142.91,Predicted
+Kerala,Potato,2026-02-02,1835.73,Predicted
+Kerala,Potato,2026-02-03,1528.55,Predicted
+Kerala,Tomato,2026-02-01,1864.87,Predicted
+Kerala,Tomato,2026-02-02,1385.34,Predicted
+Kerala,Tomato,2026-02-03,905.81,Predicted

@@ -1,0 +1,16 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Punjab,Cotton,Fibre Crops,,,2026-02-21,7136.09,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,7207.86,-0.6300000000001091,2026-02-21,7136.09,predicted
+Punjab,Cotton,Fibre Crops,,,2026-02-22,7208.17,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,7207.86,-0.6300000000001091,2026-02-22,7208.17,predicted
+Punjab,Cotton,Fibre Crops,,,2026-02-23,7280.26,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,7207.86,-0.6300000000001091,2026-02-23,7280.26,predicted
+Punjab,Onion,Vegetables,,,2026-02-21,1561.4,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,1491.15,117.08000000000015,2026-02-21,1561.4,predicted
+Punjab,Onion,Vegetables,,,2026-02-22,1608.23,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,1491.15,117.08000000000015,2026-02-22,1608.23,predicted
+Punjab,Onion,Vegetables,,,2026-02-23,1655.06,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,1491.15,117.08000000000015,2026-02-23,1655.06,predicted
+Punjab,Potato,Vegetables,,,2026-02-21,334.67,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,340.23,-9.269999999999982,2026-02-21,334.67,predicted
+Punjab,Potato,Vegetables,,,2026-02-22,330.96,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,340.23,-9.269999999999982,2026-02-22,330.96,predicted
+Punjab,Potato,Vegetables,,,2026-02-23,327.25,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,340.23,-9.269999999999982,2026-02-23,327.25,predicted
+Punjab,Tomato,Vegetables,,,2026-02-21,1423.24,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,1348.55,124.48000000000002,2026-02-21,1423.24,predicted
+Punjab,Tomato,Vegetables,,,2026-02-22,1473.03,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,1348.55,124.48000000000002,2026-02-22,1473.03,predicted
+Punjab,Tomato,Vegetables,,,2026-02-23,1522.82,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,1348.55,124.48000000000002,2026-02-23,1522.82,predicted
+Punjab,Wheat,Cereals,,,2026-02-21,2610.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,2610.0,0.0,2026-02-21,2610.0,predicted
+Punjab,Wheat,Cereals,,,2026-02-22,2610.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,2610.0,0.0,2026-02-22,2610.0,predicted
+Punjab,Wheat,Cereals,,,2026-02-23,2610.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-20,2026-02-22,2610.0,0.0,2026-02-23,2610.0,predicted

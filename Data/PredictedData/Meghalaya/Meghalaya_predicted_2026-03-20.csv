@@ -1,0 +1,4 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Meghalaya,Potato,Vegetables,,,2026-01-31,1500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-01-30,2026-03-20,1500.0,0.0,2026-01-31,1500.0,predicted
+Meghalaya,Potato,Vegetables,,,2026-02-01,1500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-01-30,2026-03-20,1500.0,0.0,2026-02-01,1500.0,predicted
+Meghalaya,Potato,Vegetables,,,2026-02-02,1500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-01-30,2026-03-20,1500.0,0.0,2026-02-02,1500.0,predicted

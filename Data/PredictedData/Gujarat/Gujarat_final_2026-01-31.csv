@@ -1,0 +1,102 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Gujarat,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-31,2026-01-29,2492.68,False,,,,
+Gujarat,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-31,2026-01-28,2650.79,False,,,,
+Gujarat,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-31,2026-01-27,2702.18,False,,,,
+Gujarat,Cereals,Jowar(Sorghum),2026-01-31,2026-01-29,4865.43,False,,,,
+Gujarat,Cereals,Jowar(Sorghum),2026-01-31,2026-01-28,5122.15,False,,,,
+Gujarat,Cereals,Jowar(Sorghum),2026-01-31,2026-01-27,4719.91,False,,,,
+Gujarat,Cereals,Maize,2026-01-31,2026-01-28,1708.85,False,,,,
+Gujarat,Cereals,Maize,2026-01-31,2026-01-27,1815.56,False,,,,
+Gujarat,Cereals,Paddy(Common),2026-01-31,2026-01-29,2282.89,False,,,,
+Gujarat,Cereals,Paddy(Common),2026-01-31,2026-01-28,2274.44,False,,,,
+Gujarat,Cereals,Paddy(Common),2026-01-31,2026-01-27,2336.45,False,,,,
+Gujarat,Cereals,Wheat,2026-01-31,2026-01-29,2614.29,False,,,,
+Gujarat,Cereals,Wheat,2026-01-31,2026-01-28,2638.42,False,,,,
+Gujarat,Cereals,Wheat,2026-01-31,2026-01-27,2605.36,False,,,,
+Gujarat,Fibre Crops,Cotton,2026-01-31,2026-01-29,7705.92,False,,,,
+Gujarat,Fibre Crops,Cotton,2026-01-31,2026-01-28,7774.16,False,,,,
+Gujarat,Fibre Crops,Cotton,2026-01-31,2026-01-27,7672.07,False,,,,
+Gujarat,Oil Seeds,Groundnut,2026-01-31,2026-01-29,7037.18,False,,,,
+Gujarat,Oil Seeds,Groundnut,2026-01-31,2026-01-28,7222.11,False,,,,
+Gujarat,Oil Seeds,Groundnut,2026-01-31,2026-01-27,7401.11,False,,,,
+Gujarat,Oil Seeds,Mustard,2026-01-31,2026-01-29,6011.45,False,,,,
+Gujarat,Oil Seeds,Mustard,2026-01-31,2026-01-28,6175.02,False,,,,
+Gujarat,Oil Seeds,Mustard,2026-01-31,2026-01-27,6045.65,False,,,,
+Gujarat,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,2026-01-29,9426.86,False,,,,
+Gujarat,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,2026-01-28,10529.97,False,,,,
+Gujarat,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,2026-01-27,9254.55,False,,,,
+Gujarat,Oil Seeds,Soyabean,2026-01-31,2026-01-29,5437.23,False,,,,
+Gujarat,Oil Seeds,Soyabean,2026-01-31,2026-01-28,5402.7,False,,,,
+Gujarat,Oil Seeds,Soyabean,2026-01-31,2026-01-27,5301.05,False,,,,
+Gujarat,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-29,7720.56,False,,,,
+Gujarat,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-28,7710.79,False,,,,
+Gujarat,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-27,7265.9,False,,,,
+Gujarat,Pulses,Bengal Gram(Gram)(Whole),2026-01-31,2026-01-29,6765.92,False,,,,
+Gujarat,Pulses,Bengal Gram(Gram)(Whole),2026-01-31,2026-01-28,5852.54,False,,,,
+Gujarat,Pulses,Bengal Gram(Gram)(Whole),2026-01-31,2026-01-27,6473.86,False,,,,
+Gujarat,Pulses,Black Gram(Urd Beans)(Whole),2026-01-31,2026-01-29,6774.21,False,,,,
+Gujarat,Pulses,Black Gram(Urd Beans)(Whole),2026-01-31,2026-01-28,6985.58,False,,,,
+Gujarat,Pulses,Black Gram(Urd Beans)(Whole),2026-01-31,2026-01-27,6661.36,False,,,,
+Gujarat,Pulses,Green Gram(Moong)(Whole),2026-01-31,2026-01-29,6993.05,False,,,,
+Gujarat,Pulses,Green Gram(Moong)(Whole),2026-01-31,2026-01-28,6832.84,False,,,,
+Gujarat,Pulses,Green Gram(Moong)(Whole),2026-01-31,2026-01-27,7073.52,False,,,,
+Gujarat,Vegetables,Onion,2026-01-31,2026-01-29,1140.73,False,,,,
+Gujarat,Vegetables,Onion,2026-01-31,2026-01-28,1170.99,False,,,,
+Gujarat,Vegetables,Onion,2026-01-31,2026-01-27,1178.29,False,,,,
+Gujarat,Vegetables,Potato,2026-01-31,2026-01-29,913.41,False,,,,
+Gujarat,Vegetables,Potato,2026-01-31,2026-01-28,906.7,False,,,,
+Gujarat,Vegetables,Potato,2026-01-31,2026-01-27,905.35,False,,,,
+Gujarat,Vegetables,Tomato,2026-01-31,2026-01-29,1549.09,False,,,,
+Gujarat,Vegetables,Tomato,2026-01-31,2026-01-28,1586.43,False,,,,
+Gujarat,Vegetables,Tomato,2026-01-31,2026-01-27,1715.33,False,,,,
+Gujarat,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,7726.42
+Gujarat,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,7730.33
+Gujarat,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,7734.24
+Gujarat,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-01-30,2397.81
+Gujarat,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-01-31,2334.57
+Gujarat,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-02-01,2271.33
+Gujarat,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,7313.95
+Gujarat,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,7679.3
+Gujarat,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,8044.65
+Gujarat,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,6647.39
+Gujarat,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,6562.84
+Gujarat,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,6478.29
+Gujarat,,Cotton,,,,True,HYBRID_MODEL,,2026-01-30,7664.98
+Gujarat,,Cotton,,,,True,HYBRID_MODEL,,2026-01-31,7637.68
+Gujarat,,Cotton,,,,True,HYBRID_MODEL,,2026-02-01,7610.38
+Gujarat,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,7089.18
+Gujarat,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,7153.26
+Gujarat,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,7217.34
+Gujarat,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-30,6926.22
+Gujarat,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-31,6852.25
+Gujarat,,Groundnut,,,,True,HYBRID_MODEL,,2026-02-01,6778.28
+Gujarat,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-30,4711.4
+Gujarat,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-31,4608.71
+Gujarat,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-02-01,4506.02
+Gujarat,,Maize,,,,True,HYBRID_MODEL,,2026-01-29,1744.58
+Gujarat,,Maize,,,,True,HYBRID_MODEL,,2026-01-30,1762.2
+Gujarat,,Maize,,,,True,HYBRID_MODEL,,2026-01-31,1779.83
+Gujarat,,Mustard,,,,True,HYBRID_MODEL,,2026-01-30,5913.31
+Gujarat,,Mustard,,,,True,HYBRID_MODEL,,2026-01-31,5847.88
+Gujarat,,Mustard,,,,True,HYBRID_MODEL,,2026-02-01,5782.45
+Gujarat,,Onion,,,,True,HYBRID_MODEL,,2026-01-30,1122.57
+Gujarat,,Onion,,,,True,HYBRID_MODEL,,2026-01-31,1110.47
+Gujarat,,Onion,,,,True,HYBRID_MODEL,,2026-02-01,1098.37
+Gujarat,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-30,2287.96
+Gujarat,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-31,2291.34
+Gujarat,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-02-01,2294.72
+Gujarat,,Potato,,,,True,HYBRID_MODEL,,2026-01-30,917.44
+Gujarat,,Potato,,,,True,HYBRID_MODEL,,2026-01-31,920.12
+Gujarat,,Potato,,,,True,HYBRID_MODEL,,2026-02-01,922.8
+Gujarat,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-30,8764.99
+Gujarat,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-31,8323.75
+Gujarat,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-02-01,7882.51
+Gujarat,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-30,5457.95
+Gujarat,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-31,5471.76
+Gujarat,,Soyabean,,,,True,HYBRID_MODEL,,2026-02-01,5485.57
+Gujarat,,Tomato,,,,True,HYBRID_MODEL,,2026-01-30,1526.69
+Gujarat,,Tomato,,,,True,HYBRID_MODEL,,2026-01-31,1511.75
+Gujarat,,Tomato,,,,True,HYBRID_MODEL,,2026-02-01,1496.81
+Gujarat,,Wheat,,,,True,HYBRID_MODEL,,2026-01-30,2599.81
+Gujarat,,Wheat,,,,True,HYBRID_MODEL,,2026-01-31,2590.16
+Gujarat,,Wheat,,,,True,HYBRID_MODEL,,2026-02-01,2580.51

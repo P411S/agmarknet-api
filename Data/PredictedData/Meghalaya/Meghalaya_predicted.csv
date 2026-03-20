@@ -1,0 +1,4 @@
+state,commodity_group,commodity,predicted_date,predicted_price,confidence_score,model_used
+Meghalaya,Vegetables,Potato,2026-01-24,1417.96,0.4,BOOTSTRAP
+Meghalaya,Vegetables,Potato,2026-01-25,1397.06,0.4,BOOTSTRAP
+Meghalaya,Vegetables,Potato,2026-01-26,1410.29,0.4,BOOTSTRAP

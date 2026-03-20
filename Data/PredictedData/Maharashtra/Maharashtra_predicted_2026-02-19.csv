@@ -1,0 +1,55 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Maharashtra,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-02-18,8040.28,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,8106.1,-30.789999999999964,2026-02-18,8040.28,predicted
+Maharashtra,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-02-19,8121.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,8106.1,-30.789999999999964,2026-02-19,8121.5,predicted
+Maharashtra,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-02-20,8202.71,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,8106.1,-30.789999999999964,2026-02-20,8202.71,predicted
+Maharashtra,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-02-18,3787.57,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,3792.48,-8.190000000000055,2026-02-18,3787.57,predicted
+Maharashtra,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-02-19,3784.29,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,3792.48,-8.190000000000055,2026-02-19,3784.29,predicted
+Maharashtra,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-02-20,3781.01,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,3792.48,-8.190000000000055,2026-02-20,3781.01,predicted
+Maharashtra,Bengal Gram(Gram)(Whole),Pulses,,,2026-02-18,6125.53,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5724.46,-925.8900000000003,2026-02-18,6125.53,predicted
+Maharashtra,Bengal Gram(Gram)(Whole),Pulses,,,2026-02-19,6187.41,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5724.46,-925.8900000000003,2026-02-19,6187.41,predicted
+Maharashtra,Bengal Gram(Gram)(Whole),Pulses,,,2026-02-20,6249.28,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5724.46,-925.8900000000003,2026-02-20,6249.28,predicted
+Maharashtra,Black Gram(Urd Beans)(Whole),Pulses,,,2026-02-18,9174.22,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,9261.09,-11.600000000000364,2026-02-18,9174.22,predicted
+Maharashtra,Black Gram(Urd Beans)(Whole),Pulses,,,2026-02-19,9266.89,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,9261.09,-11.600000000000364,2026-02-19,9266.89,predicted
+Maharashtra,Black Gram(Urd Beans)(Whole),Pulses,,,2026-02-20,9359.56,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,9261.09,-11.600000000000364,2026-02-20,9359.56,predicted
+Maharashtra,Cotton,Fibre Crops,,,2026-02-18,7894.16,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,7962.82,-22.150000000000546,2026-02-18,7894.16,predicted
+Maharashtra,Cotton,Fibre Crops,,,2026-02-19,7973.9,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,7962.82,-22.150000000000546,2026-02-19,7973.9,predicted
+Maharashtra,Cotton,Fibre Crops,,,2026-02-20,8053.63,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,7962.82,-22.150000000000546,2026-02-20,8053.63,predicted
+Maharashtra,Green Gram(Moong)(Whole),Pulses,,,2026-02-18,9946.34,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,9977.56,-138.5,2026-02-18,9946.34,predicted
+Maharashtra,Green Gram(Moong)(Whole),Pulses,,,2026-02-19,10046.81,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,9977.56,-138.5,2026-02-19,10046.81,predicted
+Maharashtra,Green Gram(Moong)(Whole),Pulses,,,2026-02-20,10147.28,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,9977.56,-138.5,2026-02-20,10147.28,predicted
+Maharashtra,Groundnut,Oil Seeds,,,2026-02-18,8000.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,8000.0,0.0,2026-02-18,8000.0,predicted
+Maharashtra,Groundnut,Oil Seeds,,,2026-02-19,8000.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,8000.0,0.0,2026-02-19,8000.0,predicted
+Maharashtra,Groundnut,Oil Seeds,,,2026-02-20,8000.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,8000.0,0.0,2026-02-20,8000.0,predicted
+Maharashtra,Jowar(Sorghum),Cereals,,,2026-02-18,5572.69,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5856.07,454.1899999999996,2026-02-18,5572.69,predicted
+Maharashtra,Jowar(Sorghum),Cereals,,,2026-02-19,5628.98,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5856.07,454.1899999999996,2026-02-19,5628.98,predicted
+Maharashtra,Jowar(Sorghum),Cereals,,,2026-02-20,5685.26,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5856.07,454.1899999999996,2026-02-20,5685.26,predicted
+Maharashtra,Lentil(Masur)(Whole),Pulses,,,2026-02-18,8649.03,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,8767.56,62.340000000000146,2026-02-18,8649.03,predicted
+Maharashtra,Lentil(Masur)(Whole),Pulses,,,2026-02-19,8736.39,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,8767.56,62.340000000000146,2026-02-19,8736.39,predicted
+Maharashtra,Lentil(Masur)(Whole),Pulses,,,2026-02-20,8823.75,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,8767.56,62.340000000000146,2026-02-20,8823.75,predicted
+Maharashtra,Maize,Cereals,,,2026-02-18,3214.83,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,3246.15,-2.3099999999999454,2026-02-18,3214.83,predicted
+Maharashtra,Maize,Cereals,,,2026-02-19,3247.31,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,3246.15,-2.3099999999999454,2026-02-19,3247.31,predicted
+Maharashtra,Maize,Cereals,,,2026-02-20,3279.78,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,3246.15,-2.3099999999999454,2026-02-20,3279.78,predicted
+Maharashtra,Mustard,Oil Seeds,,,2026-02-18,7990.91,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,7990.91,0.0,2026-02-18,7990.91,predicted
+Maharashtra,Mustard,Oil Seeds,,,2026-02-19,7990.91,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,7990.91,0.0,2026-02-19,7990.91,predicted
+Maharashtra,Mustard,Oil Seeds,,,2026-02-20,7990.91,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,7990.91,0.0,2026-02-20,7990.91,predicted
+Maharashtra,Paddy(Common),Cereals,,,2026-02-18,2760.37,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,2731.96,47.34999999999991,2026-02-18,2760.37,predicted
+Maharashtra,Paddy(Common),Cereals,,,2026-02-19,2779.31,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,2731.96,47.34999999999991,2026-02-19,2779.31,predicted
+Maharashtra,Paddy(Common),Cereals,,,2026-02-20,2798.25,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,2731.96,47.34999999999991,2026-02-20,2798.25,predicted
+Maharashtra,Ragi(Finger Millet),Cereals,,,2026-02-18,5172.75,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5200.0,-50.0,2026-02-18,5172.75,predicted
+Maharashtra,Ragi(Finger Millet),Cereals,,,2026-02-19,5225.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5200.0,-50.0,2026-02-19,5225.0,predicted
+Maharashtra,Ragi(Finger Millet),Cereals,,,2026-02-20,5277.25,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5200.0,-50.0,2026-02-20,5277.25,predicted
+Maharashtra,Safflower,Oil Seeds,,,2026-02-17,6879.4,fallback_copy,0.0,0.0,0.0,LOW,2026-02-16,2026-02-19,6879.4,0.0,2026-02-17,6879.4,predicted
+Maharashtra,Safflower,Oil Seeds,,,2026-02-18,6879.4,fallback_copy,0.0,0.0,0.0,LOW,2026-02-16,2026-02-19,6879.4,0.0,2026-02-18,6879.4,predicted
+Maharashtra,Safflower,Oil Seeds,,,2026-02-19,6879.4,fallback_copy,0.0,0.0,0.0,LOW,2026-02-16,2026-02-19,6879.4,0.0,2026-02-19,6879.4,predicted
+Maharashtra,"Sesamum(Sesame,Gingelly,Til)",Oil Seeds,,,2026-02-18,15170.58,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,15406.25,164.8700000000008,2026-02-18,15170.58,predicted
+Maharashtra,"Sesamum(Sesame,Gingelly,Til)",Oil Seeds,,,2026-02-19,15323.81,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,15406.25,164.8700000000008,2026-02-19,15323.81,predicted
+Maharashtra,"Sesamum(Sesame,Gingelly,Til)",Oil Seeds,,,2026-02-20,15477.05,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,15406.25,164.8700000000008,2026-02-20,15477.05,predicted
+Maharashtra,Soyabean,Oil Seeds,,,2026-02-18,5389.34,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5454.85,22.150000000000546,2026-02-18,5389.34,predicted
+Maharashtra,Soyabean,Oil Seeds,,,2026-02-19,5443.77,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5454.85,22.150000000000546,2026-02-19,5443.77,predicted
+Maharashtra,Soyabean,Oil Seeds,,,2026-02-20,5498.21,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,5454.85,22.150000000000546,2026-02-20,5498.21,predicted
+Maharashtra,Sunflower,Oil Seeds,,,2026-02-18,8090.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,8090.0,0.0,2026-02-18,8090.0,predicted
+Maharashtra,Sunflower,Oil Seeds,,,2026-02-19,8090.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,8090.0,0.0,2026-02-19,8090.0,predicted
+Maharashtra,Sunflower,Oil Seeds,,,2026-02-20,8090.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,8090.0,0.0,2026-02-20,8090.0,predicted
+Maharashtra,Wheat,Cereals,,,2026-02-18,3714.84,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,3655.2,99.39999999999964,2026-02-18,3714.84,predicted
+Maharashtra,Wheat,Cereals,,,2026-02-19,3754.6,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,3655.2,99.39999999999964,2026-02-19,3754.6,predicted
+Maharashtra,Wheat,Cereals,,,2026-02-20,3794.36,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-17,2026-02-19,3655.2,99.39999999999964,2026-02-20,3794.36,predicted

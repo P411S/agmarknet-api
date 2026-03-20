@@ -1,0 +1,49 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Kerala,Oil Seeds,Copra,2026-01-30,2026-01-28,19707.32,False,,,,
+Kerala,Oil Seeds,Copra,2026-01-30,2026-01-27,20054.89,False,,,,
+Kerala,Oil Seeds,Copra,2026-01-30,2026-01-26,21000.0,False,,,,
+Kerala,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-30,2026-01-28,13100.0,False,,,,
+Kerala,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-30,2026-01-27,12366.67,False,,,,
+Kerala,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-30,2026-01-26,11500.0,False,,,,
+Kerala,Pulses,Bengal Gram(Gram)(Whole),2026-01-30,2026-01-28,8250.0,False,,,,
+Kerala,Pulses,Bengal Gram(Gram)(Whole),2026-01-30,2026-01-27,8250.0,False,,,,
+Kerala,Pulses,Bengal Gram(Gram)(Whole),2026-01-30,2026-01-26,7900.0,False,,,,
+Kerala,Pulses,Black Gram(Urd Beans)(Whole),2026-01-30,2026-01-28,11700.0,False,,,,
+Kerala,Pulses,Black Gram(Urd Beans)(Whole),2026-01-30,2026-01-27,11880.0,False,,,,
+Kerala,Pulses,Black Gram(Urd Beans)(Whole),2026-01-30,2026-01-26,12066.67,False,,,,
+Kerala,Pulses,Green Gram(Moong)(Whole),2026-01-30,2026-01-28,11233.33,False,,,,
+Kerala,Pulses,Green Gram(Moong)(Whole),2026-01-30,2026-01-27,11233.33,False,,,,
+Kerala,Pulses,Green Gram(Moong)(Whole),2026-01-30,2026-01-26,10300.0,False,,,,
+Kerala,Vegetables,Onion,2026-01-30,2026-01-28,3298.75,False,,,,
+Kerala,Vegetables,Onion,2026-01-30,2026-01-27,3425.05,False,,,,
+Kerala,Vegetables,Onion,2026-01-30,2026-01-26,3506.93,False,,,,
+Kerala,Vegetables,Potato,2026-01-30,2026-01-28,2758.76,False,,,,
+Kerala,Vegetables,Potato,2026-01-30,2026-01-27,3459.56,False,,,,
+Kerala,Vegetables,Potato,2026-01-30,2026-01-26,3470.99,False,,,,
+Kerala,Vegetables,Tomato,2026-01-30,2026-01-28,3340.11,False,,,,
+Kerala,Vegetables,Tomato,2026-01-30,2026-01-27,3696.3,False,,,,
+Kerala,Vegetables,Tomato,2026-01-30,2026-01-26,3655.41,False,,,,
+Kerala,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,13540.0
+Kerala,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,13833.33
+Kerala,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,14126.66
+Kerala,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,8250.0
+Kerala,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,8250.0
+Kerala,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,8250.0
+Kerala,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,11592.0
+Kerala,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,11520.0
+Kerala,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,11448.0
+Kerala,,Copra,,,,True,HYBRID_MODEL,,2026-01-29,19498.78
+Kerala,,Copra,,,,True,HYBRID_MODEL,,2026-01-30,19359.75
+Kerala,,Copra,,,,True,HYBRID_MODEL,,2026-01-31,19220.72
+Kerala,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,11233.33
+Kerala,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,11233.33
+Kerala,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,11233.33
+Kerala,,Onion,,,,True,HYBRID_MODEL,,2026-01-29,3222.97
+Kerala,,Onion,,,,True,HYBRID_MODEL,,2026-01-30,3172.45
+Kerala,,Onion,,,,True,HYBRID_MODEL,,2026-01-31,3121.93
+Kerala,,Potato,,,,True,HYBRID_MODEL,,2026-01-29,2338.28
+Kerala,,Potato,,,,True,HYBRID_MODEL,,2026-01-30,2057.96
+Kerala,,Potato,,,,True,HYBRID_MODEL,,2026-01-31,1777.64
+Kerala,,Tomato,,,,True,HYBRID_MODEL,,2026-01-29,3126.4
+Kerala,,Tomato,,,,True,HYBRID_MODEL,,2026-01-30,2983.92
+Kerala,,Tomato,,,,True,HYBRID_MODEL,,2026-01-31,2841.44

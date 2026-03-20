@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Tripura,Onion,Vegetables,,,2026-02-20,2386.87,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,2409.65,-37.9699999999998,2026-02-20,2386.87,predicted
+Tripura,Onion,Vegetables,,,2026-02-21,2371.68,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,2409.65,-37.9699999999998,2026-02-21,2371.68,predicted
+Tripura,Onion,Vegetables,,,2026-02-22,2356.49,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,2409.65,-37.9699999999998,2026-02-22,2356.49,predicted
+Tripura,Paddy(Common),Cereals,,,2026-02-18,3950.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-21,3950.0,0.0,2026-02-18,3950.0,predicted
+Tripura,Paddy(Common),Cereals,,,2026-02-19,3950.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-21,3950.0,0.0,2026-02-19,3950.0,predicted
+Tripura,Paddy(Common),Cereals,,,2026-02-20,3950.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-17,2026-02-21,3950.0,0.0,2026-02-20,3950.0,predicted
+Tripura,Potato,Vegetables,,,2026-02-20,1321.95,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,1517.47,-325.8599999999999,2026-02-20,1321.95,predicted
+Tripura,Potato,Vegetables,,,2026-02-21,1191.61,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,1517.47,-325.8599999999999,2026-02-21,1191.61,predicted
+Tripura,Potato,Vegetables,,,2026-02-22,1061.27,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,1517.47,-325.8599999999999,2026-02-22,1061.27,predicted
+Tripura,Tomato,Vegetables,,,2026-02-20,2520.5,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,2930.25,-682.9099999999999,2026-02-20,2520.5,predicted
+Tripura,Tomato,Vegetables,,,2026-02-21,2247.34,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,2930.25,-682.9099999999999,2026-02-21,2247.34,predicted
+Tripura,Tomato,Vegetables,,,2026-02-22,1974.18,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-19,2026-02-21,2930.25,-682.9099999999999,2026-02-22,1974.18,predicted

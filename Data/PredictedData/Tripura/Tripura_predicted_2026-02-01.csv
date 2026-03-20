@@ -1,0 +1,10 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Tripura,Onion,2026-01-31,2467.18,HIGH
+Tripura,Onion,2026-02-01,2402.24,HIGH
+Tripura,Onion,2026-02-02,2337.3,HIGH
+Tripura,Potato,2026-01-31,2162.21,HIGH
+Tripura,Potato,2026-02-01,2313.09,HIGH
+Tripura,Potato,2026-02-02,2463.97,HIGH
+Tripura,Tomato,2026-01-31,4855.29,HIGH
+Tripura,Tomato,2026-02-01,5308.82,HIGH
+Tripura,Tomato,2026-02-02,5762.35,HIGH

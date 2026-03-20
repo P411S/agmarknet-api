@@ -1,0 +1,18 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Maharashtra,Arhar(Tur/Red Gram)(Whole),hybrid_trend,,,,LOW,3
+Maharashtra,Bajra(Pearl Millet/Cumbu),hybrid_trend,,,,LOW,3
+Maharashtra,Bengal Gram(Gram)(Whole),hybrid_trend,,,,LOW,3
+Maharashtra,Black Gram(Urd Beans)(Whole),hybrid_trend,,,,LOW,3
+Maharashtra,Cotton,hybrid_trend,,,,LOW,3
+Maharashtra,Green Gram(Moong)(Whole),hybrid_trend,,,,LOW,3
+Maharashtra,Groundnut,fallback_copy,,,,LOW,1
+Maharashtra,Jowar(Sorghum),hybrid_trend,,,,LOW,3
+Maharashtra,Lentil(Masur)(Whole),hybrid_trend,,,,LOW,3
+Maharashtra,Maize,hybrid_trend,,,,LOW,3
+Maharashtra,Mustard,hybrid_ma,,,,LOW,2
+Maharashtra,Paddy(Common),hybrid_trend,,,,LOW,3
+Maharashtra,Ragi(Finger Millet),hybrid_trend,,,,LOW,3
+Maharashtra,Safflower,hybrid_ma,,,,LOW,2
+Maharashtra,"Sesamum(Sesame,Gingelly,Til)",hybrid_ma,,,,LOW,2
+Maharashtra,Soyabean,hybrid_trend,,,,LOW,3
+Maharashtra,Wheat,hybrid_trend,,,,LOW,3

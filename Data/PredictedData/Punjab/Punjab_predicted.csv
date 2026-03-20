@@ -1,0 +1,13 @@
+state,commodity_group,commodity,predicted_date,predicted_price,confidence_score,model_used
+Punjab,Fibre Crops,Cotton,2026-01-27,7475.14,0.4,BOOTSTRAP
+Punjab,Fibre Crops,Cotton,2026-01-28,7634.61,0.4,BOOTSTRAP
+Punjab,Fibre Crops,Cotton,2026-01-29,7662.73,0.4,BOOTSTRAP
+Punjab,Vegetables,Onion,2026-01-27,1571.69,0.65,MA
+Punjab,Vegetables,Onion,2026-01-28,1579.96,0.65,MA
+Punjab,Vegetables,Onion,2026-01-29,1557.41,0.65,MA
+Punjab,Vegetables,Potato,2026-01-27,353.05,0.65,MA
+Punjab,Vegetables,Potato,2026-01-28,354.82,0.65,MA
+Punjab,Vegetables,Potato,2026-01-29,359.36,0.65,MA
+Punjab,Vegetables,Tomato,2026-01-27,1766.13,0.65,MA
+Punjab,Vegetables,Tomato,2026-01-28,1742.08,0.65,MA
+Punjab,Vegetables,Tomato,2026-01-29,1743.8,0.65,MA

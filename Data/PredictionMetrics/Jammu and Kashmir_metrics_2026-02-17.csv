@@ -1,0 +1,4 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Jammu and Kashmir,Onion,hybrid_trend,0.0,0.0,0.0,LOW,3
+Jammu and Kashmir,Potato,hybrid_trend,0.0,0.0,0.0,LOW,3
+Jammu and Kashmir,Tomato,hybrid_trend,0.0,0.0,0.0,LOW,3

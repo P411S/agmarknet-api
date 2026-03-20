@@ -1,0 +1,10 @@
+state,commodity,price_date,price,price_type
+Tripura,Onion,2026-02-01,2650.34,Predicted
+Tripura,Onion,2026-02-02,2671.78,Predicted
+Tripura,Onion,2026-02-03,2693.22,Predicted
+Tripura,Potato,2026-02-01,1920.2,Predicted
+Tripura,Potato,2026-02-02,1916.28,Predicted
+Tripura,Potato,2026-02-03,1912.36,Predicted
+Tripura,Tomato,2026-02-01,4335.0,Predicted
+Tripura,Tomato,2026-02-02,4375.0,Predicted
+Tripura,Tomato,2026-02-03,4415.0,Predicted

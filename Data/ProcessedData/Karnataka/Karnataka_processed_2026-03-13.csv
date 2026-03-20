@@ -1,0 +1,16 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Karnataka,Cereals,Jowar(Sorghum),2026-03-09,4005.0,2026-03-13,Actual
+Karnataka,Cereals,Paddy(Common),2026-03-11,2505.88,2026-03-13,Actual
+Karnataka,Cereals,Paddy(Common),2026-03-09,2689.0,2026-03-13,Actual
+Karnataka,Fibre Crops,Cotton,2026-03-11,7797.82,2026-03-13,Actual
+Karnataka,Fibre Crops,Cotton,2026-03-10,7951.31,2026-03-13,Actual
+Karnataka,Fibre Crops,Cotton,2026-03-09,7788.33,2026-03-13,Actual
+Karnataka,Oil Seeds,Copra,2026-03-10,29000.0,2026-03-13,Actual
+Karnataka,Oil Seeds,Copra,2026-03-09,28000.0,2026-03-13,Actual
+Karnataka,Oil Seeds,Groundnut,2026-03-11,7777.0,2026-03-13,Actual
+Karnataka,Oil Seeds,Groundnut,2026-03-10,8219.0,2026-03-13,Actual
+Karnataka,Oil Seeds,Groundnut,2026-03-09,8555.0,2026-03-13,Actual
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-11,7654.34,2026-03-13,Actual
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-10,7713.14,2026-03-13,Actual
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-09,7619.49,2026-03-13,Actual
+Karnataka,Pulses,Bengal Gram(Gram)(Whole),2026-03-11,4800.0,2026-03-13,Actual

@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Andhra Pradesh,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-05,4891.1,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,4870.0,-141.0,2026-03-05,4891.1,predicted
+Andhra Pradesh,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-06,4940.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,4870.0,-141.0,2026-03-06,4940.5,predicted
+Andhra Pradesh,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-07,4989.9,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,4870.0,-141.0,2026-03-07,4989.9,predicted
+Andhra Pradesh,Cotton,Fibre Crops,,,2026-03-05,7526.48,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,7525.0,-155.0,2026-03-05,7526.48,predicted
+Andhra Pradesh,Cotton,Fibre Crops,,,2026-03-06,7602.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,7525.0,-155.0,2026-03-06,7602.5,predicted
+Andhra Pradesh,Cotton,Fibre Crops,,,2026-03-07,7678.52,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,7525.0,-155.0,2026-03-07,7678.52,predicted
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-03-05,8809.82,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,8928.37,59.13000000000102,2026-03-05,8809.82,predicted
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-03-06,8898.81,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,8928.37,59.13000000000102,2026-03-06,8898.81,predicted
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-03-07,8987.79,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,8928.37,59.13000000000102,2026-03-07,8987.79,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-03-05,983.88,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,975.13,14.590000000000032,2026-03-05,983.88,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-03-06,989.72,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,975.13,14.590000000000032,2026-03-06,989.72,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-03-07,995.56,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,975.13,14.590000000000032,2026-03-07,995.56,predicted

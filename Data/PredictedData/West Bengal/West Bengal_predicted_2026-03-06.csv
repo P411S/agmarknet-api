@@ -1,0 +1,25 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+West Bengal,Maize,Cereals,,,2026-03-05,2269.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,2275.0,-10.0,2026-03-05,2269.0,predicted
+West Bengal,Maize,Cereals,,,2026-03-06,2265.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,2275.0,-10.0,2026-03-06,2265.0,predicted
+West Bengal,Maize,Cereals,,,2026-03-07,2261.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,2275.0,-10.0,2026-03-07,2261.0,predicted
+West Bengal,Mustard,Oil Seeds,,,2026-03-05,6671.33,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,6734.44,-105.18000000000029,2026-03-05,6671.33,predicted
+West Bengal,Mustard,Oil Seeds,,,2026-03-06,6629.26,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,6734.44,-105.18000000000029,2026-03-06,6629.26,predicted
+West Bengal,Mustard,Oil Seeds,,,2026-03-07,6587.19,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,6734.44,-105.18000000000029,2026-03-07,6587.19,predicted
+West Bengal,Onion,Vegetables,,,2026-03-05,1734.47,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,1744.83,-17.269999999999982,2026-03-05,1734.47,predicted
+West Bengal,Onion,Vegetables,,,2026-03-06,1727.56,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,1744.83,-17.269999999999982,2026-03-06,1727.56,predicted
+West Bengal,Onion,Vegetables,,,2026-03-07,1720.65,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,1744.83,-17.269999999999982,2026-03-07,1720.65,predicted
+West Bengal,Paddy(Common),Cereals,,,2026-03-05,2295.72,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,2294.47,2.0799999999999272,2026-03-05,2295.72,predicted
+West Bengal,Paddy(Common),Cereals,,,2026-03-06,2296.55,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,2294.47,2.0799999999999272,2026-03-06,2296.55,predicted
+West Bengal,Paddy(Common),Cereals,,,2026-03-07,2297.38,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,2294.47,2.0799999999999272,2026-03-07,2297.38,predicted
+West Bengal,Potato,Vegetables,,,2026-03-05,842.29,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,853.58,-18.809999999999945,2026-03-05,842.29,predicted
+West Bengal,Potato,Vegetables,,,2026-03-06,834.77,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,853.58,-18.809999999999945,2026-03-06,834.77,predicted
+West Bengal,Potato,Vegetables,,,2026-03-07,827.25,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,853.58,-18.809999999999945,2026-03-07,827.25,predicted
+West Bengal,"Sesamum(Sesame,Gingelly,Til)",Oil Seeds,,,2026-03-05,6764.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,6740.0,40.0,2026-03-05,6764.0,predicted
+West Bengal,"Sesamum(Sesame,Gingelly,Til)",Oil Seeds,,,2026-03-06,6780.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,6740.0,40.0,2026-03-06,6780.0,predicted
+West Bengal,"Sesamum(Sesame,Gingelly,Til)",Oil Seeds,,,2026-03-07,6796.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,6740.0,40.0,2026-03-07,6796.0,predicted
+West Bengal,Tomato,Vegetables,,,2026-03-05,1371.48,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,1405.82,-57.24000000000001,2026-03-05,1371.48,predicted
+West Bengal,Tomato,Vegetables,,,2026-03-06,1348.58,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,1405.82,-57.24000000000001,2026-03-06,1348.58,predicted
+West Bengal,Tomato,Vegetables,,,2026-03-07,1325.68,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,1405.82,-57.24000000000001,2026-03-07,1325.68,predicted
+West Bengal,Wheat,Cereals,,,2026-03-05,2622.04,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,2619.98,3.4299999999998363,2026-03-05,2622.04,predicted
+West Bengal,Wheat,Cereals,,,2026-03-06,2623.41,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,2619.98,3.4299999999998363,2026-03-06,2623.41,predicted
+West Bengal,Wheat,Cereals,,,2026-03-07,2624.78,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-04,2026-03-06,2619.98,3.4299999999998363,2026-03-07,2624.78,predicted

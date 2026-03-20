@@ -1,0 +1,4 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Himachal Pradesh,Onion,hybrid_trend,,,,LOW,3
+Himachal Pradesh,Potato,hybrid_trend,,,,LOW,3
+Himachal Pradesh,Tomato,hybrid_trend,,,,LOW,3

@@ -1,0 +1,9 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Telangana,Arhar(Tur/Red Gram)(Whole),hybrid_ma,,,,LOW,2
+Telangana,Bengal Gram(Gram)(Whole),fallback_copy,,,,LOW,1
+Telangana,Cotton,hybrid_trend,,,,LOW,3
+Telangana,Maize,hybrid_trend,,,,LOW,3
+Telangana,Onion,hybrid_trend,,,,LOW,3
+Telangana,Paddy(Common),hybrid_trend,,,,LOW,3
+Telangana,Potato,hybrid_trend,,,,LOW,3
+Telangana,Tomato,hybrid_trend,,,,LOW,3

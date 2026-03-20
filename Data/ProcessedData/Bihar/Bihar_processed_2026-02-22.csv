@@ -1,0 +1,11 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Bihar,Cereals,Paddy(Common),2026-02-20,2370.0,2026-02-22,Actual
+Bihar,Cereals,Paddy(Common),2026-02-19,2370.0,2026-02-22,Actual
+Bihar,Cereals,Paddy(Common),2026-02-18,2270.0,2026-02-22,Actual
+Bihar,Cereals,Wheat,2026-02-20,2600.0,2026-02-22,Actual
+Bihar,Vegetables,Onion,2026-02-20,2266.67,2026-02-22,Actual
+Bihar,Vegetables,Onion,2026-02-19,2400.0,2026-02-22,Actual
+Bihar,Vegetables,Onion,2026-02-18,2400.0,2026-02-22,Actual
+Bihar,Vegetables,Potato,2026-02-20,1010.92,2026-02-22,Actual
+Bihar,Vegetables,Potato,2026-02-19,950.71,2026-02-22,Actual
+Bihar,Vegetables,Potato,2026-02-18,943.6,2026-02-22,Actual

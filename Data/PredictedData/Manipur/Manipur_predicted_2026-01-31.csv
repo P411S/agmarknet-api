@@ -1,0 +1,13 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Manipur,Bengal Gram(Gram)(Whole),2026-01-30,9381.58,HIGH
+Manipur,Bengal Gram(Gram)(Whole),2026-01-31,9802.63,HIGH
+Manipur,Bengal Gram(Gram)(Whole),2026-02-01,10223.68,HIGH
+Manipur,Black Gram(Urd Beans)(Whole),2026-01-29,13612.5,MEDIUM
+Manipur,Black Gram(Urd Beans)(Whole),2026-01-30,13750.0,MEDIUM
+Manipur,Black Gram(Urd Beans)(Whole),2026-01-31,13887.5,MEDIUM
+Manipur,Onion,2026-01-30,3793.45,HIGH
+Manipur,Onion,2026-01-31,3822.41,HIGH
+Manipur,Onion,2026-02-01,3851.37,HIGH
+Manipur,Potato,2026-01-30,2250.0,HIGH
+Manipur,Potato,2026-01-31,2250.0,HIGH
+Manipur,Potato,2026-02-01,2250.0,HIGH

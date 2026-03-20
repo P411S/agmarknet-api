@@ -1,0 +1,10 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Jammu and Kashmir,Onion,2026-01-30,2304.62,HIGH
+Jammu and Kashmir,Onion,2026-01-31,2300.37,HIGH
+Jammu and Kashmir,Onion,2026-02-01,2296.12,HIGH
+Jammu and Kashmir,Potato,2026-01-30,897.61,HIGH
+Jammu and Kashmir,Potato,2026-01-31,899.76,HIGH
+Jammu and Kashmir,Potato,2026-02-01,901.91,HIGH
+Jammu and Kashmir,Tomato,2026-01-30,2635.98,HIGH
+Jammu and Kashmir,Tomato,2026-01-31,2612.35,HIGH
+Jammu and Kashmir,Tomato,2026-02-01,2588.72,HIGH

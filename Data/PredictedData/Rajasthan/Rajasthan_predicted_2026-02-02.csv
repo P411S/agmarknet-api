@@ -1,0 +1,58 @@
+state,commodity,price_date,price,price_type
+Rajasthan,Arhar(Tur/Red Gram)(Whole),2026-02-01,5892.0,Predicted
+Rajasthan,Arhar(Tur/Red Gram)(Whole),2026-02-02,5620.0,Predicted
+Rajasthan,Arhar(Tur/Red Gram)(Whole),2026-02-03,5348.0,Predicted
+Rajasthan,Bajra(Pearl Millet/Cumbu),2026-02-01,1895.21,Predicted
+Rajasthan,Bajra(Pearl Millet/Cumbu),2026-02-02,1874.67,Predicted
+Rajasthan,Bajra(Pearl Millet/Cumbu),2026-02-03,1854.13,Predicted
+Rajasthan,Barley(Jau),2026-02-01,2568.3,Predicted
+Rajasthan,Barley(Jau),2026-02-02,2818.82,Predicted
+Rajasthan,Barley(Jau),2026-02-03,3069.34,Predicted
+Rajasthan,Bengal Gram(Gram)(Whole),2026-02-01,5511.35,Predicted
+Rajasthan,Bengal Gram(Gram)(Whole),2026-02-02,5549.53,Predicted
+Rajasthan,Bengal Gram(Gram)(Whole),2026-02-03,5587.71,Predicted
+Rajasthan,Black Gram(Urd Beans)(Whole),2026-02-01,7341.98,Predicted
+Rajasthan,Black Gram(Urd Beans)(Whole),2026-02-02,7493.15,Predicted
+Rajasthan,Black Gram(Urd Beans)(Whole),2026-02-03,7644.32,Predicted
+Rajasthan,Cotton,2026-02-01,7842.13,Predicted
+Rajasthan,Cotton,2026-02-02,7905.21,Predicted
+Rajasthan,Cotton,2026-02-03,7968.29,Predicted
+Rajasthan,Green Gram(Moong)(Whole),2026-02-01,6676.72,Predicted
+Rajasthan,Green Gram(Moong)(Whole),2026-02-02,6595.81,Predicted
+Rajasthan,Green Gram(Moong)(Whole),2026-02-03,6514.9,Predicted
+Rajasthan,Groundnut,2026-02-01,6114.4,Predicted
+Rajasthan,Groundnut,2026-02-02,6085.98,Predicted
+Rajasthan,Groundnut,2026-02-03,6057.56,Predicted
+Rajasthan,Jowar(Sorghum),2026-01-31,3217.5,Predicted
+Rajasthan,Jowar(Sorghum),2026-02-01,3250.0,Predicted
+Rajasthan,Jowar(Sorghum),2026-02-02,3282.5,Predicted
+Rajasthan,Lentil(Masur)(Whole),2026-02-01,5800.0,Predicted
+Rajasthan,Lentil(Masur)(Whole),2026-02-02,5800.0,Predicted
+Rajasthan,Lentil(Masur)(Whole),2026-02-03,5800.0,Predicted
+Rajasthan,Maize,2026-02-01,1541.49,Predicted
+Rajasthan,Maize,2026-02-02,1536.29,Predicted
+Rajasthan,Maize,2026-02-03,1531.09,Predicted
+Rajasthan,Mustard,2026-02-01,6428.01,Predicted
+Rajasthan,Mustard,2026-02-02,6385.87,Predicted
+Rajasthan,Mustard,2026-02-03,6343.73,Predicted
+Rajasthan,Onion,2026-02-01,643.1,Predicted
+Rajasthan,Onion,2026-02-02,464.43,Predicted
+Rajasthan,Onion,2026-02-03,285.76,Predicted
+Rajasthan,Paddy(Common),2026-02-01,3098.8,Predicted
+Rajasthan,Paddy(Common),2026-02-02,2998.0,Predicted
+Rajasthan,Paddy(Common),2026-02-03,2897.2,Predicted
+Rajasthan,Potato,2026-02-01,807.7,Predicted
+Rajasthan,Potato,2026-02-02,879.5,Predicted
+Rajasthan,Potato,2026-02-03,951.3,Predicted
+Rajasthan,"Sesamum(Sesame,Gingelly,Til)",2026-01-30,9491.63,Predicted
+Rajasthan,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,9491.63,Predicted
+Rajasthan,"Sesamum(Sesame,Gingelly,Til)",2026-02-01,9491.63,Predicted
+Rajasthan,Soyabean,2026-02-01,4863.89,Predicted
+Rajasthan,Soyabean,2026-02-02,4780.4,Predicted
+Rajasthan,Soyabean,2026-02-03,4696.91,Predicted
+Rajasthan,Tomato,2026-02-01,2663.02,Predicted
+Rajasthan,Tomato,2026-02-02,3038.36,Predicted
+Rajasthan,Tomato,2026-02-03,3413.7,Predicted
+Rajasthan,Wheat,2026-02-01,2595.93,Predicted
+Rajasthan,Wheat,2026-02-02,2609.98,Predicted
+Rajasthan,Wheat,2026-02-03,2624.03,Predicted

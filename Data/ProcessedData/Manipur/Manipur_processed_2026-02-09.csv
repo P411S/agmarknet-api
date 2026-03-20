@@ -1,0 +1,12 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Manipur,Cereals,Paddy(Common),2026-02-06,2875.0,2026-02-09,Actual
+Manipur,Cereals,Paddy(Common),2026-02-04,2875.0,2026-02-09,Actual
+Manipur,Pulses,Bengal Gram(Gram)(Whole),2026-02-06,8666.67,2026-02-09,Actual
+Manipur,Pulses,Bengal Gram(Gram)(Whole),2026-02-05,8750.0,2026-02-09,Actual
+Manipur,Pulses,Bengal Gram(Gram)(Whole),2026-02-04,8666.67,2026-02-09,Actual
+Manipur,Vegetables,Onion,2026-02-06,3863.64,2026-02-09,Actual
+Manipur,Vegetables,Onion,2026-02-05,3750.0,2026-02-09,Actual
+Manipur,Vegetables,Onion,2026-02-04,3750.0,2026-02-09,Actual
+Manipur,Vegetables,Potato,2026-02-06,2250.0,2026-02-09,Actual
+Manipur,Vegetables,Potato,2026-02-05,2250.0,2026-02-09,Actual
+Manipur,Vegetables,Potato,2026-02-04,2250.0,2026-02-09,Actual

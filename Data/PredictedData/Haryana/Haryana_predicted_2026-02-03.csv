@@ -1,0 +1,28 @@
+state,commodity,price_date,price,price_type
+Haryana,Bajra(Pearl Millet/Cumbu),2026-02-01,1836.45,Predicted
+Haryana,Bajra(Pearl Millet/Cumbu),2026-02-02,1855.0,Predicted
+Haryana,Bajra(Pearl Millet/Cumbu),2026-02-03,1873.55,Predicted
+Haryana,Bengal Gram(Gram)(Whole),2026-02-01,5091.07,Predicted
+Haryana,Bengal Gram(Gram)(Whole),2026-02-02,5142.5,Predicted
+Haryana,Bengal Gram(Gram)(Whole),2026-02-03,5193.93,Predicted
+Haryana,Cotton,2026-02-02,7907.57,Predicted
+Haryana,Cotton,2026-02-03,7999.29,Predicted
+Haryana,Cotton,2026-02-04,8091.01,Predicted
+Haryana,Green Gram(Moong)(Whole),2026-01-31,6355.0,Predicted
+Haryana,Green Gram(Moong)(Whole),2026-02-01,6355.0,Predicted
+Haryana,Green Gram(Moong)(Whole),2026-02-02,6355.0,Predicted
+Haryana,Mustard,2026-02-02,6860.0,Predicted
+Haryana,Mustard,2026-02-03,6900.0,Predicted
+Haryana,Mustard,2026-02-04,6940.0,Predicted
+Haryana,Onion,2026-02-02,1635.27,Predicted
+Haryana,Onion,2026-02-03,1566.97,Predicted
+Haryana,Onion,2026-02-04,1498.67,Predicted
+Haryana,Paddy(Common),2026-02-02,3708.31,Predicted
+Haryana,Paddy(Common),2026-02-03,3580.51,Predicted
+Haryana,Paddy(Common),2026-02-04,3452.71,Predicted
+Haryana,Potato,2026-02-02,734.43,Predicted
+Haryana,Potato,2026-02-03,792.04,Predicted
+Haryana,Potato,2026-02-04,849.65,Predicted
+Haryana,Tomato,2026-02-02,1381.43,Predicted
+Haryana,Tomato,2026-02-03,1197.29,Predicted
+Haryana,Tomato,2026-02-04,1013.15,Predicted

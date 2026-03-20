@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Punjab,Cotton,Fibre Crops,,,2026-02-28,7225.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-27,2026-03-03,7225.0,0.0,2026-02-28,7225.0,predicted
+Punjab,Cotton,Fibre Crops,,,2026-03-01,7225.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-27,2026-03-03,7225.0,0.0,2026-03-01,7225.0,predicted
+Punjab,Cotton,Fibre Crops,,,2026-03-02,7225.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-27,2026-03-03,7225.0,0.0,2026-03-02,7225.0,predicted
+Punjab,Onion,Vegetables,,,2026-03-02,2078.06,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-01,2026-03-03,1821.05,428.3499999999999,2026-03-02,2078.06,predicted
+Punjab,Onion,Vegetables,,,2026-03-03,2249.4,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-01,2026-03-03,1821.05,428.3499999999999,2026-03-03,2249.4,predicted
+Punjab,Onion,Vegetables,,,2026-03-04,2420.74,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-01,2026-03-03,1821.05,428.3499999999999,2026-03-04,2420.74,predicted
+Punjab,Potato,Vegetables,,,2026-03-02,727.19,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-01,2026-03-03,594.24,221.57999999999998,2026-03-02,727.19,predicted
+Punjab,Potato,Vegetables,,,2026-03-03,815.82,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-01,2026-03-03,594.24,221.57999999999998,2026-03-03,815.82,predicted
+Punjab,Potato,Vegetables,,,2026-03-04,904.45,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-01,2026-03-03,594.24,221.57999999999998,2026-03-04,904.45,predicted
+Punjab,Tomato,Vegetables,,,2026-03-02,4681.09,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-01,2026-03-03,3480.95,2000.2299999999998,2026-03-02,4681.09,predicted
+Punjab,Tomato,Vegetables,,,2026-03-03,5481.18,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-01,2026-03-03,3480.95,2000.2299999999998,2026-03-03,5481.18,predicted
+Punjab,Tomato,Vegetables,,,2026-03-04,6281.27,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-01,2026-03-03,3480.95,2000.2299999999998,2026-03-04,6281.27,predicted

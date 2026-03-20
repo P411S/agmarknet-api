@@ -1,0 +1,52 @@
+state,commodity,price_date,price,price_type
+Gujarat,Arhar(Tur/Red Gram)(Whole),2026-02-01,7146.01,Predicted
+Gujarat,Arhar(Tur/Red Gram)(Whole),2026-02-02,7047.95,Predicted
+Gujarat,Arhar(Tur/Red Gram)(Whole),2026-02-03,6949.89,Predicted
+Gujarat,Bajra(Pearl Millet/Cumbu),2026-02-01,2505.57,Predicted
+Gujarat,Bajra(Pearl Millet/Cumbu),2026-02-02,2468.78,Predicted
+Gujarat,Bajra(Pearl Millet/Cumbu),2026-02-03,2431.99,Predicted
+Gujarat,Bengal Gram(Gram)(Whole),2026-02-01,6079.99,Predicted
+Gujarat,Bengal Gram(Gram)(Whole),2026-02-02,6067.93,Predicted
+Gujarat,Bengal Gram(Gram)(Whole),2026-02-03,6055.87,Predicted
+Gujarat,Black Gram(Urd Beans)(Whole),2026-02-01,6352.22,Predicted
+Gujarat,Black Gram(Urd Beans)(Whole),2026-02-02,6160.9,Predicted
+Gujarat,Black Gram(Urd Beans)(Whole),2026-02-03,5969.58,Predicted
+Gujarat,Cotton,2026-02-01,7584.97,Predicted
+Gujarat,Cotton,2026-02-02,7570.45,Predicted
+Gujarat,Cotton,2026-02-03,7555.93,Predicted
+Gujarat,Green Gram(Moong)(Whole),2026-02-01,6924.45,Predicted
+Gujarat,Green Gram(Moong)(Whole),2026-02-02,6865.82,Predicted
+Gujarat,Green Gram(Moong)(Whole),2026-02-03,6807.19,Predicted
+Gujarat,Groundnut,2026-02-01,6842.81,Predicted
+Gujarat,Groundnut,2026-02-02,6773.74,Predicted
+Gujarat,Groundnut,2026-02-03,6704.67,Predicted
+Gujarat,Jowar(Sorghum),2026-02-01,5485.21,Predicted
+Gujarat,Jowar(Sorghum),2026-02-02,5694.74,Predicted
+Gujarat,Jowar(Sorghum),2026-02-03,5904.27,Predicted
+Gujarat,Maize,2026-01-31,1500.0,Predicted
+Gujarat,Maize,2026-02-01,1500.0,Predicted
+Gujarat,Maize,2026-02-02,1500.0,Predicted
+Gujarat,Mustard,2026-02-01,6019.45,Predicted
+Gujarat,Mustard,2026-02-02,5970.36,Predicted
+Gujarat,Mustard,2026-02-03,5921.27,Predicted
+Gujarat,Onion,2026-02-01,998.92,Predicted
+Gujarat,Onion,2026-02-02,958.15,Predicted
+Gujarat,Onion,2026-02-03,917.38,Predicted
+Gujarat,Paddy(Common),2026-02-01,2358.53,Predicted
+Gujarat,Paddy(Common),2026-02-02,2361.73,Predicted
+Gujarat,Paddy(Common),2026-02-03,2364.93,Predicted
+Gujarat,Potato,2026-02-01,907.7,Predicted
+Gujarat,Potato,2026-02-02,906.24,Predicted
+Gujarat,Potato,2026-02-03,904.78,Predicted
+Gujarat,"Sesamum(Sesame,Gingelly,Til)",2026-02-01,8422.85,Predicted
+Gujarat,"Sesamum(Sesame,Gingelly,Til)",2026-02-02,8222.36,Predicted
+Gujarat,"Sesamum(Sesame,Gingelly,Til)",2026-02-03,8021.87,Predicted
+Gujarat,Soyabean,2026-02-01,5280.29,Predicted
+Gujarat,Soyabean,2026-02-02,5231.03,Predicted
+Gujarat,Soyabean,2026-02-03,5181.77,Predicted
+Gujarat,Tomato,2026-02-01,1125.44,Predicted
+Gujarat,Tomato,2026-02-02,1035.05,Predicted
+Gujarat,Tomato,2026-02-03,944.66,Predicted
+Gujarat,Wheat,2026-02-01,2647.5,Predicted
+Gujarat,Wheat,2026-02-02,2651.56,Predicted
+Gujarat,Wheat,2026-02-03,2655.62,Predicted

@@ -1,0 +1,61 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Telangana,Cereals,Maize,2026-01-31,2026-01-29,2400.0,False,,,,
+Telangana,Cereals,Maize,2026-01-31,2026-01-28,2400.0,False,,,,
+Telangana,Cereals,Maize,2026-01-31,2026-01-27,2319.64,False,,,,
+Telangana,Cereals,Paddy(Common),2026-01-31,2026-01-29,2385.71,False,,,,
+Telangana,Cereals,Paddy(Common),2026-01-31,2026-01-28,2472.54,False,,,,
+Telangana,Cereals,Paddy(Common),2026-01-31,2026-01-27,2401.41,False,,,,
+Telangana,Fibre Crops,Cotton,2026-01-31,2026-01-29,7925.44,False,,,,
+Telangana,Fibre Crops,Cotton,2026-01-31,2026-01-28,7920.93,False,,,,
+Telangana,Fibre Crops,Cotton,2026-01-31,2026-01-27,7892.13,False,,,,
+Telangana,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,2026-01-27,10501.0,False,,,,
+Telangana,Oil Seeds,Soyabean,2026-01-31,2026-01-29,5789.0,False,,,,
+Telangana,Oil Seeds,Soyabean,2026-01-31,2026-01-28,5699.0,False,,,,
+Telangana,Oil Seeds,Soyabean,2026-01-31,2026-01-27,5304.0,False,,,,
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-29,8788.0,False,,,,
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-28,8302.0,False,,,,
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-27,7369.77,False,,,,
+Telangana,Pulses,Black Gram(Urd Beans)(Whole),2026-01-31,2026-01-27,7889.0,False,,,,
+Telangana,Pulses,Green Gram(Moong)(Whole),2026-01-31,2026-01-27,8063.0,False,,,,
+Telangana,Vegetables,Onion,2026-01-31,2026-01-29,1128.22,False,,,,
+Telangana,Vegetables,Onion,2026-01-31,2026-01-28,1179.99,False,,,,
+Telangana,Vegetables,Onion,2026-01-31,2026-01-27,1192.95,False,,,,
+Telangana,Vegetables,Potato,2026-01-31,2026-01-29,1001.28,False,,,,
+Telangana,Vegetables,Potato,2026-01-31,2026-01-28,998.82,False,,,,
+Telangana,Vegetables,Potato,2026-01-31,2026-01-27,1104.74,False,,,,
+Telangana,Vegetables,Tomato,2026-01-31,2026-01-29,804.1,False,,,,
+Telangana,Vegetables,Tomato,2026-01-31,2026-01-28,1368.78,False,,,,
+Telangana,Vegetables,Tomato,2026-01-31,2026-01-27,813.21,False,,,,
+Telangana,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,9079.6
+Telangana,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,9274.0
+Telangana,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,9468.4
+Telangana,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-28,7889.0
+Telangana,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,7889.0
+Telangana,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,7889.0
+Telangana,,Cotton,,,,True,HYBRID_MODEL,,2026-01-30,7928.15
+Telangana,,Cotton,,,,True,HYBRID_MODEL,,2026-01-31,7929.95
+Telangana,,Cotton,,,,True,HYBRID_MODEL,,2026-02-01,7931.75
+Telangana,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-28,8063.0
+Telangana,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,8063.0
+Telangana,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,8063.0
+Telangana,,Maize,,,,True,HYBRID_MODEL,,2026-01-30,2400.0
+Telangana,,Maize,,,,True,HYBRID_MODEL,,2026-01-31,2400.0
+Telangana,,Maize,,,,True,HYBRID_MODEL,,2026-02-01,2400.0
+Telangana,,Onion,,,,True,HYBRID_MODEL,,2026-01-30,1097.16
+Telangana,,Onion,,,,True,HYBRID_MODEL,,2026-01-31,1076.45
+Telangana,,Onion,,,,True,HYBRID_MODEL,,2026-02-01,1055.74
+Telangana,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-30,2333.61
+Telangana,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-31,2298.88
+Telangana,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-02-01,2264.15
+Telangana,,Potato,,,,True,HYBRID_MODEL,,2026-01-30,1002.76
+Telangana,,Potato,,,,True,HYBRID_MODEL,,2026-01-31,1003.74
+Telangana,,Potato,,,,True,HYBRID_MODEL,,2026-02-01,1004.72
+Telangana,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-28,10501.0
+Telangana,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-29,10501.0
+Telangana,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-30,10501.0
+Telangana,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-30,5843.0
+Telangana,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-31,5879.0
+Telangana,,Soyabean,,,,True,HYBRID_MODEL,,2026-02-01,5915.0
+Telangana,,Tomato,,,,True,HYBRID_MODEL,,2026-01-30,465.29
+Telangana,,Tomato,,,,True,HYBRID_MODEL,,2026-01-31,239.42
+Telangana,,Tomato,,,,True,HYBRID_MODEL,,2026-02-01,13.55

@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Tripura,Onion,Vegetables,,,2026-02-23,2783.67,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-22,2026-02-24,2720.56,105.17999999999984,2026-02-23,2783.67,predicted
+Tripura,Onion,Vegetables,,,2026-02-24,2825.74,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-22,2026-02-24,2720.56,105.17999999999984,2026-02-24,2825.74,predicted
+Tripura,Onion,Vegetables,,,2026-02-25,2867.81,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-22,2026-02-24,2720.56,105.17999999999984,2026-02-25,2867.81,predicted
+Tripura,Paddy(Common),Cereals,,,2026-02-23,2250.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-22,2026-02-24,2250.0,0.0,2026-02-23,2250.0,predicted
+Tripura,Paddy(Common),Cereals,,,2026-02-24,2250.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-22,2026-02-24,2250.0,0.0,2026-02-24,2250.0,predicted
+Tripura,Paddy(Common),Cereals,,,2026-02-25,2250.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-22,2026-02-24,2250.0,0.0,2026-02-25,2250.0,predicted
+Tripura,Potato,Vegetables,,,2026-02-23,1484.82,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-22,2026-02-24,1574.72,-149.83999999999992,2026-02-23,1484.82,predicted
+Tripura,Potato,Vegetables,,,2026-02-24,1424.88,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-22,2026-02-24,1574.72,-149.83999999999992,2026-02-24,1424.88,predicted
+Tripura,Potato,Vegetables,,,2026-02-25,1364.94,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-22,2026-02-24,1574.72,-149.83999999999992,2026-02-25,1364.94,predicted
+Tripura,Tomato,Vegetables,,,2026-02-23,2447.57,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-22,2026-02-24,2855.77,-680.3400000000001,2026-02-23,2447.57,predicted
+Tripura,Tomato,Vegetables,,,2026-02-24,2175.43,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-22,2026-02-24,2855.77,-680.3400000000001,2026-02-24,2175.43,predicted
+Tripura,Tomato,Vegetables,,,2026-02-25,1903.29,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-22,2026-02-24,2855.77,-680.3400000000001,2026-02-25,1903.29,predicted

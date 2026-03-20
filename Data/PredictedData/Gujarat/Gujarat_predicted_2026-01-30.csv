@@ -1,0 +1,52 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Gujarat,Arhar(Tur/Red Gram)(Whole),2026-01-29,7413.46,MEDIUM
+Gujarat,Arhar(Tur/Red Gram)(Whole),2026-01-30,7488.34,MEDIUM
+Gujarat,Arhar(Tur/Red Gram)(Whole),2026-01-31,7563.23,MEDIUM
+Gujarat,Bajra(Pearl Millet/Cumbu),2026-01-29,2649.72,MEDIUM
+Gujarat,Bajra(Pearl Millet/Cumbu),2026-01-30,2676.48,MEDIUM
+Gujarat,Bajra(Pearl Millet/Cumbu),2026-01-31,2703.25,MEDIUM
+Gujarat,Bengal Gram(Gram)(Whole),2026-01-29,6101.57,MEDIUM
+Gujarat,Bengal Gram(Gram)(Whole),2026-01-30,6163.2,MEDIUM
+Gujarat,Bengal Gram(Gram)(Whole),2026-01-31,6224.83,MEDIUM
+Gujarat,Black Gram(Urd Beans)(Whole),2026-01-29,6755.24,MEDIUM
+Gujarat,Black Gram(Urd Beans)(Whole),2026-01-30,6823.47,MEDIUM
+Gujarat,Black Gram(Urd Beans)(Whole),2026-01-31,6891.7,MEDIUM
+Gujarat,Cotton,2026-01-29,7645.88,MEDIUM
+Gujarat,Cotton,2026-01-30,7723.11,MEDIUM
+Gujarat,Cotton,2026-01-31,7800.35,MEDIUM
+Gujarat,Green Gram(Moong)(Whole),2026-01-29,6883.65,MEDIUM
+Gujarat,Green Gram(Moong)(Whole),2026-01-30,6953.18,MEDIUM
+Gujarat,Green Gram(Moong)(Whole),2026-01-31,7022.71,MEDIUM
+Gujarat,Groundnut,2026-01-29,7238.49,MEDIUM
+Gujarat,Groundnut,2026-01-30,7311.61,MEDIUM
+Gujarat,Groundnut,2026-01-31,7384.73,MEDIUM
+Gujarat,Jowar(Sorghum),2026-01-29,4871.82,MEDIUM
+Gujarat,Jowar(Sorghum),2026-01-30,4921.03,MEDIUM
+Gujarat,Jowar(Sorghum),2026-01-31,4970.24,MEDIUM
+Gujarat,Maize,2026-01-29,1744.58,MEDIUM
+Gujarat,Maize,2026-01-30,1762.2,MEDIUM
+Gujarat,Maize,2026-01-31,1779.83,MEDIUM
+Gujarat,Mustard,2026-01-29,6049.23,MEDIUM
+Gujarat,Mustard,2026-01-30,6110.34,MEDIUM
+Gujarat,Mustard,2026-01-31,6171.44,MEDIUM
+Gujarat,Onion,2026-01-29,1166.61,HIGH
+Gujarat,Onion,2026-01-30,1163.69,HIGH
+Gujarat,Onion,2026-01-31,1160.77,HIGH
+Gujarat,Paddy(Common),2026-01-29,2282.39,MEDIUM
+Gujarat,Paddy(Common),2026-01-30,2305.44,MEDIUM
+Gujarat,Paddy(Common),2026-01-31,2328.5,MEDIUM
+Gujarat,Potato,2026-01-29,907.51,HIGH
+Gujarat,Potato,2026-01-30,908.05,HIGH
+Gujarat,Potato,2026-01-31,908.59,HIGH
+Gujarat,"Sesamum(Sesame,Gingelly,Til)",2026-01-29,9793.34,MEDIUM
+Gujarat,"Sesamum(Sesame,Gingelly,Til)",2026-01-30,9892.26,MEDIUM
+Gujarat,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,9991.18,MEDIUM
+Gujarat,Soyabean,2026-01-29,5463.69,HIGH
+Gujarat,Soyabean,2026-01-30,5504.35,HIGH
+Gujarat,Soyabean,2026-01-31,5545.01,HIGH
+Gujarat,Tomato,2026-01-29,1509.09,HIGH
+Gujarat,Tomato,2026-01-30,1457.53,HIGH
+Gujarat,Tomato,2026-01-31,1405.97,HIGH
+Gujarat,Wheat,2026-01-29,2595.67,MEDIUM
+Gujarat,Wheat,2026-01-30,2621.89,MEDIUM
+Gujarat,Wheat,2026-01-31,2648.11,MEDIUM

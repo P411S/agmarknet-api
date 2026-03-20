@@ -1,0 +1,10 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Tripura,Vegetables,Onion,,,2026-02-06,2214.34,predicted,hybrid_trend,HIGH,2384.62,-283.8000000000002,2026-02-07
+Tripura,Vegetables,Onion,,,2026-02-07,2100.82,predicted,hybrid_trend,HIGH,2384.62,-283.8000000000002,2026-02-07
+Tripura,Vegetables,Onion,,,2026-02-08,1987.3,predicted,hybrid_trend,HIGH,2384.62,-283.8000000000002,2026-02-07
+Tripura,Vegetables,Potato,,,2026-02-06,1411.03,predicted,hybrid_trend,HIGH,1592.52,-302.48,2026-02-07
+Tripura,Vegetables,Potato,,,2026-02-07,1290.04,predicted,hybrid_trend,HIGH,1592.52,-302.48,2026-02-07
+Tripura,Vegetables,Potato,,,2026-02-08,1169.05,predicted,hybrid_trend,HIGH,1592.52,-302.48,2026-02-07
+Tripura,Vegetables,Tomato,,,2026-02-06,3224.85,predicted,hybrid_trend,HIGH,3496.78,-453.2199999999998,2026-02-07
+Tripura,Vegetables,Tomato,,,2026-02-07,3043.56,predicted,hybrid_trend,HIGH,3496.78,-453.2199999999998,2026-02-07
+Tripura,Vegetables,Tomato,,,2026-02-08,2862.27,predicted,hybrid_trend,HIGH,3496.78,-453.2199999999998,2026-02-07

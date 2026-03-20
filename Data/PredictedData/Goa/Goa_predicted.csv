@@ -1,0 +1,7 @@
+state,commodity_group,commodity,predicted_date,predicted_price,confidence_score,model_used
+Goa,Vegetables,Onion,2026-01-27,1502.16,0.4,BOOTSTRAP
+Goa,Vegetables,Onion,2026-01-28,1490.14,0.4,BOOTSTRAP
+Goa,Vegetables,Onion,2026-01-29,1483.43,0.4,BOOTSTRAP
+Goa,Vegetables,Potato,2026-01-27,1510.81,0.4,BOOTSTRAP
+Goa,Vegetables,Potato,2026-01-28,1532.41,0.4,BOOTSTRAP
+Goa,Vegetables,Potato,2026-01-29,1513.38,0.4,BOOTSTRAP

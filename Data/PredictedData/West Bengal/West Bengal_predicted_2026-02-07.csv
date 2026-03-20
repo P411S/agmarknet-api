@@ -1,0 +1,25 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+West Bengal,Cereals,Maize,,,2026-02-06,2291.0,predicted,hybrid_trend,HIGH,2285.0,10.0,2026-02-07
+West Bengal,Cereals,Maize,,,2026-02-07,2295.0,predicted,hybrid_trend,HIGH,2285.0,10.0,2026-02-07
+West Bengal,Cereals,Maize,,,2026-02-08,2299.0,predicted,hybrid_trend,HIGH,2285.0,10.0,2026-02-07
+West Bengal,Oil Seeds,Mustard,,,2026-02-06,6717.78,predicted,hybrid_trend,HIGH,6721.12,-5.569999999999709,2026-02-07
+West Bengal,Oil Seeds,Mustard,,,2026-02-07,6715.55,predicted,hybrid_trend,HIGH,6721.12,-5.569999999999709,2026-02-07
+West Bengal,Oil Seeds,Mustard,,,2026-02-08,6713.32,predicted,hybrid_trend,HIGH,6721.12,-5.569999999999709,2026-02-07
+West Bengal,Vegetables,Onion,,,2026-02-06,1919.35,predicted,hybrid_trend,HIGH,1941.3,-36.590000000000146,2026-02-07
+West Bengal,Vegetables,Onion,,,2026-02-07,1904.71,predicted,hybrid_trend,HIGH,1941.3,-36.590000000000146,2026-02-07
+West Bengal,Vegetables,Onion,,,2026-02-08,1890.07,predicted,hybrid_trend,HIGH,1941.3,-36.590000000000146,2026-02-07
+West Bengal,Cereals,Paddy(Common),,,2026-02-06,2267.43,predicted,hybrid_trend,HIGH,2279.89,-20.76000000000022,2026-02-07
+West Bengal,Cereals,Paddy(Common),,,2026-02-07,2259.13,predicted,hybrid_trend,HIGH,2279.89,-20.76000000000022,2026-02-07
+West Bengal,Cereals,Paddy(Common),,,2026-02-08,2250.83,predicted,hybrid_trend,HIGH,2279.89,-20.76000000000022,2026-02-07
+West Bengal,Vegetables,Potato,,,2026-02-06,1016.98,predicted,hybrid_trend,HIGH,1014.23,4.590000000000032,2026-02-07
+West Bengal,Vegetables,Potato,,,2026-02-07,1018.82,predicted,hybrid_trend,HIGH,1014.23,4.590000000000032,2026-02-07
+West Bengal,Vegetables,Potato,,,2026-02-08,1020.66,predicted,hybrid_trend,HIGH,1014.23,4.590000000000032,2026-02-07
+West Bengal,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",,,2026-02-06,6838.1,predicted,hybrid_trend,HIGH,6802.86,58.73999999999978,2026-02-07
+West Bengal,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",,,2026-02-07,6861.6,predicted,hybrid_trend,HIGH,6802.86,58.73999999999978,2026-02-07
+West Bengal,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",,,2026-02-08,6885.1,predicted,hybrid_trend,HIGH,6802.86,58.73999999999978,2026-02-07
+West Bengal,Vegetables,Tomato,,,2026-02-06,2211.86,predicted,hybrid_trend,HIGH,2087.53,207.21000000000026,2026-02-07
+West Bengal,Vegetables,Tomato,,,2026-02-07,2294.74,predicted,hybrid_trend,HIGH,2087.53,207.21000000000026,2026-02-07
+West Bengal,Vegetables,Tomato,,,2026-02-08,2377.62,predicted,hybrid_trend,HIGH,2087.53,207.21000000000026,2026-02-07
+West Bengal,Cereals,Wheat,,,2026-02-06,2573.11,predicted,hybrid_trend,HIGH,2592.01,-31.5,2026-02-07
+West Bengal,Cereals,Wheat,,,2026-02-07,2560.51,predicted,hybrid_trend,HIGH,2592.01,-31.5,2026-02-07
+West Bengal,Cereals,Wheat,,,2026-02-08,2547.91,predicted,hybrid_trend,HIGH,2592.01,-31.5,2026-02-07

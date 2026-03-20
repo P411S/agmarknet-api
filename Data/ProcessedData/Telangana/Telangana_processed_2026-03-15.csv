@@ -1,0 +1,32 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Telangana,Cereals,Maize,2026-03-13,2126.23,2026-03-15,Actual
+Telangana,Cereals,Maize,2026-03-12,2300.0,2026-03-15,Actual
+Telangana,Cereals,Maize,2026-03-11,2300.0,2026-03-15,Actual
+Telangana,Cereals,Paddy(Common),2026-03-13,2388.61,2026-03-15,Actual
+Telangana,Cereals,Paddy(Common),2026-03-12,2377.99,2026-03-15,Actual
+Telangana,Cereals,Paddy(Common),2026-03-11,2398.59,2026-03-15,Actual
+Telangana,Fibre Crops,Cotton,2026-03-13,6474.38,2026-03-15,Actual
+Telangana,Fibre Crops,Cotton,2026-03-12,6454.76,2026-03-15,Actual
+Telangana,Fibre Crops,Cotton,2026-03-11,6523.64,2026-03-15,Actual
+Telangana,Oil Seeds,Groundnut,2026-03-12,7170.0,2026-03-15,Actual
+Telangana,Oil Seeds,Groundnut,2026-03-11,6989.0,2026-03-15,Actual
+Telangana,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-11,9529.0,2026-03-15,Actual
+Telangana,Oil Seeds,Soyabean,2026-03-13,5459.0,2026-03-15,Actual
+Telangana,Oil Seeds,Soyabean,2026-03-12,5329.0,2026-03-15,Actual
+Telangana,Oil Seeds,Soyabean,2026-03-11,5469.0,2026-03-15,Actual
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-13,7496.47,2026-03-15,Actual
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-12,7254.13,2026-03-15,Actual
+Telangana,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-11,7579.0,2026-03-15,Actual
+Telangana,Pulses,Bengal Gram(Gram)(Whole),2026-03-13,5185.91,2026-03-15,Actual
+Telangana,Pulses,Bengal Gram(Gram)(Whole),2026-03-12,5176.65,2026-03-15,Actual
+Telangana,Pulses,Bengal Gram(Gram)(Whole),2026-03-11,5196.0,2026-03-15,Actual
+Telangana,Pulses,Green Gram(Moong)(Whole),2026-03-12,7175.0,2026-03-15,Actual
+Telangana,Vegetables,Onion,2026-03-13,1117.21,2026-03-15,Actual
+Telangana,Vegetables,Onion,2026-03-12,1056.12,2026-03-15,Actual
+Telangana,Vegetables,Onion,2026-03-11,1100.0,2026-03-15,Actual
+Telangana,Vegetables,Potato,2026-03-13,761.71,2026-03-15,Actual
+Telangana,Vegetables,Potato,2026-03-12,1030.75,2026-03-15,Actual
+Telangana,Vegetables,Potato,2026-03-11,831.23,2026-03-15,Actual
+Telangana,Vegetables,Tomato,2026-03-13,559.48,2026-03-15,Actual
+Telangana,Vegetables,Tomato,2026-03-12,560.17,2026-03-15,Actual
+Telangana,Vegetables,Tomato,2026-03-11,556.74,2026-03-15,Actual

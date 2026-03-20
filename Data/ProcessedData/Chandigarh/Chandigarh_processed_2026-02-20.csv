@@ -1,0 +1,7 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Chandigarh,Vegetables,Onion,2026-02-18,1300.0,2026-02-20,Actual
+Chandigarh,Vegetables,Onion,2026-02-17,1300.0,2026-02-20,Actual
+Chandigarh,Vegetables,Potato,2026-02-18,300.0,2026-02-20,Actual
+Chandigarh,Vegetables,Potato,2026-02-17,300.0,2026-02-20,Actual
+Chandigarh,Vegetables,Tomato,2026-02-18,2000.0,2026-02-20,Actual
+Chandigarh,Vegetables,Tomato,2026-02-17,1600.0,2026-02-20,Actual

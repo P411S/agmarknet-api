@@ -1,0 +1,22 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Haryana,Cereals,Bajra(Pearl Millet/Cumbu),,,2026-02-12,1838.0,predicted,hybrid_trend,HIGH,1850.0,-20.0,2026-02-14
+Haryana,Cereals,Bajra(Pearl Millet/Cumbu),,,2026-02-13,1830.0,predicted,hybrid_trend,HIGH,1850.0,-20.0,2026-02-14
+Haryana,Cereals,Bajra(Pearl Millet/Cumbu),,,2026-02-14,1822.0,predicted,hybrid_trend,HIGH,1850.0,-20.0,2026-02-14
+Haryana,Fibre Crops,Cotton,,,2026-02-12,6567.24,predicted,hybrid_trend,HIGH,6932.35,-608.5099999999993,2026-02-14
+Haryana,Fibre Crops,Cotton,,,2026-02-13,6323.84,predicted,hybrid_trend,HIGH,6932.35,-608.5099999999993,2026-02-14
+Haryana,Fibre Crops,Cotton,,,2026-02-14,6080.44,predicted,hybrid_trend,HIGH,6932.35,-608.5099999999993,2026-02-14
+Haryana,Oil Seeds,Mustard,,,2026-02-12,6536.2,predicted,hybrid_trend,HIGH,6566.67,-50.789999999999964,2026-02-14
+Haryana,Oil Seeds,Mustard,,,2026-02-13,6515.88,predicted,hybrid_trend,HIGH,6566.67,-50.789999999999964,2026-02-14
+Haryana,Oil Seeds,Mustard,,,2026-02-14,6495.56,predicted,hybrid_trend,HIGH,6566.67,-50.789999999999964,2026-02-14
+Haryana,Vegetables,Onion,,,2026-02-12,1787.94,predicted,hybrid_trend,HIGH,1680.02,179.8599999999999,2026-02-14
+Haryana,Vegetables,Onion,,,2026-02-13,1859.88,predicted,hybrid_trend,HIGH,1680.02,179.8599999999999,2026-02-14
+Haryana,Vegetables,Onion,,,2026-02-14,1931.82,predicted,hybrid_trend,HIGH,1680.02,179.8599999999999,2026-02-14
+Haryana,Cereals,Paddy(Common),,,2026-02-12,3624.34,predicted,hybrid_trend,HIGH,3864.08,-399.5699999999997,2026-02-14
+Haryana,Cereals,Paddy(Common),,,2026-02-13,3464.51,predicted,hybrid_trend,HIGH,3864.08,-399.5699999999997,2026-02-14
+Haryana,Cereals,Paddy(Common),,,2026-02-14,3304.68,predicted,hybrid_trend,HIGH,3864.08,-399.5699999999997,2026-02-14
+Haryana,Vegetables,Potato,,,2026-02-12,567.26,predicted,hybrid_trend,HIGH,594.96,-46.16999999999996,2026-02-14
+Haryana,Vegetables,Potato,,,2026-02-13,548.79,predicted,hybrid_trend,HIGH,594.96,-46.16999999999996,2026-02-14
+Haryana,Vegetables,Potato,,,2026-02-14,530.32,predicted,hybrid_trend,HIGH,594.96,-46.16999999999996,2026-02-14
+Haryana,Vegetables,Tomato,,,2026-02-12,1520.79,predicted,hybrid_trend,HIGH,1467.23,89.26999999999998,2026-02-14
+Haryana,Vegetables,Tomato,,,2026-02-13,1556.5,predicted,hybrid_trend,HIGH,1467.23,89.26999999999998,2026-02-14
+Haryana,Vegetables,Tomato,,,2026-02-14,1592.21,predicted,hybrid_trend,HIGH,1467.23,89.26999999999998,2026-02-14

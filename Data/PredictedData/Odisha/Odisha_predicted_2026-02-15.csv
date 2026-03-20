@@ -1,0 +1,19 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Odisha,Fibre Crops,Cotton,,,2026-02-14,7667.55,predicted,hybrid_ma,MEDIUM,7500.0,-490.0,2026-02-15
+Odisha,Fibre Crops,Cotton,,,2026-02-15,7745.0,predicted,hybrid_ma,MEDIUM,7500.0,-490.0,2026-02-15
+Odisha,Fibre Crops,Cotton,,,2026-02-16,7822.45,predicted,hybrid_ma,MEDIUM,7500.0,-490.0,2026-02-15
+Odisha,Cereals,Maize,,,2026-02-14,2500.0,predicted,hybrid_trend,HIGH,2500.0,0.0,2026-02-15
+Odisha,Cereals,Maize,,,2026-02-15,2500.0,predicted,hybrid_trend,HIGH,2500.0,0.0,2026-02-15
+Odisha,Cereals,Maize,,,2026-02-16,2500.0,predicted,hybrid_trend,HIGH,2500.0,0.0,2026-02-15
+Odisha,Vegetables,Onion,,,2026-02-14,1846.04,predicted,hybrid_trend,HIGH,1838.89,11.910000000000082,2026-02-15
+Odisha,Vegetables,Onion,,,2026-02-15,1850.8,predicted,hybrid_trend,HIGH,1838.89,11.910000000000082,2026-02-15
+Odisha,Vegetables,Onion,,,2026-02-16,1855.56,predicted,hybrid_trend,HIGH,1838.89,11.910000000000082,2026-02-15
+Odisha,Cereals,Paddy(Common),,,2026-02-14,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-15
+Odisha,Cereals,Paddy(Common),,,2026-02-15,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-15
+Odisha,Cereals,Paddy(Common),,,2026-02-16,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-15
+Odisha,Vegetables,Potato,,,2026-02-14,347.95,predicted,hybrid_trend,HIGH,969.9,-1036.5900000000001,2026-02-15
+Odisha,Vegetables,Potato,,,2026-02-15,-66.69,predicted,hybrid_trend,HIGH,969.9,-1036.5900000000001,2026-02-15
+Odisha,Vegetables,Potato,,,2026-02-16,-481.33,predicted,hybrid_trend,HIGH,969.9,-1036.5900000000001,2026-02-15
+Odisha,Vegetables,Tomato,,,2026-02-14,1774.66,predicted,hybrid_trend,HIGH,1696.88,129.6400000000001,2026-02-15
+Odisha,Vegetables,Tomato,,,2026-02-15,1826.52,predicted,hybrid_trend,HIGH,1696.88,129.6400000000001,2026-02-15
+Odisha,Vegetables,Tomato,,,2026-02-16,1878.38,predicted,hybrid_trend,HIGH,1696.88,129.6400000000001,2026-02-15

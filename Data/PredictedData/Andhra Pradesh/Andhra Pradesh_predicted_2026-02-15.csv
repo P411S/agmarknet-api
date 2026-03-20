@@ -1,0 +1,19 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Andhra Pradesh,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-14,5181.16,predicted,hybrid_ma,MEDIUM,5256.0,45.0,2026-02-15
+Andhra Pradesh,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-15,5233.5,predicted,hybrid_ma,MEDIUM,5256.0,45.0,2026-02-15
+Andhra Pradesh,Pulses,Bengal Gram(Gram)(Whole),,,2026-02-16,5285.84,predicted,hybrid_ma,MEDIUM,5256.0,45.0,2026-02-15
+Andhra Pradesh,Fibre Crops,Cotton,,,2026-02-14,7646.76,predicted,hybrid_ma,MEDIUM,7789.0,130.0,2026-02-15
+Andhra Pradesh,Fibre Crops,Cotton,,,2026-02-15,7724.0,predicted,hybrid_ma,MEDIUM,7789.0,130.0,2026-02-15
+Andhra Pradesh,Fibre Crops,Cotton,,,2026-02-16,7801.24,predicted,hybrid_ma,MEDIUM,7789.0,130.0,2026-02-15
+Andhra Pradesh,Oil Seeds,Groundnut,,,2026-02-14,10421.8,predicted,hybrid_trend,HIGH,8389.0,3388.0,2026-02-15
+Andhra Pradesh,Oil Seeds,Groundnut,,,2026-02-15,11777.0,predicted,hybrid_trend,HIGH,8389.0,3388.0,2026-02-15
+Andhra Pradesh,Oil Seeds,Groundnut,,,2026-02-16,13132.2,predicted,hybrid_trend,HIGH,8389.0,3388.0,2026-02-15
+Andhra Pradesh,Vegetables,Potato,,,2026-02-14,1700.0,predicted,hybrid_trend,HIGH,1700.0,0.0,2026-02-15
+Andhra Pradesh,Vegetables,Potato,,,2026-02-15,1700.0,predicted,hybrid_trend,HIGH,1700.0,0.0,2026-02-15
+Andhra Pradesh,Vegetables,Potato,,,2026-02-16,1700.0,predicted,hybrid_trend,HIGH,1700.0,0.0,2026-02-15
+Andhra Pradesh,Oil Seeds,Sunflower Seed,,,2026-02-14,5868.23,predicted,hybrid_ma,MEDIUM,5602.0,-651.0,2026-02-15
+Andhra Pradesh,Oil Seeds,Sunflower Seed,,,2026-02-15,5927.5,predicted,hybrid_ma,MEDIUM,5602.0,-651.0,2026-02-15
+Andhra Pradesh,Oil Seeds,Sunflower Seed,,,2026-02-16,5986.77,predicted,hybrid_ma,MEDIUM,5602.0,-651.0,2026-02-15
+Andhra Pradesh,Vegetables,Tomato,,,2026-02-14,1199.27,predicted,hybrid_trend,HIGH,1191.39,13.13000000000011,2026-02-15
+Andhra Pradesh,Vegetables,Tomato,,,2026-02-15,1204.52,predicted,hybrid_trend,HIGH,1191.39,13.13000000000011,2026-02-15
+Andhra Pradesh,Vegetables,Tomato,,,2026-02-16,1209.77,predicted,hybrid_trend,HIGH,1191.39,13.13000000000011,2026-02-15

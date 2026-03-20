@@ -1,0 +1,55 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Karnataka,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-03-18,7583.77,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,7570.56,22.01000000000022,2026-03-18,7583.77,predicted
+Karnataka,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-03-19,7592.57,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,7570.56,22.01000000000022,2026-03-19,7592.57,predicted
+Karnataka,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-03-20,7601.37,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,7570.56,22.01000000000022,2026-03-20,7601.37,predicted
+Karnataka,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-03-18,2243.31,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,2231.7,19.34999999999991,2026-03-18,2243.31,predicted
+Karnataka,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-03-19,2251.05,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,2231.7,19.34999999999991,2026-03-19,2251.05,predicted
+Karnataka,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-03-20,2258.79,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,2231.7,19.34999999999991,2026-03-20,2258.79,predicted
+Karnataka,Barley(Jau),Cereals,,,2026-03-18,4000.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,4000.0,0.0,2026-03-18,4000.0,predicted
+Karnataka,Barley(Jau),Cereals,,,2026-03-19,4000.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,4000.0,0.0,2026-03-19,4000.0,predicted
+Karnataka,Barley(Jau),Cereals,,,2026-03-20,4000.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,4000.0,0.0,2026-03-20,4000.0,predicted
+Karnataka,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-18,5734.12,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,5485.74,413.96000000000004,2026-03-18,5734.12,predicted
+Karnataka,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-19,5899.7,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,5485.74,413.96000000000004,2026-03-19,5899.7,predicted
+Karnataka,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-20,6065.28,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,5485.74,413.96000000000004,2026-03-20,6065.28,predicted
+Karnataka,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-18,12523.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,12650.0,0.0,2026-03-18,12523.5,predicted
+Karnataka,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-19,12650.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,12650.0,0.0,2026-03-19,12650.0,predicted
+Karnataka,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-20,12776.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,12650.0,0.0,2026-03-20,12776.5,predicted
+Karnataka,Copra,Oil Seeds,,,2026-03-18,15226.52,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,18420.49,-5323.289999999997,2026-03-18,15226.52,predicted
+Karnataka,Copra,Oil Seeds,,,2026-03-19,13097.2,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,18420.49,-5323.289999999997,2026-03-19,13097.2,predicted
+Karnataka,Copra,Oil Seeds,,,2026-03-20,10967.88,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,18420.49,-5323.289999999997,2026-03-20,10967.88,predicted
+Karnataka,Cotton,Fibre Crops,,,2026-03-18,7841.6,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,8005.37,169.1300000000001,2026-03-18,7841.6,predicted
+Karnataka,Cotton,Fibre Crops,,,2026-03-19,7920.81,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,8005.37,169.1300000000001,2026-03-19,7920.81,predicted
+Karnataka,Cotton,Fibre Crops,,,2026-03-20,8000.01,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,8005.37,169.1300000000001,2026-03-20,8000.01,predicted
+Karnataka,Green Gram(Moong)(Whole),Pulses,,,2026-03-18,8934.73,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,9093.82,137.6800000000003,2026-03-18,8934.73,predicted
+Karnataka,Green Gram(Moong)(Whole),Pulses,,,2026-03-19,9024.98,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,9093.82,137.6800000000003,2026-03-19,9024.98,predicted
+Karnataka,Green Gram(Moong)(Whole),Pulses,,,2026-03-20,9115.23,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,9093.82,137.6800000000003,2026-03-20,9115.23,predicted
+Karnataka,Groundnut,Oil Seeds,,,2026-03-18,7250.86,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,7477.97,-378.5099999999993,2026-03-18,7250.86,predicted
+Karnataka,Groundnut,Oil Seeds,,,2026-03-19,7099.46,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,7477.97,-378.5099999999993,2026-03-19,7099.46,predicted
+Karnataka,Groundnut,Oil Seeds,,,2026-03-20,6948.06,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,7477.97,-378.5099999999993,2026-03-20,6948.06,predicted
+Karnataka,Jowar(Sorghum),Cereals,,,2026-03-18,3774.94,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,3516.38,430.94000000000005,2026-03-18,3774.94,predicted
+Karnataka,Jowar(Sorghum),Cereals,,,2026-03-19,3947.32,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,3516.38,430.94000000000005,2026-03-19,3947.32,predicted
+Karnataka,Jowar(Sorghum),Cereals,,,2026-03-20,4119.7,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,3516.38,430.94000000000005,2026-03-20,4119.7,predicted
+Karnataka,Maize,Cereals,,,2026-03-18,1610.35,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1643.04,-54.49000000000001,2026-03-18,1610.35,predicted
+Karnataka,Maize,Cereals,,,2026-03-19,1588.55,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1643.04,-54.49000000000001,2026-03-19,1588.55,predicted
+Karnataka,Maize,Cereals,,,2026-03-20,1566.75,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,1643.04,-54.49000000000001,2026-03-20,1566.75,predicted
+Karnataka,Mustard,Oil Seeds,,,2026-03-18,10147.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,10250.0,0.0,2026-03-18,10147.5,predicted
+Karnataka,Mustard,Oil Seeds,,,2026-03-19,10250.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,10250.0,0.0,2026-03-19,10250.0,predicted
+Karnataka,Mustard,Oil Seeds,,,2026-03-20,10352.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,10250.0,0.0,2026-03-20,10352.5,predicted
+Karnataka,Paddy(Common),Cereals,,,2026-03-18,2255.24,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,2265.37,-16.88000000000011,2026-03-18,2255.24,predicted
+Karnataka,Paddy(Common),Cereals,,,2026-03-19,2248.49,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,2265.37,-16.88000000000011,2026-03-19,2248.49,predicted
+Karnataka,Paddy(Common),Cereals,,,2026-03-20,2241.74,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,2265.37,-16.88000000000011,2026-03-20,2241.74,predicted
+Karnataka,Ragi(Finger Millet),Cereals,,,2026-03-18,3603.05,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,3551.08,86.61000000000013,2026-03-18,3603.05,predicted
+Karnataka,Ragi(Finger Millet),Cereals,,,2026-03-19,3637.69,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,3551.08,86.61000000000013,2026-03-19,3637.69,predicted
+Karnataka,Ragi(Finger Millet),Cereals,,,2026-03-20,3672.33,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,3551.08,86.61000000000013,2026-03-20,3672.33,predicted
+Karnataka,Safflower,Oil Seeds,,,2026-03-18,4815.04,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,4846.57,-34.210000000000036,2026-03-18,4815.04,predicted
+Karnataka,Safflower,Oil Seeds,,,2026-03-19,4863.67,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,4846.57,-34.210000000000036,2026-03-19,4863.67,predicted
+Karnataka,Safflower,Oil Seeds,,,2026-03-20,4912.31,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,4846.57,-34.210000000000036,2026-03-20,4912.31,predicted
+Karnataka,Soyabean,Oil Seeds,,,2026-03-18,5218.55,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,5301.58,-138.3800000000001,2026-03-18,5218.55,predicted
+Karnataka,Soyabean,Oil Seeds,,,2026-03-19,5163.2,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,5301.58,-138.3800000000001,2026-03-19,5163.2,predicted
+Karnataka,Soyabean,Oil Seeds,,,2026-03-20,5107.85,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,5301.58,-138.3800000000001,2026-03-20,5107.85,predicted
+Karnataka,Sunflower,Oil Seeds,,,2026-03-18,6916.45,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,7054.59,-230.22999999999956,2026-03-18,6916.45,predicted
+Karnataka,Sunflower,Oil Seeds,,,2026-03-19,6824.36,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,7054.59,-230.22999999999956,2026-03-19,6824.36,predicted
+Karnataka,Sunflower,Oil Seeds,,,2026-03-20,6732.27,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,7054.59,-230.22999999999956,2026-03-20,6732.27,predicted
+Karnataka,Wheat,Cereals,,,2026-03-18,3256.69,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,3489.99,-388.84000000000015,2026-03-18,3256.69,predicted
+Karnataka,Wheat,Cereals,,,2026-03-19,3101.15,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,3489.99,-388.84000000000015,2026-03-19,3101.15,predicted
+Karnataka,Wheat,Cereals,,,2026-03-20,2945.61,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-17,2026-03-19,3489.99,-388.84000000000015,2026-03-20,2945.61,predicted

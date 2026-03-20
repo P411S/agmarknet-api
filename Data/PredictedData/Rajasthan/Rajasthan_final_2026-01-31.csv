@@ -1,0 +1,112 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Rajasthan,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-31,2026-01-29,2184.0,False,,,,
+Rajasthan,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-31,2026-01-28,2038.88,False,,,,
+Rajasthan,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-31,2026-01-27,1986.92,False,,,,
+Rajasthan,Cereals,Barley(Jau),2026-01-31,2026-01-29,2384.73,False,,,,
+Rajasthan,Cereals,Barley(Jau),2026-01-31,2026-01-28,2300.0,False,,,,
+Rajasthan,Cereals,Barley(Jau),2026-01-31,2026-01-27,2262.73,False,,,,
+Rajasthan,Cereals,Jowar(Sorghum),2026-01-31,2026-01-29,1900.0,False,,,,
+Rajasthan,Cereals,Jowar(Sorghum),2026-01-31,2026-01-28,2116.05,False,,,,
+Rajasthan,Cereals,Jowar(Sorghum),2026-01-31,2026-01-27,2199.5,False,,,,
+Rajasthan,Cereals,Maize,2026-01-31,2026-01-29,1569.14,False,,,,
+Rajasthan,Cereals,Maize,2026-01-31,2026-01-28,1565.17,False,,,,
+Rajasthan,Cereals,Maize,2026-01-31,2026-01-27,1619.39,False,,,,
+Rajasthan,Cereals,Paddy(Common),2026-01-31,2026-01-29,3311.0,False,,,,
+Rajasthan,Cereals,Paddy(Common),2026-01-31,2026-01-28,3349.98,False,,,,
+Rajasthan,Cereals,Paddy(Common),2026-01-31,2026-01-27,3349.92,False,,,,
+Rajasthan,Cereals,Wheat,2026-01-31,2026-01-29,2607.01,False,,,,
+Rajasthan,Cereals,Wheat,2026-01-31,2026-01-28,2554.84,False,,,,
+Rajasthan,Cereals,Wheat,2026-01-31,2026-01-27,2616.77,False,,,,
+Rajasthan,Fibre Crops,Cotton,2026-01-31,2026-01-29,7567.72,False,,,,
+Rajasthan,Fibre Crops,Cotton,2026-01-31,2026-01-28,7745.18,False,,,,
+Rajasthan,Fibre Crops,Cotton,2026-01-31,2026-01-27,7659.16,False,,,,
+Rajasthan,Oil Seeds,Groundnut,2026-01-31,2026-01-29,6343.42,False,,,,
+Rajasthan,Oil Seeds,Groundnut,2026-01-31,2026-01-28,6018.36,False,,,,
+Rajasthan,Oil Seeds,Groundnut,2026-01-31,2026-01-27,6445.65,False,,,,
+Rajasthan,Oil Seeds,Mustard,2026-01-31,2026-01-29,6662.51,False,,,,
+Rajasthan,Oil Seeds,Mustard,2026-01-31,2026-01-28,6532.71,False,,,,
+Rajasthan,Oil Seeds,Mustard,2026-01-31,2026-01-27,6367.21,False,,,,
+Rajasthan,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,2026-01-29,9491.63,False,,,,
+Rajasthan,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,2026-01-28,14140.48,False,,,,
+Rajasthan,Oil Seeds,Soyabean,2026-01-31,2026-01-29,5072.33,False,,,,
+Rajasthan,Oil Seeds,Soyabean,2026-01-31,2026-01-28,5280.11,False,,,,
+Rajasthan,Oil Seeds,Soyabean,2026-01-31,2026-01-27,4947.47,False,,,,
+Rajasthan,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-29,6960.0,False,,,,
+Rajasthan,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-28,6800.0,False,,,,
+Rajasthan,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-27,6210.0,False,,,,
+Rajasthan,Pulses,Bengal Gram(Gram)(Whole),2026-01-31,2026-01-29,5233.23,False,,,,
+Rajasthan,Pulses,Bengal Gram(Gram)(Whole),2026-01-31,2026-01-28,5245.74,False,,,,
+Rajasthan,Pulses,Bengal Gram(Gram)(Whole),2026-01-31,2026-01-27,4946.48,False,,,,
+Rajasthan,Pulses,Black Gram(Urd Beans)(Whole),2026-01-31,2026-01-29,6317.63,False,,,,
+Rajasthan,Pulses,Black Gram(Urd Beans)(Whole),2026-01-31,2026-01-28,6863.36,False,,,,
+Rajasthan,Pulses,Black Gram(Urd Beans)(Whole),2026-01-31,2026-01-27,6226.27,False,,,,
+Rajasthan,Pulses,Green Gram(Moong)(Whole),2026-01-31,2026-01-29,7078.18,False,,,,
+Rajasthan,Pulses,Green Gram(Moong)(Whole),2026-01-31,2026-01-28,6952.98,False,,,,
+Rajasthan,Pulses,Green Gram(Moong)(Whole),2026-01-31,2026-01-27,6662.08,False,,,,
+Rajasthan,Pulses,Lentil(Masur)(Whole),2026-01-31,2026-01-28,5953.92,False,,,,
+Rajasthan,Vegetables,Onion,2026-01-31,2026-01-29,1347.91,False,,,,
+Rajasthan,Vegetables,Onion,2026-01-31,2026-01-28,1345.3,False,,,,
+Rajasthan,Vegetables,Onion,2026-01-31,2026-01-27,1365.82,False,,,,
+Rajasthan,Vegetables,Potato,2026-01-31,2026-01-29,533.73,False,,,,
+Rajasthan,Vegetables,Potato,2026-01-31,2026-01-28,581.43,False,,,,
+Rajasthan,Vegetables,Potato,2026-01-31,2026-01-27,515.15,False,,,,
+Rajasthan,Vegetables,Tomato,2026-01-31,2026-01-29,1224.59,False,,,,
+Rajasthan,Vegetables,Tomato,2026-01-31,2026-01-28,1404.47,False,,,,
+Rajasthan,Vegetables,Tomato,2026-01-31,2026-01-27,1500.81,False,,,,
+Rajasthan,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,7056.0
+Rajasthan,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,7120.0
+Rajasthan,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,7184.0
+Rajasthan,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-01-30,2271.07
+Rajasthan,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-01-31,2329.12
+Rajasthan,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-02-01,2387.17
+Rajasthan,,Barley(Jau),,,,True,HYBRID_MODEL,,2026-01-30,2435.57
+Rajasthan,,Barley(Jau),,,,True,HYBRID_MODEL,,2026-01-31,2469.46
+Rajasthan,,Barley(Jau),,,,True,HYBRID_MODEL,,2026-02-01,2503.35
+Rajasthan,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,5225.72
+Rajasthan,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,5220.72
+Rajasthan,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,5215.72
+Rajasthan,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,5990.19
+Rajasthan,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,5771.9
+Rajasthan,,Black Gram(Urd Beans)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,5553.61
+Rajasthan,,Cotton,,,,True,HYBRID_MODEL,,2026-01-30,7461.24
+Rajasthan,,Cotton,,,,True,HYBRID_MODEL,,2026-01-31,7390.26
+Rajasthan,,Cotton,,,,True,HYBRID_MODEL,,2026-02-01,7319.28
+Rajasthan,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,7153.3
+Rajasthan,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,7203.38
+Rajasthan,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,7253.46
+Rajasthan,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-30,6538.46
+Rajasthan,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-31,6668.48
+Rajasthan,,Groundnut,,,,True,HYBRID_MODEL,,2026-02-01,6798.5
+Rajasthan,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-30,1770.37
+Rajasthan,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-31,1683.95
+Rajasthan,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-02-01,1597.53
+Rajasthan,,Lentil(Masur)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,5953.92
+Rajasthan,,Lentil(Masur)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,5953.92
+Rajasthan,,Lentil(Masur)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,5953.92
+Rajasthan,,Maize,,,,True,HYBRID_MODEL,,2026-01-30,1571.52
+Rajasthan,,Maize,,,,True,HYBRID_MODEL,,2026-01-31,1573.11
+Rajasthan,,Maize,,,,True,HYBRID_MODEL,,2026-02-01,1574.7
+Rajasthan,,Mustard,,,,True,HYBRID_MODEL,,2026-01-30,6740.39
+Rajasthan,,Mustard,,,,True,HYBRID_MODEL,,2026-01-31,6792.31
+Rajasthan,,Mustard,,,,True,HYBRID_MODEL,,2026-02-01,6844.23
+Rajasthan,,Onion,,,,True,HYBRID_MODEL,,2026-01-30,1349.48
+Rajasthan,,Onion,,,,True,HYBRID_MODEL,,2026-01-31,1350.52
+Rajasthan,,Onion,,,,True,HYBRID_MODEL,,2026-02-01,1351.56
+Rajasthan,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-30,3287.61
+Rajasthan,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-31,3272.02
+Rajasthan,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-02-01,3256.43
+Rajasthan,,Potato,,,,True,HYBRID_MODEL,,2026-01-30,505.11
+Rajasthan,,Potato,,,,True,HYBRID_MODEL,,2026-01-31,486.03
+Rajasthan,,Potato,,,,True,HYBRID_MODEL,,2026-02-01,466.95
+Rajasthan,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-30,11697.89
+Rajasthan,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-01-31,11816.06
+Rajasthan,,"Sesamum(Sesame,Gingelly,Til)",,,,True,HYBRID_MODEL,,2026-02-01,11934.22
+Rajasthan,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-30,4947.66
+Rajasthan,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-31,4864.55
+Rajasthan,,Soyabean,,,,True,HYBRID_MODEL,,2026-02-01,4781.44
+Rajasthan,,Tomato,,,,True,HYBRID_MODEL,,2026-01-30,1116.66
+Rajasthan,,Tomato,,,,True,HYBRID_MODEL,,2026-01-31,1044.71
+Rajasthan,,Tomato,,,,True,HYBRID_MODEL,,2026-02-01,972.76
+Rajasthan,,Wheat,,,,True,HYBRID_MODEL,,2026-01-30,2638.31
+Rajasthan,,Wheat,,,,True,HYBRID_MODEL,,2026-01-31,2659.18
+Rajasthan,,Wheat,,,,True,HYBRID_MODEL,,2026-02-01,2680.05

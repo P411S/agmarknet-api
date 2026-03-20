@@ -1,0 +1,16 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Karnataka,Cotton,Fibre Crops,,,2026-02-19,8065.53,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,8000.0,-294.0,2026-02-19,8065.53,predicted
+Karnataka,Cotton,Fibre Crops,,,2026-02-20,8147.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,8000.0,-294.0,2026-02-20,8147.0,predicted
+Karnataka,Cotton,Fibre Crops,,,2026-02-21,8228.47,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,8000.0,-294.0,2026-02-21,8228.47,predicted
+Karnataka,Green Gram(Moong)(Whole),Pulses,,,2026-02-17,5100.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-16,2026-02-20,5100.0,0.0,2026-02-17,5100.0,predicted
+Karnataka,Green Gram(Moong)(Whole),Pulses,,,2026-02-18,5100.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-16,2026-02-20,5100.0,0.0,2026-02-18,5100.0,predicted
+Karnataka,Green Gram(Moong)(Whole),Pulses,,,2026-02-19,5100.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-16,2026-02-20,5100.0,0.0,2026-02-19,5100.0,predicted
+Karnataka,Groundnut,Oil Seeds,,,2026-02-17,8279.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-16,2026-02-20,8279.0,0.0,2026-02-17,8279.0,predicted
+Karnataka,Groundnut,Oil Seeds,,,2026-02-18,8279.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-16,2026-02-20,8279.0,0.0,2026-02-18,8279.0,predicted
+Karnataka,Groundnut,Oil Seeds,,,2026-02-19,8279.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-16,2026-02-20,8279.0,0.0,2026-02-19,8279.0,predicted
+Karnataka,Paddy(Common),Cereals,,,2026-02-18,2428.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,2541.07,176.07000000000016,2026-02-18,2428.5,predicted
+Karnataka,Paddy(Common),Cereals,,,2026-02-19,2453.03,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,2541.07,176.07000000000016,2026-02-19,2453.03,predicted
+Karnataka,Paddy(Common),Cereals,,,2026-02-20,2477.57,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-17,2026-02-20,2541.07,176.07000000000016,2026-02-20,2477.57,predicted
+Karnataka,Soyabean,Oil Seeds,,,2026-02-19,5500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,5500.0,0.0,2026-02-19,5500.0,predicted
+Karnataka,Soyabean,Oil Seeds,,,2026-02-20,5500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,5500.0,0.0,2026-02-20,5500.0,predicted
+Karnataka,Soyabean,Oil Seeds,,,2026-02-21,5500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-18,2026-02-20,5500.0,0.0,2026-02-21,5500.0,predicted

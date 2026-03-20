@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Uttarakhand,Onion,Vegetables,,,2026-02-25,687.58,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-24,2026-02-26,944.63,-428.41999999999996,2026-02-25,687.58,predicted
+Uttarakhand,Onion,Vegetables,,,2026-02-26,516.21,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-24,2026-02-26,944.63,-428.41999999999996,2026-02-26,516.21,predicted
+Uttarakhand,Onion,Vegetables,,,2026-02-27,344.84,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-24,2026-02-26,944.63,-428.41999999999996,2026-02-27,344.84,predicted
+Uttarakhand,Potato,Vegetables,,,2026-02-25,609.16,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-24,2026-02-26,611.16,-3.340000000000032,2026-02-25,609.16,predicted
+Uttarakhand,Potato,Vegetables,,,2026-02-26,607.82,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-24,2026-02-26,611.16,-3.340000000000032,2026-02-26,607.82,predicted
+Uttarakhand,Potato,Vegetables,,,2026-02-27,606.48,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-24,2026-02-26,611.16,-3.340000000000032,2026-02-27,606.48,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-02-25,864.22,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-24,2026-02-26,1027.95,-272.8799999999999,2026-02-25,864.22,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-02-26,755.07,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-24,2026-02-26,1027.95,-272.8799999999999,2026-02-26,755.07,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-02-27,645.92,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-24,2026-02-26,1027.95,-272.8799999999999,2026-02-27,645.92,predicted
+Uttarakhand,Wheat,Cereals,,,2026-02-24,2500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-23,2026-02-26,2500.0,0.0,2026-02-24,2500.0,predicted
+Uttarakhand,Wheat,Cereals,,,2026-02-25,2500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-23,2026-02-26,2500.0,0.0,2026-02-25,2500.0,predicted
+Uttarakhand,Wheat,Cereals,,,2026-02-26,2500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-02-23,2026-02-26,2500.0,0.0,2026-02-26,2500.0,predicted

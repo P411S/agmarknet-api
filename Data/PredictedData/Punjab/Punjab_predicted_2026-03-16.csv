@@ -1,0 +1,16 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Punjab,Cotton,Fibre Crops,,,2026-03-15,7069.61,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-14,2026-03-16,7185.0,-192.3199999999997,2026-03-15,7069.61,predicted
+Punjab,Cotton,Fibre Crops,,,2026-03-16,6992.68,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-14,2026-03-16,7185.0,-192.3199999999997,2026-03-16,6992.68,predicted
+Punjab,Cotton,Fibre Crops,,,2026-03-17,6915.75,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-14,2026-03-16,7185.0,-192.3199999999997,2026-03-17,6915.75,predicted
+Punjab,Mustard,Oil Seeds,,,2026-03-13,6794.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-12,2026-03-16,6794.0,0.0,2026-03-13,6794.0,predicted
+Punjab,Mustard,Oil Seeds,,,2026-03-14,6794.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-12,2026-03-16,6794.0,0.0,2026-03-14,6794.0,predicted
+Punjab,Mustard,Oil Seeds,,,2026-03-15,6794.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-12,2026-03-16,6794.0,0.0,2026-03-15,6794.0,predicted
+Punjab,Onion,Vegetables,,,2026-03-15,1400.88,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-14,2026-03-16,1331.65,115.38000000000011,2026-03-15,1400.88,predicted
+Punjab,Onion,Vegetables,,,2026-03-16,1447.03,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-14,2026-03-16,1331.65,115.38000000000011,2026-03-16,1447.03,predicted
+Punjab,Onion,Vegetables,,,2026-03-17,1493.18,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-14,2026-03-16,1331.65,115.38000000000011,2026-03-17,1493.18,predicted
+Punjab,Potato,Vegetables,,,2026-03-15,375.23,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-14,2026-03-16,349.06,43.610000000000014,2026-03-15,375.23,predicted
+Punjab,Potato,Vegetables,,,2026-03-16,392.67,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-14,2026-03-16,349.06,43.610000000000014,2026-03-16,392.67,predicted
+Punjab,Potato,Vegetables,,,2026-03-17,410.11,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-14,2026-03-16,349.06,43.610000000000014,2026-03-17,410.11,predicted
+Punjab,Tomato,Vegetables,,,2026-03-15,1720.16,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-14,2026-03-16,1543.08,295.1399999999999,2026-03-15,1720.16,predicted
+Punjab,Tomato,Vegetables,,,2026-03-16,1838.22,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-14,2026-03-16,1543.08,295.1399999999999,2026-03-16,1838.22,predicted
+Punjab,Tomato,Vegetables,,,2026-03-17,1956.28,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-14,2026-03-16,1543.08,295.1399999999999,2026-03-17,1956.28,predicted

@@ -1,0 +1,33 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Punjab,Cereals,Wheat,2026-01-31,2026-01-28,2440.0,False,,,,
+Punjab,Fibre Crops,Cotton,2026-01-31,2026-01-29,7688.94,False,,,,
+Punjab,Fibre Crops,Cotton,2026-01-31,2026-01-28,7699.23,False,,,,
+Punjab,Fibre Crops,Cotton,2026-01-31,2026-01-27,7607.98,False,,,,
+Punjab,Oil Seeds,Mustard,2026-01-31,2026-01-27,6390.0,False,,,,
+Punjab,Vegetables,Onion,2026-01-31,2026-01-29,1831.48,False,,,,
+Punjab,Vegetables,Onion,2026-01-31,2026-01-28,1638.44,False,,,,
+Punjab,Vegetables,Onion,2026-01-31,2026-01-27,1851.45,False,,,,
+Punjab,Vegetables,Potato,2026-01-31,2026-01-29,348.67,False,,,,
+Punjab,Vegetables,Potato,2026-01-31,2026-01-28,361.54,False,,,,
+Punjab,Vegetables,Potato,2026-01-31,2026-01-27,347.16,False,,,,
+Punjab,Vegetables,Tomato,2026-01-31,2026-01-29,1875.35,False,,,,
+Punjab,Vegetables,Tomato,2026-01-31,2026-01-28,1757.09,False,,,,
+Punjab,Vegetables,Tomato,2026-01-31,2026-01-27,1783.6,False,,,,
+Punjab,,Cotton,,,,True,HYBRID_MODEL,,2026-01-30,7682.77
+Punjab,,Cotton,,,,True,HYBRID_MODEL,,2026-01-31,7678.65
+Punjab,,Cotton,,,,True,HYBRID_MODEL,,2026-02-01,7674.53
+Punjab,,Mustard,,,,True,HYBRID_MODEL,,2026-01-28,6390.0
+Punjab,,Mustard,,,,True,HYBRID_MODEL,,2026-01-29,6390.0
+Punjab,,Mustard,,,,True,HYBRID_MODEL,,2026-01-30,6390.0
+Punjab,,Onion,,,,True,HYBRID_MODEL,,2026-01-30,1947.3
+Punjab,,Onion,,,,True,HYBRID_MODEL,,2026-01-31,2024.52
+Punjab,,Onion,,,,True,HYBRID_MODEL,,2026-02-01,2101.74
+Punjab,,Potato,,,,True,HYBRID_MODEL,,2026-01-30,340.95
+Punjab,,Potato,,,,True,HYBRID_MODEL,,2026-01-31,335.8
+Punjab,,Potato,,,,True,HYBRID_MODEL,,2026-02-01,330.65
+Punjab,,Tomato,,,,True,HYBRID_MODEL,,2026-01-30,1946.31
+Punjab,,Tomato,,,,True,HYBRID_MODEL,,2026-01-31,1993.61
+Punjab,,Tomato,,,,True,HYBRID_MODEL,,2026-02-01,2040.91
+Punjab,,Wheat,,,,True,HYBRID_MODEL,,2026-01-29,2440.0
+Punjab,,Wheat,,,,True,HYBRID_MODEL,,2026-01-30,2440.0
+Punjab,,Wheat,,,,True,HYBRID_MODEL,,2026-01-31,2440.0

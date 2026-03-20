@@ -1,0 +1,64 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Madhya Pradesh,Arhar(Tur/Red Gram)(Whole),2026-01-31,7180.99,HIGH
+Madhya Pradesh,Arhar(Tur/Red Gram)(Whole),2026-02-01,7061.96,HIGH
+Madhya Pradesh,Arhar(Tur/Red Gram)(Whole),2026-02-02,6942.93,HIGH
+Madhya Pradesh,Bajra(Pearl Millet/Cumbu),2026-01-31,1421.62,HIGH
+Madhya Pradesh,Bajra(Pearl Millet/Cumbu),2026-02-01,1079.33,HIGH
+Madhya Pradesh,Bajra(Pearl Millet/Cumbu),2026-02-02,737.04,HIGH
+Madhya Pradesh,Barley(Jau),2026-01-31,2347.26,HIGH
+Madhya Pradesh,Barley(Jau),2026-02-01,2348.44,HIGH
+Madhya Pradesh,Barley(Jau),2026-02-02,2349.62,HIGH
+Madhya Pradesh,Bengal Gram(Gram)(Whole),2026-01-31,5606.34,HIGH
+Madhya Pradesh,Bengal Gram(Gram)(Whole),2026-02-01,5628.72,HIGH
+Madhya Pradesh,Bengal Gram(Gram)(Whole),2026-02-02,5651.1,HIGH
+Madhya Pradesh,Black Gram(Urd Beans)(Whole),2026-01-31,8620.28,HIGH
+Madhya Pradesh,Black Gram(Urd Beans)(Whole),2026-02-01,8809.66,HIGH
+Madhya Pradesh,Black Gram(Urd Beans)(Whole),2026-02-02,8999.04,HIGH
+Madhya Pradesh,Cotton,2026-01-31,7785.02,HIGH
+Madhya Pradesh,Cotton,2026-02-01,7829.01,HIGH
+Madhya Pradesh,Cotton,2026-02-02,7873.0,HIGH
+Madhya Pradesh,Green Gram(Moong)(Whole),2026-01-31,6974.33,HIGH
+Madhya Pradesh,Green Gram(Moong)(Whole),2026-02-01,6976.68,HIGH
+Madhya Pradesh,Green Gram(Moong)(Whole),2026-02-02,6979.03,HIGH
+Madhya Pradesh,Groundnut,2026-01-31,5844.7,HIGH
+Madhya Pradesh,Groundnut,2026-02-01,5542.25,HIGH
+Madhya Pradesh,Groundnut,2026-02-02,5239.8,HIGH
+Madhya Pradesh,Jowar(Sorghum),2026-01-31,6339.82,MEDIUM
+Madhya Pradesh,Jowar(Sorghum),2026-02-01,6403.85,MEDIUM
+Madhya Pradesh,Jowar(Sorghum),2026-02-02,6467.89,MEDIUM
+Madhya Pradesh,Lentil(Masur)(Whole),2026-01-31,5813.46,HIGH
+Madhya Pradesh,Lentil(Masur)(Whole),2026-02-01,5676.69,HIGH
+Madhya Pradesh,Lentil(Masur)(Whole),2026-02-02,5539.92,HIGH
+Madhya Pradesh,Maize,2026-01-31,1560.41,HIGH
+Madhya Pradesh,Maize,2026-02-01,1565.06,HIGH
+Madhya Pradesh,Maize,2026-02-02,1569.71,HIGH
+Madhya Pradesh,Mustard,2026-01-31,6610.09,HIGH
+Madhya Pradesh,Mustard,2026-02-01,6690.55,HIGH
+Madhya Pradesh,Mustard,2026-02-02,6771.01,HIGH
+Madhya Pradesh,Niger Seed(Ramtil),2026-01-30,9250.0,LOW
+Madhya Pradesh,Niger Seed(Ramtil),2026-01-31,9250.0,LOW
+Madhya Pradesh,Niger Seed(Ramtil),2026-02-01,9250.0,LOW
+Madhya Pradesh,Onion,2026-01-31,1218.08,HIGH
+Madhya Pradesh,Onion,2026-02-01,1233.1,HIGH
+Madhya Pradesh,Onion,2026-02-02,1248.12,HIGH
+Madhya Pradesh,Paddy(Common),2026-01-31,3803.65,HIGH
+Madhya Pradesh,Paddy(Common),2026-02-01,3820.58,HIGH
+Madhya Pradesh,Paddy(Common),2026-02-02,3837.51,HIGH
+Madhya Pradesh,Potato,2026-01-31,967.58,HIGH
+Madhya Pradesh,Potato,2026-02-01,938.17,HIGH
+Madhya Pradesh,Potato,2026-02-02,908.76,HIGH
+Madhya Pradesh,Safflower,2026-01-29,3245.0,LOW
+Madhya Pradesh,Safflower,2026-01-30,3245.0,LOW
+Madhya Pradesh,Safflower,2026-01-31,3245.0,LOW
+Madhya Pradesh,"Sesamum(Sesame,Gingelly,Til)",2026-01-31,9463.61,HIGH
+Madhya Pradesh,"Sesamum(Sesame,Gingelly,Til)",2026-02-01,9824.96,HIGH
+Madhya Pradesh,"Sesamum(Sesame,Gingelly,Til)",2026-02-02,10186.31,HIGH
+Madhya Pradesh,Soyabean,2026-01-31,5587.05,HIGH
+Madhya Pradesh,Soyabean,2026-02-01,5573.57,HIGH
+Madhya Pradesh,Soyabean,2026-02-02,5560.09,HIGH
+Madhya Pradesh,Tomato,2026-01-29,1800.0,LOW
+Madhya Pradesh,Tomato,2026-01-30,1800.0,LOW
+Madhya Pradesh,Tomato,2026-01-31,1800.0,LOW
+Madhya Pradesh,Wheat,2026-01-31,2503.21,HIGH
+Madhya Pradesh,Wheat,2026-02-01,2502.51,HIGH
+Madhya Pradesh,Wheat,2026-02-02,2501.81,HIGH

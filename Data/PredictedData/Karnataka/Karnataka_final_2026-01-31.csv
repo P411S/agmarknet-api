@@ -1,0 +1,43 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Karnataka,Cereals,Jowar(Sorghum),2026-01-31,2026-01-27,3826.0,False,,,,
+Karnataka,Cereals,Maize,2026-01-31,2026-01-27,1810.0,False,,,,
+Karnataka,Cereals,Paddy(Common),2026-01-31,2026-01-29,2621.0,False,,,,
+Karnataka,Cereals,Paddy(Common),2026-01-31,2026-01-28,2528.46,False,,,,
+Karnataka,Cereals,Paddy(Common),2026-01-31,2026-01-27,2422.61,False,,,,
+Karnataka,Fibre Crops,Cotton,2026-01-31,2026-01-29,8100.0,False,,,,
+Karnataka,Fibre Crops,Cotton,2026-01-31,2026-01-28,7900.0,False,,,,
+Karnataka,Fibre Crops,Cotton,2026-01-31,2026-01-27,7900.0,False,,,,
+Karnataka,Oil Seeds,Groundnut,2026-01-31,2026-01-29,11305.0,False,,,,
+Karnataka,Oil Seeds,Groundnut,2026-01-31,2026-01-28,9835.0,False,,,,
+Karnataka,Oil Seeds,Groundnut,2026-01-31,2026-01-27,9865.0,False,,,,
+Karnataka,Oil Seeds,Soyabean,2026-01-31,2026-01-29,5225.0,False,,,,
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-29,8787.93,False,,,,
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-28,8409.0,False,,,,
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),2026-01-31,2026-01-27,8289.26,False,,,,
+Karnataka,Pulses,Bengal Gram(Gram)(Whole),2026-01-31,2026-01-29,5506.0,False,,,,
+Karnataka,Pulses,Bengal Gram(Gram)(Whole),2026-01-31,2026-01-28,5676.0,False,,,,
+Karnataka,Pulses,Bengal Gram(Gram)(Whole),2026-01-31,2026-01-27,5689.0,False,,,,
+Karnataka,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,9015.29
+Karnataka,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,9166.86
+Karnataka,,Arhar(Tur/Red Gram)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,9318.43
+Karnataka,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,5404.0
+Karnataka,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,5336.0
+Karnataka,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-02-01,5268.0
+Karnataka,,Cotton,,,,True,HYBRID_MODEL,,2026-01-30,8220.0
+Karnataka,,Cotton,,,,True,HYBRID_MODEL,,2026-01-31,8300.0
+Karnataka,,Cotton,,,,True,HYBRID_MODEL,,2026-02-01,8380.0
+Karnataka,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-30,12187.0
+Karnataka,,Groundnut,,,,True,HYBRID_MODEL,,2026-01-31,12775.0
+Karnataka,,Groundnut,,,,True,HYBRID_MODEL,,2026-02-01,13363.0
+Karnataka,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-28,3826.0
+Karnataka,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-29,3826.0
+Karnataka,,Jowar(Sorghum),,,,True,HYBRID_MODEL,,2026-01-30,3826.0
+Karnataka,,Maize,,,,True,HYBRID_MODEL,,2026-01-28,1810.0
+Karnataka,,Maize,,,,True,HYBRID_MODEL,,2026-01-29,1810.0
+Karnataka,,Maize,,,,True,HYBRID_MODEL,,2026-01-30,1810.0
+Karnataka,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-30,2676.52
+Karnataka,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-31,2713.54
+Karnataka,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-02-01,2750.56
+Karnataka,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-30,5225.0
+Karnataka,,Soyabean,,,,True,HYBRID_MODEL,,2026-01-31,5225.0
+Karnataka,,Soyabean,,,,True,HYBRID_MODEL,,2026-02-01,5225.0

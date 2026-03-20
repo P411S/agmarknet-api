@@ -1,0 +1,47 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Maharashtra,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-13,3966.21,2026-03-15,Actual
+Maharashtra,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-12,3837.15,2026-03-15,Actual
+Maharashtra,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-11,3799.66,2026-03-15,Actual
+Maharashtra,Cereals,Jowar(Sorghum),2026-03-13,4917.4,2026-03-15,Actual
+Maharashtra,Cereals,Jowar(Sorghum),2026-03-12,5750.55,2026-03-15,Actual
+Maharashtra,Cereals,Jowar(Sorghum),2026-03-11,5561.78,2026-03-15,Actual
+Maharashtra,Cereals,Maize,2026-03-13,3239.15,2026-03-15,Actual
+Maharashtra,Cereals,Maize,2026-03-12,3245.28,2026-03-15,Actual
+Maharashtra,Cereals,Maize,2026-03-11,2746.32,2026-03-15,Actual
+Maharashtra,Cereals,Paddy(Common),2026-03-13,2778.45,2026-03-15,Actual
+Maharashtra,Cereals,Paddy(Common),2026-03-12,2676.15,2026-03-15,Actual
+Maharashtra,Cereals,Paddy(Common),2026-03-11,2699.3,2026-03-15,Actual
+Maharashtra,Cereals,Ragi(Finger Millet),2026-03-13,5400.0,2026-03-15,Actual
+Maharashtra,Cereals,Ragi(Finger Millet),2026-03-12,5450.0,2026-03-15,Actual
+Maharashtra,Cereals,Ragi(Finger Millet),2026-03-11,5500.0,2026-03-15,Actual
+Maharashtra,Cereals,Wheat,2026-03-13,3651.48,2026-03-15,Actual
+Maharashtra,Cereals,Wheat,2026-03-12,3582.1,2026-03-15,Actual
+Maharashtra,Cereals,Wheat,2026-03-11,3414.35,2026-03-15,Actual
+Maharashtra,Fibre Crops,Cotton,2026-03-13,7948.56,2026-03-15,Actual
+Maharashtra,Fibre Crops,Cotton,2026-03-12,7994.01,2026-03-15,Actual
+Maharashtra,Fibre Crops,Cotton,2026-03-11,7845.71,2026-03-15,Actual
+Maharashtra,Oil Seeds,Groundnut,2026-03-13,8351.0,2026-03-15,Actual
+Maharashtra,Oil Seeds,Mustard,2026-03-13,7898.82,2026-03-15,Actual
+Maharashtra,Oil Seeds,Mustard,2026-03-12,6798.53,2026-03-15,Actual
+Maharashtra,Oil Seeds,Mustard,2026-03-11,7730.12,2026-03-15,Actual
+Maharashtra,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-13,15412.79,2026-03-15,Actual
+Maharashtra,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-12,15106.06,2026-03-15,Actual
+Maharashtra,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-11,15413.79,2026-03-15,Actual
+Maharashtra,Oil Seeds,Soyabean,2026-03-13,5467.66,2026-03-15,Actual
+Maharashtra,Oil Seeds,Soyabean,2026-03-12,5456.5,2026-03-15,Actual
+Maharashtra,Oil Seeds,Soyabean,2026-03-11,5365.21,2026-03-15,Actual
+Maharashtra,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-13,8145.72,2026-03-15,Actual
+Maharashtra,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-12,8111.43,2026-03-15,Actual
+Maharashtra,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-11,8094.33,2026-03-15,Actual
+Maharashtra,Pulses,Bengal Gram(Gram)(Whole),2026-03-13,7431.79,2026-03-15,Actual
+Maharashtra,Pulses,Bengal Gram(Gram)(Whole),2026-03-12,7275.47,2026-03-15,Actual
+Maharashtra,Pulses,Bengal Gram(Gram)(Whole),2026-03-11,7341.98,2026-03-15,Actual
+Maharashtra,Pulses,Black Gram(Urd Beans)(Whole),2026-03-13,9263.04,2026-03-15,Actual
+Maharashtra,Pulses,Black Gram(Urd Beans)(Whole),2026-03-12,9264.77,2026-03-15,Actual
+Maharashtra,Pulses,Black Gram(Urd Beans)(Whole),2026-03-11,9380.39,2026-03-15,Actual
+Maharashtra,Pulses,Green Gram(Moong)(Whole),2026-03-13,10441.29,2026-03-15,Actual
+Maharashtra,Pulses,Green Gram(Moong)(Whole),2026-03-12,10434.77,2026-03-15,Actual
+Maharashtra,Pulses,Green Gram(Moong)(Whole),2026-03-11,10447.43,2026-03-15,Actual
+Maharashtra,Pulses,Lentil(Masur)(Whole),2026-03-13,8831.99,2026-03-15,Actual
+Maharashtra,Pulses,Lentil(Masur)(Whole),2026-03-12,8753.38,2026-03-15,Actual
+Maharashtra,Pulses,Lentil(Masur)(Whole),2026-03-11,8615.36,2026-03-15,Actual

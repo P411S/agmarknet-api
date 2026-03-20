@@ -1,0 +1,52 @@
+state,commodity,price_date,price,price_type
+Maharashtra,Arhar(Tur/Red Gram)(Whole),2026-02-02,8340.26,Predicted
+Maharashtra,Arhar(Tur/Red Gram)(Whole),2026-02-03,8317.5,Predicted
+Maharashtra,Arhar(Tur/Red Gram)(Whole),2026-02-04,8294.74,Predicted
+Maharashtra,Bajra(Pearl Millet/Cumbu),2026-02-02,2932.83,Predicted
+Maharashtra,Bajra(Pearl Millet/Cumbu),2026-02-03,2754.71,Predicted
+Maharashtra,Bajra(Pearl Millet/Cumbu),2026-02-04,2576.59,Predicted
+Maharashtra,Bengal Gram(Gram)(Whole),2026-02-02,7462.37,Predicted
+Maharashtra,Bengal Gram(Gram)(Whole),2026-02-03,7770.62,Predicted
+Maharashtra,Bengal Gram(Gram)(Whole),2026-02-04,8078.87,Predicted
+Maharashtra,Black Gram(Urd Beans)(Whole),2026-02-02,13980.0,Predicted
+Maharashtra,Black Gram(Urd Beans)(Whole),2026-02-03,15300.0,Predicted
+Maharashtra,Black Gram(Urd Beans)(Whole),2026-02-04,16620.0,Predicted
+Maharashtra,Cotton,2026-02-02,7723.96,Predicted
+Maharashtra,Cotton,2026-02-03,7633.26,Predicted
+Maharashtra,Cotton,2026-02-04,7542.56,Predicted
+Maharashtra,Green Gram(Moong)(Whole),2026-02-02,11310.0,Predicted
+Maharashtra,Green Gram(Moong)(Whole),2026-02-03,11850.0,Predicted
+Maharashtra,Green Gram(Moong)(Whole),2026-02-04,12390.0,Predicted
+Maharashtra,Groundnut,2026-01-31,8699.0,Predicted
+Maharashtra,Groundnut,2026-02-01,8699.0,Predicted
+Maharashtra,Groundnut,2026-02-02,8699.0,Predicted
+Maharashtra,Jowar(Sorghum),2026-02-02,2871.59,Predicted
+Maharashtra,Jowar(Sorghum),2026-02-03,2185.99,Predicted
+Maharashtra,Jowar(Sorghum),2026-02-04,1500.39,Predicted
+Maharashtra,Lentil(Masur)(Whole),2026-02-01,7454.35,Predicted
+Maharashtra,Lentil(Masur)(Whole),2026-02-02,7529.65,Predicted
+Maharashtra,Lentil(Masur)(Whole),2026-02-03,7604.94,Predicted
+Maharashtra,Maize,2026-02-01,2912.35,Predicted
+Maharashtra,Maize,2026-02-02,2941.77,Predicted
+Maharashtra,Maize,2026-02-03,2971.19,Predicted
+Maharashtra,Mustard,2026-01-31,8000.0,Predicted
+Maharashtra,Mustard,2026-02-01,8000.0,Predicted
+Maharashtra,Mustard,2026-02-02,8000.0,Predicted
+Maharashtra,Paddy(Common),2026-02-02,2788.31,Predicted
+Maharashtra,Paddy(Common),2026-02-03,2813.56,Predicted
+Maharashtra,Paddy(Common),2026-02-04,2838.81,Predicted
+Maharashtra,Ragi(Finger Millet),2026-02-01,5123.25,Predicted
+Maharashtra,Ragi(Finger Millet),2026-02-02,5175.0,Predicted
+Maharashtra,Ragi(Finger Millet),2026-02-03,5226.75,Predicted
+Maharashtra,Safflower,2026-02-01,7202.91,Predicted
+Maharashtra,Safflower,2026-02-02,7275.67,Predicted
+Maharashtra,Safflower,2026-02-03,7348.43,Predicted
+Maharashtra,"Sesamum(Sesame,Gingelly,Til)",2026-02-02,17550.0,Predicted
+Maharashtra,"Sesamum(Sesame,Gingelly,Til)",2026-02-03,17727.28,Predicted
+Maharashtra,"Sesamum(Sesame,Gingelly,Til)",2026-02-04,17904.55,Predicted
+Maharashtra,Soyabean,2026-02-02,5589.62,Predicted
+Maharashtra,Soyabean,2026-02-03,5602.49,Predicted
+Maharashtra,Soyabean,2026-02-04,5615.36,Predicted
+Maharashtra,Wheat,2026-02-02,2961.49,Predicted
+Maharashtra,Wheat,2026-02-03,2963.69,Predicted
+Maharashtra,Wheat,2026-02-04,2965.89,Predicted

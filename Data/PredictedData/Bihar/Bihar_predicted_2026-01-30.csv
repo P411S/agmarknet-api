@@ -1,0 +1,13 @@
+state,commodity,predicted_date,predicted_price,confidence_score
+Bihar,Onion,2026-01-29,3016.0,HIGH
+Bihar,Onion,2026-01-30,3160.0,HIGH
+Bihar,Onion,2026-01-31,3304.0,HIGH
+Bihar,Paddy(Common),2026-01-29,2370.0,HIGH
+Bihar,Paddy(Common),2026-01-30,2370.0,HIGH
+Bihar,Paddy(Common),2026-01-31,2370.0,HIGH
+Bihar,Potato,2026-01-29,1313.15,HIGH
+Bihar,Potato,2026-01-30,1335.79,HIGH
+Bihar,Potato,2026-01-31,1358.43,HIGH
+Bihar,Wheat,2026-01-29,2640.0,LOW
+Bihar,Wheat,2026-01-30,2640.0,LOW
+Bihar,Wheat,2026-01-31,2640.0,LOW

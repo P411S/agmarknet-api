@@ -1,0 +1,7 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Odisha,Cotton,hybrid_ma,0.0,0.0,0.0,LOW,2
+Odisha,Maize,hybrid_ma,0.0,0.0,0.0,LOW,2
+Odisha,Onion,hybrid_trend,0.0,0.0,0.0,LOW,3
+Odisha,Paddy(Common),hybrid_trend,0.0,0.0,0.0,LOW,3
+Odisha,Potato,hybrid_trend,0.0,0.0,0.0,LOW,3
+Odisha,Tomato,hybrid_trend,0.0,0.0,0.0,LOW,3

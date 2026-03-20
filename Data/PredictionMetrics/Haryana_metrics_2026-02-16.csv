@@ -1,0 +1,9 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Haryana,Bajra(Pearl Millet/Cumbu),hybrid_trend,,,,LOW,3
+Haryana,Cotton,hybrid_trend,,,,LOW,3
+Haryana,Mustard,hybrid_trend,,,,LOW,3
+Haryana,Onion,hybrid_trend,,,,LOW,3
+Haryana,Paddy(Common),hybrid_ma,,,,LOW,2
+Haryana,Potato,hybrid_trend,,,,LOW,3
+Haryana,Tomato,hybrid_trend,,,,LOW,3
+Haryana,Toria,hybrid_ma,,,,LOW,2

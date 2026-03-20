@@ -1,0 +1,28 @@
+state,commodity,price_date,price,price_type
+Telangana,Arhar(Tur/Red Gram)(Whole),2026-01-31,8639.73,Predicted
+Telangana,Arhar(Tur/Red Gram)(Whole),2026-02-01,8727.0,Predicted
+Telangana,Arhar(Tur/Red Gram)(Whole),2026-02-02,8814.27,Predicted
+Telangana,Cotton,2026-02-01,7488.13,Predicted
+Telangana,Cotton,2026-02-02,7409.89,Predicted
+Telangana,Cotton,2026-02-03,7331.65,Predicted
+Telangana,Maize,2026-02-01,2400.0,Predicted
+Telangana,Maize,2026-02-02,2400.0,Predicted
+Telangana,Maize,2026-02-03,2400.0,Predicted
+Telangana,Onion,2026-02-01,1537.14,Predicted
+Telangana,Onion,2026-02-02,1628.56,Predicted
+Telangana,Onion,2026-02-03,1719.98,Predicted
+Telangana,Paddy(Common),2026-02-01,2353.98,Predicted
+Telangana,Paddy(Common),2026-02-02,2343.96,Predicted
+Telangana,Paddy(Common),2026-02-03,2333.94,Predicted
+Telangana,Potato,2026-02-01,1267.26,Predicted
+Telangana,Potato,2026-02-02,1309.12,Predicted
+Telangana,Potato,2026-02-03,1350.98,Predicted
+Telangana,"Sesamum(Sesame,Gingelly,Til)",2026-02-01,9456.0,Predicted
+Telangana,"Sesamum(Sesame,Gingelly,Til)",2026-02-02,9456.0,Predicted
+Telangana,"Sesamum(Sesame,Gingelly,Til)",2026-02-03,9456.0,Predicted
+Telangana,Soyabean,2026-02-01,5629.0,Predicted
+Telangana,Soyabean,2026-02-02,5589.0,Predicted
+Telangana,Soyabean,2026-02-03,5549.0,Predicted
+Telangana,Tomato,2026-02-01,800.54,Predicted
+Telangana,Tomato,2026-02-02,800.4,Predicted
+Telangana,Tomato,2026-02-03,800.26,Predicted

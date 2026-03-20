@@ -1,0 +1,53 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Haryana,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-31,2026-01-29,1850.0,False,,,,
+Haryana,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-31,2026-01-28,2000.0,False,,,,
+Haryana,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-31,2026-01-27,1900.0,False,,,,
+Haryana,Cereals,Paddy(Common),2026-01-31,2026-01-29,4046.15,False,,,,
+Haryana,Cereals,Paddy(Common),2026-01-31,2026-01-28,4260.54,False,,,,
+Haryana,Cereals,Paddy(Common),2026-01-31,2026-01-27,3431.07,False,,,,
+Haryana,Cereals,Wheat,2026-01-31,2026-01-27,2600.0,False,,,,
+Haryana,Fibre Crops,Cotton,2026-01-31,2026-01-29,7620.0,False,,,,
+Haryana,Fibre Crops,Cotton,2026-01-31,2026-01-28,7628.29,False,,,,
+Haryana,Fibre Crops,Cotton,2026-01-31,2026-01-27,7599.74,False,,,,
+Haryana,Oil Seeds,Mustard,2026-01-31,2026-01-28,6221.95,False,,,,
+Haryana,Pulses,Bengal Gram(Gram)(Whole),2026-01-31,2026-01-28,5318.0,False,,,,
+Haryana,Pulses,Green Gram(Moong)(Whole),2026-01-31,2026-01-28,6545.0,False,,,,
+Haryana,Vegetables,Onion,2026-01-31,2026-01-29,1713.43,False,,,,
+Haryana,Vegetables,Onion,2026-01-31,2026-01-28,1703.51,False,,,,
+Haryana,Vegetables,Onion,2026-01-31,2026-01-27,1630.11,False,,,,
+Haryana,Vegetables,Potato,2026-01-31,2026-01-29,663.65,False,,,,
+Haryana,Vegetables,Potato,2026-01-31,2026-01-28,679.12,False,,,,
+Haryana,Vegetables,Potato,2026-01-31,2026-01-27,675.99,False,,,,
+Haryana,Vegetables,Tomato,2026-01-31,2026-01-29,2101.27,False,,,,
+Haryana,Vegetables,Tomato,2026-01-31,2026-01-28,2448.02,False,,,,
+Haryana,Vegetables,Tomato,2026-01-31,2026-01-27,2196.64,False,,,,
+Haryana,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-01-30,1760.0
+Haryana,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-01-31,1700.0
+Haryana,,Bajra(Pearl Millet/Cumbu),,,,True,HYBRID_MODEL,,2026-02-01,1640.0
+Haryana,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,5318.0
+Haryana,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,5318.0
+Haryana,,Bengal Gram(Gram)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,5318.0
+Haryana,,Cotton,,,,True,HYBRID_MODEL,,2026-01-30,7615.03
+Haryana,,Cotton,,,,True,HYBRID_MODEL,,2026-01-31,7611.71
+Haryana,,Cotton,,,,True,HYBRID_MODEL,,2026-02-01,7608.39
+Haryana,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-29,6545.0
+Haryana,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-30,6545.0
+Haryana,,Green Gram(Moong)(Whole),,,,True,HYBRID_MODEL,,2026-01-31,6545.0
+Haryana,,Mustard,,,,True,HYBRID_MODEL,,2026-01-29,6221.95
+Haryana,,Mustard,,,,True,HYBRID_MODEL,,2026-01-30,6221.95
+Haryana,,Mustard,,,,True,HYBRID_MODEL,,2026-01-31,6221.95
+Haryana,,Onion,,,,True,HYBRID_MODEL,,2026-01-30,1719.38
+Haryana,,Onion,,,,True,HYBRID_MODEL,,2026-01-31,1723.35
+Haryana,,Onion,,,,True,HYBRID_MODEL,,2026-02-01,1727.32
+Haryana,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-30,3917.52
+Haryana,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-01-31,3831.76
+Haryana,,Paddy(Common),,,,True,HYBRID_MODEL,,2026-02-01,3746.0
+Haryana,,Potato,,,,True,HYBRID_MODEL,,2026-01-30,654.37
+Haryana,,Potato,,,,True,HYBRID_MODEL,,2026-01-31,648.18
+Haryana,,Potato,,,,True,HYBRID_MODEL,,2026-02-01,641.99
+Haryana,,Tomato,,,,True,HYBRID_MODEL,,2026-01-30,1893.22
+Haryana,,Tomato,,,,True,HYBRID_MODEL,,2026-01-31,1754.52
+Haryana,,Tomato,,,,True,HYBRID_MODEL,,2026-02-01,1615.82
+Haryana,,Wheat,,,,True,HYBRID_MODEL,,2026-01-28,2600.0
+Haryana,,Wheat,,,,True,HYBRID_MODEL,,2026-01-29,2600.0
+Haryana,,Wheat,,,,True,HYBRID_MODEL,,2026-01-30,2600.0

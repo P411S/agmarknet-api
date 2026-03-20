@@ -1,0 +1,10 @@
+state,commodity,price_date,price,price_type
+Manipur,Bengal Gram(Gram)(Whole),2026-01-31,8662.5,Predicted
+Manipur,Bengal Gram(Gram)(Whole),2026-02-01,8750.0,Predicted
+Manipur,Bengal Gram(Gram)(Whole),2026-02-02,8837.5,Predicted
+Manipur,Onion,2026-01-31,3712.5,Predicted
+Manipur,Onion,2026-02-01,3750.0,Predicted
+Manipur,Onion,2026-02-02,3787.5,Predicted
+Manipur,Potato,2026-01-31,2227.5,Predicted
+Manipur,Potato,2026-02-01,2250.0,Predicted
+Manipur,Potato,2026-02-02,2272.5,Predicted

@@ -1,0 +1,7 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Goa,Vegetables,Onion,,,2026-02-03,1386.0,predicted,hybrid_ma,MEDIUM,1400.0,0.0,2026-02-04
+Goa,Vegetables,Onion,,,2026-02-04,1400.0,predicted,hybrid_ma,MEDIUM,1400.0,0.0,2026-02-04
+Goa,Vegetables,Onion,,,2026-02-05,1414.0,predicted,hybrid_ma,MEDIUM,1400.0,0.0,2026-02-04
+Goa,Vegetables,Potato,,,2026-02-03,1188.0,predicted,hybrid_ma,MEDIUM,1200.0,0.0,2026-02-04
+Goa,Vegetables,Potato,,,2026-02-04,1200.0,predicted,hybrid_ma,MEDIUM,1200.0,0.0,2026-02-04
+Goa,Vegetables,Potato,,,2026-02-05,1212.0,predicted,hybrid_ma,MEDIUM,1200.0,0.0,2026-02-04

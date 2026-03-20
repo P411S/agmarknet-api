@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Punjab,Cotton,Fibre Crops,,,2026-03-08,6899.91,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,7029.88,-216.60999999999967,2026-03-08,6899.91,predicted
+Punjab,Cotton,Fibre Crops,,,2026-03-09,6813.27,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,7029.88,-216.60999999999967,2026-03-09,6813.27,predicted
+Punjab,Cotton,Fibre Crops,,,2026-03-10,6726.63,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,7029.88,-216.60999999999967,2026-03-10,6726.63,predicted
+Punjab,Onion,Vegetables,,,2026-03-08,1263.54,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,1261.67,3.1200000000001182,2026-03-08,1263.54,predicted
+Punjab,Onion,Vegetables,,,2026-03-09,1264.79,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,1261.67,3.1200000000001182,2026-03-09,1264.79,predicted
+Punjab,Onion,Vegetables,,,2026-03-10,1266.04,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,1261.67,3.1200000000001182,2026-03-10,1266.04,predicted
+Punjab,Potato,Vegetables,,,2026-03-08,283.77,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,321.02,-62.08000000000004,2026-03-08,283.77,predicted
+Punjab,Potato,Vegetables,,,2026-03-09,258.94,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,321.02,-62.08000000000004,2026-03-09,258.94,predicted
+Punjab,Potato,Vegetables,,,2026-03-10,234.11,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,321.02,-62.08000000000004,2026-03-10,234.11,predicted
+Punjab,Tomato,Vegetables,,,2026-03-08,1573.97,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,1514.16,99.68000000000006,2026-03-08,1573.97,predicted
+Punjab,Tomato,Vegetables,,,2026-03-09,1613.84,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,1514.16,99.68000000000006,2026-03-09,1613.84,predicted
+Punjab,Tomato,Vegetables,,,2026-03-10,1653.71,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-07,2026-03-09,1514.16,99.68000000000006,2026-03-10,1653.71,predicted

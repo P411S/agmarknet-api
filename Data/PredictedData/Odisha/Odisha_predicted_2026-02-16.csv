@@ -1,0 +1,19 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,rmse,mae,mape,prediction_run_date
+Odisha,Fibre Crops,Cotton,,,2026-02-14,7667.55,predicted,hybrid_ma,LOW,7500.0,-490.0,,,,2026-02-16
+Odisha,Fibre Crops,Cotton,,,2026-02-15,7745.0,predicted,hybrid_ma,LOW,7500.0,-490.0,,,,2026-02-16
+Odisha,Fibre Crops,Cotton,,,2026-02-16,7822.45,predicted,hybrid_ma,LOW,7500.0,-490.0,,,,2026-02-16
+Odisha,Cereals,Maize,,,2026-02-14,2475.0,predicted,hybrid_ma,LOW,2500.0,0.0,,,,2026-02-16
+Odisha,Cereals,Maize,,,2026-02-15,2500.0,predicted,hybrid_ma,LOW,2500.0,0.0,,,,2026-02-16
+Odisha,Cereals,Maize,,,2026-02-16,2525.0,predicted,hybrid_ma,LOW,2500.0,0.0,,,,2026-02-16
+Odisha,Vegetables,Onion,,,2026-02-15,1893.03,predicted,hybrid_trend,LOW,1872.73,33.83999999999992,,,,2026-02-16
+Odisha,Vegetables,Onion,,,2026-02-16,1906.57,predicted,hybrid_trend,LOW,1872.73,33.83999999999992,,,,2026-02-16
+Odisha,Vegetables,Onion,,,2026-02-17,1920.11,predicted,hybrid_trend,LOW,1872.73,33.83999999999992,,,,2026-02-16
+Odisha,Cereals,Paddy(Common),,,2026-02-15,2369.0,predicted,hybrid_trend,LOW,2369.0,0.0,,,,2026-02-16
+Odisha,Cereals,Paddy(Common),,,2026-02-16,2369.0,predicted,hybrid_trend,LOW,2369.0,0.0,,,,2026-02-16
+Odisha,Cereals,Paddy(Common),,,2026-02-17,2369.0,predicted,hybrid_trend,LOW,2369.0,0.0,,,,2026-02-16
+Odisha,Vegetables,Potato,,,2026-02-15,1188.38,predicted,hybrid_trend,LOW,1106.45,136.55000000000007,,,,2026-02-16
+Odisha,Vegetables,Potato,,,2026-02-16,1243.0,predicted,hybrid_trend,LOW,1106.45,136.55000000000007,,,,2026-02-16
+Odisha,Vegetables,Potato,,,2026-02-17,1297.62,predicted,hybrid_trend,LOW,1106.45,136.55000000000007,,,,2026-02-16
+Odisha,Vegetables,Tomato,,,2026-02-15,879.63,predicted,hybrid_trend,LOW,1186.1,-510.7800000000002,,,,2026-02-16
+Odisha,Vegetables,Tomato,,,2026-02-16,675.32,predicted,hybrid_trend,LOW,1186.1,-510.7800000000002,,,,2026-02-16
+Odisha,Vegetables,Tomato,,,2026-02-17,471.01,predicted,hybrid_trend,LOW,1186.1,-510.7800000000002,,,,2026-02-16

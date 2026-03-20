@@ -1,0 +1,19 @@
+state,commodity,price_date,price,price_type
+Odisha,Cotton,2026-02-01,7929.9,Predicted
+Odisha,Cotton,2026-02-02,8010.0,Predicted
+Odisha,Cotton,2026-02-03,8090.1,Predicted
+Odisha,Onion,2026-02-02,2260.0,Predicted
+Odisha,Onion,2026-02-03,2300.0,Predicted
+Odisha,Onion,2026-02-04,2340.0,Predicted
+Odisha,Paddy(Common),2026-02-02,2369.0,Predicted
+Odisha,Paddy(Common),2026-02-03,2369.0,Predicted
+Odisha,Paddy(Common),2026-02-04,2369.0,Predicted
+Odisha,Potato,2026-02-02,638.2,Predicted
+Odisha,Potato,2026-02-03,263.67,Predicted
+Odisha,Potato,2026-02-04,-110.86,Predicted
+Odisha,Ragi(Finger Millet),2026-02-02,4886.0,Predicted
+Odisha,Ragi(Finger Millet),2026-02-03,4886.0,Predicted
+Odisha,Ragi(Finger Millet),2026-02-04,4886.0,Predicted
+Odisha,Tomato,2026-02-02,1010.84,Predicted
+Odisha,Tomato,2026-02-03,552.02,Predicted
+Odisha,Tomato,2026-02-04,93.2,Predicted

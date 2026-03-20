@@ -1,0 +1,19 @@
+state,commodity_group,commodity,source_date,price_date,price,is_predicted,model_used,confidence_score,predicted_date,predicted_price
+Jammu and Kashmir,Vegetables,Onion,2026-01-30,2026-01-28,2321.63,False,,,,
+Jammu and Kashmir,Vegetables,Onion,2026-01-30,2026-01-27,2243.52,False,,,,
+Jammu and Kashmir,Vegetables,Onion,2026-01-30,2026-01-26,2600.0,False,,,,
+Jammu and Kashmir,Vegetables,Potato,2026-01-30,2026-01-28,889.0,False,,,,
+Jammu and Kashmir,Vegetables,Potato,2026-01-30,2026-01-27,927.89,False,,,,
+Jammu and Kashmir,Vegetables,Potato,2026-01-30,2026-01-26,850.0,False,,,,
+Jammu and Kashmir,Vegetables,Tomato,2026-01-30,2026-01-28,2730.51,False,,,,
+Jammu and Kashmir,Vegetables,Tomato,2026-01-30,2026-01-27,2667.27,False,,,,
+Jammu and Kashmir,Vegetables,Tomato,2026-01-30,2026-01-26,3300.0,False,,,,
+Jammu and Kashmir,,Onion,,,,True,HYBRID_MODEL,,2026-01-29,2368.5
+Jammu and Kashmir,,Onion,,,,True,HYBRID_MODEL,,2026-01-30,2399.74
+Jammu and Kashmir,,Onion,,,,True,HYBRID_MODEL,,2026-01-31,2430.98
+Jammu and Kashmir,,Potato,,,,True,HYBRID_MODEL,,2026-01-29,865.67
+Jammu and Kashmir,,Potato,,,,True,HYBRID_MODEL,,2026-01-30,850.11
+Jammu and Kashmir,,Potato,,,,True,HYBRID_MODEL,,2026-01-31,834.55
+Jammu and Kashmir,,Tomato,,,,True,HYBRID_MODEL,,2026-01-29,2768.45
+Jammu and Kashmir,,Tomato,,,,True,HYBRID_MODEL,,2026-01-30,2793.75
+Jammu and Kashmir,,Tomato,,,,True,HYBRID_MODEL,,2026-01-31,2819.05

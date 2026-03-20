@@ -1,0 +1,5 @@
+state,commodity,model,rmse,mae,mape,confidence,train_points
+Karnataka,Arhar(Tur/Red Gram)(Whole),fallback_copy,0.0,0.0,0.0,LOW,1
+Karnataka,Cotton,hybrid_trend,0.0,0.0,0.0,LOW,3
+Karnataka,Groundnut,fallback_copy,0.0,0.0,0.0,LOW,1
+Karnataka,Paddy(Common),hybrid_ma,0.0,0.0,0.0,LOW,2

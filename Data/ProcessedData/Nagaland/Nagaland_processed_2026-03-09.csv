@@ -1,0 +1,4 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Nagaland,Vegetables,Potato,2026-03-06,1300.0,2026-03-09,Actual
+Nagaland,Vegetables,Potato,2026-03-05,1300.0,2026-03-09,Actual
+Nagaland,Vegetables,Tomato,2026-03-06,1600.0,2026-03-09,Actual

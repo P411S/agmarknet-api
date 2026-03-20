@@ -1,0 +1,49 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Uttar Pradesh,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-02-28,11085.03,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,11154.0,-86.0,2026-02-28,11085.03,predicted
+Uttar Pradesh,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-03-01,11197.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,11154.0,-86.0,2026-03-01,11197.0,predicted
+Uttar Pradesh,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-03-02,11308.97,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,11154.0,-86.0,2026-03-02,11308.97,predicted
+Uttar Pradesh,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-03-01,2979.6,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2571.5,680.1700000000001,2026-03-01,2979.6,predicted
+Uttar Pradesh,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-03-02,3251.67,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2571.5,680.1700000000001,2026-03-02,3251.67,predicted
+Uttar Pradesh,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-03-03,3523.74,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2571.5,680.1700000000001,2026-03-03,3523.74,predicted
+Uttar Pradesh,Barley(Jau),Cereals,,,2026-02-28,1998.63,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,2057.64,77.63999999999987,2026-02-28,1998.63,predicted
+Uttar Pradesh,Barley(Jau),Cereals,,,2026-03-01,2018.82,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,2057.64,77.63999999999987,2026-03-01,2018.82,predicted
+Uttar Pradesh,Barley(Jau),Cereals,,,2026-03-02,2039.01,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,2057.64,77.63999999999987,2026-03-02,2039.01,predicted
+Uttar Pradesh,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-01,4130.83,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,5266.5,-1892.7799999999997,2026-03-01,4130.83,predicted
+Uttar Pradesh,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-02,3373.72,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,5266.5,-1892.7799999999997,2026-03-02,3373.72,predicted
+Uttar Pradesh,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-03,2616.61,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,5266.5,-1892.7799999999997,2026-03-03,2616.61,predicted
+Uttar Pradesh,Black Gram(Urd Beans)(Whole),Pulses,,,2026-02-28,6930.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,7000.0,0.0,2026-02-28,6930.0,predicted
+Uttar Pradesh,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-01,7000.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,7000.0,0.0,2026-03-01,7000.0,predicted
+Uttar Pradesh,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-02,7070.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,7000.0,0.0,2026-03-02,7070.0,predicted
+Uttar Pradesh,Green Gram(Moong)(Whole),Pulses,,,2026-02-28,8182.79,fallback_copy,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,8182.79,0.0,2026-02-28,8182.79,predicted
+Uttar Pradesh,Green Gram(Moong)(Whole),Pulses,,,2026-03-01,8182.79,fallback_copy,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,8182.79,0.0,2026-03-01,8182.79,predicted
+Uttar Pradesh,Green Gram(Moong)(Whole),Pulses,,,2026-03-02,8182.79,fallback_copy,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,8182.79,0.0,2026-03-02,8182.79,predicted
+Uttar Pradesh,Groundnut,Oil Seeds,,,2026-02-28,6716.54,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,7321.92,1075.08,2026-02-28,6716.54,predicted
+Uttar Pradesh,Groundnut,Oil Seeds,,,2026-03-01,6784.38,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,7321.92,1075.08,2026-03-01,6784.38,predicted
+Uttar Pradesh,Groundnut,Oil Seeds,,,2026-03-02,6852.22,hybrid_ma,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,7321.92,1075.08,2026-03-02,6852.22,predicted
+Uttar Pradesh,Jowar(Sorghum),Cereals,,,2026-02-28,1973.47,fallback_copy,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,1973.47,0.0,2026-02-28,1973.47,predicted
+Uttar Pradesh,Jowar(Sorghum),Cereals,,,2026-03-01,1973.47,fallback_copy,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,1973.47,0.0,2026-03-01,1973.47,predicted
+Uttar Pradesh,Jowar(Sorghum),Cereals,,,2026-03-02,1973.47,fallback_copy,0.0,0.0,0.0,LOW,2026-02-27,2026-03-02,1973.47,0.0,2026-03-02,1973.47,predicted
+Uttar Pradesh,Lentil(Masur)(Whole),Pulses,,,2026-03-01,7746.25,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,7450.0,493.75,2026-03-01,7746.25,predicted
+Uttar Pradesh,Lentil(Masur)(Whole),Pulses,,,2026-03-02,7943.75,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,7450.0,493.75,2026-03-02,7943.75,predicted
+Uttar Pradesh,Lentil(Masur)(Whole),Pulses,,,2026-03-03,8141.25,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,7450.0,493.75,2026-03-03,8141.25,predicted
+Uttar Pradesh,Maize,Cereals,,,2026-03-01,2261.49,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2101.93,265.92999999999984,2026-03-01,2261.49,predicted
+Uttar Pradesh,Maize,Cereals,,,2026-03-02,2367.86,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2101.93,265.92999999999984,2026-03-02,2367.86,predicted
+Uttar Pradesh,Maize,Cereals,,,2026-03-03,2474.23,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2101.93,265.92999999999984,2026-03-03,2474.23,predicted
+Uttar Pradesh,Mustard,Oil Seeds,,,2026-03-01,6034.9,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,5924.16,184.5699999999997,2026-03-01,6034.9,predicted
+Uttar Pradesh,Mustard,Oil Seeds,,,2026-03-02,6108.73,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,5924.16,184.5699999999997,2026-03-02,6108.73,predicted
+Uttar Pradesh,Mustard,Oil Seeds,,,2026-03-03,6182.56,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,5924.16,184.5699999999997,2026-03-03,6182.56,predicted
+Uttar Pradesh,Onion,Vegetables,,,2026-03-01,1551.24,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,1409.06,236.96000000000004,2026-03-01,1551.24,predicted
+Uttar Pradesh,Onion,Vegetables,,,2026-03-02,1646.02,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,1409.06,236.96000000000004,2026-03-02,1646.02,predicted
+Uttar Pradesh,Onion,Vegetables,,,2026-03-03,1740.8,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,1409.06,236.96000000000004,2026-03-03,1740.8,predicted
+Uttar Pradesh,Paddy(Common),Cereals,,,2026-03-01,2334.68,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2313.06,36.029999999999745,2026-03-01,2334.68,predicted
+Uttar Pradesh,Paddy(Common),Cereals,,,2026-03-02,2349.09,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2313.06,36.029999999999745,2026-03-02,2349.09,predicted
+Uttar Pradesh,Paddy(Common),Cereals,,,2026-03-03,2363.5,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2313.06,36.029999999999745,2026-03-03,2363.5,predicted
+Uttar Pradesh,Potato,Vegetables,,,2026-03-01,528.81,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,537.41,-14.330000000000041,2026-03-01,528.81,predicted
+Uttar Pradesh,Potato,Vegetables,,,2026-03-02,523.08,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,537.41,-14.330000000000041,2026-03-02,523.08,predicted
+Uttar Pradesh,Potato,Vegetables,,,2026-03-03,517.35,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,537.41,-14.330000000000041,2026-03-03,517.35,predicted
+Uttar Pradesh,Tomato,Vegetables,,,2026-03-01,1399.27,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,1317.58,136.14999999999986,2026-03-01,1399.27,predicted
+Uttar Pradesh,Tomato,Vegetables,,,2026-03-02,1453.73,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,1317.58,136.14999999999986,2026-03-02,1453.73,predicted
+Uttar Pradesh,Tomato,Vegetables,,,2026-03-03,1508.19,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,1317.58,136.14999999999986,2026-03-03,1508.19,predicted
+Uttar Pradesh,Wheat,Cereals,,,2026-03-01,2445.93,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2442.91,5.029999999999745,2026-03-01,2445.93,predicted
+Uttar Pradesh,Wheat,Cereals,,,2026-03-02,2447.94,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2442.91,5.029999999999745,2026-03-02,2447.94,predicted
+Uttar Pradesh,Wheat,Cereals,,,2026-03-03,2449.95,hybrid_trend,0.0,0.0,0.0,LOW,2026-02-28,2026-03-02,2442.91,5.029999999999745,2026-03-03,2449.95,predicted

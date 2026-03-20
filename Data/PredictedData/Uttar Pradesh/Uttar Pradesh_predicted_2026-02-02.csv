@@ -1,0 +1,49 @@
+state,commodity,price_date,price,price_type
+Uttar Pradesh,Bajra(Pearl Millet/Cumbu),2026-02-01,1601.34,Predicted
+Uttar Pradesh,Bajra(Pearl Millet/Cumbu),2026-02-02,1347.65,Predicted
+Uttar Pradesh,Bajra(Pearl Millet/Cumbu),2026-02-03,1093.96,Predicted
+Uttar Pradesh,Barley(Jau),2026-02-01,2337.0,Predicted
+Uttar Pradesh,Barley(Jau),2026-02-02,2348.33,Predicted
+Uttar Pradesh,Barley(Jau),2026-02-03,2359.66,Predicted
+Uttar Pradesh,Bengal Gram(Gram)(Whole),2026-02-01,5048.33,Predicted
+Uttar Pradesh,Bengal Gram(Gram)(Whole),2026-02-02,4706.9,Predicted
+Uttar Pradesh,Bengal Gram(Gram)(Whole),2026-02-03,4365.47,Predicted
+Uttar Pradesh,Black Gram(Urd Beans)(Whole),2026-01-30,7200.0,Predicted
+Uttar Pradesh,Black Gram(Urd Beans)(Whole),2026-01-31,7200.0,Predicted
+Uttar Pradesh,Black Gram(Urd Beans)(Whole),2026-02-01,7200.0,Predicted
+Uttar Pradesh,Groundnut,2026-02-01,6270.71,Predicted
+Uttar Pradesh,Groundnut,2026-02-02,6071.05,Predicted
+Uttar Pradesh,Groundnut,2026-02-03,5871.39,Predicted
+Uttar Pradesh,Jowar(Sorghum),2026-02-01,6457.51,Predicted
+Uttar Pradesh,Jowar(Sorghum),2026-02-02,6522.74,Predicted
+Uttar Pradesh,Jowar(Sorghum),2026-02-03,6587.97,Predicted
+Uttar Pradesh,Lentil(Masur)(Whole),2026-02-01,5672.13,Predicted
+Uttar Pradesh,Lentil(Masur)(Whole),2026-02-02,5628.16,Predicted
+Uttar Pradesh,Lentil(Masur)(Whole),2026-02-03,5584.19,Predicted
+Uttar Pradesh,Maize,2026-02-01,1805.75,Predicted
+Uttar Pradesh,Maize,2026-02-02,1689.41,Predicted
+Uttar Pradesh,Maize,2026-02-03,1573.07,Predicted
+Uttar Pradesh,Mustard,2026-02-01,6982.17,Predicted
+Uttar Pradesh,Mustard,2026-02-02,7072.15,Predicted
+Uttar Pradesh,Mustard,2026-02-03,7162.13,Predicted
+Uttar Pradesh,Onion,2026-02-01,1459.67,Predicted
+Uttar Pradesh,Onion,2026-02-02,1440.81,Predicted
+Uttar Pradesh,Onion,2026-02-03,1421.95,Predicted
+Uttar Pradesh,Paddy(Common),2026-02-01,2270.53,Predicted
+Uttar Pradesh,Paddy(Common),2026-02-02,2239.39,Predicted
+Uttar Pradesh,Paddy(Common),2026-02-03,2208.25,Predicted
+Uttar Pradesh,Potato,2026-02-01,495.96,Predicted
+Uttar Pradesh,Potato,2026-02-02,475.42,Predicted
+Uttar Pradesh,Potato,2026-02-03,454.88,Predicted
+Uttar Pradesh,"Sesamum(Sesame,Gingelly,Til)",2026-02-01,9020.0,Predicted
+Uttar Pradesh,"Sesamum(Sesame,Gingelly,Til)",2026-02-02,9000.0,Predicted
+Uttar Pradesh,"Sesamum(Sesame,Gingelly,Til)",2026-02-03,8980.0,Predicted
+Uttar Pradesh,Soyabean,2026-01-30,5200.0,Predicted
+Uttar Pradesh,Soyabean,2026-01-31,5200.0,Predicted
+Uttar Pradesh,Soyabean,2026-02-01,5200.0,Predicted
+Uttar Pradesh,Tomato,2026-02-01,1366.94,Predicted
+Uttar Pradesh,Tomato,2026-02-02,1340.25,Predicted
+Uttar Pradesh,Tomato,2026-02-03,1313.56,Predicted
+Uttar Pradesh,Wheat,2026-02-01,2456.12,Predicted
+Uttar Pradesh,Wheat,2026-02-02,2448.38,Predicted
+Uttar Pradesh,Wheat,2026-02-03,2440.64,Predicted

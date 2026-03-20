@@ -1,0 +1,19 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Odisha,Cotton,Fibre Crops,,,2026-03-13,7500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-12,2026-03-15,7500.0,0.0,2026-03-13,7500.0,predicted
+Odisha,Cotton,Fibre Crops,,,2026-03-14,7500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-12,2026-03-15,7500.0,0.0,2026-03-14,7500.0,predicted
+Odisha,Cotton,Fibre Crops,,,2026-03-15,7500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-12,2026-03-15,7500.0,0.0,2026-03-15,7500.0,predicted
+Odisha,Maize,Cereals,,,2026-03-14,2250.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,2250.0,0.0,2026-03-14,2250.0,predicted
+Odisha,Maize,Cereals,,,2026-03-15,2250.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,2250.0,0.0,2026-03-15,2250.0,predicted
+Odisha,Maize,Cereals,,,2026-03-16,2250.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,2250.0,0.0,2026-03-16,2250.0,predicted
+Odisha,Onion,Vegetables,,,2026-03-14,1555.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,1600.0,-75.0,2026-03-14,1555.0,predicted
+Odisha,Onion,Vegetables,,,2026-03-15,1525.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,1600.0,-75.0,2026-03-15,1525.0,predicted
+Odisha,Onion,Vegetables,,,2026-03-16,1495.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,1600.0,-75.0,2026-03-16,1495.0,predicted
+Odisha,Paddy(Common),Cereals,,,2026-03-14,2369.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,2369.0,0.0,2026-03-14,2369.0,predicted
+Odisha,Paddy(Common),Cereals,,,2026-03-15,2369.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,2369.0,0.0,2026-03-15,2369.0,predicted
+Odisha,Paddy(Common),Cereals,,,2026-03-16,2369.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,2369.0,0.0,2026-03-16,2369.0,predicted
+Odisha,Potato,Vegetables,,,2026-03-14,1626.37,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,1634.15,-12.959999999999809,2026-03-14,1626.37,predicted
+Odisha,Potato,Vegetables,,,2026-03-15,1621.19,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,1634.15,-12.959999999999809,2026-03-15,1621.19,predicted
+Odisha,Potato,Vegetables,,,2026-03-16,1616.01,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,1634.15,-12.959999999999809,2026-03-16,1616.01,predicted
+Odisha,Tomato,Vegetables,,,2026-03-14,1360.35,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,1409.09,-81.23000000000002,2026-03-14,1360.35,predicted
+Odisha,Tomato,Vegetables,,,2026-03-15,1327.86,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,1409.09,-81.23000000000002,2026-03-15,1327.86,predicted
+Odisha,Tomato,Vegetables,,,2026-03-16,1295.37,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-13,2026-03-15,1409.09,-81.23000000000002,2026-03-16,1295.37,predicted

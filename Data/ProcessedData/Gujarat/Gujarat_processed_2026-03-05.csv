@@ -1,0 +1,37 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Gujarat,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-03,1886.67,2026-03-05,Actual
+Gujarat,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-02,2351.89,2026-03-05,Actual
+Gujarat,Cereals,Jowar(Sorghum),2026-03-03,4393.8,2026-03-05,Actual
+Gujarat,Cereals,Jowar(Sorghum),2026-03-02,4496.74,2026-03-05,Actual
+Gujarat,Cereals,Maize,2026-03-02,2375.0,2026-03-05,Actual
+Gujarat,Cereals,Paddy(Common),2026-03-03,2265.53,2026-03-05,Actual
+Gujarat,Cereals,Paddy(Common),2026-03-02,2354.96,2026-03-05,Actual
+Gujarat,Cereals,Wheat,2026-03-03,2400.42,2026-03-05,Actual
+Gujarat,Cereals,Wheat,2026-03-02,2513.9,2026-03-05,Actual
+Gujarat,Fibre Crops,Cotton,2026-03-03,7447.15,2026-03-05,Actual
+Gujarat,Fibre Crops,Cotton,2026-03-02,7591.17,2026-03-05,Actual
+Gujarat,Oil Seeds,Groundnut,2026-03-03,6669.0,2026-03-05,Actual
+Gujarat,Oil Seeds,Groundnut,2026-03-02,6861.65,2026-03-05,Actual
+Gujarat,Oil Seeds,Mustard,2026-03-03,5411.94,2026-03-05,Actual
+Gujarat,Oil Seeds,Mustard,2026-03-02,6158.21,2026-03-05,Actual
+Gujarat,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-03,8827.13,2026-03-05,Actual
+Gujarat,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-02,9088.62,2026-03-05,Actual
+Gujarat,Oil Seeds,Soyabean,2026-03-03,4994.04,2026-03-05,Actual
+Gujarat,Oil Seeds,Soyabean,2026-03-02,4831.55,2026-03-05,Actual
+Gujarat,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-03,7421.25,2026-03-05,Actual
+Gujarat,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-02,7395.0,2026-03-05,Actual
+Gujarat,Pulses,Bengal Gram(Gram)(Whole),2026-03-03,5100.06,2026-03-05,Actual
+Gujarat,Pulses,Bengal Gram(Gram)(Whole),2026-03-02,5487.57,2026-03-05,Actual
+Gujarat,Pulses,Black Gram(Urd Beans)(Whole),2026-03-03,6727.84,2026-03-05,Actual
+Gujarat,Pulses,Black Gram(Urd Beans)(Whole),2026-03-02,6675.68,2026-03-05,Actual
+Gujarat,Pulses,Green Gram(Moong)(Whole),2026-03-03,7558.15,2026-03-05,Actual
+Gujarat,Pulses,Green Gram(Moong)(Whole),2026-03-02,6855.0,2026-03-05,Actual
+Gujarat,Vegetables,Onion,2026-03-03,1177.3,2026-03-05,Actual
+Gujarat,Vegetables,Onion,2026-03-02,1135.06,2026-03-05,Actual
+Gujarat,Vegetables,Onion,2026-03-01,1119.9,2026-03-05,Actual
+Gujarat,Vegetables,Potato,2026-03-03,828.92,2026-03-05,Actual
+Gujarat,Vegetables,Potato,2026-03-02,811.91,2026-03-05,Actual
+Gujarat,Vegetables,Potato,2026-03-01,865.49,2026-03-05,Actual
+Gujarat,Vegetables,Tomato,2026-03-03,1210.89,2026-03-05,Actual
+Gujarat,Vegetables,Tomato,2026-03-02,1076.5,2026-03-05,Actual
+Gujarat,Vegetables,Tomato,2026-03-01,1098.47,2026-03-05,Actual

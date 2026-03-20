@@ -1,0 +1,16 @@
+state,commodity_group,commodity,district,market,price_date,price,price_type,model_used,confidence_score,base_last_price,trend_used,prediction_run_date
+Odisha,Vegetables,Onion,,,2026-02-04,1748.57,predicted,hybrid_trend,HIGH,1860.0,-185.71000000000004,2026-02-05
+Odisha,Vegetables,Onion,,,2026-02-05,1674.29,predicted,hybrid_trend,HIGH,1860.0,-185.71000000000004,2026-02-05
+Odisha,Vegetables,Onion,,,2026-02-06,1600.01,predicted,hybrid_trend,HIGH,1860.0,-185.71000000000004,2026-02-05
+Odisha,Cereals,Paddy(Common),,,2026-02-04,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-05
+Odisha,Cereals,Paddy(Common),,,2026-02-05,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-05
+Odisha,Cereals,Paddy(Common),,,2026-02-06,2369.0,predicted,hybrid_trend,HIGH,2369.0,0.0,2026-02-05
+Odisha,Vegetables,Potato,,,2026-02-04,988.01,predicted,hybrid_trend,HIGH,1417.96,-716.5900000000001,2026-02-05
+Odisha,Vegetables,Potato,,,2026-02-05,701.37,predicted,hybrid_trend,HIGH,1417.96,-716.5900000000001,2026-02-05
+Odisha,Vegetables,Potato,,,2026-02-06,414.73,predicted,hybrid_trend,HIGH,1417.96,-716.5900000000001,2026-02-05
+Odisha,Cereals,Ragi(Finger Millet),,,2026-02-04,4886.0,predicted,hybrid_trend,HIGH,4886.0,0.0,2026-02-05
+Odisha,Cereals,Ragi(Finger Millet),,,2026-02-05,4886.0,predicted,hybrid_trend,HIGH,4886.0,0.0,2026-02-05
+Odisha,Cereals,Ragi(Finger Millet),,,2026-02-06,4886.0,predicted,hybrid_trend,HIGH,4886.0,0.0,2026-02-05
+Odisha,Vegetables,Tomato,,,2026-02-04,2405.2,predicted,hybrid_trend,HIGH,2420.12,-24.86999999999989,2026-02-05
+Odisha,Vegetables,Tomato,,,2026-02-05,2395.25,predicted,hybrid_trend,HIGH,2420.12,-24.86999999999989,2026-02-05
+Odisha,Vegetables,Tomato,,,2026-02-06,2385.3,predicted,hybrid_trend,HIGH,2420.12,-24.86999999999989,2026-02-05

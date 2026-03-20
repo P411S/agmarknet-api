@@ -1,0 +1,49 @@
+state,commodity_group,commodity,predicted_date,predicted_price,confidence_score,model_used
+Rajasthan,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-27,2003.08,0.65,MA
+Rajasthan,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-28,2012.01,0.65,MA
+Rajasthan,Cereals,Bajra(Pearl Millet/Cumbu),2026-01-29,2012.89,0.65,MA
+Rajasthan,Cereals,Barley(Jau),2026-01-26,2173.61,0.4,BOOTSTRAP
+Rajasthan,Cereals,Barley(Jau),2026-01-27,2196.0,0.4,BOOTSTRAP
+Rajasthan,Cereals,Barley(Jau),2026-01-28,2225.64,0.4,BOOTSTRAP
+Rajasthan,Pulses,Bengal Gram(Gram)(Whole),2026-01-27,5224.1,0.85,ARIMA
+Rajasthan,Pulses,Bengal Gram(Gram)(Whole),2026-01-28,5249.9,0.85,ARIMA
+Rajasthan,Pulses,Bengal Gram(Gram)(Whole),2026-01-29,5258.88,0.85,ARIMA
+Rajasthan,Pulses,Black Gram(Urd Beans)(Whole),2026-01-26,7098.89,0.65,MA
+Rajasthan,Pulses,Black Gram(Urd Beans)(Whole),2026-01-27,7162.57,0.65,MA
+Rajasthan,Pulses,Black Gram(Urd Beans)(Whole),2026-01-28,7477.11,0.65,MA
+Rajasthan,Fibre Crops,Cotton,2026-01-27,7425.79,0.65,MA
+Rajasthan,Fibre Crops,Cotton,2026-01-28,7617.49,0.65,MA
+Rajasthan,Fibre Crops,Cotton,2026-01-29,7571.0,0.65,MA
+Rajasthan,Pulses,Green Gram(Moong)(Whole),2026-01-27,6584.42,0.85,ARIMA
+Rajasthan,Pulses,Green Gram(Moong)(Whole),2026-01-28,6671.46,0.85,ARIMA
+Rajasthan,Pulses,Green Gram(Moong)(Whole),2026-01-29,6619.36,0.85,ARIMA
+Rajasthan,Oil Seeds,Groundnut,2026-01-26,6238.22,0.65,MA
+Rajasthan,Oil Seeds,Groundnut,2026-01-27,6277.54,0.65,MA
+Rajasthan,Oil Seeds,Groundnut,2026-01-28,6126.46,0.65,MA
+Rajasthan,Cereals,Jowar(Sorghum),2026-01-27,2428.59,0.65,MA
+Rajasthan,Cereals,Jowar(Sorghum),2026-01-28,2415.3,0.65,MA
+Rajasthan,Cereals,Jowar(Sorghum),2026-01-29,2499.09,0.65,MA
+Rajasthan,Cereals,Maize,2026-01-27,2031.89,0.65,MA
+Rajasthan,Cereals,Maize,2026-01-28,1972.04,0.65,MA
+Rajasthan,Cereals,Maize,2026-01-29,1970.88,0.65,MA
+Rajasthan,Oil Seeds,Mustard,2026-01-27,5174.36,0.85,ARIMA
+Rajasthan,Oil Seeds,Mustard,2026-01-28,5233.21,0.85,ARIMA
+Rajasthan,Oil Seeds,Mustard,2026-01-29,5205.64,0.85,ARIMA
+Rajasthan,Vegetables,Onion,2026-01-27,1360.57,0.85,ARIMA
+Rajasthan,Vegetables,Onion,2026-01-28,1376.52,0.85,ARIMA
+Rajasthan,Vegetables,Onion,2026-01-29,1378.62,0.85,ARIMA
+Rajasthan,Vegetables,Potato,2026-01-27,659.15,0.85,ARIMA
+Rajasthan,Vegetables,Potato,2026-01-28,666.87,0.85,ARIMA
+Rajasthan,Vegetables,Potato,2026-01-29,671.93,0.85,ARIMA
+Rajasthan,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-25,8171.26,0.4,BOOTSTRAP
+Rajasthan,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-26,8167.86,0.4,BOOTSTRAP
+Rajasthan,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-01-27,8311.65,0.4,BOOTSTRAP
+Rajasthan,Oil Seeds,Soyabean,2026-01-25,5116.79,0.4,BOOTSTRAP
+Rajasthan,Oil Seeds,Soyabean,2026-01-26,5302.46,0.4,BOOTSTRAP
+Rajasthan,Oil Seeds,Soyabean,2026-01-27,5156.41,0.4,BOOTSTRAP
+Rajasthan,Vegetables,Tomato,2026-01-27,1544.09,0.85,ARIMA
+Rajasthan,Vegetables,Tomato,2026-01-28,1648.39,0.85,ARIMA
+Rajasthan,Vegetables,Tomato,2026-01-29,1677.57,0.85,ARIMA
+Rajasthan,Cereals,Wheat,2026-01-27,2528.24,0.85,ARIMA
+Rajasthan,Cereals,Wheat,2026-01-28,2523.14,0.85,ARIMA
+Rajasthan,Cereals,Wheat,2026-01-29,2523.52,0.85,ARIMA
