@@ -1,0 +1,51 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Karnataka,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-24,2084.42,2026-03-26,Actual
+Karnataka,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-23,2072.54,2026-03-26,Actual
+Karnataka,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-22,1860.0,2026-03-26,Actual
+Karnataka,Cereals,Jowar(Sorghum),2026-03-24,3539.63,2026-03-26,Actual
+Karnataka,Cereals,Jowar(Sorghum),2026-03-23,4150.86,2026-03-26,Actual
+Karnataka,Cereals,Jowar(Sorghum),2026-03-22,3625.0,2026-03-26,Actual
+Karnataka,Cereals,Maize,2026-03-24,1698.08,2026-03-26,Actual
+Karnataka,Cereals,Maize,2026-03-23,1685.18,2026-03-26,Actual
+Karnataka,Cereals,Maize,2026-03-22,1692.89,2026-03-26,Actual
+Karnataka,Cereals,Paddy(Common),2026-03-24,2054.56,2026-03-26,Actual
+Karnataka,Cereals,Paddy(Common),2026-03-23,2374.52,2026-03-26,Actual
+Karnataka,Cereals,Paddy(Common),2026-03-22,2318.43,2026-03-26,Actual
+Karnataka,Cereals,Ragi(Finger Millet),2026-03-24,3156.22,2026-03-26,Actual
+Karnataka,Cereals,Ragi(Finger Millet),2026-03-23,3168.52,2026-03-26,Actual
+Karnataka,Cereals,Ragi(Finger Millet),2026-03-22,3214.12,2026-03-26,Actual
+Karnataka,Cereals,Wheat,2026-03-24,3800.59,2026-03-26,Actual
+Karnataka,Cereals,Wheat,2026-03-23,3774.45,2026-03-26,Actual
+Karnataka,Cereals,Wheat,2026-03-22,3500.0,2026-03-26,Actual
+Karnataka,Fibre Crops,Cotton,2026-03-24,7681.21,2026-03-26,Actual
+Karnataka,Fibre Crops,Cotton,2026-03-23,7673.99,2026-03-26,Actual
+Karnataka,Fibre Crops,Cotton,2026-03-22,7194.0,2026-03-26,Actual
+Karnataka,Oil Seeds,Copra,2026-03-24,24240.54,2026-03-26,Actual
+Karnataka,Oil Seeds,Copra,2026-03-23,20723.71,2026-03-26,Actual
+Karnataka,Oil Seeds,Copra,2026-03-22,19800.0,2026-03-26,Actual
+Karnataka,Oil Seeds,Groundnut,2026-03-24,7009.87,2026-03-26,Actual
+Karnataka,Oil Seeds,Groundnut,2026-03-23,7279.52,2026-03-26,Actual
+Karnataka,Oil Seeds,Groundnut,2026-03-22,4996.0,2026-03-26,Actual
+Karnataka,Oil Seeds,Mustard,2026-03-24,10250.0,2026-03-26,Actual
+Karnataka,Oil Seeds,Mustard,2026-03-23,10250.0,2026-03-26,Actual
+Karnataka,Oil Seeds,Safflower,2026-03-24,4913.66,2026-03-26,Actual
+Karnataka,Oil Seeds,Safflower,2026-03-23,4878.12,2026-03-26,Actual
+Karnataka,Oil Seeds,Safflower,2026-03-22,4727.0,2026-03-26,Actual
+Karnataka,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-23,16500.0,2026-03-26,Actual
+Karnataka,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-22,9000.0,2026-03-26,Actual
+Karnataka,Oil Seeds,Soyabean,2026-03-24,5230.15,2026-03-26,Actual
+Karnataka,Oil Seeds,Soyabean,2026-03-23,5406.63,2026-03-26,Actual
+Karnataka,Oil Seeds,Soyabean,2026-03-22,5310.0,2026-03-26,Actual
+Karnataka,Oil Seeds,Sunflower,2026-03-24,7116.71,2026-03-26,Actual
+Karnataka,Oil Seeds,Sunflower,2026-03-23,7240.4,2026-03-26,Actual
+Karnataka,Oil Seeds,Sunflower,2026-03-22,6841.15,2026-03-26,Actual
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-24,7282.38,2026-03-26,Actual
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-23,7259.55,2026-03-26,Actual
+Karnataka,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-22,7923.54,2026-03-26,Actual
+Karnataka,Pulses,Bengal Gram(Gram)(Whole),2026-03-24,5213.52,2026-03-26,Actual
+Karnataka,Pulses,Bengal Gram(Gram)(Whole),2026-03-23,5266.24,2026-03-26,Actual
+Karnataka,Pulses,Bengal Gram(Gram)(Whole),2026-03-22,5197.55,2026-03-26,Actual
+Karnataka,Pulses,Black Gram(Urd Beans)(Whole),2026-03-24,9618.52,2026-03-26,Actual
+Karnataka,Pulses,Black Gram(Urd Beans)(Whole),2026-03-23,9500.0,2026-03-26,Actual
+Karnataka,Pulses,Green Gram(Moong)(Whole),2026-03-24,8112.69,2026-03-26,Actual
+Karnataka,Pulses,Green Gram(Moong)(Whole),2026-03-23,8287.83,2026-03-26,Actual

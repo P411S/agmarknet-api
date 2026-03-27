@@ -1,0 +1,10 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Tripura,Vegetables,Onion,2026-03-20,2633.87,2026-03-22,Actual
+Tripura,Vegetables,Onion,2026-03-19,2123.4,2026-03-22,Actual
+Tripura,Vegetables,Onion,2026-03-18,2377.42,2026-03-22,Actual
+Tripura,Vegetables,Potato,2026-03-20,1509.23,2026-03-22,Actual
+Tripura,Vegetables,Potato,2026-03-19,1389.95,2026-03-22,Actual
+Tripura,Vegetables,Potato,2026-03-18,1723.81,2026-03-22,Actual
+Tripura,Vegetables,Tomato,2026-03-20,1400.0,2026-03-22,Actual
+Tripura,Vegetables,Tomato,2026-03-19,1025.0,2026-03-22,Actual
+Tripura,Vegetables,Tomato,2026-03-18,1311.11,2026-03-22,Actual

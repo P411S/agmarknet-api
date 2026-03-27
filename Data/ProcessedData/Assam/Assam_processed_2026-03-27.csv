@@ -1,0 +1,16 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Assam,Cereals,Maize,2026-03-24,1600.0,2026-03-27,Actual
+Assam,Cereals,Paddy(Common),2026-03-24,2100.0,2026-03-27,Actual
+Assam,Oil Seeds,Mustard,2026-03-24,6150.0,2026-03-27,Actual
+Assam,Pulses,Lentil(Masur)(Whole),2026-03-25,9439.06,2026-03-27,Actual
+Assam,Pulses,Lentil(Masur)(Whole),2026-03-24,9392.2,2026-03-27,Actual
+Assam,Pulses,Lentil(Masur)(Whole),2026-03-23,9409.76,2026-03-27,Actual
+Assam,Vegetables,Onion,2026-03-25,1858.82,2026-03-27,Actual
+Assam,Vegetables,Onion,2026-03-24,1806.62,2026-03-27,Actual
+Assam,Vegetables,Onion,2026-03-23,1634.81,2026-03-27,Actual
+Assam,Vegetables,Potato,2026-03-25,1387.18,2026-03-27,Actual
+Assam,Vegetables,Potato,2026-03-24,1269.54,2026-03-27,Actual
+Assam,Vegetables,Potato,2026-03-23,1037.68,2026-03-27,Actual
+Assam,Vegetables,Tomato,2026-03-25,1882.61,2026-03-27,Actual
+Assam,Vegetables,Tomato,2026-03-24,1735.37,2026-03-27,Actual
+Assam,Vegetables,Tomato,2026-03-23,2043.35,2026-03-27,Actual

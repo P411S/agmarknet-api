@@ -1,0 +1,10 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Himachal Pradesh,Onion,Vegetables,,,2026-03-22,2049.09,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-21,2026-03-23,1962.22,144.78999999999996,2026-03-22,2049.09,predicted
+Himachal Pradesh,Onion,Vegetables,,,2026-03-23,2107.01,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-21,2026-03-23,1962.22,144.78999999999996,2026-03-23,2107.01,predicted
+Himachal Pradesh,Onion,Vegetables,,,2026-03-24,2164.93,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-21,2026-03-23,1962.22,144.78999999999996,2026-03-24,2164.93,predicted
+Himachal Pradesh,Potato,Vegetables,,,2026-03-22,972.97,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-21,2026-03-23,935.0,63.289999999999964,2026-03-22,972.97,predicted
+Himachal Pradesh,Potato,Vegetables,,,2026-03-23,998.29,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-21,2026-03-23,935.0,63.289999999999964,2026-03-23,998.29,predicted
+Himachal Pradesh,Potato,Vegetables,,,2026-03-24,1023.61,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-21,2026-03-23,935.0,63.289999999999964,2026-03-24,1023.61,predicted
+Himachal Pradesh,Tomato,Vegetables,,,2026-03-22,1994.82,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-21,2026-03-23,2060.71,-109.80999999999995,2026-03-22,1994.82,predicted
+Himachal Pradesh,Tomato,Vegetables,,,2026-03-23,1950.9,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-21,2026-03-23,2060.71,-109.80999999999995,2026-03-23,1950.9,predicted
+Himachal Pradesh,Tomato,Vegetables,,,2026-03-24,1906.98,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-21,2026-03-23,2060.71,-109.80999999999995,2026-03-24,1906.98,predicted

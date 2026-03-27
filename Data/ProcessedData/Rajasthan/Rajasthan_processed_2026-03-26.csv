@@ -1,0 +1,46 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Rajasthan,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-24,1958.09,2026-03-26,Actual
+Rajasthan,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-23,1952.86,2026-03-26,Actual
+Rajasthan,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-22,2250.0,2026-03-26,Actual
+Rajasthan,Cereals,Barley(Jau),2026-03-24,1971.84,2026-03-26,Actual
+Rajasthan,Cereals,Barley(Jau),2026-03-23,1825.64,2026-03-26,Actual
+Rajasthan,Cereals,Barley(Jau),2026-03-22,1950.31,2026-03-26,Actual
+Rajasthan,Cereals,Jowar(Sorghum),2026-03-23,2450.0,2026-03-26,Actual
+Rajasthan,Cereals,Jowar(Sorghum),2026-03-22,2450.0,2026-03-26,Actual
+Rajasthan,Cereals,Maize,2026-03-24,1667.37,2026-03-26,Actual
+Rajasthan,Cereals,Maize,2026-03-23,1627.97,2026-03-26,Actual
+Rajasthan,Cereals,Maize,2026-03-22,2246.71,2026-03-26,Actual
+Rajasthan,Cereals,Paddy(Common),2026-03-24,3796.0,2026-03-26,Actual
+Rajasthan,Cereals,Paddy(Common),2026-03-23,3712.0,2026-03-26,Actual
+Rajasthan,Cereals,Wheat,2026-03-24,2325.78,2026-03-26,Actual
+Rajasthan,Cereals,Wheat,2026-03-23,2332.44,2026-03-26,Actual
+Rajasthan,Cereals,Wheat,2026-03-22,2479.63,2026-03-26,Actual
+Rajasthan,Fibre Crops,Cotton,2026-03-24,7300.0,2026-03-26,Actual
+Rajasthan,Fibre Crops,Cotton,2026-03-23,7419.28,2026-03-26,Actual
+Rajasthan,Oil Seeds,Groundnut,2026-03-24,7066.22,2026-03-26,Actual
+Rajasthan,Oil Seeds,Groundnut,2026-03-23,7050.0,2026-03-26,Actual
+Rajasthan,Oil Seeds,Mustard,2026-03-24,6384.76,2026-03-26,Actual
+Rajasthan,Oil Seeds,Mustard,2026-03-23,6493.51,2026-03-26,Actual
+Rajasthan,Oil Seeds,Mustard,2026-03-22,6856.12,2026-03-26,Actual
+Rajasthan,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-22,8800.0,2026-03-26,Actual
+Rajasthan,Oil Seeds,Soyabean,2026-03-24,5131.52,2026-03-26,Actual
+Rajasthan,Oil Seeds,Soyabean,2026-03-23,5210.0,2026-03-26,Actual
+Rajasthan,Pulses,Bengal Gram(Gram)(Whole),2026-03-24,5249.93,2026-03-26,Actual
+Rajasthan,Pulses,Bengal Gram(Gram)(Whole),2026-03-23,5198.64,2026-03-26,Actual
+Rajasthan,Pulses,Bengal Gram(Gram)(Whole),2026-03-22,5231.74,2026-03-26,Actual
+Rajasthan,Pulses,Black Gram(Urd Beans)(Whole),2026-03-24,6108.62,2026-03-26,Actual
+Rajasthan,Pulses,Black Gram(Urd Beans)(Whole),2026-03-23,7069.21,2026-03-26,Actual
+Rajasthan,Pulses,Green Gram(Moong)(Whole),2026-03-24,6750.55,2026-03-26,Actual
+Rajasthan,Pulses,Green Gram(Moong)(Whole),2026-03-23,6625.91,2026-03-26,Actual
+Rajasthan,Pulses,Green Gram(Moong)(Whole),2026-03-22,5350.0,2026-03-26,Actual
+Rajasthan,Pulses,Lentil(Masur)(Whole),2026-03-24,6911.69,2026-03-26,Actual
+Rajasthan,Pulses,Lentil(Masur)(Whole),2026-03-23,6771.2,2026-03-26,Actual
+Rajasthan,Vegetables,Onion,2026-03-24,691.34,2026-03-26,Actual
+Rajasthan,Vegetables,Onion,2026-03-23,643.18,2026-03-26,Actual
+Rajasthan,Vegetables,Onion,2026-03-22,534.7,2026-03-26,Actual
+Rajasthan,Vegetables,Potato,2026-03-24,566.25,2026-03-26,Actual
+Rajasthan,Vegetables,Potato,2026-03-23,627.4,2026-03-26,Actual
+Rajasthan,Vegetables,Potato,2026-03-22,694.81,2026-03-26,Actual
+Rajasthan,Vegetables,Tomato,2026-03-24,1200.63,2026-03-26,Actual
+Rajasthan,Vegetables,Tomato,2026-03-23,1234.51,2026-03-26,Actual
+Rajasthan,Vegetables,Tomato,2026-03-22,1132.18,2026-03-26,Actual

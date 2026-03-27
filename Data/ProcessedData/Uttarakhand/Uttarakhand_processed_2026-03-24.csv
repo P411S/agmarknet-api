@@ -1,0 +1,10 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Uttarakhand,Cereals,Wheat,2026-03-20,2600.0,2026-03-24,Actual
+Uttarakhand,Oil Seeds,Mustard,2026-03-22,6400.0,2026-03-24,Actual
+Uttarakhand,Oil Seeds,Mustard,2026-03-20,5500.0,2026-03-24,Actual
+Uttarakhand,Vegetables,Onion,2026-03-22,1400.0,2026-03-24,Actual
+Uttarakhand,Vegetables,Onion,2026-03-20,1199.67,2026-03-24,Actual
+Uttarakhand,Vegetables,Potato,2026-03-22,822.88,2026-03-24,Actual
+Uttarakhand,Vegetables,Potato,2026-03-20,844.31,2026-03-24,Actual
+Uttarakhand,Vegetables,Tomato,2026-03-22,1190.24,2026-03-24,Actual
+Uttarakhand,Vegetables,Tomato,2026-03-20,1203.06,2026-03-24,Actual

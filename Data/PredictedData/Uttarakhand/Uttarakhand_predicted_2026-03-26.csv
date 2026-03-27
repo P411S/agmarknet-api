@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Uttarakhand,Mustard,Oil Seeds,,,2026-03-23,6400.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-22,2026-03-26,6400.0,0.0,2026-03-23,6400.0,predicted
+Uttarakhand,Mustard,Oil Seeds,,,2026-03-24,6400.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-22,2026-03-26,6400.0,0.0,2026-03-24,6400.0,predicted
+Uttarakhand,Mustard,Oil Seeds,,,2026-03-25,6400.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-22,2026-03-26,6400.0,0.0,2026-03-25,6400.0,predicted
+Uttarakhand,Onion,Vegetables,,,2026-03-25,1291.31,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-24,2026-03-26,1378.47,-145.26,2026-03-25,1291.31,predicted
+Uttarakhand,Onion,Vegetables,,,2026-03-26,1233.21,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-24,2026-03-26,1378.47,-145.26,2026-03-26,1233.21,predicted
+Uttarakhand,Onion,Vegetables,,,2026-03-27,1175.11,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-24,2026-03-26,1378.47,-145.26,2026-03-27,1175.11,predicted
+Uttarakhand,Potato,Vegetables,,,2026-03-25,561.21,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-24,2026-03-26,622.15,-101.57000000000005,2026-03-25,561.21,predicted
+Uttarakhand,Potato,Vegetables,,,2026-03-26,520.58,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-24,2026-03-26,622.15,-101.57000000000005,2026-03-26,520.58,predicted
+Uttarakhand,Potato,Vegetables,,,2026-03-27,479.95,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-24,2026-03-26,622.15,-101.57000000000005,2026-03-27,479.95,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-03-25,1145.85,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-24,2026-03-26,1159.21,-22.25999999999999,2026-03-25,1145.85,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-03-26,1136.95,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-24,2026-03-26,1159.21,-22.25999999999999,2026-03-26,1136.95,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-03-27,1128.05,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-24,2026-03-26,1159.21,-22.25999999999999,2026-03-27,1128.05,predicted

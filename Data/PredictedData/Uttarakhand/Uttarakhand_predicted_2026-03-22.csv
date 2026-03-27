@@ -1,0 +1,19 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Uttarakhand,Mustard,Oil Seeds,,,2026-03-21,5500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,5500.0,0.0,2026-03-21,5500.0,predicted
+Uttarakhand,Mustard,Oil Seeds,,,2026-03-22,5500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,5500.0,0.0,2026-03-22,5500.0,predicted
+Uttarakhand,Mustard,Oil Seeds,,,2026-03-23,5500.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,5500.0,0.0,2026-03-23,5500.0,predicted
+Uttarakhand,Onion,Vegetables,,,2026-03-21,1079.47,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1199.67,-200.32999999999993,2026-03-21,1079.47,predicted
+Uttarakhand,Onion,Vegetables,,,2026-03-22,999.34,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1199.67,-200.32999999999993,2026-03-22,999.34,predicted
+Uttarakhand,Onion,Vegetables,,,2026-03-23,919.21,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1199.67,-200.32999999999993,2026-03-23,919.21,predicted
+Uttarakhand,Paddy(Common),Cereals,,,2026-03-20,1927.04,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-19,2026-03-22,1915.0,-63.0,2026-03-20,1927.04,predicted
+Uttarakhand,Paddy(Common),Cereals,,,2026-03-21,1946.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-19,2026-03-22,1915.0,-63.0,2026-03-21,1946.5,predicted
+Uttarakhand,Paddy(Common),Cereals,,,2026-03-22,1965.96,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-19,2026-03-22,1915.0,-63.0,2026-03-22,1965.96,predicted
+Uttarakhand,Potato,Vegetables,,,2026-03-21,908.71,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,844.31,107.33999999999992,2026-03-21,908.71,predicted
+Uttarakhand,Potato,Vegetables,,,2026-03-22,951.65,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,844.31,107.33999999999992,2026-03-22,951.65,predicted
+Uttarakhand,Potato,Vegetables,,,2026-03-23,994.59,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,844.31,107.33999999999992,2026-03-23,994.59,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-03-21,1231.5,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1203.06,47.399999999999864,2026-03-21,1231.5,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-03-22,1250.46,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1203.06,47.399999999999864,2026-03-22,1250.46,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-03-23,1269.42,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1203.06,47.399999999999864,2026-03-23,1269.42,predicted
+Uttarakhand,Wheat,Cereals,,,2026-03-21,2574.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,2600.0,0.0,2026-03-21,2574.0,predicted
+Uttarakhand,Wheat,Cereals,,,2026-03-22,2600.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,2600.0,0.0,2026-03-22,2600.0,predicted
+Uttarakhand,Wheat,Cereals,,,2026-03-23,2626.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,2600.0,0.0,2026-03-23,2626.0,predicted

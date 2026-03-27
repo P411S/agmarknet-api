@@ -1,0 +1,13 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-03-21,9241.45,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,9239.78,2.790000000000873,2026-03-21,9241.45,predicted
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-03-22,9242.57,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,9239.78,2.790000000000873,2026-03-22,9242.57,predicted
+Assam,Lentil(Masur)(Whole),Pulses,,,2026-03-23,9243.69,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,9239.78,2.790000000000873,2026-03-23,9243.69,predicted
+Assam,Onion,Vegetables,,,2026-03-21,1775.82,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1663.92,186.5,2026-03-21,1775.82,predicted
+Assam,Onion,Vegetables,,,2026-03-22,1850.42,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1663.92,186.5,2026-03-22,1850.42,predicted
+Assam,Onion,Vegetables,,,2026-03-23,1925.02,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1663.92,186.5,2026-03-23,1925.02,predicted
+Assam,Potato,Vegetables,,,2026-03-21,1150.99,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1095.63,92.2600000000001,2026-03-21,1150.99,predicted
+Assam,Potato,Vegetables,,,2026-03-22,1187.89,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1095.63,92.2600000000001,2026-03-22,1187.89,predicted
+Assam,Potato,Vegetables,,,2026-03-23,1224.79,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1095.63,92.2600000000001,2026-03-23,1224.79,predicted
+Assam,Tomato,Vegetables,,,2026-03-21,1529.57,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1694.87,-275.5,2026-03-21,1529.57,predicted
+Assam,Tomato,Vegetables,,,2026-03-22,1419.37,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1694.87,-275.5,2026-03-22,1419.37,predicted
+Assam,Tomato,Vegetables,,,2026-03-23,1309.17,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1694.87,-275.5,2026-03-23,1309.17,predicted

@@ -1,0 +1,19 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Andhra Pradesh,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-18,4953.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-17,2026-03-21,4953.0,0.0,2026-03-18,4953.0,predicted
+Andhra Pradesh,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-19,4953.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-17,2026-03-21,4953.0,0.0,2026-03-19,4953.0,predicted
+Andhra Pradesh,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-20,4953.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-17,2026-03-21,4953.0,0.0,2026-03-20,4953.0,predicted
+Andhra Pradesh,Cotton,Fibre Crops,,,2026-03-18,7680.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-17,2026-03-21,7680.0,0.0,2026-03-18,7680.0,predicted
+Andhra Pradesh,Cotton,Fibre Crops,,,2026-03-19,7680.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-17,2026-03-21,7680.0,0.0,2026-03-19,7680.0,predicted
+Andhra Pradesh,Cotton,Fibre Crops,,,2026-03-20,7680.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-17,2026-03-21,7680.0,0.0,2026-03-20,7680.0,predicted
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-03-19,6591.42,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-18,2026-03-21,5700.0,-1916.0,2026-03-19,6591.42,predicted
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-03-20,6658.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-18,2026-03-21,5700.0,-1916.0,2026-03-20,6658.0,predicted
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-03-21,6724.58,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-18,2026-03-21,5700.0,-1916.0,2026-03-21,6724.58,predicted
+Andhra Pradesh,Paddy(Common),Cereals,,,2026-03-20,2390.96,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,2369.0,36.59999999999991,2026-03-20,2390.96,predicted
+Andhra Pradesh,Paddy(Common),Cereals,,,2026-03-21,2405.6,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,2369.0,36.59999999999991,2026-03-21,2405.6,predicted
+Andhra Pradesh,Paddy(Common),Cereals,,,2026-03-22,2420.24,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,2369.0,36.59999999999991,2026-03-22,2420.24,predicted
+Andhra Pradesh,Sunflower Seed,Oil Seeds,,,2026-03-18,5001.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-17,2026-03-21,5001.0,0.0,2026-03-18,5001.0,predicted
+Andhra Pradesh,Sunflower Seed,Oil Seeds,,,2026-03-19,5001.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-17,2026-03-21,5001.0,0.0,2026-03-19,5001.0,predicted
+Andhra Pradesh,Sunflower Seed,Oil Seeds,,,2026-03-20,5001.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-17,2026-03-21,5001.0,0.0,2026-03-20,5001.0,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-03-20,1079.45,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,1107.71,-47.09999999999991,2026-03-20,1079.45,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-03-21,1060.61,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,1107.71,-47.09999999999991,2026-03-21,1060.61,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-03-22,1041.77,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,1107.71,-47.09999999999991,2026-03-22,1041.77,predicted

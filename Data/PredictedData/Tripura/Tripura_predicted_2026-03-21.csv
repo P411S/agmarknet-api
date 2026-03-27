@@ -1,0 +1,10 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Tripura,Onion,Vegetables,,,2026-03-20,1970.99,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,2123.4,-254.01999999999998,2026-03-20,1970.99,predicted
+Tripura,Onion,Vegetables,,,2026-03-21,1869.38,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,2123.4,-254.01999999999998,2026-03-21,1869.38,predicted
+Tripura,Onion,Vegetables,,,2026-03-22,1767.77,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,2123.4,-254.01999999999998,2026-03-22,1767.77,predicted
+Tripura,Potato,Vegetables,,,2026-03-20,1189.63,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,1389.95,-333.8599999999999,2026-03-20,1189.63,predicted
+Tripura,Potato,Vegetables,,,2026-03-21,1056.09,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,1389.95,-333.8599999999999,2026-03-21,1056.09,predicted
+Tripura,Potato,Vegetables,,,2026-03-22,922.55,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,1389.95,-333.8599999999999,2026-03-22,922.55,predicted
+Tripura,Tomato,Vegetables,,,2026-03-20,853.33,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,1025.0,-286.1099999999999,2026-03-20,853.33,predicted
+Tripura,Tomato,Vegetables,,,2026-03-21,738.89,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,1025.0,-286.1099999999999,2026-03-21,738.89,predicted
+Tripura,Tomato,Vegetables,,,2026-03-22,624.45,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-19,2026-03-21,1025.0,-286.1099999999999,2026-03-22,624.45,predicted

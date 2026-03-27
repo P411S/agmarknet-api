@@ -1,0 +1,10 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-03-19,5700.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-18,2026-03-22,5700.0,0.0,2026-03-19,5700.0,predicted
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-03-20,5700.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-18,2026-03-22,5700.0,0.0,2026-03-20,5700.0,predicted
+Andhra Pradesh,Groundnut,Oil Seeds,,,2026-03-21,5700.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-18,2026-03-22,5700.0,0.0,2026-03-21,5700.0,predicted
+Andhra Pradesh,Paddy(Common),Cereals,,,2026-03-21,2369.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,2369.0,0.0,2026-03-21,2369.0,predicted
+Andhra Pradesh,Paddy(Common),Cereals,,,2026-03-22,2369.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,2369.0,0.0,2026-03-22,2369.0,predicted
+Andhra Pradesh,Paddy(Common),Cereals,,,2026-03-23,2369.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,2369.0,0.0,2026-03-23,2369.0,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-03-21,1406.4,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1294.39,186.68000000000006,2026-03-21,1406.4,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-03-22,1481.07,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1294.39,186.68000000000006,2026-03-22,1481.07,predicted
+Andhra Pradesh,Tomato,Vegetables,,,2026-03-23,1555.74,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-20,2026-03-22,1294.39,186.68000000000006,2026-03-23,1555.74,predicted

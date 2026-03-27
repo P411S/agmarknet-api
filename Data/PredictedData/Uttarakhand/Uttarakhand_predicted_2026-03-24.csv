@@ -1,0 +1,16 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Uttarakhand,Mustard,Oil Seeds,,,2026-03-23,5890.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-22,2026-03-24,6400.0,900.0,2026-03-23,5890.5,predicted
+Uttarakhand,Mustard,Oil Seeds,,,2026-03-24,5950.0,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-22,2026-03-24,6400.0,900.0,2026-03-24,5950.0,predicted
+Uttarakhand,Mustard,Oil Seeds,,,2026-03-25,6009.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-22,2026-03-24,6400.0,900.0,2026-03-25,6009.5,predicted
+Uttarakhand,Onion,Vegetables,,,2026-03-23,1286.84,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-22,2026-03-24,1400.0,200.32999999999993,2026-03-23,1286.84,predicted
+Uttarakhand,Onion,Vegetables,,,2026-03-24,1299.84,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-22,2026-03-24,1400.0,200.32999999999993,2026-03-24,1299.84,predicted
+Uttarakhand,Onion,Vegetables,,,2026-03-25,1312.83,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-22,2026-03-24,1400.0,200.32999999999993,2026-03-25,1312.83,predicted
+Uttarakhand,Potato,Vegetables,,,2026-03-23,825.26,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-22,2026-03-24,822.88,-21.42999999999995,2026-03-23,825.26,predicted
+Uttarakhand,Potato,Vegetables,,,2026-03-24,833.6,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-22,2026-03-24,822.88,-21.42999999999995,2026-03-24,833.6,predicted
+Uttarakhand,Potato,Vegetables,,,2026-03-25,841.93,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-22,2026-03-24,822.88,-21.42999999999995,2026-03-25,841.93,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-03-23,1184.68,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-22,2026-03-24,1190.24,-12.819999999999936,2026-03-23,1184.68,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-03-24,1196.65,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-22,2026-03-24,1190.24,-12.819999999999936,2026-03-24,1196.65,predicted
+Uttarakhand,Tomato,Vegetables,,,2026-03-25,1208.62,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-22,2026-03-24,1190.24,-12.819999999999936,2026-03-25,1208.62,predicted
+Uttarakhand,Wheat,Cereals,,,2026-03-21,2600.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-20,2026-03-24,2600.0,0.0,2026-03-21,2600.0,predicted
+Uttarakhand,Wheat,Cereals,,,2026-03-22,2600.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-20,2026-03-24,2600.0,0.0,2026-03-22,2600.0,predicted
+Uttarakhand,Wheat,Cereals,,,2026-03-23,2600.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-20,2026-03-24,2600.0,0.0,2026-03-23,2600.0,predicted
