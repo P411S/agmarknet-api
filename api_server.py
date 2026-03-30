@@ -40,20 +40,42 @@ class LoginUser(BaseModel):
 @app.post("/signup")
 def signup(user: SignUpUser):
 
-    if user.password != user.confirm_password:
-        return {"error": "Passwords do not match"}
+    try:
+        print("🔵 Incoming request:", user.dict())
 
-    hashed_password = pwd_context.hash(user.password)
+        if user.password != user.confirm_password:
+            print("❌ Password mismatch")
+            return {"error": "Passwords do not match"}
 
-    supabase.table("users").insert({
-        "email": user.email,
-        "password": hashed_password,
-        "phone": user.phone
-    }).execute()
+        print("🔵 Checking existing user...")
+        existing = supabase.table("users") \
+            .select("id") \
+            .eq("email", user.email) \
+            .execute()
 
-    return {"message": "Account created successfully"}
+        print("🟢 Existing user response:", existing.data)
 
+        if existing.data:
+            print("❌ User already exists")
+            return {"error": "User already exists"}
 
+        print("🔵 Hashing password...")
+        hashed_password = pwd_context.hash(user.password)
+
+        print("🔵 Inserting into DB...")
+        response = supabase.table("users").insert({
+            "email": user.email,
+            "password": hashed_password,
+            "phone": user.phone
+        }).execute()
+
+        print("🟢 Insert response:", response)
+
+        return {"message": "Account created successfully"}
+
+    except Exception as e:
+        print("🔥 ERROR OCCURRED:", str(e))
+        return {"error": str(e)}
 # -----------------------------
 # LOGIN
 # -----------------------------
