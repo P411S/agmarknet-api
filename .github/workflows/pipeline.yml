@@ -10,38 +10,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Download code
+      - name: Checkout code
         uses: actions/checkout@v3
 
-      - name: Install Python
+      - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.10"
 
-      - name: Install libraries
+      - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run your script
+      - name: Run pipeline
         run: python run_pipeline.py
-
-- name: Send email if pipeline fails
-  if: failure()
-  run: |
-    python - <<EOF
-    import smtplib, os
-
-    sender = os.getenv("EMAIL_USER")
-    password = os.getenv("EMAIL_PASS")
-    receiver = sender
-
-    subject = "Pipeline Failed"
-    body = "Your pipeline has failed. Check GitHub Actions."
-
-    message = f"Subject: {subject}\n\n{body}"
-
-    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as server:
-        server.login(sender, password)
-        server.sendmail(sender, receiver, message)
-
-    print("Email sent")
-    EOF
