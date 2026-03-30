@@ -59,6 +59,7 @@ def signup(user: SignUpUser):
             print("❌ User already exists")
             return {"error": "User already exists"}
 
+        print("PASSWORD:", user.password, "LENGTH:", len(user.password))
         print("🔵 Hashing password...")
         hashed_password = pwd_context.hash(user.password)
 
