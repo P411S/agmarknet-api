@@ -1,0 +1,22 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Haryana,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-03-29,1908.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,1905.0,5.0,2026-03-29,1908.0,predicted
+Haryana,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-03-30,1910.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,1905.0,5.0,2026-03-30,1910.0,predicted
+Haryana,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-03-31,1912.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,1905.0,5.0,2026-03-31,1912.0,predicted
+Haryana,Barley(Jau),Cereals,,,2026-03-29,2134.79,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,2065.83,114.93999999999983,2026-03-29,2134.79,predicted
+Haryana,Barley(Jau),Cereals,,,2026-03-30,2180.77,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,2065.83,114.93999999999983,2026-03-30,2180.77,predicted
+Haryana,Barley(Jau),Cereals,,,2026-03-31,2226.75,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,2065.83,114.93999999999983,2026-03-31,2226.75,predicted
+Haryana,Cotton,Fibre Crops,,,2026-03-29,7733.01,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,7673.74,98.78999999999996,2026-03-29,7733.01,predicted
+Haryana,Cotton,Fibre Crops,,,2026-03-30,7772.53,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,7673.74,98.78999999999996,2026-03-30,7772.53,predicted
+Haryana,Cotton,Fibre Crops,,,2026-03-31,7812.05,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,7673.74,98.78999999999996,2026-03-31,7812.05,predicted
+Haryana,Mustard,Oil Seeds,,,2026-03-29,6385.87,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,6346.14,66.21000000000004,2026-03-29,6385.87,predicted
+Haryana,Mustard,Oil Seeds,,,2026-03-30,6412.35,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,6346.14,66.21000000000004,2026-03-30,6412.35,predicted
+Haryana,Mustard,Oil Seeds,,,2026-03-31,6438.83,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,6346.14,66.21000000000004,2026-03-31,6438.83,predicted
+Haryana,Onion,Vegetables,,,2026-03-29,895.62,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,1031.89,-227.1099999999999,2026-03-29,895.62,predicted
+Haryana,Onion,Vegetables,,,2026-03-30,804.78,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,1031.89,-227.1099999999999,2026-03-30,804.78,predicted
+Haryana,Onion,Vegetables,,,2026-03-31,713.94,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,1031.89,-227.1099999999999,2026-03-31,713.94,predicted
+Haryana,Potato,Vegetables,,,2026-03-29,406.86,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,438.86,-53.329999999999984,2026-03-29,406.86,predicted
+Haryana,Potato,Vegetables,,,2026-03-30,385.53,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,438.86,-53.329999999999984,2026-03-30,385.53,predicted
+Haryana,Potato,Vegetables,,,2026-03-31,364.2,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,438.86,-53.329999999999984,2026-03-31,364.2,predicted
+Haryana,Tomato,Vegetables,,,2026-03-29,688.95,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,944.08,-425.2199999999999,2026-03-29,688.95,predicted
+Haryana,Tomato,Vegetables,,,2026-03-30,518.86,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,944.08,-425.2199999999999,2026-03-30,518.86,predicted
+Haryana,Tomato,Vegetables,,,2026-03-31,348.77,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-28,2026-03-30,944.08,-425.2199999999999,2026-03-31,348.77,predicted

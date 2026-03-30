@@ -1,0 +1,7 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Goa,Vegetables,Onion,2026-03-28,1000.0,2026-03-30,Actual
+Goa,Vegetables,Onion,2026-03-27,1000.0,2026-03-30,Actual
+Goa,Vegetables,Onion,2026-03-26,1200.0,2026-03-30,Actual
+Goa,Vegetables,Potato,2026-03-28,1200.0,2026-03-30,Actual
+Goa,Vegetables,Potato,2026-03-27,1200.0,2026-03-30,Actual
+Goa,Vegetables,Potato,2026-03-26,1200.0,2026-03-30,Actual
