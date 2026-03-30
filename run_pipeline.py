@@ -1,4 +1,3 @@
-raise Exception("Test email alert")
 import time
 import os
 import csv
