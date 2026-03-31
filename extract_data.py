@@ -76,6 +76,14 @@ def extract_all_states():
     options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920,1080")
 
+    # 🔥 ONLY ADDED PART (ANTI-BOT)
+    options.add_argument("--disable-blink-features=AutomationControlled")
+    options.add_argument(
+        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+        "AppleWebKit/537.36 (KHTML, like Gecko) "
+        "Chrome/120.0.0.0 Safari/537.36"
+    )
+
     driver = webdriver.Chrome(options=options)
     wait = WebDriverWait(driver, 20)
 
@@ -84,7 +92,6 @@ def extract_all_states():
     print("[DEBUG] Opening website...")
     driver.get("https://www.agmarknet.gov.in")
 
-    # ✅ FIXED HERE
     wait.until(EC.presence_of_element_located((By.TAG_NAME, "body")))
     time.sleep(5)
 
@@ -101,7 +108,6 @@ def extract_all_states():
         try:
             driver.get("https://www.agmarknet.gov.in")
 
-            # ✅ FIXED HERE ALSO
             wait.until(EC.presence_of_element_located((By.TAG_NAME, "body")))
             time.sleep(5)
 
