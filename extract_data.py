@@ -74,7 +74,7 @@ def extract_all_states():
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--disable-gpu")
-    options.add_argument("--window-size=1920,1080")  # ✅ ADDED
+    options.add_argument("--window-size=1920,1080")
 
     driver = webdriver.Chrome(options=options)
     wait = WebDriverWait(driver, 20)
@@ -83,9 +83,12 @@ def extract_all_states():
 
     print("[DEBUG] Opening website...")
     driver.get("https://www.agmarknet.gov.in")
+
+    # ✅ FIXED HERE
+    wait.until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+    time.sleep(5)
+
     driver.maximize_window()
-    wait.until(EC.presence_of_element_located((By.TAG_NAME, "select")))
-    time.sleep(3)
 
     for STATE_NAME in STATE_NAMES:
 
@@ -98,9 +101,9 @@ def extract_all_states():
         try:
             driver.get("https://www.agmarknet.gov.in")
 
-            # ✅ ADDED WAIT HERE
-            wait.until(EC.presence_of_element_located((By.TAG_NAME, "select")))
-            time.sleep(2)
+            # ✅ FIXED HERE ALSO
+            wait.until(EC.presence_of_element_located((By.TAG_NAME, "body")))
+            time.sleep(5)
 
             STATE_FOLDER = os.path.join(BASE_DOWNLOAD_PATH, STATE_NAME)
             os.makedirs(STATE_FOLDER, exist_ok=True)
@@ -126,7 +129,6 @@ def extract_all_states():
             driver.execute_script("arguments[0].click();", all_states)
             time.sleep(1)
 
-            # ✅ FIXED HERE (clickable instead of presence)
             state_element = wait.until(
                 EC.element_to_be_clickable((
                     By.XPATH, f"//*[normalize-space()='{STATE_NAME}']"
