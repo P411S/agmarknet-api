@@ -1,0 +1,10 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Punjab,Vegetables,Onion,2026-03-30,1095.91,2026-04-01,Actual
+Punjab,Vegetables,Onion,2026-03-29,1900.0,2026-04-01,Actual
+Punjab,Vegetables,Onion,2026-03-28,1931.27,2026-04-01,Actual
+Punjab,Vegetables,Potato,2026-03-30,209.62,2026-04-01,Actual
+Punjab,Vegetables,Potato,2026-03-29,575.71,2026-04-01,Actual
+Punjab,Vegetables,Potato,2026-03-28,694.34,2026-04-01,Actual
+Punjab,Vegetables,Tomato,2026-03-30,1115.78,2026-04-01,Actual
+Punjab,Vegetables,Tomato,2026-03-29,5000.0,2026-04-01,Actual
+Punjab,Vegetables,Tomato,2026-03-28,3183.23,2026-04-01,Actual

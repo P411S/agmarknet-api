@@ -1,0 +1,21 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Kerala,Oil Seeds,Copra,2026-03-30,15471.95,2026-04-01,Actual
+Kerala,Oil Seeds,Copra,2026-03-29,15000.0,2026-04-01,Actual
+Kerala,Oil Seeds,Copra,2026-03-28,15952.99,2026-04-01,Actual
+Kerala,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-30,12733.33,2026-04-01,Actual
+Kerala,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-28,12200.0,2026-04-01,Actual
+Kerala,Pulses,Bengal Gram(Gram)(Whole),2026-03-30,7950.0,2026-04-01,Actual
+Kerala,Pulses,Bengal Gram(Gram)(Whole),2026-03-28,7950.0,2026-04-01,Actual
+Kerala,Pulses,Black Gram(Urd Beans)(Whole),2026-03-30,12740.0,2026-04-01,Actual
+Kerala,Pulses,Black Gram(Urd Beans)(Whole),2026-03-28,11566.67,2026-04-01,Actual
+Kerala,Pulses,Green Gram(Moong)(Whole),2026-03-30,11833.33,2026-04-01,Actual
+Kerala,Pulses,Green Gram(Moong)(Whole),2026-03-28,11833.33,2026-04-01,Actual
+Kerala,Vegetables,Onion,2026-03-30,2629.71,2026-04-01,Actual
+Kerala,Vegetables,Onion,2026-03-29,2471.29,2026-04-01,Actual
+Kerala,Vegetables,Onion,2026-03-28,2507.07,2026-04-01,Actual
+Kerala,Vegetables,Potato,2026-03-30,3103.53,2026-04-01,Actual
+Kerala,Vegetables,Potato,2026-03-29,3399.87,2026-04-01,Actual
+Kerala,Vegetables,Potato,2026-03-28,3109.65,2026-04-01,Actual
+Kerala,Vegetables,Tomato,2026-03-30,2704.26,2026-04-01,Actual
+Kerala,Vegetables,Tomato,2026-03-29,2503.14,2026-04-01,Actual
+Kerala,Vegetables,Tomato,2026-03-28,2604.01,2026-04-01,Actual

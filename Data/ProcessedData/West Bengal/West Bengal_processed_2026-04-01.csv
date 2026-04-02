@@ -1,0 +1,25 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+West Bengal,Cereals,Maize,2026-03-30,2300.0,2026-04-01,Actual
+West Bengal,Cereals,Maize,2026-03-29,2300.0,2026-04-01,Actual
+West Bengal,Cereals,Maize,2026-03-28,2275.0,2026-04-01,Actual
+West Bengal,Cereals,Paddy(Common),2026-03-30,2342.53,2026-04-01,Actual
+West Bengal,Cereals,Paddy(Common),2026-03-29,2342.14,2026-04-01,Actual
+West Bengal,Cereals,Paddy(Common),2026-03-28,2287.78,2026-04-01,Actual
+West Bengal,Cereals,Wheat,2026-03-30,2556.8,2026-04-01,Actual
+West Bengal,Cereals,Wheat,2026-03-29,2525.19,2026-04-01,Actual
+West Bengal,Cereals,Wheat,2026-03-28,2624.86,2026-04-01,Actual
+West Bengal,Oil Seeds,Mustard,2026-03-30,6537.56,2026-04-01,Actual
+West Bengal,Oil Seeds,Mustard,2026-03-29,6536.92,2026-04-01,Actual
+West Bengal,Oil Seeds,Mustard,2026-03-28,6300.42,2026-04-01,Actual
+West Bengal,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-30,6697.3,2026-04-01,Actual
+West Bengal,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-29,6698.63,2026-04-01,Actual
+West Bengal,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-28,6744.0,2026-04-01,Actual
+West Bengal,Vegetables,Onion,2026-03-30,1482.54,2026-04-01,Actual
+West Bengal,Vegetables,Onion,2026-03-29,1478.73,2026-04-01,Actual
+West Bengal,Vegetables,Onion,2026-03-28,1428.0,2026-04-01,Actual
+West Bengal,Vegetables,Potato,2026-03-30,744.88,2026-04-01,Actual
+West Bengal,Vegetables,Potato,2026-03-29,675.98,2026-04-01,Actual
+West Bengal,Vegetables,Potato,2026-03-28,715.62,2026-04-01,Actual
+West Bengal,Vegetables,Tomato,2026-03-30,1176.41,2026-04-01,Actual
+West Bengal,Vegetables,Tomato,2026-03-29,1185.49,2026-04-01,Actual
+West Bengal,Vegetables,Tomato,2026-03-28,1096.28,2026-04-01,Actual

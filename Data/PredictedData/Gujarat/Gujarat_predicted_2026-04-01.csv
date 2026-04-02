@@ -1,0 +1,49 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Gujarat,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-03-31,7082.24,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,7500.0,692.4499999999998,2026-03-31,7082.24,predicted
+Gujarat,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-04-01,7153.77,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,7500.0,692.4499999999998,2026-04-01,7153.77,predicted
+Gujarat,Arhar(Tur/Red Gram)(Whole),Pulses,,,2026-04-02,7225.31,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,7500.0,692.4499999999998,2026-04-02,7225.31,predicted
+Gujarat,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-03-29,2223.31,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,2223.31,0.0,2026-03-29,2223.31,predicted
+Gujarat,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-03-30,2223.31,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,2223.31,0.0,2026-03-30,2223.31,predicted
+Gujarat,Bajra(Pearl Millet/Cumbu),Cereals,,,2026-03-31,2223.31,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,2223.31,0.0,2026-03-31,2223.31,predicted
+Gujarat,Bengal Gram(Gram)(Whole),Pulses,,,2026-03-31,5175.23,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,5300.0,145.0,2026-03-31,5175.23,predicted
+Gujarat,Bengal Gram(Gram)(Whole),Pulses,,,2026-04-01,5227.5,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,5300.0,145.0,2026-04-01,5227.5,predicted
+Gujarat,Bengal Gram(Gram)(Whole),Pulses,,,2026-04-02,5279.77,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,5300.0,145.0,2026-04-02,5279.77,predicted
+Gujarat,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-29,8675.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,8675.0,0.0,2026-03-29,8675.0,predicted
+Gujarat,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-30,8675.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,8675.0,0.0,2026-03-30,8675.0,predicted
+Gujarat,Black Gram(Urd Beans)(Whole),Pulses,,,2026-03-31,8675.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,8675.0,0.0,2026-03-31,8675.0,predicted
+Gujarat,Cotton,Fibre Crops,,,2026-03-31,7681.16,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,7775.45,33.409999999999854,2026-03-31,7681.16,predicted
+Gujarat,Cotton,Fibre Crops,,,2026-04-01,7758.74,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,7775.45,33.409999999999854,2026-04-01,7758.74,predicted
+Gujarat,Cotton,Fibre Crops,,,2026-04-02,7836.33,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,7775.45,33.409999999999854,2026-04-02,7836.33,predicted
+Gujarat,Green Gram(Moong)(Whole),Pulses,,,2026-03-29,4850.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,4850.0,0.0,2026-03-29,4850.0,predicted
+Gujarat,Green Gram(Moong)(Whole),Pulses,,,2026-03-30,4850.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,4850.0,0.0,2026-03-30,4850.0,predicted
+Gujarat,Green Gram(Moong)(Whole),Pulses,,,2026-03-31,4850.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,4850.0,0.0,2026-03-31,4850.0,predicted
+Gujarat,Groundnut,Oil Seeds,,,2026-03-29,6025.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,6025.0,0.0,2026-03-29,6025.0,predicted
+Gujarat,Groundnut,Oil Seeds,,,2026-03-30,6025.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,6025.0,0.0,2026-03-30,6025.0,predicted
+Gujarat,Groundnut,Oil Seeds,,,2026-03-31,6025.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,6025.0,0.0,2026-03-31,6025.0,predicted
+Gujarat,Jowar(Sorghum),Cereals,,,2026-03-29,3265.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,3265.0,0.0,2026-03-29,3265.0,predicted
+Gujarat,Jowar(Sorghum),Cereals,,,2026-03-30,3265.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,3265.0,0.0,2026-03-30,3265.0,predicted
+Gujarat,Jowar(Sorghum),Cereals,,,2026-03-31,3265.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,3265.0,0.0,2026-03-31,3265.0,predicted
+Gujarat,Maize,Cereals,,,2026-03-31,1550.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,1550.0,0.0,2026-03-31,1550.0,predicted
+Gujarat,Maize,Cereals,,,2026-04-01,1550.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,1550.0,0.0,2026-04-01,1550.0,predicted
+Gujarat,Maize,Cereals,,,2026-04-02,1550.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,1550.0,0.0,2026-04-02,1550.0,predicted
+Gujarat,Mustard,Oil Seeds,,,2026-03-29,6327.5,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,6327.5,0.0,2026-03-29,6327.5,predicted
+Gujarat,Mustard,Oil Seeds,,,2026-03-30,6327.5,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,6327.5,0.0,2026-03-30,6327.5,predicted
+Gujarat,Mustard,Oil Seeds,,,2026-03-31,6327.5,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,6327.5,0.0,2026-03-31,6327.5,predicted
+Gujarat,Onion,Vegetables,,,2026-03-31,1213.28,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,1208.3,8.299999999999955,2026-03-31,1213.28,predicted
+Gujarat,Onion,Vegetables,,,2026-04-01,1216.6,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,1208.3,8.299999999999955,2026-04-01,1216.6,predicted
+Gujarat,Onion,Vegetables,,,2026-04-02,1219.92,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,1208.3,8.299999999999955,2026-04-02,1219.92,predicted
+Gujarat,Paddy(Common),Cereals,,,2026-03-31,2303.82,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,2370.0,85.80999999999995,2026-03-31,2303.82,predicted
+Gujarat,Paddy(Common),Cereals,,,2026-04-01,2327.1,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,2370.0,85.80999999999995,2026-04-01,2327.1,predicted
+Gujarat,Paddy(Common),Cereals,,,2026-04-02,2350.37,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,2370.0,85.80999999999995,2026-04-02,2350.37,predicted
+Gujarat,Potato,Vegetables,,,2026-03-31,518.51,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,849.07,-550.93,2026-03-31,518.51,predicted
+Gujarat,Potato,Vegetables,,,2026-04-01,298.14,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,849.07,-550.93,2026-04-01,298.14,predicted
+Gujarat,Potato,Vegetables,,,2026-04-02,77.77,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,849.07,-550.93,2026-04-02,77.77,predicted
+Gujarat,"Sesamum(Sesame,Gingelly,Til)",Oil Seeds,,,2026-03-29,10038.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,10038.0,0.0,2026-03-29,10038.0,predicted
+Gujarat,"Sesamum(Sesame,Gingelly,Til)",Oil Seeds,,,2026-03-30,10038.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,10038.0,0.0,2026-03-30,10038.0,predicted
+Gujarat,"Sesamum(Sesame,Gingelly,Til)",Oil Seeds,,,2026-03-31,10038.0,fallback_copy,0.0,0.0,0.0,LOW,2026-03-28,2026-04-01,10038.0,0.0,2026-03-31,10038.0,predicted
+Gujarat,Tomato,Vegetables,,,2026-03-31,562.79,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,817.35,-424.2599999999999,2026-03-31,562.79,predicted
+Gujarat,Tomato,Vegetables,,,2026-04-01,393.09,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,817.35,-424.2599999999999,2026-04-01,393.09,predicted
+Gujarat,Tomato,Vegetables,,,2026-04-02,223.39,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,817.35,-424.2599999999999,2026-04-02,223.39,predicted
+Gujarat,Wheat,Cereals,,,2026-03-31,2533.47,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,2574.87,31.61999999999989,2026-03-31,2533.47,predicted
+Gujarat,Wheat,Cereals,,,2026-04-01,2559.06,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,2574.87,31.61999999999989,2026-04-01,2559.06,predicted
+Gujarat,Wheat,Cereals,,,2026-04-02,2584.65,hybrid_ma,0.0,0.0,0.0,LOW,2026-03-30,2026-04-01,2574.87,31.61999999999989,2026-04-02,2584.65,predicted

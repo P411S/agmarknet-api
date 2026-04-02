@@ -1,0 +1,21 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Gujarat,Cereals,Maize,2026-03-30,1550.0,2026-04-02,Actual
+Gujarat,Cereals,Paddy(Common),2026-03-31,2371.0,2026-04-02,Actual
+Gujarat,Cereals,Paddy(Common),2026-03-30,2370.0,2026-04-02,Actual
+Gujarat,Cereals,Wheat,2026-03-31,2563.93,2026-04-02,Actual
+Gujarat,Cereals,Wheat,2026-03-30,2574.87,2026-04-02,Actual
+Gujarat,Fibre Crops,Cotton,2026-03-31,7765.98,2026-04-02,Actual
+Gujarat,Fibre Crops,Cotton,2026-03-30,7775.45,2026-04-02,Actual
+Gujarat,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-31,6500.0,2026-04-02,Actual
+Gujarat,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-30,7500.0,2026-04-02,Actual
+Gujarat,Pulses,Bengal Gram(Gram)(Whole),2026-03-31,5325.0,2026-04-02,Actual
+Gujarat,Pulses,Bengal Gram(Gram)(Whole),2026-03-30,5300.0,2026-04-02,Actual
+Gujarat,Vegetables,Onion,2026-03-31,1006.15,2026-04-02,Actual
+Gujarat,Vegetables,Onion,2026-03-30,1208.3,2026-04-02,Actual
+Gujarat,Vegetables,Onion,2026-03-29,1200.0,2026-04-02,Actual
+Gujarat,Vegetables,Potato,2026-03-31,866.7,2026-04-02,Actual
+Gujarat,Vegetables,Potato,2026-03-30,849.07,2026-04-02,Actual
+Gujarat,Vegetables,Potato,2026-03-29,1400.0,2026-04-02,Actual
+Gujarat,Vegetables,Tomato,2026-03-31,992.19,2026-04-02,Actual
+Gujarat,Vegetables,Tomato,2026-03-30,817.35,2026-04-02,Actual
+Gujarat,Vegetables,Tomato,2026-03-29,1241.61,2026-04-02,Actual

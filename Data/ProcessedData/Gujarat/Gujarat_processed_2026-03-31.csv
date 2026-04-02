@@ -1,0 +1,34 @@
+state,commodity_group,commodity,price_date,price,source_date,price_type
+Gujarat,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-28,2223.31,2026-03-31,Actual
+Gujarat,Cereals,Bajra(Pearl Millet/Cumbu),2026-03-27,2294.0,2026-03-31,Actual
+Gujarat,Cereals,Jowar(Sorghum),2026-03-28,3265.0,2026-03-31,Actual
+Gujarat,Cereals,Jowar(Sorghum),2026-03-27,3495.0,2026-03-31,Actual
+Gujarat,Cereals,Paddy(Common),2026-03-28,2284.19,2026-03-31,Actual
+Gujarat,Cereals,Paddy(Common),2026-03-27,2285.95,2026-03-31,Actual
+Gujarat,Cereals,Wheat,2026-03-28,2543.25,2026-03-31,Actual
+Gujarat,Cereals,Wheat,2026-03-27,2723.08,2026-03-31,Actual
+Gujarat,Fibre Crops,Cotton,2026-03-28,7742.04,2026-03-31,Actual
+Gujarat,Fibre Crops,Cotton,2026-03-27,7531.21,2026-03-31,Actual
+Gujarat,Oil Seeds,Groundnut,2026-03-28,6025.0,2026-03-31,Actual
+Gujarat,Oil Seeds,Groundnut,2026-03-27,7207.73,2026-03-31,Actual
+Gujarat,Oil Seeds,Mustard,2026-03-28,6327.5,2026-03-31,Actual
+Gujarat,Oil Seeds,Mustard,2026-03-27,6396.96,2026-03-31,Actual
+Gujarat,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-28,10038.0,2026-03-31,Actual
+Gujarat,Oil Seeds,"Sesamum(Sesame,Gingelly,Til)",2026-03-27,9975.0,2026-03-31,Actual
+Gujarat,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-28,6807.55,2026-03-31,Actual
+Gujarat,Pulses,Arhar(Tur/Red Gram)(Whole),2026-03-27,5509.88,2026-03-31,Actual
+Gujarat,Pulses,Bengal Gram(Gram)(Whole),2026-03-28,5155.0,2026-03-31,Actual
+Gujarat,Pulses,Bengal Gram(Gram)(Whole),2026-03-27,5185.0,2026-03-31,Actual
+Gujarat,Pulses,Black Gram(Urd Beans)(Whole),2026-03-28,8675.0,2026-03-31,Actual
+Gujarat,Pulses,Black Gram(Urd Beans)(Whole),2026-03-27,8496.64,2026-03-31,Actual
+Gujarat,Pulses,Green Gram(Moong)(Whole),2026-03-28,4850.0,2026-03-31,Actual
+Gujarat,Pulses,Green Gram(Moong)(Whole),2026-03-27,6600.0,2026-03-31,Actual
+Gujarat,Vegetables,Onion,2026-03-29,1200.0,2026-03-31,Actual
+Gujarat,Vegetables,Onion,2026-03-28,1155.7,2026-03-31,Actual
+Gujarat,Vegetables,Onion,2026-03-27,1250.62,2026-03-31,Actual
+Gujarat,Vegetables,Potato,2026-03-29,1400.0,2026-03-31,Actual
+Gujarat,Vegetables,Potato,2026-03-28,884.75,2026-03-31,Actual
+Gujarat,Vegetables,Potato,2026-03-27,893.78,2026-03-31,Actual
+Gujarat,Vegetables,Tomato,2026-03-29,1241.61,2026-03-31,Actual
+Gujarat,Vegetables,Tomato,2026-03-28,866.22,2026-03-31,Actual
+Gujarat,Vegetables,Tomato,2026-03-27,795.08,2026-03-31,Actual

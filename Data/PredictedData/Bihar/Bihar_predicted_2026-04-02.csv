@@ -1,0 +1,10 @@
+state,commodity,commodity_group,district,market,predicted_for_date,predicted_price,model_used,rmse,mae,mape,confidence_score,trained_till_date,prediction_run_date,base_last_price,trend_used,price_date,price,price_type
+Bihar,Onion,Vegetables,,,2026-04-01,2088.24,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-31,2026-04-02,2000.0,147.05999999999995,2026-04-01,2088.24,predicted
+Bihar,Onion,Vegetables,,,2026-04-02,2147.06,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-31,2026-04-02,2000.0,147.05999999999995,2026-04-02,2147.06,predicted
+Bihar,Onion,Vegetables,,,2026-04-03,2205.88,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-31,2026-04-02,2000.0,147.05999999999995,2026-04-03,2205.88,predicted
+Bihar,Paddy(Common),Cereals,,,2026-04-01,2370.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-31,2026-04-02,2370.0,0.0,2026-04-01,2370.0,predicted
+Bihar,Paddy(Common),Cereals,,,2026-04-02,2370.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-31,2026-04-02,2370.0,0.0,2026-04-02,2370.0,predicted
+Bihar,Paddy(Common),Cereals,,,2026-04-03,2370.0,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-31,2026-04-02,2370.0,0.0,2026-04-03,2370.0,predicted
+Bihar,Potato,Vegetables,,,2026-04-01,598.31,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-31,2026-04-02,885.71,-479.0,2026-04-01,598.31,predicted
+Bihar,Potato,Vegetables,,,2026-04-02,406.71,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-31,2026-04-02,885.71,-479.0,2026-04-02,406.71,predicted
+Bihar,Potato,Vegetables,,,2026-04-03,215.11,hybrid_trend,0.0,0.0,0.0,LOW,2026-03-31,2026-04-02,885.71,-479.0,2026-04-03,215.11,predicted

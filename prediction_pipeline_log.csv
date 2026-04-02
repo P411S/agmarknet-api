@@ -15625,3 +15625,2345 @@ Stacktrace:
 2026-03-30 10:30:44.404124,PRED_UPLOAD_DONE,,,,549,,Prediction upload finished
 2026-03-30 10:30:44.405611,STEP_UPLOAD_PRED_DONE,,,,,,9 sec
 2026-03-30 10:30:54.114784,PIPELINE_DONE,,,,,,Total 717 sec
+2026-03-31 22:13:14.058228,PIPELINE_START,,,,,,Full pipeline started
+2026-03-31 22:13:14.059396,STEP_EXTRACT_START,,,,,,
+2026-03-31 22:13:14.061077,EXTRACT_START,,,,,,Extraction started
+2026-03-31 22:13:27.833392,EXTRACT_STATE_START,Andaman and Nicobar Islands,,,,,State extraction start
+2026-03-31 22:13:56.220060,EXTRACT_STATE_FAIL,Andaman and Nicobar Islands,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6665e29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff66630a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff66606db2d]
+	chromedriver!(No symbol) [0x7ff6660c6b9e]
+	chromedriver!(No symbol) [0x7ff6660c6eac]
+	chromedriver!(No symbol) [0x7ff666116fe7]
+	chromedriver!(No symbol) [0x7ff666113b9b]
+	chromedriver!(No symbol) [0x7ff6660b9298]
+	chromedriver!(No symbol) [0x7ff6660ba183]
+	chromedriver!GetHandleVerifier [0x7ff66660de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff666608588+313348]
+	chromedriver!GetHandleVerifier [0x7ff666629d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff666326785+31545]
+	chromedriver!GetHandleVerifier [0x7ff66632facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff666313634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6663137e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff6662f7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa4ce0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa4d3ec40c+2c]
+"
+2026-03-31 22:13:56.251699,EXTRACT_STATE_START,Andhra Pradesh,,,,,State extraction start
+2026-03-31 22:14:12.014621,EXTRACT_STATE_SKIP,Andhra Pradesh,,,,,No table data
+2026-03-31 22:14:12.016613,EXTRACT_STATE_START,Arunachal Pradesh,,,,,State extraction start
+2026-03-31 22:14:25.051802,EXTRACT_STATE_SKIP,Arunachal Pradesh,,,,,No table data
+2026-03-31 22:14:25.053478,EXTRACT_STATE_START,Assam,,,,,State extraction start
+2026-03-31 22:14:40.570802,EXTRACT_STATE_SKIP,Assam,,,,,No table data
+2026-03-31 22:14:40.572681,EXTRACT_STATE_START,Bihar,,,,,State extraction start
+2026-03-31 22:14:53.542135,EXTRACT_STATE_SKIP,Bihar,,,,,No table data
+2026-03-31 22:14:53.544353,EXTRACT_STATE_START,Chandigarh,,,,,State extraction start
+2026-03-31 22:17:08.343919,EXTRACT_STATE_FAIL,Chandigarh,,,,,❌ Download failed: No new CSV detected.
+2026-03-31 22:17:08.347162,EXTRACT_STATE_START,Chhattisgarh,,,,,State extraction start
+2026-03-31 22:17:35.165228,EXTRACT_STATE_FAIL,Chhattisgarh,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6665e29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff66630a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff66606db2d]
+	chromedriver!(No symbol) [0x7ff6660c6b9e]
+	chromedriver!(No symbol) [0x7ff6660c6eac]
+	chromedriver!(No symbol) [0x7ff666116fe7]
+	chromedriver!(No symbol) [0x7ff666113b9b]
+	chromedriver!(No symbol) [0x7ff6660b9298]
+	chromedriver!(No symbol) [0x7ff6660ba183]
+	chromedriver!GetHandleVerifier [0x7ff66660de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff666608588+313348]
+	chromedriver!GetHandleVerifier [0x7ff666629d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff666326785+31545]
+	chromedriver!GetHandleVerifier [0x7ff66632facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff666313634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6663137e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff6662f7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa4ce0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa4d3ec40c+2c]
+"
+2026-03-31 22:17:35.167998,EXTRACT_STATE_START,Dadra and Nagar Haveli and Daman and Diu,,,,,State extraction start
+2026-03-31 22:18:01.915303,EXTRACT_STATE_FAIL,Dadra and Nagar Haveli and Daman and Diu,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6665e29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff66630a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff66606db2d]
+	chromedriver!(No symbol) [0x7ff6660c6b9e]
+	chromedriver!(No symbol) [0x7ff6660c6eac]
+	chromedriver!(No symbol) [0x7ff666116fe7]
+	chromedriver!(No symbol) [0x7ff666113b9b]
+	chromedriver!(No symbol) [0x7ff6660b9298]
+	chromedriver!(No symbol) [0x7ff6660ba183]
+	chromedriver!GetHandleVerifier [0x7ff66660de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff666608588+313348]
+	chromedriver!GetHandleVerifier [0x7ff666629d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff666326785+31545]
+	chromedriver!GetHandleVerifier [0x7ff66632facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff666313634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6663137e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff6662f7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa4ce0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa4d3ec40c+2c]
+"
+2026-03-31 22:18:01.916510,EXTRACT_STATE_START,Delhi,,,,,State extraction start
+2026-03-31 22:18:28.962018,EXTRACT_STATE_FAIL,Delhi,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6665e29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff66630a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff66606db2d]
+	chromedriver!(No symbol) [0x7ff6660c6b9e]
+	chromedriver!(No symbol) [0x7ff6660c6eac]
+	chromedriver!(No symbol) [0x7ff666116fe7]
+	chromedriver!(No symbol) [0x7ff666113b9b]
+	chromedriver!(No symbol) [0x7ff6660b9298]
+	chromedriver!(No symbol) [0x7ff6660ba183]
+	chromedriver!GetHandleVerifier [0x7ff66660de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff666608588+313348]
+	chromedriver!GetHandleVerifier [0x7ff666629d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff666326785+31545]
+	chromedriver!GetHandleVerifier [0x7ff66632facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff666313634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6663137e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff6662f7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa4ce0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa4d3ec40c+2c]
+"
+2026-03-31 22:18:28.964503,EXTRACT_STATE_START,Goa,,,,,State extraction start
+2026-03-31 22:18:47.556149,EXTRACT_STATE_DONE,Goa,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-18-54_PM.csv
+2026-03-31 22:18:49.574665,EXTRACT_STATE_START,Gujarat,,,,,State extraction start
+2026-03-31 22:19:05.137644,EXTRACT_STATE_DONE,Gujarat,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-19-12_PM.csv
+2026-03-31 22:19:07.139978,EXTRACT_STATE_START,Haryana,,,,,State extraction start
+2026-03-31 22:19:22.172313,EXTRACT_STATE_DONE,Haryana,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-19-29_PM.csv
+2026-03-31 22:19:24.175291,EXTRACT_STATE_START,Himachal Pradesh,,,,,State extraction start
+2026-03-31 22:19:39.567262,EXTRACT_STATE_DONE,Himachal Pradesh,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-19-46_PM.csv
+2026-03-31 22:19:41.569264,EXTRACT_STATE_START,Jammu and Kashmir,,,,,State extraction start
+2026-03-31 22:19:57.019252,EXTRACT_STATE_DONE,Jammu and Kashmir,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-20-04_PM.csv
+2026-03-31 22:19:59.022903,EXTRACT_STATE_START,Jharkhand,,,,,State extraction start
+2026-03-31 22:20:12.227887,EXTRACT_STATE_SKIP,Jharkhand,,,,,No table data
+2026-03-31 22:20:12.229536,EXTRACT_STATE_START,Karnataka,,,,,State extraction start
+2026-03-31 22:20:27.571913,EXTRACT_STATE_DONE,Karnataka,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-20-34_PM.csv
+2026-03-31 22:20:29.574430,EXTRACT_STATE_START,Kerala,,,,,State extraction start
+2026-03-31 22:20:44.953947,EXTRACT_STATE_DONE,Kerala,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-20-52_PM.csv
+2026-03-31 22:20:46.956542,EXTRACT_STATE_START,Ladakh,,,,,State extraction start
+2026-03-31 22:21:13.895699,EXTRACT_STATE_FAIL,Ladakh,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6665e29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff66630a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff66606db2d]
+	chromedriver!(No symbol) [0x7ff6660c6b9e]
+	chromedriver!(No symbol) [0x7ff6660c6eac]
+	chromedriver!(No symbol) [0x7ff666116fe7]
+	chromedriver!(No symbol) [0x7ff666113b9b]
+	chromedriver!(No symbol) [0x7ff6660b9298]
+	chromedriver!(No symbol) [0x7ff6660ba183]
+	chromedriver!GetHandleVerifier [0x7ff66660de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff666608588+313348]
+	chromedriver!GetHandleVerifier [0x7ff666629d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff666326785+31545]
+	chromedriver!GetHandleVerifier [0x7ff66632facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff666313634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6663137e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff6662f7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa4ce0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa4d3ec40c+2c]
+"
+2026-03-31 22:21:13.897964,EXTRACT_STATE_START,Lakshadweep,,,,,State extraction start
+2026-03-31 22:21:27.132356,EXTRACT_STATE_SKIP,Lakshadweep,,,,,No table data
+2026-03-31 22:21:27.134159,EXTRACT_STATE_START,Madhya Pradesh,,,,,State extraction start
+2026-03-31 22:21:50.045332,EXTRACT_STATE_DONE,Madhya Pradesh,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-21-56_PM.csv
+2026-03-31 22:21:52.047948,EXTRACT_STATE_START,Maharashtra,,,,,State extraction start
+2026-03-31 22:22:24.164088,EXTRACT_STATE_DONE,Maharashtra,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-22-23_PM.csv
+2026-03-31 22:22:26.168417,EXTRACT_STATE_START,Manipur,,,,,State extraction start
+2026-03-31 22:22:41.569121,EXTRACT_STATE_DONE,Manipur,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-22-40_PM.csv
+2026-03-31 22:22:43.572544,EXTRACT_STATE_START,Meghalaya,,,,,State extraction start
+2026-03-31 22:22:56.843047,EXTRACT_STATE_SKIP,Meghalaya,,,,,No table data
+2026-03-31 22:22:56.845106,EXTRACT_STATE_START,Mizoram,,,,,State extraction start
+2026-03-31 22:23:10.022329,EXTRACT_STATE_SKIP,Mizoram,,,,,No table data
+2026-03-31 22:23:10.024273,EXTRACT_STATE_START,Nagaland,,,,,State extraction start
+2026-03-31 22:23:29.018320,EXTRACT_STATE_DONE,Nagaland,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-23-28_PM.csv
+2026-03-31 22:23:31.020657,EXTRACT_STATE_START,Odisha,,,,,State extraction start
+2026-03-31 22:23:47.452191,EXTRACT_STATE_DONE,Odisha,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-23-46_PM.csv
+2026-03-31 22:23:49.455104,EXTRACT_STATE_START,Puducherry,,,,,State extraction start
+2026-03-31 22:24:16.394927,EXTRACT_STATE_FAIL,Puducherry,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6665e29c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff66630a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff66606db2d]
+	chromedriver!(No symbol) [0x7ff6660c6b9e]
+	chromedriver!(No symbol) [0x7ff6660c6eac]
+	chromedriver!(No symbol) [0x7ff666116fe7]
+	chromedriver!(No symbol) [0x7ff666113b9b]
+	chromedriver!(No symbol) [0x7ff6660b9298]
+	chromedriver!(No symbol) [0x7ff6660ba183]
+	chromedriver!GetHandleVerifier [0x7ff66660de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff666608588+313348]
+	chromedriver!GetHandleVerifier [0x7ff666629d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff666326785+31545]
+	chromedriver!GetHandleVerifier [0x7ff66632facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff666313634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff6663137e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff6662f7e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa4ce0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa4d3ec40c+2c]
+"
+2026-03-31 22:24:16.397305,EXTRACT_STATE_START,Punjab,,,,,State extraction start
+2026-03-31 22:24:31.741903,EXTRACT_STATE_DONE,Punjab,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-24-31_PM.csv
+2026-03-31 22:24:33.745795,EXTRACT_STATE_START,Rajasthan,,,,,State extraction start
+2026-03-31 22:24:49.089973,EXTRACT_STATE_DONE,Rajasthan,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-24-48_PM.csv
+2026-03-31 22:24:51.092301,EXTRACT_STATE_START,Sikkim,,,,,State extraction start
+2026-03-31 22:25:04.309298,EXTRACT_STATE_SKIP,Sikkim,,,,,No table data
+2026-03-31 22:25:04.310556,EXTRACT_STATE_START,Tamil Nadu,,,,,State extraction start
+2026-03-31 22:25:17.474942,EXTRACT_STATE_SKIP,Tamil Nadu,,,,,No table data
+2026-03-31 22:25:17.478145,EXTRACT_STATE_START,Telangana,,,,,State extraction start
+2026-03-31 22:25:32.807640,EXTRACT_STATE_DONE,Telangana,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-25-32_PM.csv
+2026-03-31 22:25:34.811003,EXTRACT_STATE_START,Tripura,,,,,State extraction start
+2026-03-31 22:25:50.203566,EXTRACT_STATE_DONE,Tripura,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-25-49_PM.csv
+2026-03-31 22:25:52.206272,EXTRACT_STATE_START,Uttar Pradesh,,,,,State extraction start
+2026-03-31 22:26:07.563965,EXTRACT_STATE_DONE,Uttar Pradesh,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-26-07_PM.csv
+2026-03-31 22:26:09.566621,EXTRACT_STATE_START,Uttarakhand,,,,,State extraction start
+2026-03-31 22:26:24.920752,EXTRACT_STATE_DONE,Uttarakhand,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-26-24_PM.csv
+2026-03-31 22:26:26.923297,EXTRACT_STATE_START,West Bengal,,,,,State extraction start
+2026-03-31 22:26:43.313707,EXTRACT_STATE_DONE,West Bengal,,,,,Downloaded Marketwise_Price_Arrival_31-03-2026_10-26-42_PM.csv
+2026-03-31 22:26:45.315641,EXTRACT_END,,,,36,,Extraction finished
+2026-03-31 22:26:47.873457,STEP_EXTRACT_DONE,,,,,,813 sec
+2026-03-31 22:26:47.875245,STEP_CLEAN_START,,,,,,
+2026-03-31 22:26:49.815466,STEP_CLEAN_DONE,,,,,,1 sec
+2026-03-31 22:26:49.817045,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-03-31 22:26:49.818468,CLEAN_UPLOAD_START,,,,,,Clean upload started
+2026-03-31 22:26:51.575990,CLEAN_UPLOAD_STATE,Andhra Pradesh,,,13,,Uploading clean records
+2026-03-31 22:27:00.383810,CLEAN_UPLOAD_STATE,Assam,,,12,,Uploading clean records
+2026-03-31 22:27:00.980261,CLEAN_UPLOAD_STATE,Bihar,,,8,,Uploading clean records
+2026-03-31 22:27:01.761690,CLEAN_UPLOAD_STATE,Chandigarh,,,3,,Uploading clean records
+2026-03-31 22:27:02.641059,CLEAN_UPLOAD_STATE,Goa,,,6,,Uploading clean records
+2026-03-31 22:27:03.231854,CLEAN_UPLOAD_STATE,Gujarat,,,33,,Uploading clean records
+2026-03-31 22:27:03.650961,CLEAN_UPLOAD_STATE,Haryana,,,19,,Uploading clean records
+2026-03-31 22:27:04.065310,CLEAN_UPLOAD_STATE,Himachal Pradesh,,,9,,Uploading clean records
+2026-03-31 22:27:04.601524,CLEAN_UPLOAD_STATE,Jammu and Kashmir,,,6,,Uploading clean records
+2026-03-31 22:27:04.874139,CLEAN_UPLOAD_STATE,Karnataka,,,47,,Uploading clean records
+2026-03-31 22:27:05.202929,CLEAN_UPLOAD_STATE,Kerala,,,20,,Uploading clean records
+2026-03-31 22:27:05.487755,CLEAN_UPLOAD_STATE,Madhya Pradesh,,,53,,Uploading clean records
+2026-03-31 22:27:05.914122,CLEAN_UPLOAD_STATE,Maharashtra,,,39,,Uploading clean records
+2026-03-31 22:27:06.291229,CLEAN_UPLOAD_STATE,Manipur,,,5,,Uploading clean records
+2026-03-31 22:27:06.675212,CLEAN_UPLOAD_STATE,Meghalaya,,,1,,Uploading clean records
+2026-03-31 22:27:07.218991,CLEAN_UPLOAD_STATE,Nagaland,,,2,,Uploading clean records
+2026-03-31 22:27:07.953849,CLEAN_UPLOAD_STATE,Odisha,,,12,,Uploading clean records
+2026-03-31 22:27:08.352211,CLEAN_UPLOAD_STATE,Punjab,,,10,,Uploading clean records
+2026-03-31 22:27:09.174721,CLEAN_UPLOAD_STATE,Rajasthan,,,40,,Uploading clean records
+2026-03-31 22:27:09.673620,CLEAN_UPLOAD_STATE,Telangana,,,18,,Uploading clean records
+2026-03-31 22:27:10.420822,CLEAN_UPLOAD_STATE,Tripura,,,10,,Uploading clean records
+2026-03-31 22:27:11.019676,CLEAN_UPLOAD_STATE,Uttar Pradesh,,,36,,Uploading clean records
+2026-03-31 22:27:11.428379,CLEAN_UPLOAD_STATE,Uttarakhand,,,12,,Uploading clean records
+2026-03-31 22:27:11.734064,CLEAN_UPLOAD_STATE,West Bengal,,,24,,Uploading clean records
+2026-03-31 22:27:12.195299,CLEAN_UPLOAD_DONE,,,,438,,Clean upload finished
+2026-03-31 22:27:12.196562,STEP_UPLOAD_CLEAN_DONE,,,,,,22 sec
+2026-03-31 22:27:12.197526,STEP_PREDICT_START,,,,,,
+2026-03-31 22:27:12.198833,PREDICT_START,,,,,,Prediction run started
+2026-03-31 22:27:12.200470,STATE_START,Andaman and Nicobar Islands,,,,,State processing
+2026-03-31 22:27:12.201310,STATE_START,Andhra Pradesh,,,,,State processing
+2026-03-31 22:27:12.261004,MODEL_SELECT,Andhra Pradesh,Bengal Gram(Gram)(Whole),fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.261995,METRICS,Andhra Pradesh,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.271064,MODEL_SELECT,Andhra Pradesh,Cotton,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.272011,METRICS,Andhra Pradesh,Cotton,,,SKIPPED,No test data
+2026-03-31 22:27:12.275058,MODEL_SELECT,Andhra Pradesh,Groundnut,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.275905,METRICS,Andhra Pradesh,Groundnut,,,SKIPPED,No test data
+2026-03-31 22:27:12.286643,MODEL_SELECT,Andhra Pradesh,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.287686,METRICS,Andhra Pradesh,Paddy(Common),,,SKIPPED,No test data
+2026-03-31 22:27:12.290959,MODEL_SELECT,Andhra Pradesh,Potato,fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.291838,METRICS,Andhra Pradesh,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:12.294689,MODEL_SELECT,Andhra Pradesh,Sunflower Seed,fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.295470,METRICS,Andhra Pradesh,Sunflower Seed,,,SKIPPED,No test data
+2026-03-31 22:27:12.297865,MODEL_SELECT,Andhra Pradesh,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.298739,METRICS,Andhra Pradesh,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:12.312235,STATE_DONE,Andhra Pradesh,,,21,,Prediction CSV saved
+2026-03-31 22:27:12.313232,STATE_START,Arunachal Pradesh,,,,,State processing
+2026-03-31 22:27:12.314058,STATE_START,Assam,,,,,State processing
+2026-03-31 22:27:12.331235,MODEL_SELECT,Assam,Lentil(Masur)(Whole),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.332394,METRICS,Assam,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.335004,MODEL_SELECT,Assam,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.335813,METRICS,Assam,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:12.338122,MODEL_SELECT,Assam,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.338905,METRICS,Assam,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:12.341306,MODEL_SELECT,Assam,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.342058,METRICS,Assam,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:12.348802,STATE_DONE,Assam,,,12,,Prediction CSV saved
+2026-03-31 22:27:12.349761,STATE_START,Bihar,,,,,State processing
+2026-03-31 22:27:12.367305,MODEL_SELECT,Bihar,Onion,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.367975,METRICS,Bihar,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:12.370368,MODEL_SELECT,Bihar,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.371183,METRICS,Bihar,Paddy(Common),,,SKIPPED,No test data
+2026-03-31 22:27:12.373820,MODEL_SELECT,Bihar,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.374602,METRICS,Bihar,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:12.380888,STATE_DONE,Bihar,,,9,,Prediction CSV saved
+2026-03-31 22:27:12.381841,STATE_START,Chandigarh,,,,,State processing
+2026-03-31 22:27:12.399759,MODEL_SELECT,Chandigarh,Onion,fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.400663,METRICS,Chandigarh,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:12.403245,MODEL_SELECT,Chandigarh,Potato,fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.404059,METRICS,Chandigarh,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:12.406405,MODEL_SELECT,Chandigarh,Tomato,fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.407223,METRICS,Chandigarh,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:12.417230,STATE_DONE,Chandigarh,,,9,,Prediction CSV saved
+2026-03-31 22:27:12.418208,STATE_START,Chhattisgarh,,,,,State processing
+2026-03-31 22:27:12.419141,STATE_START,Dadra and Nagar Haveli and Daman and Diu,,,,,State processing
+2026-03-31 22:27:12.420057,STATE_START,Delhi,,,,,State processing
+2026-03-31 22:27:12.420866,STATE_START,Goa,,,,,State processing
+2026-03-31 22:27:12.438702,MODEL_SELECT,Goa,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.439550,METRICS,Goa,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:12.442131,MODEL_SELECT,Goa,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.442942,METRICS,Goa,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:12.450321,STATE_DONE,Goa,,,6,,Prediction CSV saved
+2026-03-31 22:27:12.451278,STATE_START,Gujarat,,,,,State processing
+2026-03-31 22:27:12.468373,MODEL_SELECT,Gujarat,Arhar(Tur/Red Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.469264,METRICS,Gujarat,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.471766,MODEL_SELECT,Gujarat,Bajra(Pearl Millet/Cumbu),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.472435,METRICS,Gujarat,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-03-31 22:27:12.475005,MODEL_SELECT,Gujarat,Bengal Gram(Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.475803,METRICS,Gujarat,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.478166,MODEL_SELECT,Gujarat,Black Gram(Urd Beans)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.478985,METRICS,Gujarat,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.481441,MODEL_SELECT,Gujarat,Cotton,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.482091,METRICS,Gujarat,Cotton,,,SKIPPED,No test data
+2026-03-31 22:27:12.484488,MODEL_SELECT,Gujarat,Green Gram(Moong)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.485280,METRICS,Gujarat,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.487779,MODEL_SELECT,Gujarat,Groundnut,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.488542,METRICS,Gujarat,Groundnut,,,SKIPPED,No test data
+2026-03-31 22:27:12.491216,MODEL_SELECT,Gujarat,Jowar(Sorghum),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.491994,METRICS,Gujarat,Jowar(Sorghum),,,SKIPPED,No test data
+2026-03-31 22:27:12.495213,MODEL_SELECT,Gujarat,Mustard,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.495881,METRICS,Gujarat,Mustard,,,SKIPPED,No test data
+2026-03-31 22:27:12.498251,MODEL_SELECT,Gujarat,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.499057,METRICS,Gujarat,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:12.501505,MODEL_SELECT,Gujarat,Paddy(Common),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.502267,METRICS,Gujarat,Paddy(Common),,,SKIPPED,No test data
+2026-03-31 22:27:12.504606,MODEL_SELECT,Gujarat,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.505404,METRICS,Gujarat,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:12.507829,MODEL_SELECT,Gujarat,"Sesamum(Sesame,Gingelly,Til)",hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.508600,METRICS,Gujarat,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-03-31 22:27:12.511051,MODEL_SELECT,Gujarat,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.511829,METRICS,Gujarat,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:12.514437,MODEL_SELECT,Gujarat,Wheat,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.515266,METRICS,Gujarat,Wheat,,,SKIPPED,No test data
+2026-03-31 22:27:12.523385,STATE_DONE,Gujarat,,,45,,Prediction CSV saved
+2026-03-31 22:27:12.524316,STATE_START,Haryana,,,,,State processing
+2026-03-31 22:27:12.541586,MODEL_SELECT,Haryana,Bajra(Pearl Millet/Cumbu),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.542551,METRICS,Haryana,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-03-31 22:27:12.544977,MODEL_SELECT,Haryana,Barley(Jau),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.545610,METRICS,Haryana,Barley(Jau),,,SKIPPED,No test data
+2026-03-31 22:27:12.547627,MODEL_SELECT,Haryana,Cotton,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.548566,METRICS,Haryana,Cotton,,,SKIPPED,No test data
+2026-03-31 22:27:12.550951,MODEL_SELECT,Haryana,Mustard,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.551741,METRICS,Haryana,Mustard,,,SKIPPED,No test data
+2026-03-31 22:27:12.553921,MODEL_SELECT,Haryana,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.554603,METRICS,Haryana,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:12.557153,MODEL_SELECT,Haryana,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.557970,METRICS,Haryana,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:12.560424,MODEL_SELECT,Haryana,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.561331,METRICS,Haryana,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:12.568747,STATE_DONE,Haryana,,,21,,Prediction CSV saved
+2026-03-31 22:27:12.569582,STATE_START,Himachal Pradesh,,,,,State processing
+2026-03-31 22:27:12.586177,MODEL_SELECT,Himachal Pradesh,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.587018,METRICS,Himachal Pradesh,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:12.589479,MODEL_SELECT,Himachal Pradesh,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.590152,METRICS,Himachal Pradesh,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:12.592603,MODEL_SELECT,Himachal Pradesh,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.593446,METRICS,Himachal Pradesh,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:12.600653,STATE_DONE,Himachal Pradesh,,,9,,Prediction CSV saved
+2026-03-31 22:27:12.601630,STATE_START,Jammu and Kashmir,,,,,State processing
+2026-03-31 22:27:12.618319,MODEL_SELECT,Jammu and Kashmir,Onion,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.619093,METRICS,Jammu and Kashmir,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:12.621642,MODEL_SELECT,Jammu and Kashmir,Potato,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.622316,METRICS,Jammu and Kashmir,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:12.624854,MODEL_SELECT,Jammu and Kashmir,Tomato,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.625708,METRICS,Jammu and Kashmir,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:12.633056,STATE_DONE,Jammu and Kashmir,,,9,,Prediction CSV saved
+2026-03-31 22:27:12.633994,STATE_START,Jharkhand,,,,,State processing
+2026-03-31 22:27:12.634952,STATE_START,Karnataka,,,,,State processing
+2026-03-31 22:27:12.652677,MODEL_SELECT,Karnataka,Arhar(Tur/Red Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.653698,METRICS,Karnataka,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.656306,MODEL_SELECT,Karnataka,Bajra(Pearl Millet/Cumbu),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.657115,METRICS,Karnataka,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-03-31 22:27:12.659699,MODEL_SELECT,Karnataka,Bengal Gram(Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.660474,METRICS,Karnataka,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.662673,MODEL_SELECT,Karnataka,Black Gram(Urd Beans)(Whole),fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.663473,METRICS,Karnataka,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.665871,MODEL_SELECT,Karnataka,Copra,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.666615,METRICS,Karnataka,Copra,,,SKIPPED,No test data
+2026-03-31 22:27:12.669624,MODEL_SELECT,Karnataka,Cotton,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.670394,METRICS,Karnataka,Cotton,,,SKIPPED,No test data
+2026-03-31 22:27:12.673474,MODEL_SELECT,Karnataka,Green Gram(Moong)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.674284,METRICS,Karnataka,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.676872,MODEL_SELECT,Karnataka,Groundnut,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.677639,METRICS,Karnataka,Groundnut,,,SKIPPED,No test data
+2026-03-31 22:27:12.680631,MODEL_SELECT,Karnataka,Jowar(Sorghum),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.681494,METRICS,Karnataka,Jowar(Sorghum),,,SKIPPED,No test data
+2026-03-31 22:27:12.684500,MODEL_SELECT,Karnataka,Maize,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.685183,METRICS,Karnataka,Maize,,,SKIPPED,No test data
+2026-03-31 22:27:12.687826,MODEL_SELECT,Karnataka,Mustard,fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.688643,METRICS,Karnataka,Mustard,,,SKIPPED,No test data
+2026-03-31 22:27:12.691271,MODEL_SELECT,Karnataka,Onion,fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.692054,METRICS,Karnataka,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:12.694414,MODEL_SELECT,Karnataka,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.695201,METRICS,Karnataka,Paddy(Common),,,SKIPPED,No test data
+2026-03-31 22:27:12.697673,MODEL_SELECT,Karnataka,Ragi(Finger Millet),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.698506,METRICS,Karnataka,Ragi(Finger Millet),,,SKIPPED,No test data
+2026-03-31 22:27:12.701167,MODEL_SELECT,Karnataka,Safflower,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.701923,METRICS,Karnataka,Safflower,,,SKIPPED,No test data
+2026-03-31 22:27:12.704393,MODEL_SELECT,Karnataka,"Sesamum(Sesame,Gingelly,Til)",hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.705176,METRICS,Karnataka,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-03-31 22:27:12.707566,MODEL_SELECT,Karnataka,Soyabean,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.708325,METRICS,Karnataka,Soyabean,,,SKIPPED,No test data
+2026-03-31 22:27:12.710826,MODEL_SELECT,Karnataka,Sunflower,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.711652,METRICS,Karnataka,Sunflower,,,SKIPPED,No test data
+2026-03-31 22:27:12.714280,MODEL_SELECT,Karnataka,Wheat,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.715173,METRICS,Karnataka,Wheat,,,SKIPPED,No test data
+2026-03-31 22:27:12.723324,STATE_DONE,Karnataka,,,57,,Prediction CSV saved
+2026-03-31 22:27:12.724261,STATE_START,Kerala,,,,,State processing
+2026-03-31 22:27:12.749758,MODEL_SELECT,Kerala,Arhar(Tur/Red Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.750705,METRICS,Kerala,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.754414,MODEL_SELECT,Kerala,Bengal Gram(Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.755112,METRICS,Kerala,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.757851,MODEL_SELECT,Kerala,Black Gram(Urd Beans)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.758808,METRICS,Kerala,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.761712,MODEL_SELECT,Kerala,Copra,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.762865,METRICS,Kerala,Copra,,,SKIPPED,No test data
+2026-03-31 22:27:12.765761,MODEL_SELECT,Kerala,Green Gram(Moong)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.766504,METRICS,Kerala,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.768630,MODEL_SELECT,Kerala,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.769213,METRICS,Kerala,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:12.771284,MODEL_SELECT,Kerala,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.771863,METRICS,Kerala,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:12.774178,MODEL_SELECT,Kerala,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.775199,METRICS,Kerala,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:12.781966,STATE_DONE,Kerala,,,24,,Prediction CSV saved
+2026-03-31 22:27:12.782951,STATE_START,Ladakh,,,,,State processing
+2026-03-31 22:27:12.783947,STATE_START,Lakshadweep,,,,,State processing
+2026-03-31 22:27:12.784663,STATE_START,Madhya Pradesh,,,,,State processing
+2026-03-31 22:27:12.803789,MODEL_SELECT,Madhya Pradesh,Arhar(Tur/Red Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.804758,METRICS,Madhya Pradesh,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.807595,MODEL_SELECT,Madhya Pradesh,Bajra(Pearl Millet/Cumbu),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.808267,METRICS,Madhya Pradesh,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-03-31 22:27:12.810629,MODEL_SELECT,Madhya Pradesh,Barley(Jau),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.811430,METRICS,Madhya Pradesh,Barley(Jau),,,SKIPPED,No test data
+2026-03-31 22:27:12.813621,MODEL_SELECT,Madhya Pradesh,Bengal Gram(Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.814450,METRICS,Madhya Pradesh,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.817145,MODEL_SELECT,Madhya Pradesh,Black Gram(Urd Beans)(Whole),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.817925,METRICS,Madhya Pradesh,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.820373,MODEL_SELECT,Madhya Pradesh,Cotton,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.821167,METRICS,Madhya Pradesh,Cotton,,,SKIPPED,No test data
+2026-03-31 22:27:12.823751,MODEL_SELECT,Madhya Pradesh,Green Gram(Moong)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.824535,METRICS,Madhya Pradesh,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.826934,MODEL_SELECT,Madhya Pradesh,Groundnut,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.827814,METRICS,Madhya Pradesh,Groundnut,,,SKIPPED,No test data
+2026-03-31 22:27:12.830169,MODEL_SELECT,Madhya Pradesh,Jowar(Sorghum),fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.830948,METRICS,Madhya Pradesh,Jowar(Sorghum),,,SKIPPED,No test data
+2026-03-31 22:27:12.833393,MODEL_SELECT,Madhya Pradesh,Lentil(Masur)(Whole),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.834111,METRICS,Madhya Pradesh,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.836610,MODEL_SELECT,Madhya Pradesh,Maize,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.837391,METRICS,Madhya Pradesh,Maize,,,SKIPPED,No test data
+2026-03-31 22:27:12.839709,MODEL_SELECT,Madhya Pradesh,Mustard,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.840446,METRICS,Madhya Pradesh,Mustard,,,SKIPPED,No test data
+2026-03-31 22:27:12.842931,MODEL_SELECT,Madhya Pradesh,Niger Seed(Ramtil),fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.843712,METRICS,Madhya Pradesh,Niger Seed(Ramtil),,,SKIPPED,No test data
+2026-03-31 22:27:12.845826,MODEL_SELECT,Madhya Pradesh,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.846591,METRICS,Madhya Pradesh,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:12.848937,MODEL_SELECT,Madhya Pradesh,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.849722,METRICS,Madhya Pradesh,Paddy(Common),,,SKIPPED,No test data
+2026-03-31 22:27:12.851921,MODEL_SELECT,Madhya Pradesh,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.853109,METRICS,Madhya Pradesh,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:12.855634,MODEL_SELECT,Madhya Pradesh,"Sesamum(Sesame,Gingelly,Til)",hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.856419,METRICS,Madhya Pradesh,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-03-31 22:27:12.858952,MODEL_SELECT,Madhya Pradesh,Soyabean,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.859730,METRICS,Madhya Pradesh,Soyabean,,,SKIPPED,No test data
+2026-03-31 22:27:12.861983,MODEL_SELECT,Madhya Pradesh,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.862771,METRICS,Madhya Pradesh,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:12.865183,MODEL_SELECT,Madhya Pradesh,Wheat,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.865820,METRICS,Madhya Pradesh,Wheat,,,SKIPPED,No test data
+2026-03-31 22:27:12.874327,STATE_DONE,Madhya Pradesh,,,60,,Prediction CSV saved
+2026-03-31 22:27:12.875277,STATE_START,Maharashtra,,,,,State processing
+2026-03-31 22:27:12.892459,MODEL_SELECT,Maharashtra,Arhar(Tur/Red Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.893310,METRICS,Maharashtra,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.895886,MODEL_SELECT,Maharashtra,Bajra(Pearl Millet/Cumbu),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.896686,METRICS,Maharashtra,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-03-31 22:27:12.899209,MODEL_SELECT,Maharashtra,Bengal Gram(Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.899999,METRICS,Maharashtra,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.902991,MODEL_SELECT,Maharashtra,Black Gram(Urd Beans)(Whole),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.903912,METRICS,Maharashtra,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.906568,MODEL_SELECT,Maharashtra,Cotton,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.907245,METRICS,Maharashtra,Cotton,,,SKIPPED,No test data
+2026-03-31 22:27:12.909381,MODEL_SELECT,Maharashtra,Green Gram(Moong)(Whole),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.910187,METRICS,Maharashtra,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.912657,MODEL_SELECT,Maharashtra,Groundnut,fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.913434,METRICS,Maharashtra,Groundnut,,,SKIPPED,No test data
+2026-03-31 22:27:12.915708,MODEL_SELECT,Maharashtra,Jowar(Sorghum),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.916646,METRICS,Maharashtra,Jowar(Sorghum),,,SKIPPED,No test data
+2026-03-31 22:27:12.918780,MODEL_SELECT,Maharashtra,Lentil(Masur)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.919585,METRICS,Maharashtra,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.922756,MODEL_SELECT,Maharashtra,Maize,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.923613,METRICS,Maharashtra,Maize,,,SKIPPED,No test data
+2026-03-31 22:27:12.926172,MODEL_SELECT,Maharashtra,Mustard,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.926805,METRICS,Maharashtra,Mustard,,,SKIPPED,No test data
+2026-03-31 22:27:12.929032,MODEL_SELECT,Maharashtra,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.929760,METRICS,Maharashtra,Paddy(Common),,,SKIPPED,No test data
+2026-03-31 22:27:12.932456,MODEL_SELECT,Maharashtra,Ragi(Finger Millet),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:12.933160,METRICS,Maharashtra,Ragi(Finger Millet),,,SKIPPED,No test data
+2026-03-31 22:27:12.935281,MODEL_SELECT,Maharashtra,"Sesamum(Sesame,Gingelly,Til)",hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.935884,METRICS,Maharashtra,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-03-31 22:27:12.937951,MODEL_SELECT,Maharashtra,Soyabean,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.938726,METRICS,Maharashtra,Soyabean,,,SKIPPED,No test data
+2026-03-31 22:27:12.941043,MODEL_SELECT,Maharashtra,Wheat,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:12.941788,METRICS,Maharashtra,Wheat,,,SKIPPED,No test data
+2026-03-31 22:27:12.952502,STATE_DONE,Maharashtra,,,48,,Prediction CSV saved
+2026-03-31 22:27:12.953442,STATE_START,Manipur,,,,,State processing
+2026-03-31 22:27:12.969909,MODEL_SELECT,Manipur,Bengal Gram(Gram)(Whole),fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.970798,METRICS,Manipur,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.973128,MODEL_SELECT,Manipur,Black Gram(Urd Beans)(Whole),fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.973874,METRICS,Manipur,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:12.976024,MODEL_SELECT,Manipur,Onion,fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.976615,METRICS,Manipur,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:12.979005,MODEL_SELECT,Manipur,Paddy(Common),fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.979710,METRICS,Manipur,Paddy(Common),,,SKIPPED,No test data
+2026-03-31 22:27:12.982058,MODEL_SELECT,Manipur,Potato,fallback_copy,1,,Model chosen
+2026-03-31 22:27:12.982689,METRICS,Manipur,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:12.989313,STATE_DONE,Manipur,,,15,,Prediction CSV saved
+2026-03-31 22:27:12.990037,STATE_START,Meghalaya,,,,,State processing
+2026-03-31 22:27:13.005820,MODEL_SELECT,Meghalaya,Potato,fallback_copy,1,,Model chosen
+2026-03-31 22:27:13.006634,METRICS,Meghalaya,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:13.013185,STATE_DONE,Meghalaya,,,3,,Prediction CSV saved
+2026-03-31 22:27:13.014213,STATE_START,Mizoram,,,,,State processing
+2026-03-31 22:27:13.015026,STATE_START,Nagaland,,,,,State processing
+2026-03-31 22:27:13.032640,MODEL_SELECT,Nagaland,Potato,fallback_copy,1,,Model chosen
+2026-03-31 22:27:13.033507,METRICS,Nagaland,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:13.035964,MODEL_SELECT,Nagaland,Tomato,fallback_copy,1,,Model chosen
+2026-03-31 22:27:13.036744,METRICS,Nagaland,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:13.043275,STATE_DONE,Nagaland,,,6,,Prediction CSV saved
+2026-03-31 22:27:13.044313,STATE_START,Odisha,,,,,State processing
+2026-03-31 22:27:13.060464,MODEL_SELECT,Odisha,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.061164,METRICS,Odisha,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:13.063995,MODEL_SELECT,Odisha,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.064716,METRICS,Odisha,Paddy(Common),,,SKIPPED,No test data
+2026-03-31 22:27:13.067204,MODEL_SELECT,Odisha,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.068003,METRICS,Odisha,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:13.070264,MODEL_SELECT,Odisha,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.071131,METRICS,Odisha,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:13.079437,STATE_DONE,Odisha,,,12,,Prediction CSV saved
+2026-03-31 22:27:13.080273,STATE_START,Puducherry,,,,,State processing
+2026-03-31 22:27:13.081085,STATE_START,Punjab,,,,,State processing
+2026-03-31 22:27:13.097521,MODEL_SELECT,Punjab,Cotton,fallback_copy,1,,Model chosen
+2026-03-31 22:27:13.098193,METRICS,Punjab,Cotton,,,SKIPPED,No test data
+2026-03-31 22:27:13.100611,MODEL_SELECT,Punjab,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.101407,METRICS,Punjab,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:13.103759,MODEL_SELECT,Punjab,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.104748,METRICS,Punjab,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:13.106974,MODEL_SELECT,Punjab,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.107785,METRICS,Punjab,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:13.114570,STATE_DONE,Punjab,,,12,,Prediction CSV saved
+2026-03-31 22:27:13.115502,STATE_START,Rajasthan,,,,,State processing
+2026-03-31 22:27:13.132031,MODEL_SELECT,Rajasthan,Bajra(Pearl Millet/Cumbu),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.132912,METRICS,Rajasthan,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-03-31 22:27:13.135366,MODEL_SELECT,Rajasthan,Barley(Jau),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.136136,METRICS,Rajasthan,Barley(Jau),,,SKIPPED,No test data
+2026-03-31 22:27:13.138536,MODEL_SELECT,Rajasthan,Bengal Gram(Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.139191,METRICS,Rajasthan,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:13.141865,MODEL_SELECT,Rajasthan,Black Gram(Urd Beans)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:13.142691,METRICS,Rajasthan,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:13.145526,MODEL_SELECT,Rajasthan,Cotton,fallback_copy,1,,Model chosen
+2026-03-31 22:27:13.146262,METRICS,Rajasthan,Cotton,,,SKIPPED,No test data
+2026-03-31 22:27:13.148691,MODEL_SELECT,Rajasthan,Green Gram(Moong)(Whole),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.149587,METRICS,Rajasthan,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:13.151928,MODEL_SELECT,Rajasthan,Jowar(Sorghum),fallback_copy,1,,Model chosen
+2026-03-31 22:27:13.152785,METRICS,Rajasthan,Jowar(Sorghum),,,SKIPPED,No test data
+2026-03-31 22:27:13.155402,MODEL_SELECT,Rajasthan,Lentil(Masur)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:13.156226,METRICS,Rajasthan,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:13.158698,MODEL_SELECT,Rajasthan,Maize,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.159489,METRICS,Rajasthan,Maize,,,SKIPPED,No test data
+2026-03-31 22:27:13.161749,MODEL_SELECT,Rajasthan,Mustard,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.162549,METRICS,Rajasthan,Mustard,,,SKIPPED,No test data
+2026-03-31 22:27:13.165082,MODEL_SELECT,Rajasthan,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.165906,METRICS,Rajasthan,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:13.168183,MODEL_SELECT,Rajasthan,Paddy(Common),fallback_copy,1,,Model chosen
+2026-03-31 22:27:13.168974,METRICS,Rajasthan,Paddy(Common),,,SKIPPED,No test data
+2026-03-31 22:27:13.171503,MODEL_SELECT,Rajasthan,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.172288,METRICS,Rajasthan,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:13.174701,MODEL_SELECT,Rajasthan,"Sesamum(Sesame,Gingelly,Til)",fallback_copy,1,,Model chosen
+2026-03-31 22:27:13.175520,METRICS,Rajasthan,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-03-31 22:27:13.177738,MODEL_SELECT,Rajasthan,Soyabean,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:13.178506,METRICS,Rajasthan,Soyabean,,,SKIPPED,No test data
+2026-03-31 22:27:13.180827,MODEL_SELECT,Rajasthan,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.181633,METRICS,Rajasthan,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:13.184024,MODEL_SELECT,Rajasthan,Wheat,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.184869,METRICS,Rajasthan,Wheat,,,SKIPPED,No test data
+2026-03-31 22:27:13.193616,STATE_DONE,Rajasthan,,,51,,Prediction CSV saved
+2026-03-31 22:27:13.194579,STATE_START,Sikkim,,,,,State processing
+2026-03-31 22:27:13.195469,STATE_START,Tamil Nadu,,,,,State processing
+2026-03-31 22:27:13.196396,STATE_START,Telangana,,,,,State processing
+2026-03-31 22:27:13.212674,MODEL_SELECT,Telangana,Cotton,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.213567,METRICS,Telangana,Cotton,,,SKIPPED,No test data
+2026-03-31 22:27:13.216103,MODEL_SELECT,Telangana,Maize,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.216932,METRICS,Telangana,Maize,,,SKIPPED,No test data
+2026-03-31 22:27:13.220280,MODEL_SELECT,Telangana,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.221124,METRICS,Telangana,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:13.224335,MODEL_SELECT,Telangana,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.225723,METRICS,Telangana,Paddy(Common),,,SKIPPED,No test data
+2026-03-31 22:27:13.228517,MODEL_SELECT,Telangana,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.230186,METRICS,Telangana,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:13.233594,MODEL_SELECT,Telangana,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.234989,METRICS,Telangana,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:13.243807,STATE_DONE,Telangana,,,18,,Prediction CSV saved
+2026-03-31 22:27:13.244766,STATE_START,Tripura,,,,,State processing
+2026-03-31 22:27:13.263523,MODEL_SELECT,Tripura,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.264345,METRICS,Tripura,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:13.266770,MODEL_SELECT,Tripura,Paddy(Common),fallback_copy,1,,Model chosen
+2026-03-31 22:27:13.267808,METRICS,Tripura,Paddy(Common),,,SKIPPED,No test data
+2026-03-31 22:27:13.270416,MODEL_SELECT,Tripura,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.271030,METRICS,Tripura,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:13.273178,MODEL_SELECT,Tripura,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.273821,METRICS,Tripura,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:13.286376,STATE_DONE,Tripura,,,12,,Prediction CSV saved
+2026-03-31 22:27:13.287356,STATE_START,Uttar Pradesh,,,,,State processing
+2026-03-31 22:27:13.304206,MODEL_SELECT,Uttar Pradesh,Arhar(Tur/Red Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:13.304919,METRICS,Uttar Pradesh,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:13.307365,MODEL_SELECT,Uttar Pradesh,Bajra(Pearl Millet/Cumbu),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.309170,METRICS,Uttar Pradesh,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-03-31 22:27:13.311515,MODEL_SELECT,Uttar Pradesh,Barley(Jau),fallback_copy,1,,Model chosen
+2026-03-31 22:27:13.312327,METRICS,Uttar Pradesh,Barley(Jau),,,SKIPPED,No test data
+2026-03-31 22:27:13.314917,MODEL_SELECT,Uttar Pradesh,Bengal Gram(Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.315649,METRICS,Uttar Pradesh,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:13.318025,MODEL_SELECT,Uttar Pradesh,Groundnut,hybrid_ma,2,,Model chosen
+2026-03-31 22:27:13.318680,METRICS,Uttar Pradesh,Groundnut,,,SKIPPED,No test data
+2026-03-31 22:27:13.321118,MODEL_SELECT,Uttar Pradesh,Jowar(Sorghum),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:13.321896,METRICS,Uttar Pradesh,Jowar(Sorghum),,,SKIPPED,No test data
+2026-03-31 22:27:13.324356,MODEL_SELECT,Uttar Pradesh,Lentil(Masur)(Whole),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:13.325000,METRICS,Uttar Pradesh,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-03-31 22:27:13.327318,MODEL_SELECT,Uttar Pradesh,Maize,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.328107,METRICS,Uttar Pradesh,Maize,,,SKIPPED,No test data
+2026-03-31 22:27:13.330556,MODEL_SELECT,Uttar Pradesh,Mustard,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.331369,METRICS,Uttar Pradesh,Mustard,,,SKIPPED,No test data
+2026-03-31 22:27:13.333824,MODEL_SELECT,Uttar Pradesh,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.334727,METRICS,Uttar Pradesh,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:13.337238,MODEL_SELECT,Uttar Pradesh,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.338033,METRICS,Uttar Pradesh,Paddy(Common),,,SKIPPED,No test data
+2026-03-31 22:27:13.340407,MODEL_SELECT,Uttar Pradesh,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.341212,METRICS,Uttar Pradesh,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:13.343689,MODEL_SELECT,Uttar Pradesh,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.344589,METRICS,Uttar Pradesh,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:13.346939,MODEL_SELECT,Uttar Pradesh,Wheat,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.347618,METRICS,Uttar Pradesh,Wheat,,,SKIPPED,No test data
+2026-03-31 22:27:13.355162,STATE_DONE,Uttar Pradesh,,,42,,Prediction CSV saved
+2026-03-31 22:27:13.356171,STATE_START,Uttarakhand,,,,,State processing
+2026-03-31 22:27:13.372973,MODEL_SELECT,Uttarakhand,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.373851,METRICS,Uttarakhand,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:13.376441,MODEL_SELECT,Uttarakhand,Paddy(Common),hybrid_ma,2,,Model chosen
+2026-03-31 22:27:13.377172,METRICS,Uttarakhand,Paddy(Common),,,SKIPPED,No test data
+2026-03-31 22:27:13.379499,MODEL_SELECT,Uttarakhand,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.380276,METRICS,Uttarakhand,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:13.382562,MODEL_SELECT,Uttarakhand,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.383186,METRICS,Uttarakhand,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:13.385152,MODEL_SELECT,Uttarakhand,Wheat,fallback_copy,1,,Model chosen
+2026-03-31 22:27:13.386021,METRICS,Uttarakhand,Wheat,,,SKIPPED,No test data
+2026-03-31 22:27:13.392731,STATE_DONE,Uttarakhand,,,15,,Prediction CSV saved
+2026-03-31 22:27:13.393667,STATE_START,West Bengal,,,,,State processing
+2026-03-31 22:27:13.410578,MODEL_SELECT,West Bengal,Maize,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.411476,METRICS,West Bengal,Maize,,,SKIPPED,No test data
+2026-03-31 22:27:13.413888,MODEL_SELECT,West Bengal,Mustard,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.414535,METRICS,West Bengal,Mustard,,,SKIPPED,No test data
+2026-03-31 22:27:13.417065,MODEL_SELECT,West Bengal,Onion,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.417927,METRICS,West Bengal,Onion,,,SKIPPED,No test data
+2026-03-31 22:27:13.420323,MODEL_SELECT,West Bengal,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.421131,METRICS,West Bengal,Paddy(Common),,,SKIPPED,No test data
+2026-03-31 22:27:13.423792,MODEL_SELECT,West Bengal,Potato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.424585,METRICS,West Bengal,Potato,,,SKIPPED,No test data
+2026-03-31 22:27:13.426842,MODEL_SELECT,West Bengal,"Sesamum(Sesame,Gingelly,Til)",hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.427656,METRICS,West Bengal,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-03-31 22:27:13.429899,MODEL_SELECT,West Bengal,Tomato,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.430662,METRICS,West Bengal,Tomato,,,SKIPPED,No test data
+2026-03-31 22:27:13.432557,MODEL_SELECT,West Bengal,Wheat,hybrid_trend,3,,Model chosen
+2026-03-31 22:27:13.433265,METRICS,West Bengal,Wheat,,,SKIPPED,No test data
+2026-03-31 22:27:13.440344,STATE_DONE,West Bengal,,,24,,Prediction CSV saved
+2026-03-31 22:27:13.441199,PREDICT_END,,,,,,Prediction run finished
+2026-03-31 22:27:13.442546,STEP_PREDICT_DONE,,,,,,1 sec
+2026-03-31 22:27:13.443732,STEP_UPLOAD_PRED_START,,,,,,
+2026-03-31 22:27:13.444776,PRED_UPLOAD_START,,,,,,Prediction upload started
+2026-03-31 22:27:14.648388,PRED_UPLOAD_STATE,Andhra Pradesh,,,21,,Uploading predictions
+2026-03-31 22:27:17.525976,PRED_UPLOAD_OK,Andhra Pradesh,,,21,,Upload success
+2026-03-31 22:27:17.579743,PRED_UPLOAD_STATE,Assam,,,12,,Uploading predictions
+2026-03-31 22:27:18.141139,PRED_UPLOAD_OK,Assam,,,12,,Upload success
+2026-03-31 22:27:18.194759,PRED_UPLOAD_STATE,Bihar,,,9,,Uploading predictions
+2026-03-31 22:27:18.448554,PRED_UPLOAD_OK,Bihar,,,9,,Upload success
+2026-03-31 22:27:18.507001,PRED_UPLOAD_STATE,Chandigarh,,,9,,Uploading predictions
+2026-03-31 22:27:18.953829,PRED_UPLOAD_OK,Chandigarh,,,9,,Upload success
+2026-03-31 22:27:19.009011,PRED_UPLOAD_STATE,Goa,,,6,,Uploading predictions
+2026-03-31 22:27:19.260102,PRED_UPLOAD_OK,Goa,,,6,,Upload success
+2026-03-31 22:27:19.318904,PRED_UPLOAD_STATE,Gujarat,,,45,,Uploading predictions
+2026-03-31 22:27:19.912369,PRED_UPLOAD_OK,Gujarat,,,45,,Upload success
+2026-03-31 22:27:19.975422,PRED_UPLOAD_STATE,Haryana,,,21,,Uploading predictions
+2026-03-31 22:27:20.389015,PRED_UPLOAD_OK,Haryana,,,21,,Upload success
+2026-03-31 22:27:20.444303,PRED_UPLOAD_STATE,Himachal Pradesh,,,9,,Uploading predictions
+2026-03-31 22:27:21.206217,PRED_UPLOAD_OK,Himachal Pradesh,,,9,,Upload success
+2026-03-31 22:27:21.265464,PRED_UPLOAD_STATE,Jammu and Kashmir,,,9,,Uploading predictions
+2026-03-31 22:27:21.523686,PRED_UPLOAD_OK,Jammu and Kashmir,,,9,,Upload success
+2026-03-31 22:27:21.582499,PRED_UPLOAD_STATE,Karnataka,,,57,,Uploading predictions
+2026-03-31 22:27:22.136678,PRED_UPLOAD_OK,Karnataka,,,57,,Upload success
+2026-03-31 22:27:22.196410,PRED_UPLOAD_STATE,Kerala,,,24,,Uploading predictions
+2026-03-31 22:27:22.851780,PRED_UPLOAD_OK,Kerala,,,24,,Upload success
+2026-03-31 22:27:22.910476,PRED_UPLOAD_STATE,Madhya Pradesh,,,60,,Uploading predictions
+2026-03-31 22:27:23.672029,PRED_UPLOAD_OK,Madhya Pradesh,,,60,,Upload success
+2026-03-31 22:27:23.735056,PRED_UPLOAD_STATE,Maharashtra,,,48,,Uploading predictions
+2026-03-31 22:27:24.302868,PRED_UPLOAD_OK,Maharashtra,,,48,,Upload success
+2026-03-31 22:27:24.352477,PRED_UPLOAD_STATE,Manipur,,,15,,Uploading predictions
+2026-03-31 22:27:24.688932,PRED_UPLOAD_OK,Manipur,,,15,,Upload success
+2026-03-31 22:27:24.747306,PRED_UPLOAD_STATE,Meghalaya,,,3,,Uploading predictions
+2026-03-31 22:27:24.995793,PRED_UPLOAD_OK,Meghalaya,,,3,,Upload success
+2026-03-31 22:27:25.050591,PRED_UPLOAD_STATE,Nagaland,,,6,,Uploading predictions
+2026-03-31 22:27:25.301123,PRED_UPLOAD_OK,Nagaland,,,6,,Upload success
+2026-03-31 22:27:25.357998,PRED_UPLOAD_STATE,Odisha,,,12,,Uploading predictions
+2026-03-31 22:27:25.710692,PRED_UPLOAD_OK,Odisha,,,12,,Upload success
+2026-03-31 22:27:25.766274,PRED_UPLOAD_STATE,Punjab,,,12,,Uploading predictions
+2026-03-31 22:27:26.152535,PRED_UPLOAD_OK,Punjab,,,12,,Upload success
+2026-03-31 22:27:26.216672,PRED_UPLOAD_STATE,Rajasthan,,,51,,Uploading predictions
+2026-03-31 22:27:26.828663,PRED_UPLOAD_OK,Rajasthan,,,51,,Upload success
+2026-03-31 22:27:26.881268,PRED_UPLOAD_STATE,Telangana,,,18,,Uploading predictions
+2026-03-31 22:27:27.277105,PRED_UPLOAD_OK,Telangana,,,18,,Upload success
+2026-03-31 22:27:27.334169,PRED_UPLOAD_STATE,Tripura,,,12,,Uploading predictions
+2026-03-31 22:27:27.759995,PRED_UPLOAD_OK,Tripura,,,12,,Upload success
+2026-03-31 22:27:27.813412,PRED_UPLOAD_STATE,Uttar Pradesh,,,42,,Uploading predictions
+2026-03-31 22:27:28.486028,PRED_UPLOAD_OK,Uttar Pradesh,,,42,,Upload success
+2026-03-31 22:27:28.547430,PRED_UPLOAD_STATE,Uttarakhand,,,15,,Uploading predictions
+2026-03-31 22:27:29.093536,PRED_UPLOAD_OK,Uttarakhand,,,15,,Upload success
+2026-03-31 22:27:29.148711,PRED_UPLOAD_STATE,West Bengal,,,24,,Uploading predictions
+2026-03-31 22:27:29.638281,PRED_UPLOAD_OK,West Bengal,,,24,,Upload success
+2026-03-31 22:27:29.639005,PRED_UPLOAD_DONE,,,,540,,Prediction upload finished
+2026-03-31 22:27:29.640408,STEP_UPLOAD_PRED_DONE,,,,,,16 sec
+2026-03-31 22:28:05.846398,PIPELINE_DONE,,,,,,Total 891 sec
+2026-04-01 08:00:23.243821,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 08:00:23.246375,STEP_EXTRACT_START,,,,,,
+2026-04-01 08:00:23.248708,EXTRACT_START,,,,,,Extraction started
+2026-04-01 08:00:43.385575,EXTRACT_STATE_START,Andaman and Nicobar Islands,,,,,State extraction start
+2026-04-01 08:01:11.004416,EXTRACT_STATE_FAIL,Andaman and Nicobar Islands,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6030729c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff602d9a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff602afdb2d]
+	chromedriver!(No symbol) [0x7ff602b56b9e]
+	chromedriver!(No symbol) [0x7ff602b56eac]
+	chromedriver!(No symbol) [0x7ff602ba6fe7]
+	chromedriver!(No symbol) [0x7ff602ba3b9b]
+	chromedriver!(No symbol) [0x7ff602b49298]
+	chromedriver!(No symbol) [0x7ff602b4a183]
+	chromedriver!GetHandleVerifier [0x7ff60309de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff603098588+313348]
+	chromedriver!GetHandleVerifier [0x7ff6030b9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff602db6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff602dbfacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff602da3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff602da37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff602d87e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa4ce0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa4d3ec40c+2c]
+"
+2026-04-01 08:01:11.006987,EXTRACT_STATE_START,Andhra Pradesh,,,,,State extraction start
+2026-04-01 08:01:27.879931,EXTRACT_STATE_DONE,Andhra Pradesh,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-01-27_AM.csv
+2026-04-01 08:01:29.882171,EXTRACT_STATE_START,Arunachal Pradesh,,,,,State extraction start
+2026-04-01 08:01:43.105860,EXTRACT_STATE_SKIP,Arunachal Pradesh,,,,,No table data
+2026-04-01 08:01:43.108311,EXTRACT_STATE_START,Assam,,,,,State extraction start
+2026-04-01 08:01:59.589894,EXTRACT_STATE_DONE,Assam,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-01-59_AM.csv
+2026-04-01 08:02:01.592372,EXTRACT_STATE_START,Bihar,,,,,State extraction start
+2026-04-01 08:02:16.963814,EXTRACT_STATE_DONE,Bihar,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-02-16_AM.csv
+2026-04-01 08:02:18.966258,EXTRACT_STATE_START,Chandigarh,,,,,State extraction start
+2026-04-01 08:02:32.139281,EXTRACT_STATE_SKIP,Chandigarh,,,,,No table data
+2026-04-01 08:02:32.141173,EXTRACT_STATE_START,Chhattisgarh,,,,,State extraction start
+2026-04-01 08:02:59.089005,EXTRACT_STATE_FAIL,Chhattisgarh,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6030729c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff602d9a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff602afdb2d]
+	chromedriver!(No symbol) [0x7ff602b56b9e]
+	chromedriver!(No symbol) [0x7ff602b56eac]
+	chromedriver!(No symbol) [0x7ff602ba6fe7]
+	chromedriver!(No symbol) [0x7ff602ba3b9b]
+	chromedriver!(No symbol) [0x7ff602b49298]
+	chromedriver!(No symbol) [0x7ff602b4a183]
+	chromedriver!GetHandleVerifier [0x7ff60309de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff603098588+313348]
+	chromedriver!GetHandleVerifier [0x7ff6030b9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff602db6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff602dbfacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff602da3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff602da37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff602d87e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa4ce0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa4d3ec40c+2c]
+"
+2026-04-01 08:02:59.090843,EXTRACT_STATE_START,Dadra and Nagar Haveli and Daman and Diu,,,,,State extraction start
+2026-04-01 08:03:25.568499,EXTRACT_STATE_FAIL,Dadra and Nagar Haveli and Daman and Diu,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6030729c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff602d9a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff602afdb2d]
+	chromedriver!(No symbol) [0x7ff602b56b9e]
+	chromedriver!(No symbol) [0x7ff602b56eac]
+	chromedriver!(No symbol) [0x7ff602ba6fe7]
+	chromedriver!(No symbol) [0x7ff602ba3b9b]
+	chromedriver!(No symbol) [0x7ff602b49298]
+	chromedriver!(No symbol) [0x7ff602b4a183]
+	chromedriver!GetHandleVerifier [0x7ff60309de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff603098588+313348]
+	chromedriver!GetHandleVerifier [0x7ff6030b9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff602db6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff602dbfacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff602da3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff602da37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff602d87e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa4ce0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa4d3ec40c+2c]
+"
+2026-04-01 08:03:25.570170,EXTRACT_STATE_START,Delhi,,,,,State extraction start
+2026-04-01 08:03:52.063186,EXTRACT_STATE_FAIL,Delhi,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6030729c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff602d9a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff602afdb2d]
+	chromedriver!(No symbol) [0x7ff602b56b9e]
+	chromedriver!(No symbol) [0x7ff602b56eac]
+	chromedriver!(No symbol) [0x7ff602ba6fe7]
+	chromedriver!(No symbol) [0x7ff602ba3b9b]
+	chromedriver!(No symbol) [0x7ff602b49298]
+	chromedriver!(No symbol) [0x7ff602b4a183]
+	chromedriver!GetHandleVerifier [0x7ff60309de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff603098588+313348]
+	chromedriver!GetHandleVerifier [0x7ff6030b9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff602db6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff602dbfacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff602da3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff602da37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff602d87e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa4ce0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa4d3ec40c+2c]
+"
+2026-04-01 08:03:52.064915,EXTRACT_STATE_START,Goa,,,,,State extraction start
+2026-04-01 08:04:07.129992,EXTRACT_STATE_DONE,Goa,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-04-07_AM.csv
+2026-04-01 08:04:09.135274,EXTRACT_STATE_START,Gujarat,,,,,State extraction start
+2026-04-01 08:04:24.190063,EXTRACT_STATE_DONE,Gujarat,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-04-24_AM.csv
+2026-04-01 08:04:26.192552,EXTRACT_STATE_START,Haryana,,,,,State extraction start
+2026-04-01 08:04:41.304883,EXTRACT_STATE_DONE,Haryana,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-04-41_AM.csv
+2026-04-01 08:04:43.309312,EXTRACT_STATE_START,Himachal Pradesh,,,,,State extraction start
+2026-04-01 08:04:58.381656,EXTRACT_STATE_DONE,Himachal Pradesh,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-04-58_AM.csv
+2026-04-01 08:05:00.386002,EXTRACT_STATE_START,Jammu and Kashmir,,,,,State extraction start
+2026-04-01 08:05:15.464137,EXTRACT_STATE_DONE,Jammu and Kashmir,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-05-15_AM.csv
+2026-04-01 08:05:17.466499,EXTRACT_STATE_START,Jharkhand,,,,,State extraction start
+2026-04-01 08:05:30.357636,EXTRACT_STATE_SKIP,Jharkhand,,,,,No table data
+2026-04-01 08:05:30.359172,EXTRACT_STATE_START,Karnataka,,,,,State extraction start
+2026-04-01 08:05:46.407892,EXTRACT_STATE_DONE,Karnataka,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-05-46_AM.csv
+2026-04-01 08:05:48.410367,EXTRACT_STATE_START,Kerala,,,,,State extraction start
+2026-04-01 08:06:04.451663,EXTRACT_STATE_DONE,Kerala,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-06-04_AM.csv
+2026-04-01 08:06:06.454015,EXTRACT_STATE_START,Ladakh,,,,,State extraction start
+2026-04-01 08:06:32.892302,EXTRACT_STATE_FAIL,Ladakh,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6030729c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff602d9a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff602afdb2d]
+	chromedriver!(No symbol) [0x7ff602b56b9e]
+	chromedriver!(No symbol) [0x7ff602b56eac]
+	chromedriver!(No symbol) [0x7ff602ba6fe7]
+	chromedriver!(No symbol) [0x7ff602ba3b9b]
+	chromedriver!(No symbol) [0x7ff602b49298]
+	chromedriver!(No symbol) [0x7ff602b4a183]
+	chromedriver!GetHandleVerifier [0x7ff60309de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff603098588+313348]
+	chromedriver!GetHandleVerifier [0x7ff6030b9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff602db6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff602dbfacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff602da3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff602da37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff602d87e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa4ce0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa4d3ec40c+2c]
+"
+2026-04-01 08:06:32.893886,EXTRACT_STATE_START,Lakshadweep,,,,,State extraction start
+2026-04-01 08:06:45.707986,EXTRACT_STATE_SKIP,Lakshadweep,,,,,No table data
+2026-04-01 08:06:45.709807,EXTRACT_STATE_START,Madhya Pradesh,,,,,State extraction start
+2026-04-01 08:07:01.118349,EXTRACT_STATE_DONE,Madhya Pradesh,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-07-01_AM.csv
+2026-04-01 08:07:03.120487,EXTRACT_STATE_START,Maharashtra,,,,,State extraction start
+2026-04-01 08:07:18.497920,EXTRACT_STATE_DONE,Maharashtra,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-07-18_AM.csv
+2026-04-01 08:07:20.500405,EXTRACT_STATE_START,Manipur,,,,,State extraction start
+2026-04-01 08:07:35.847418,EXTRACT_STATE_DONE,Manipur,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-07-35_AM.csv
+2026-04-01 08:07:37.849988,EXTRACT_STATE_START,Meghalaya,,,,,State extraction start
+2026-04-01 08:07:51.015300,EXTRACT_STATE_SKIP,Meghalaya,,,,,No table data
+2026-04-01 08:07:51.017216,EXTRACT_STATE_START,Mizoram,,,,,State extraction start
+2026-04-01 08:08:04.187465,EXTRACT_STATE_SKIP,Mizoram,,,,,No table data
+2026-04-01 08:08:04.189085,EXTRACT_STATE_START,Nagaland,,,,,State extraction start
+2026-04-01 08:08:19.500508,EXTRACT_STATE_DONE,Nagaland,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-08-19_AM.csv
+2026-04-01 08:08:21.502713,EXTRACT_STATE_START,Odisha,,,,,State extraction start
+2026-04-01 08:08:36.874878,EXTRACT_STATE_DONE,Odisha,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-08-36_AM.csv
+2026-04-01 08:08:38.877389,EXTRACT_STATE_START,Puducherry,,,,,State extraction start
+2026-04-01 08:09:05.768188,EXTRACT_STATE_FAIL,Puducherry,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff6030729c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff602d9a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff602afdb2d]
+	chromedriver!(No symbol) [0x7ff602b56b9e]
+	chromedriver!(No symbol) [0x7ff602b56eac]
+	chromedriver!(No symbol) [0x7ff602ba6fe7]
+	chromedriver!(No symbol) [0x7ff602ba3b9b]
+	chromedriver!(No symbol) [0x7ff602b49298]
+	chromedriver!(No symbol) [0x7ff602b4a183]
+	chromedriver!GetHandleVerifier [0x7ff60309de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff603098588+313348]
+	chromedriver!GetHandleVerifier [0x7ff6030b9d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff602db6785+31545]
+	chromedriver!GetHandleVerifier [0x7ff602dbfacc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff602da3634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff602da37e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff602d87e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffa4ce0e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffa4d3ec40c+2c]
+"
+2026-04-01 08:09:05.770195,EXTRACT_STATE_START,Punjab,,,,,State extraction start
+2026-04-01 08:09:21.133325,EXTRACT_STATE_DONE,Punjab,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-09-21_AM.csv
+2026-04-01 08:09:23.135827,EXTRACT_STATE_START,Rajasthan,,,,,State extraction start
+2026-04-01 08:09:38.470792,EXTRACT_STATE_DONE,Rajasthan,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-09-38_AM.csv
+2026-04-01 08:09:40.474429,EXTRACT_STATE_START,Sikkim,,,,,State extraction start
+2026-04-01 08:09:53.714471,EXTRACT_STATE_SKIP,Sikkim,,,,,No table data
+2026-04-01 08:09:53.716321,EXTRACT_STATE_START,Tamil Nadu,,,,,State extraction start
+2026-04-01 08:10:06.605089,EXTRACT_STATE_SKIP,Tamil Nadu,,,,,No table data
+2026-04-01 08:10:06.606583,EXTRACT_STATE_START,Telangana,,,,,State extraction start
+2026-04-01 08:10:21.931732,EXTRACT_STATE_DONE,Telangana,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-10-22_AM.csv
+2026-04-01 08:10:23.934061,EXTRACT_STATE_START,Tripura,,,,,State extraction start
+2026-04-01 08:10:39.315440,EXTRACT_STATE_DONE,Tripura,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-10-39_AM.csv
+2026-04-01 08:10:41.318206,EXTRACT_STATE_START,Uttar Pradesh,,,,,State extraction start
+2026-04-01 08:10:56.644873,EXTRACT_STATE_DONE,Uttar Pradesh,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-10-56_AM.csv
+2026-04-01 08:10:58.647813,EXTRACT_STATE_START,Uttarakhand,,,,,State extraction start
+2026-04-01 08:11:14.036252,EXTRACT_STATE_DONE,Uttarakhand,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-11-13_AM.csv
+2026-04-01 08:11:16.038877,EXTRACT_STATE_START,West Bengal,,,,,State extraction start
+2026-04-01 08:11:31.418337,EXTRACT_STATE_DONE,West Bengal,,,,,Downloaded Marketwise_Price_Arrival_01-04-2026_08-11-31_AM.csv
+2026-04-01 08:11:33.422567,EXTRACT_END,,,,36,,Extraction finished
+2026-04-01 08:11:36.244581,STEP_EXTRACT_DONE,,,,,,672 sec
+2026-04-01 08:11:36.246559,STEP_CLEAN_START,,,,,,
+2026-04-01 08:11:38.114970,STEP_CLEAN_DONE,,,,,,1 sec
+2026-04-01 08:11:38.116083,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 08:11:38.117279,CLEAN_UPLOAD_START,,,,,,Clean upload started
+2026-04-01 08:11:39.811096,CLEAN_UPLOAD_STATE,Andhra Pradesh,,,12,,Uploading clean records
+2026-04-01 08:11:42.441860,CLEAN_UPLOAD_STATE,Assam,,,11,,Uploading clean records
+2026-04-01 08:11:42.767509,CLEAN_UPLOAD_STATE,Bihar,,,9,,Uploading clean records
+2026-04-01 08:11:43.150547,CLEAN_UPLOAD_STATE,Chandigarh,,,3,,Uploading clean records
+2026-04-01 08:11:43.466783,CLEAN_UPLOAD_STATE,Goa,,,6,,Uploading clean records
+2026-04-01 08:11:43.770109,CLEAN_UPLOAD_STATE,Gujarat,,,27,,Uploading clean records
+2026-04-01 08:11:44.186051,CLEAN_UPLOAD_STATE,Haryana,,,19,,Uploading clean records
+2026-04-01 08:11:44.692553,CLEAN_UPLOAD_STATE,Himachal Pradesh,,,9,,Uploading clean records
+2026-04-01 08:11:45.098692,CLEAN_UPLOAD_STATE,Jammu and Kashmir,,,6,,Uploading clean records
+2026-04-01 08:11:45.408016,CLEAN_UPLOAD_STATE,Karnataka,,,44,,Uploading clean records
+2026-04-01 08:11:45.928196,CLEAN_UPLOAD_STATE,Kerala,,,20,,Uploading clean records
+2026-04-01 08:11:46.280199,CLEAN_UPLOAD_STATE,Madhya Pradesh,,,52,,Uploading clean records
+2026-04-01 08:11:46.950620,CLEAN_UPLOAD_STATE,Maharashtra,,,41,,Uploading clean records
+2026-04-01 08:11:47.252147,CLEAN_UPLOAD_STATE,Manipur,,,4,,Uploading clean records
+2026-04-01 08:11:47.557250,CLEAN_UPLOAD_STATE,Meghalaya,,,1,,Uploading clean records
+2026-04-01 08:11:47.862544,CLEAN_UPLOAD_STATE,Nagaland,,,1,,Uploading clean records
+2026-04-01 08:11:48.172251,CLEAN_UPLOAD_STATE,Odisha,,,13,,Uploading clean records
+2026-04-01 08:11:48.471289,CLEAN_UPLOAD_STATE,Punjab,,,9,,Uploading clean records
+2026-04-01 08:11:48.790764,CLEAN_UPLOAD_STATE,Rajasthan,,,38,,Uploading clean records
+2026-04-01 08:11:49.305345,CLEAN_UPLOAD_STATE,Telangana,,,23,,Uploading clean records
+2026-04-01 08:11:49.604731,CLEAN_UPLOAD_STATE,Tripura,,,10,,Uploading clean records
+2026-04-01 08:11:49.907693,CLEAN_UPLOAD_STATE,Uttar Pradesh,,,36,,Uploading clean records
+2026-04-01 08:11:50.231668,CLEAN_UPLOAD_STATE,Uttarakhand,,,11,,Uploading clean records
+2026-04-01 08:11:50.521827,CLEAN_UPLOAD_STATE,West Bengal,,,24,,Uploading clean records
+2026-04-01 08:11:50.786264,CLEAN_UPLOAD_DONE,,,,429,,Clean upload finished
+2026-04-01 08:11:50.787920,STEP_UPLOAD_CLEAN_DONE,,,,,,12 sec
+2026-04-01 08:11:50.789170,STEP_PREDICT_START,,,,,,
+2026-04-01 08:11:50.790336,PREDICT_START,,,,,,Prediction run started
+2026-04-01 08:11:50.791873,STATE_START,Andaman and Nicobar Islands,,,,,State processing
+2026-04-01 08:11:50.792637,STATE_START,Andhra Pradesh,,,,,State processing
+2026-04-01 08:11:50.832594,MODEL_SELECT,Andhra Pradesh,Bengal Gram(Gram)(Whole),fallback_copy,1,,Model chosen
+2026-04-01 08:11:50.833590,METRICS,Andhra Pradesh,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:50.838166,MODEL_SELECT,Andhra Pradesh,Cotton,hybrid_ma,2,,Model chosen
+2026-04-01 08:11:50.838987,METRICS,Andhra Pradesh,Cotton,,,SKIPPED,No test data
+2026-04-01 08:11:50.841299,MODEL_SELECT,Andhra Pradesh,Groundnut,hybrid_ma,2,,Model chosen
+2026-04-01 08:11:50.841903,METRICS,Andhra Pradesh,Groundnut,,,SKIPPED,No test data
+2026-04-01 08:11:50.844175,MODEL_SELECT,Andhra Pradesh,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:50.844807,METRICS,Andhra Pradesh,Paddy(Common),,,SKIPPED,No test data
+2026-04-01 08:11:50.846786,MODEL_SELECT,Andhra Pradesh,Potato,fallback_copy,1,,Model chosen
+2026-04-01 08:11:50.847359,METRICS,Andhra Pradesh,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:50.849337,MODEL_SELECT,Andhra Pradesh,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:50.849922,METRICS,Andhra Pradesh,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:50.859551,STATE_DONE,Andhra Pradesh,,,18,,Prediction CSV saved
+2026-04-01 08:11:50.860432,STATE_START,Arunachal Pradesh,,,,,State processing
+2026-04-01 08:11:50.861247,STATE_START,Assam,,,,,State processing
+2026-04-01 08:11:50.878617,MODEL_SELECT,Assam,Lentil(Masur)(Whole),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:50.879340,METRICS,Assam,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:50.881405,MODEL_SELECT,Assam,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:50.881978,METRICS,Assam,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:50.883539,MODEL_SELECT,Assam,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:50.884149,METRICS,Assam,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:50.886316,MODEL_SELECT,Assam,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:50.886913,METRICS,Assam,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:50.895095,STATE_DONE,Assam,,,12,,Prediction CSV saved
+2026-04-01 08:11:50.896132,STATE_START,Bihar,,,,,State processing
+2026-04-01 08:11:50.912867,MODEL_SELECT,Bihar,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:50.913603,METRICS,Bihar,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:50.915806,MODEL_SELECT,Bihar,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:50.916448,METRICS,Bihar,Paddy(Common),,,SKIPPED,No test data
+2026-04-01 08:11:50.918480,MODEL_SELECT,Bihar,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:50.919088,METRICS,Bihar,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:50.926985,STATE_DONE,Bihar,,,9,,Prediction CSV saved
+2026-04-01 08:11:50.927561,STATE_START,Chandigarh,,,,,State processing
+2026-04-01 08:11:50.945622,MODEL_SELECT,Chandigarh,Onion,fallback_copy,1,,Model chosen
+2026-04-01 08:11:50.946226,METRICS,Chandigarh,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:50.948845,MODEL_SELECT,Chandigarh,Potato,fallback_copy,1,,Model chosen
+2026-04-01 08:11:50.949507,METRICS,Chandigarh,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:50.951500,MODEL_SELECT,Chandigarh,Tomato,fallback_copy,1,,Model chosen
+2026-04-01 08:11:50.952084,METRICS,Chandigarh,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:50.959989,STATE_DONE,Chandigarh,,,9,,Prediction CSV saved
+2026-04-01 08:11:50.960848,STATE_START,Chhattisgarh,,,,,State processing
+2026-04-01 08:11:50.961608,STATE_START,Dadra and Nagar Haveli and Daman and Diu,,,,,State processing
+2026-04-01 08:11:50.962419,STATE_START,Delhi,,,,,State processing
+2026-04-01 08:11:50.963195,STATE_START,Goa,,,,,State processing
+2026-04-01 08:11:50.980871,MODEL_SELECT,Goa,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:50.981588,METRICS,Goa,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:50.983663,MODEL_SELECT,Goa,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:50.984284,METRICS,Goa,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:50.991786,STATE_DONE,Goa,,,6,,Prediction CSV saved
+2026-04-01 08:11:50.992545,STATE_START,Gujarat,,,,,State processing
+2026-04-01 08:11:51.009493,MODEL_SELECT,Gujarat,Arhar(Tur/Red Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.010186,METRICS,Gujarat,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.012297,MODEL_SELECT,Gujarat,Bajra(Pearl Millet/Cumbu),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.012901,METRICS,Gujarat,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-04-01 08:11:51.014902,MODEL_SELECT,Gujarat,Bengal Gram(Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.015456,METRICS,Gujarat,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.017490,MODEL_SELECT,Gujarat,Black Gram(Urd Beans)(Whole),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.018055,METRICS,Gujarat,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.020414,MODEL_SELECT,Gujarat,Cotton,hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.020694,METRICS,Gujarat,Cotton,,,SKIPPED,No test data
+2026-04-01 08:11:51.022610,MODEL_SELECT,Gujarat,Green Gram(Moong)(Whole),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.023160,METRICS,Gujarat,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.025099,MODEL_SELECT,Gujarat,Groundnut,fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.025704,METRICS,Gujarat,Groundnut,,,SKIPPED,No test data
+2026-04-01 08:11:51.027592,MODEL_SELECT,Gujarat,Jowar(Sorghum),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.028149,METRICS,Gujarat,Jowar(Sorghum),,,SKIPPED,No test data
+2026-04-01 08:11:51.030020,MODEL_SELECT,Gujarat,Maize,fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.030786,METRICS,Gujarat,Maize,,,SKIPPED,No test data
+2026-04-01 08:11:51.032684,MODEL_SELECT,Gujarat,Mustard,fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.033261,METRICS,Gujarat,Mustard,,,SKIPPED,No test data
+2026-04-01 08:11:51.035183,MODEL_SELECT,Gujarat,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.035416,METRICS,Gujarat,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.036052,MODEL_SELECT,Gujarat,Paddy(Common),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.036464,METRICS,Gujarat,Paddy(Common),,,SKIPPED,No test data
+2026-04-01 08:11:51.038413,MODEL_SELECT,Gujarat,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.038997,METRICS,Gujarat,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.041030,MODEL_SELECT,Gujarat,"Sesamum(Sesame,Gingelly,Til)",fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.041631,METRICS,Gujarat,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-04-01 08:11:51.043616,MODEL_SELECT,Gujarat,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.044345,METRICS,Gujarat,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.046495,MODEL_SELECT,Gujarat,Wheat,hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.047086,METRICS,Gujarat,Wheat,,,SKIPPED,No test data
+2026-04-01 08:11:51.056085,STATE_DONE,Gujarat,,,48,,Prediction CSV saved
+2026-04-01 08:11:51.057064,STATE_START,Haryana,,,,,State processing
+2026-04-01 08:11:51.073936,MODEL_SELECT,Haryana,Bajra(Pearl Millet/Cumbu),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.074670,METRICS,Haryana,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-04-01 08:11:51.076901,MODEL_SELECT,Haryana,Barley(Jau),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.077515,METRICS,Haryana,Barley(Jau),,,SKIPPED,No test data
+2026-04-01 08:11:51.079462,MODEL_SELECT,Haryana,Bengal Gram(Gram)(Whole),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.080067,METRICS,Haryana,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.082169,MODEL_SELECT,Haryana,Cotton,hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.082745,METRICS,Haryana,Cotton,,,SKIPPED,No test data
+2026-04-01 08:11:51.084830,MODEL_SELECT,Haryana,Mustard,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.085462,METRICS,Haryana,Mustard,,,SKIPPED,No test data
+2026-04-01 08:11:51.087121,MODEL_SELECT,Haryana,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.087295,METRICS,Haryana,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.089004,MODEL_SELECT,Haryana,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.089605,METRICS,Haryana,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.091523,MODEL_SELECT,Haryana,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.092088,METRICS,Haryana,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.099739,STATE_DONE,Haryana,,,24,,Prediction CSV saved
+2026-04-01 08:11:51.100477,STATE_START,Himachal Pradesh,,,,,State processing
+2026-04-01 08:11:51.117497,MODEL_SELECT,Himachal Pradesh,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.118232,METRICS,Himachal Pradesh,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.120286,MODEL_SELECT,Himachal Pradesh,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.120877,METRICS,Himachal Pradesh,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.122813,MODEL_SELECT,Himachal Pradesh,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.123368,METRICS,Himachal Pradesh,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.131400,STATE_DONE,Himachal Pradesh,,,9,,Prediction CSV saved
+2026-04-01 08:11:51.132176,STATE_START,Jammu and Kashmir,,,,,State processing
+2026-04-01 08:11:51.149187,MODEL_SELECT,Jammu and Kashmir,Onion,hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.149878,METRICS,Jammu and Kashmir,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.151945,MODEL_SELECT,Jammu and Kashmir,Potato,hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.152541,METRICS,Jammu and Kashmir,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.154608,MODEL_SELECT,Jammu and Kashmir,Tomato,hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.155167,METRICS,Jammu and Kashmir,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.163072,STATE_DONE,Jammu and Kashmir,,,9,,Prediction CSV saved
+2026-04-01 08:11:51.163814,STATE_START,Jharkhand,,,,,State processing
+2026-04-01 08:11:51.164580,STATE_START,Karnataka,,,,,State processing
+2026-04-01 08:11:51.182619,MODEL_SELECT,Karnataka,Arhar(Tur/Red Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.183333,METRICS,Karnataka,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.185421,MODEL_SELECT,Karnataka,Bajra(Pearl Millet/Cumbu),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.186030,METRICS,Karnataka,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-04-01 08:11:51.188171,MODEL_SELECT,Karnataka,Bengal Gram(Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.188768,METRICS,Karnataka,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.190041,MODEL_SELECT,Karnataka,Black Gram(Urd Beans)(Whole),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.190636,METRICS,Karnataka,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.191959,MODEL_SELECT,Karnataka,Copra,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.192244,METRICS,Karnataka,Copra,,,SKIPPED,No test data
+2026-04-01 08:11:51.194490,MODEL_SELECT,Karnataka,Cotton,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.195001,METRICS,Karnataka,Cotton,,,SKIPPED,No test data
+2026-04-01 08:11:51.197358,MODEL_SELECT,Karnataka,Green Gram(Moong)(Whole),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.197985,METRICS,Karnataka,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.200087,MODEL_SELECT,Karnataka,Groundnut,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.200713,METRICS,Karnataka,Groundnut,,,SKIPPED,No test data
+2026-04-01 08:11:51.202895,MODEL_SELECT,Karnataka,Jowar(Sorghum),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.203520,METRICS,Karnataka,Jowar(Sorghum),,,SKIPPED,No test data
+2026-04-01 08:11:51.205440,MODEL_SELECT,Karnataka,Maize,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.206008,METRICS,Karnataka,Maize,,,SKIPPED,No test data
+2026-04-01 08:11:51.208079,MODEL_SELECT,Karnataka,Mustard,fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.208702,METRICS,Karnataka,Mustard,,,SKIPPED,No test data
+2026-04-01 08:11:51.210601,MODEL_SELECT,Karnataka,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.211190,METRICS,Karnataka,Paddy(Common),,,SKIPPED,No test data
+2026-04-01 08:11:51.213126,MODEL_SELECT,Karnataka,Ragi(Finger Millet),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.213714,METRICS,Karnataka,Ragi(Finger Millet),,,SKIPPED,No test data
+2026-04-01 08:11:51.215605,MODEL_SELECT,Karnataka,Safflower,fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.216191,METRICS,Karnataka,Safflower,,,SKIPPED,No test data
+2026-04-01 08:11:51.218105,MODEL_SELECT,Karnataka,"Sesamum(Sesame,Gingelly,Til)",fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.218691,METRICS,Karnataka,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-04-01 08:11:51.220893,MODEL_SELECT,Karnataka,Soyabean,hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.221461,METRICS,Karnataka,Soyabean,,,SKIPPED,No test data
+2026-04-01 08:11:51.223351,MODEL_SELECT,Karnataka,Sunflower,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.223935,METRICS,Karnataka,Sunflower,,,SKIPPED,No test data
+2026-04-01 08:11:51.225833,MODEL_SELECT,Karnataka,Wheat,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.226417,METRICS,Karnataka,Wheat,,,SKIPPED,No test data
+2026-04-01 08:11:51.235921,STATE_DONE,Karnataka,,,54,,Prediction CSV saved
+2026-04-01 08:11:51.236661,STATE_START,Kerala,,,,,State processing
+2026-04-01 08:11:51.253831,MODEL_SELECT,Kerala,Arhar(Tur/Red Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.254395,METRICS,Kerala,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.256696,MODEL_SELECT,Kerala,Bengal Gram(Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.257304,METRICS,Kerala,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.259516,MODEL_SELECT,Kerala,Black Gram(Urd Beans)(Whole),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.260298,METRICS,Kerala,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.262422,MODEL_SELECT,Kerala,Copra,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.263020,METRICS,Kerala,Copra,,,SKIPPED,No test data
+2026-04-01 08:11:51.264995,MODEL_SELECT,Kerala,Green Gram(Moong)(Whole),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.265609,METRICS,Kerala,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.267496,MODEL_SELECT,Kerala,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.268055,METRICS,Kerala,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.269923,MODEL_SELECT,Kerala,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.270511,METRICS,Kerala,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.272528,MODEL_SELECT,Kerala,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.273005,METRICS,Kerala,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.281054,STATE_DONE,Kerala,,,24,,Prediction CSV saved
+2026-04-01 08:11:51.281813,STATE_START,Ladakh,,,,,State processing
+2026-04-01 08:11:51.282544,STATE_START,Lakshadweep,,,,,State processing
+2026-04-01 08:11:51.283318,STATE_START,Madhya Pradesh,,,,,State processing
+2026-04-01 08:11:51.300203,MODEL_SELECT,Madhya Pradesh,Arhar(Tur/Red Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.300947,METRICS,Madhya Pradesh,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.303612,MODEL_SELECT,Madhya Pradesh,Bajra(Pearl Millet/Cumbu),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.304281,METRICS,Madhya Pradesh,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-04-01 08:11:51.306363,MODEL_SELECT,Madhya Pradesh,Barley(Jau),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.306953,METRICS,Madhya Pradesh,Barley(Jau),,,SKIPPED,No test data
+2026-04-01 08:11:51.309021,MODEL_SELECT,Madhya Pradesh,Bengal Gram(Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.309622,METRICS,Madhya Pradesh,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.311559,MODEL_SELECT,Madhya Pradesh,Black Gram(Urd Beans)(Whole),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.312116,METRICS,Madhya Pradesh,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.314305,MODEL_SELECT,Madhya Pradesh,Cotton,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.314921,METRICS,Madhya Pradesh,Cotton,,,SKIPPED,No test data
+2026-04-01 08:11:51.316861,MODEL_SELECT,Madhya Pradesh,Green Gram(Moong)(Whole),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.317432,METRICS,Madhya Pradesh,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.319376,MODEL_SELECT,Madhya Pradesh,Groundnut,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.320004,METRICS,Madhya Pradesh,Groundnut,,,SKIPPED,No test data
+2026-04-01 08:11:51.321886,MODEL_SELECT,Madhya Pradesh,Jowar(Sorghum),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.322463,METRICS,Madhya Pradesh,Jowar(Sorghum),,,SKIPPED,No test data
+2026-04-01 08:11:51.324385,MODEL_SELECT,Madhya Pradesh,Lentil(Masur)(Whole),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.325098,METRICS,Madhya Pradesh,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.327007,MODEL_SELECT,Madhya Pradesh,Maize,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.327576,METRICS,Madhya Pradesh,Maize,,,SKIPPED,No test data
+2026-04-01 08:11:51.329477,MODEL_SELECT,Madhya Pradesh,Mustard,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.330068,METRICS,Madhya Pradesh,Mustard,,,SKIPPED,No test data
+2026-04-01 08:11:51.332051,MODEL_SELECT,Madhya Pradesh,Niger Seed(Ramtil),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.332611,METRICS,Madhya Pradesh,Niger Seed(Ramtil),,,SKIPPED,No test data
+2026-04-01 08:11:51.334523,MODEL_SELECT,Madhya Pradesh,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.335210,METRICS,Madhya Pradesh,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.337093,MODEL_SELECT,Madhya Pradesh,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.337682,METRICS,Madhya Pradesh,Paddy(Common),,,SKIPPED,No test data
+2026-04-01 08:11:51.339548,MODEL_SELECT,Madhya Pradesh,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.340138,METRICS,Madhya Pradesh,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.341996,MODEL_SELECT,Madhya Pradesh,"Sesamum(Sesame,Gingelly,Til)",fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.342537,METRICS,Madhya Pradesh,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-04-01 08:11:51.344442,MODEL_SELECT,Madhya Pradesh,Soyabean,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.345025,METRICS,Madhya Pradesh,Soyabean,,,SKIPPED,No test data
+2026-04-01 08:11:51.347149,MODEL_SELECT,Madhya Pradesh,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.347726,METRICS,Madhya Pradesh,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.349651,MODEL_SELECT,Madhya Pradesh,Wheat,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.350270,METRICS,Madhya Pradesh,Wheat,,,SKIPPED,No test data
+2026-04-01 08:11:51.359380,STATE_DONE,Madhya Pradesh,,,60,,Prediction CSV saved
+2026-04-01 08:11:51.360109,STATE_START,Maharashtra,,,,,State processing
+2026-04-01 08:11:51.376997,MODEL_SELECT,Maharashtra,Arhar(Tur/Red Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.377693,METRICS,Maharashtra,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.379966,MODEL_SELECT,Maharashtra,Bajra(Pearl Millet/Cumbu),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.380862,METRICS,Maharashtra,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-04-01 08:11:51.382890,MODEL_SELECT,Maharashtra,Bengal Gram(Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.383492,METRICS,Maharashtra,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.385492,MODEL_SELECT,Maharashtra,Black Gram(Urd Beans)(Whole),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.386104,METRICS,Maharashtra,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.387975,MODEL_SELECT,Maharashtra,Cotton,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.388564,METRICS,Maharashtra,Cotton,,,SKIPPED,No test data
+2026-04-01 08:11:51.390649,MODEL_SELECT,Maharashtra,Green Gram(Moong)(Whole),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.391264,METRICS,Maharashtra,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.393203,MODEL_SELECT,Maharashtra,Groundnut,hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.393785,METRICS,Maharashtra,Groundnut,,,SKIPPED,No test data
+2026-04-01 08:11:51.395032,MODEL_SELECT,Maharashtra,Jowar(Sorghum),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.395644,METRICS,Maharashtra,Jowar(Sorghum),,,SKIPPED,No test data
+2026-04-01 08:11:51.397588,MODEL_SELECT,Maharashtra,Lentil(Masur)(Whole),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.398162,METRICS,Maharashtra,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.400269,MODEL_SELECT,Maharashtra,Maize,hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.400792,METRICS,Maharashtra,Maize,,,SKIPPED,No test data
+2026-04-01 08:11:51.402788,MODEL_SELECT,Maharashtra,Mustard,hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.403388,METRICS,Maharashtra,Mustard,,,SKIPPED,No test data
+2026-04-01 08:11:51.405349,MODEL_SELECT,Maharashtra,Niger Seed(Ramtil),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.405964,METRICS,Maharashtra,Niger Seed(Ramtil),,,SKIPPED,No test data
+2026-04-01 08:11:51.407948,MODEL_SELECT,Maharashtra,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.408530,METRICS,Maharashtra,Paddy(Common),,,SKIPPED,No test data
+2026-04-01 08:11:51.410779,MODEL_SELECT,Maharashtra,Ragi(Finger Millet),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.411273,METRICS,Maharashtra,Ragi(Finger Millet),,,SKIPPED,No test data
+2026-04-01 08:11:51.413214,MODEL_SELECT,Maharashtra,"Sesamum(Sesame,Gingelly,Til)",hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.413797,METRICS,Maharashtra,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-04-01 08:11:51.415862,MODEL_SELECT,Maharashtra,Soyabean,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.416471,METRICS,Maharashtra,Soyabean,,,SKIPPED,No test data
+2026-04-01 08:11:51.418365,MODEL_SELECT,Maharashtra,Wheat,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.418927,METRICS,Maharashtra,Wheat,,,SKIPPED,No test data
+2026-04-01 08:11:51.428085,STATE_DONE,Maharashtra,,,51,,Prediction CSV saved
+2026-04-01 08:11:51.428817,STATE_START,Manipur,,,,,State processing
+2026-04-01 08:11:51.445875,MODEL_SELECT,Manipur,Bengal Gram(Gram)(Whole),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.446555,METRICS,Manipur,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.448787,MODEL_SELECT,Manipur,Black Gram(Urd Beans)(Whole),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.449397,METRICS,Manipur,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.451426,MODEL_SELECT,Manipur,Onion,fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.452003,METRICS,Manipur,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.454143,MODEL_SELECT,Manipur,Potato,fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.454737,METRICS,Manipur,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.462630,STATE_DONE,Manipur,,,12,,Prediction CSV saved
+2026-04-01 08:11:51.463317,STATE_START,Meghalaya,,,,,State processing
+2026-04-01 08:11:51.480045,MODEL_SELECT,Meghalaya,Potato,fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.480703,METRICS,Meghalaya,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.489660,STATE_DONE,Meghalaya,,,3,,Prediction CSV saved
+2026-04-01 08:11:51.490742,STATE_START,Mizoram,,,,,State processing
+2026-04-01 08:11:51.491463,STATE_START,Nagaland,,,,,State processing
+2026-04-01 08:11:51.507129,MODEL_SELECT,Nagaland,Tomato,fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.507746,METRICS,Nagaland,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.514969,STATE_DONE,Nagaland,,,3,,Prediction CSV saved
+2026-04-01 08:11:51.515593,STATE_START,Odisha,,,,,State processing
+2026-04-01 08:11:51.531591,MODEL_SELECT,Odisha,Maize,fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.532193,METRICS,Odisha,Maize,,,SKIPPED,No test data
+2026-04-01 08:11:51.534273,MODEL_SELECT,Odisha,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.534832,METRICS,Odisha,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.536949,MODEL_SELECT,Odisha,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.537540,METRICS,Odisha,Paddy(Common),,,SKIPPED,No test data
+2026-04-01 08:11:51.539719,MODEL_SELECT,Odisha,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.540281,METRICS,Odisha,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.542280,MODEL_SELECT,Odisha,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.542807,METRICS,Odisha,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.550624,STATE_DONE,Odisha,,,15,,Prediction CSV saved
+2026-04-01 08:11:51.551359,STATE_START,Puducherry,,,,,State processing
+2026-04-01 08:11:51.552305,STATE_START,Punjab,,,,,State processing
+2026-04-01 08:11:51.569282,MODEL_SELECT,Punjab,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.570024,METRICS,Punjab,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.572082,MODEL_SELECT,Punjab,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.572695,METRICS,Punjab,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.574722,MODEL_SELECT,Punjab,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.575307,METRICS,Punjab,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.583104,STATE_DONE,Punjab,,,9,,Prediction CSV saved
+2026-04-01 08:11:51.583886,STATE_START,Rajasthan,,,,,State processing
+2026-04-01 08:11:51.600437,MODEL_SELECT,Rajasthan,Bajra(Pearl Millet/Cumbu),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.600991,METRICS,Rajasthan,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-04-01 08:11:51.603076,MODEL_SELECT,Rajasthan,Barley(Jau),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.603697,METRICS,Rajasthan,Barley(Jau),,,SKIPPED,No test data
+2026-04-01 08:11:51.605263,MODEL_SELECT,Rajasthan,Bengal Gram(Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.605819,METRICS,Rajasthan,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.607779,MODEL_SELECT,Rajasthan,Black Gram(Urd Beans)(Whole),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.608380,METRICS,Rajasthan,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.610266,MODEL_SELECT,Rajasthan,Green Gram(Moong)(Whole),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.610970,METRICS,Rajasthan,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.613218,MODEL_SELECT,Rajasthan,Lentil(Masur)(Whole),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.613837,METRICS,Rajasthan,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.616153,MODEL_SELECT,Rajasthan,Maize,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.616762,METRICS,Rajasthan,Maize,,,SKIPPED,No test data
+2026-04-01 08:11:51.618774,MODEL_SELECT,Rajasthan,Mustard,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.619345,METRICS,Rajasthan,Mustard,,,SKIPPED,No test data
+2026-04-01 08:11:51.621345,MODEL_SELECT,Rajasthan,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.622082,METRICS,Rajasthan,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.623981,MODEL_SELECT,Rajasthan,Paddy(Common),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.624546,METRICS,Rajasthan,Paddy(Common),,,SKIPPED,No test data
+2026-04-01 08:11:51.626472,MODEL_SELECT,Rajasthan,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.627087,METRICS,Rajasthan,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.629287,MODEL_SELECT,Rajasthan,"Sesamum(Sesame,Gingelly,Til)",hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.629882,METRICS,Rajasthan,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-04-01 08:11:51.632619,MODEL_SELECT,Rajasthan,Soyabean,hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.633255,METRICS,Rajasthan,Soyabean,,,SKIPPED,No test data
+2026-04-01 08:11:51.635196,MODEL_SELECT,Rajasthan,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.635811,METRICS,Rajasthan,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.637752,MODEL_SELECT,Rajasthan,Wheat,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.638338,METRICS,Rajasthan,Wheat,,,SKIPPED,No test data
+2026-04-01 08:11:51.646367,STATE_DONE,Rajasthan,,,45,,Prediction CSV saved
+2026-04-01 08:11:51.646831,STATE_START,Sikkim,,,,,State processing
+2026-04-01 08:11:51.647683,STATE_START,Tamil Nadu,,,,,State processing
+2026-04-01 08:11:51.648312,STATE_START,Telangana,,,,,State processing
+2026-04-01 08:11:51.664499,MODEL_SELECT,Telangana,Arhar(Tur/Red Gram)(Whole),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.665217,METRICS,Telangana,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.667274,MODEL_SELECT,Telangana,Bengal Gram(Gram)(Whole),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.667892,METRICS,Telangana,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.669835,MODEL_SELECT,Telangana,Cotton,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.670411,METRICS,Telangana,Cotton,,,SKIPPED,No test data
+2026-04-01 08:11:51.672325,MODEL_SELECT,Telangana,Groundnut,fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.672936,METRICS,Telangana,Groundnut,,,SKIPPED,No test data
+2026-04-01 08:11:51.674977,MODEL_SELECT,Telangana,Maize,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.675582,METRICS,Telangana,Maize,,,SKIPPED,No test data
+2026-04-01 08:11:51.677609,MODEL_SELECT,Telangana,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.678225,METRICS,Telangana,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.680118,MODEL_SELECT,Telangana,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.680589,METRICS,Telangana,Paddy(Common),,,SKIPPED,No test data
+2026-04-01 08:11:51.682547,MODEL_SELECT,Telangana,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.683139,METRICS,Telangana,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.684976,MODEL_SELECT,Telangana,Soyabean,fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.685632,METRICS,Telangana,Soyabean,,,SKIPPED,No test data
+2026-04-01 08:11:51.687627,MODEL_SELECT,Telangana,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.688260,METRICS,Telangana,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.690095,MODEL_SELECT,Telangana,Wheat,fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.690676,METRICS,Telangana,Wheat,,,SKIPPED,No test data
+2026-04-01 08:11:51.699331,STATE_DONE,Telangana,,,33,,Prediction CSV saved
+2026-04-01 08:11:51.699994,STATE_START,Tripura,,,,,State processing
+2026-04-01 08:11:51.716014,MODEL_SELECT,Tripura,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.716617,METRICS,Tripura,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.719001,MODEL_SELECT,Tripura,Paddy(Common),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.719662,METRICS,Tripura,Paddy(Common),,,SKIPPED,No test data
+2026-04-01 08:11:51.721753,MODEL_SELECT,Tripura,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.722369,METRICS,Tripura,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.724430,MODEL_SELECT,Tripura,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.725013,METRICS,Tripura,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.732744,STATE_DONE,Tripura,,,12,,Prediction CSV saved
+2026-04-01 08:11:51.733501,STATE_START,Uttar Pradesh,,,,,State processing
+2026-04-01 08:11:51.750018,MODEL_SELECT,Uttar Pradesh,Arhar(Tur/Red Gram)(Whole),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.750720,METRICS,Uttar Pradesh,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.752770,MODEL_SELECT,Uttar Pradesh,Bajra(Pearl Millet/Cumbu),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.753606,METRICS,Uttar Pradesh,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-04-01 08:11:51.755990,MODEL_SELECT,Uttar Pradesh,Barley(Jau),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.756232,METRICS,Uttar Pradesh,Barley(Jau),,,SKIPPED,No test data
+2026-04-01 08:11:51.757824,MODEL_SELECT,Uttar Pradesh,Bengal Gram(Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.758429,METRICS,Uttar Pradesh,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.759818,MODEL_SELECT,Uttar Pradesh,Groundnut,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.760412,METRICS,Uttar Pradesh,Groundnut,,,SKIPPED,No test data
+2026-04-01 08:11:51.762387,MODEL_SELECT,Uttar Pradesh,Jowar(Sorghum),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.762979,METRICS,Uttar Pradesh,Jowar(Sorghum),,,SKIPPED,No test data
+2026-04-01 08:11:51.765020,MODEL_SELECT,Uttar Pradesh,Lentil(Masur)(Whole),hybrid_ma,2,,Model chosen
+2026-04-01 08:11:51.765567,METRICS,Uttar Pradesh,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-04-01 08:11:51.767805,MODEL_SELECT,Uttar Pradesh,Maize,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.768450,METRICS,Uttar Pradesh,Maize,,,SKIPPED,No test data
+2026-04-01 08:11:51.769653,MODEL_SELECT,Uttar Pradesh,Mustard,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.770312,METRICS,Uttar Pradesh,Mustard,,,SKIPPED,No test data
+2026-04-01 08:11:51.772269,MODEL_SELECT,Uttar Pradesh,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.772881,METRICS,Uttar Pradesh,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.774769,MODEL_SELECT,Uttar Pradesh,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.775337,METRICS,Uttar Pradesh,Paddy(Common),,,SKIPPED,No test data
+2026-04-01 08:11:51.777267,MODEL_SELECT,Uttar Pradesh,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.777881,METRICS,Uttar Pradesh,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.779757,MODEL_SELECT,Uttar Pradesh,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.780314,METRICS,Uttar Pradesh,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.782361,MODEL_SELECT,Uttar Pradesh,Wheat,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.782959,METRICS,Uttar Pradesh,Wheat,,,SKIPPED,No test data
+2026-04-01 08:11:51.791738,STATE_DONE,Uttar Pradesh,,,42,,Prediction CSV saved
+2026-04-01 08:11:51.792680,STATE_START,Uttarakhand,,,,,State processing
+2026-04-01 08:11:51.809394,MODEL_SELECT,Uttarakhand,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.809986,METRICS,Uttarakhand,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.811979,MODEL_SELECT,Uttarakhand,Paddy(Common),fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.812716,METRICS,Uttarakhand,Paddy(Common),,,SKIPPED,No test data
+2026-04-01 08:11:51.814951,MODEL_SELECT,Uttarakhand,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.815702,METRICS,Uttarakhand,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.817734,MODEL_SELECT,Uttarakhand,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.818425,METRICS,Uttarakhand,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.820408,MODEL_SELECT,Uttarakhand,Wheat,fallback_copy,1,,Model chosen
+2026-04-01 08:11:51.821016,METRICS,Uttarakhand,Wheat,,,SKIPPED,No test data
+2026-04-01 08:11:51.829467,STATE_DONE,Uttarakhand,,,15,,Prediction CSV saved
+2026-04-01 08:11:51.830278,STATE_START,West Bengal,,,,,State processing
+2026-04-01 08:11:51.847361,MODEL_SELECT,West Bengal,Maize,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.848202,METRICS,West Bengal,Maize,,,SKIPPED,No test data
+2026-04-01 08:11:51.850541,MODEL_SELECT,West Bengal,Mustard,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.851027,METRICS,West Bengal,Mustard,,,SKIPPED,No test data
+2026-04-01 08:11:51.852991,MODEL_SELECT,West Bengal,Onion,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.853465,METRICS,West Bengal,Onion,,,SKIPPED,No test data
+2026-04-01 08:11:51.855723,MODEL_SELECT,West Bengal,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.856395,METRICS,West Bengal,Paddy(Common),,,SKIPPED,No test data
+2026-04-01 08:11:51.858780,MODEL_SELECT,West Bengal,Potato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.859379,METRICS,West Bengal,Potato,,,SKIPPED,No test data
+2026-04-01 08:11:51.861372,MODEL_SELECT,West Bengal,"Sesamum(Sesame,Gingelly,Til)",hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.861969,METRICS,West Bengal,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-04-01 08:11:51.863929,MODEL_SELECT,West Bengal,Tomato,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.864515,METRICS,West Bengal,Tomato,,,SKIPPED,No test data
+2026-04-01 08:11:51.866681,MODEL_SELECT,West Bengal,Wheat,hybrid_trend,3,,Model chosen
+2026-04-01 08:11:51.867558,METRICS,West Bengal,Wheat,,,SKIPPED,No test data
+2026-04-01 08:11:51.876302,STATE_DONE,West Bengal,,,24,,Prediction CSV saved
+2026-04-01 08:11:51.876921,PREDICT_END,,,,,,Prediction run finished
+2026-04-01 08:11:51.878395,STEP_PREDICT_DONE,,,,,,1 sec
+2026-04-01 08:11:51.879556,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 08:11:51.879901,PRED_UPLOAD_START,,,,,,Prediction upload started
+2026-04-01 08:11:52.749938,PRED_UPLOAD_STATE,Andhra Pradesh,,,18,,Uploading predictions
+2026-04-01 08:11:54.885146,PRED_UPLOAD_OK,Andhra Pradesh,,,18,,Upload success
+2026-04-01 08:11:54.947793,PRED_UPLOAD_STATE,Assam,,,12,,Uploading predictions
+2026-04-01 08:11:55.395148,PRED_UPLOAD_OK,Assam,,,12,,Upload success
+2026-04-01 08:11:55.458638,PRED_UPLOAD_STATE,Bihar,,,9,,Uploading predictions
+2026-04-01 08:11:55.718570,PRED_UPLOAD_OK,Bihar,,,9,,Upload success
+2026-04-01 08:11:55.778121,PRED_UPLOAD_STATE,Chandigarh,,,9,,Uploading predictions
+2026-04-01 08:11:56.027873,PRED_UPLOAD_OK,Chandigarh,,,9,,Upload success
+2026-04-01 08:11:56.087766,PRED_UPLOAD_STATE,Goa,,,6,,Uploading predictions
+2026-04-01 08:11:56.397504,PRED_UPLOAD_OK,Goa,,,6,,Upload success
+2026-04-01 08:11:56.460816,PRED_UPLOAD_STATE,Gujarat,,,48,,Uploading predictions
+2026-04-01 08:11:57.382575,PRED_UPLOAD_OK,Gujarat,,,48,,Upload success
+2026-04-01 08:11:57.442373,PRED_UPLOAD_STATE,Haryana,,,24,,Uploading predictions
+2026-04-01 08:11:57.867021,PRED_UPLOAD_OK,Haryana,,,24,,Upload success
+2026-04-01 08:11:57.926893,PRED_UPLOAD_STATE,Himachal Pradesh,,,9,,Uploading predictions
+2026-04-01 08:11:58.170052,PRED_UPLOAD_OK,Himachal Pradesh,,,9,,Upload success
+2026-04-01 08:11:58.245586,PRED_UPLOAD_STATE,Jammu and Kashmir,,,9,,Uploading predictions
+2026-04-01 08:11:58.670478,PRED_UPLOAD_OK,Jammu and Kashmir,,,9,,Upload success
+2026-04-01 08:11:58.736905,PRED_UPLOAD_STATE,Karnataka,,,54,,Uploading predictions
+2026-04-01 08:11:59.398480,PRED_UPLOAD_OK,Karnataka,,,54,,Upload success
+2026-04-01 08:11:59.453582,PRED_UPLOAD_STATE,Kerala,,,24,,Uploading predictions
+2026-04-01 08:11:59.901782,PRED_UPLOAD_OK,Kerala,,,24,,Upload success
+2026-04-01 08:11:59.968388,PRED_UPLOAD_STATE,Madhya Pradesh,,,60,,Uploading predictions
+2026-04-01 08:12:00.435438,PRED_UPLOAD_OK,Madhya Pradesh,,,60,,Upload success
+2026-04-01 08:12:00.522879,PRED_UPLOAD_STATE,Maharashtra,,,51,,Uploading predictions
+2026-04-01 08:12:01.340193,PRED_UPLOAD_OK,Maharashtra,,,51,,Upload success
+2026-04-01 08:12:01.401214,PRED_UPLOAD_STATE,Manipur,,,12,,Uploading predictions
+2026-04-01 08:12:01.753038,PRED_UPLOAD_OK,Manipur,,,12,,Upload success
+2026-04-01 08:12:01.810253,PRED_UPLOAD_STATE,Meghalaya,,,3,,Uploading predictions
+2026-04-01 08:12:02.049966,PRED_UPLOAD_OK,Meghalaya,,,3,,Upload success
+2026-04-01 08:12:02.097814,PRED_UPLOAD_STATE,Nagaland,,,3,,Uploading predictions
+2026-04-01 08:12:02.458305,PRED_UPLOAD_OK,Nagaland,,,3,,Upload success
+2026-04-01 08:12:02.518714,PRED_UPLOAD_STATE,Odisha,,,15,,Uploading predictions
+2026-04-01 08:12:02.971975,PRED_UPLOAD_OK,Odisha,,,15,,Upload success
+2026-04-01 08:12:03.032899,PRED_UPLOAD_STATE,Punjab,,,9,,Uploading predictions
+2026-04-01 08:12:03.483116,PRED_UPLOAD_OK,Punjab,,,9,,Upload success
+2026-04-01 08:12:03.544408,PRED_UPLOAD_STATE,Rajasthan,,,45,,Uploading predictions
+2026-04-01 08:12:04.205254,PRED_UPLOAD_OK,Rajasthan,,,45,,Upload success
+2026-04-01 08:12:04.264080,PRED_UPLOAD_STATE,Telangana,,,33,,Uploading predictions
+2026-04-01 08:12:04.818282,PRED_UPLOAD_OK,Telangana,,,33,,Upload success
+2026-04-01 08:12:04.873461,PRED_UPLOAD_STATE,Tripura,,,12,,Uploading predictions
+2026-04-01 08:12:05.133022,PRED_UPLOAD_OK,Tripura,,,12,,Upload success
+2026-04-01 08:12:05.188399,PRED_UPLOAD_STATE,Uttar Pradesh,,,42,,Uploading predictions
+2026-04-01 08:12:05.638886,PRED_UPLOAD_OK,Uttar Pradesh,,,42,,Upload success
+2026-04-01 08:12:05.692280,PRED_UPLOAD_STATE,Uttarakhand,,,15,,Uploading predictions
+2026-04-01 08:12:05.947515,PRED_UPLOAD_OK,Uttarakhand,,,15,,Upload success
+2026-04-01 08:12:06.002432,PRED_UPLOAD_STATE,West Bengal,,,24,,Uploading predictions
+2026-04-01 08:12:06.411745,PRED_UPLOAD_OK,West Bengal,,,24,,Upload success
+2026-04-01 08:12:06.412713,PRED_UPLOAD_DONE,,,,546,,Prediction upload finished
+2026-04-01 08:12:06.414025,STEP_UPLOAD_PRED_DONE,,,,,,14 sec
+2026-04-01 08:12:54.521057,PIPELINE_DONE,,,,,,Total 751 sec
+2026-04-01 15:20:49.791480,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 15:20:49.791923,STEP_EXTRACT_START,,,,,,
+2026-04-01 15:20:49.792123,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 15:20:49.792803,STEP_CLEAN_START,,,,,,
+2026-04-01 15:20:49.793030,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 15:20:49.793343,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 15:20:49.793557,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 15:20:49.793842,STEP_PREDICT_START,,,,,,
+2026-04-01 15:20:49.794024,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 15:20:49.794297,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 15:20:49.794486,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 15:20:58.728822,PIPELINE_DONE,,,,,,Total 8 sec
+2026-04-01 15:31:21.337020,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 15:31:21.337329,STEP_EXTRACT_START,,,,,,
+2026-04-01 15:31:21.337516,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 15:31:21.337802,STEP_CLEAN_START,,,,,,
+2026-04-01 15:31:21.338015,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 15:31:21.338375,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 15:31:21.338602,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 15:31:21.339044,STEP_PREDICT_START,,,,,,
+2026-04-01 15:31:21.339276,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 15:31:21.339576,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 15:31:21.339757,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 15:31:29.734941,PIPELINE_DONE,,,,,,Total 8 sec
+2026-04-01 15:35:09.085034,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 15:35:09.085316,STEP_EXTRACT_START,,,,,,
+2026-04-01 15:35:09.085520,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 15:35:09.085839,STEP_CLEAN_START,,,,,,
+2026-04-01 15:35:09.086064,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 15:35:09.086395,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 15:35:09.086620,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 15:35:09.086935,STEP_PREDICT_START,,,,,,
+2026-04-01 15:35:09.087115,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 15:35:09.087359,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 15:35:09.087529,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 15:35:20.590875,PIPELINE_DONE,,,,,,Total 11 sec
+2026-04-01 15:36:54.194896,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 15:36:54.195373,STEP_EXTRACT_START,,,,,,
+2026-04-01 15:36:54.195662,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 15:36:54.196277,STEP_CLEAN_START,,,,,,
+2026-04-01 15:36:54.196498,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 15:36:54.196829,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 15:36:54.197056,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 15:36:54.197441,STEP_PREDICT_START,,,,,,
+2026-04-01 15:36:54.197605,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 15:36:54.197920,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 15:36:54.198139,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 15:37:07.008057,PIPELINE_DONE,,,,,,Total 12 sec
+2026-04-01 15:42:44.355727,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 15:42:44.355982,STEP_EXTRACT_START,,,,,,
+2026-04-01 15:42:44.356158,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 15:42:44.356475,STEP_CLEAN_START,,,,,,
+2026-04-01 15:42:44.356678,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 15:42:44.356977,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 15:42:44.363021,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 15:42:44.363620,STEP_PREDICT_START,,,,,,
+2026-04-01 15:42:44.363937,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 15:42:44.364449,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 15:42:44.364661,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 15:43:05.958414,PIPELINE_DONE,,,,,,Total 21 sec
+2026-04-01 15:43:05.964904,PIPELINE_FAILED,,,,,,send_email() takes 0 positional arguments but 2 were given
+2026-04-01 15:47:09.480600,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 15:47:09.480841,STEP_EXTRACT_START,,,,,,
+2026-04-01 15:47:09.481007,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 15:47:09.481247,STEP_CLEAN_START,,,,,,
+2026-04-01 15:47:09.481492,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 15:47:09.482412,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 15:47:09.482657,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 15:47:09.482971,STEP_PREDICT_START,,,,,,
+2026-04-01 15:47:09.483176,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 15:47:09.483468,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 15:47:09.483630,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 15:47:18.815005,PIPELINE_DONE,,,,,,Total 9 sec
+2026-04-01 15:47:18.815582,PIPELINE_FAILED,,,,,,send_email() takes 0 positional arguments but 2 were given
+2026-04-01 15:52:02.968137,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 15:52:02.968405,STEP_EXTRACT_START,,,,,,
+2026-04-01 15:52:02.968588,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 15:52:02.968887,STEP_CLEAN_START,,,,,,
+2026-04-01 15:52:02.969056,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 15:52:02.969363,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 15:52:02.969592,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 15:52:02.969938,STEP_PREDICT_START,,,,,,
+2026-04-01 15:52:02.970131,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 15:52:02.970524,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 15:52:02.970708,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 15:52:14.232484,PIPELINE_DONE,,,,,,Total 11 sec
+2026-04-01 16:04:36.432371,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 16:04:36.432632,STEP_EXTRACT_START,,,,,,
+2026-04-01 16:04:36.432815,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 16:04:36.433136,STEP_CLEAN_START,,,,,,
+2026-04-01 16:04:36.433299,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 16:04:36.433556,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 16:04:36.433724,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 16:04:36.434118,STEP_PREDICT_START,,,,,,
+2026-04-01 16:04:36.434294,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 16:04:36.434589,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 16:04:36.434809,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 16:04:45.711845,PIPELINE_DONE,,,,,,Total 9 sec
+2026-04-01 16:04:45.712513,PIPELINE_FAILED,,,,,,name 'take_screenshot' is not defined
+2026-04-01 16:06:57.503954,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 16:06:57.504244,STEP_EXTRACT_START,,,,,,
+2026-04-01 16:06:57.504486,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 16:06:57.504791,STEP_CLEAN_START,,,,,,
+2026-04-01 16:06:57.504993,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 16:06:57.505340,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 16:06:57.505531,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 16:06:57.505808,STEP_PREDICT_START,,,,,,
+2026-04-01 16:06:57.506149,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 16:06:57.506456,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 16:06:57.506651,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 16:07:07.167458,PIPELINE_DONE,,,,,,Total 9 sec
+2026-04-01 16:07:07.343169,PIPELINE_FAILED,,,,,,send_email() takes 2 positional arguments but 3 were given
+2026-04-01 16:07:51.821422,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 16:07:51.821685,STEP_EXTRACT_START,,,,,,
+2026-04-01 16:07:51.821848,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 16:07:51.822100,STEP_CLEAN_START,,,,,,
+2026-04-01 16:07:51.822302,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 16:07:51.822654,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 16:07:51.822931,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 16:07:51.823429,STEP_PREDICT_START,,,,,,
+2026-04-01 16:07:51.823640,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 16:07:51.824098,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 16:07:51.824440,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 16:08:01.401658,PIPELINE_DONE,,,,,,Total 9 sec
+2026-04-01 16:08:01.535867,PIPELINE_FAILED,,,,,,Cannot attach additional subparts to non-multipart/*
+2026-04-01 16:14:00.031714,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 16:14:00.032128,STEP_EXTRACT_START,,,,,,
+2026-04-01 16:14:00.032429,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 16:14:00.032855,STEP_CLEAN_START,,,,,,
+2026-04-01 16:14:00.033096,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 16:14:00.033395,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 16:14:00.033664,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 16:14:00.034168,STEP_PREDICT_START,,,,,,
+2026-04-01 16:14:00.034424,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 16:14:00.035423,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 16:14:00.036145,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 16:14:08.267788,PIPELINE_DONE,,,,,,Total 8 sec
+2026-04-01 16:15:13.572475,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 16:15:13.572722,STEP_EXTRACT_START,,,,,,
+2026-04-01 16:15:13.572955,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 16:15:13.573281,STEP_CLEAN_START,,,,,,
+2026-04-01 16:15:13.573487,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 16:15:13.573795,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 16:15:13.573975,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 16:15:13.574301,STEP_PREDICT_START,,,,,,
+2026-04-01 16:15:13.574469,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 16:15:13.574703,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 16:15:13.574894,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 16:15:30.384270,PIPELINE_DONE,,,,,,Total 16 sec
+2026-04-01 16:16:10.103278,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 16:16:10.103562,STEP_EXTRACT_START,,,,,,
+2026-04-01 16:16:10.103745,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 16:16:10.104096,STEP_CLEAN_START,,,,,,
+2026-04-01 16:16:10.104302,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 16:16:10.104646,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 16:16:10.104852,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 16:16:10.105169,STEP_PREDICT_START,,,,,,
+2026-04-01 16:16:10.105360,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 16:16:10.105629,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 16:16:10.105808,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 16:16:19.635184,PIPELINE_DONE,,,,,,Total 9 sec
+2026-04-01 16:44:14.315341,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 16:44:14.316029,STEP_EXTRACT_START,,,,,,
+2026-04-01 16:44:14.316208,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 16:44:14.316485,STEP_CLEAN_START,,,,,,
+2026-04-01 16:44:14.316633,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 16:44:14.316875,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 16:44:14.317038,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 16:44:14.317265,STEP_PREDICT_START,,,,,,
+2026-04-01 16:44:14.317394,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 16:44:14.317677,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 16:44:14.317826,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 16:44:23.074756,PIPELINE_DONE,,,,,,Total 8 sec
+2026-04-01 17:03:00.308270,PIPELINE_START,,,,,,Full pipeline started
+2026-04-01 17:03:00.308802,STEP_EXTRACT_START,,,,,,
+2026-04-01 17:03:00.308969,STEP_EXTRACT_DONE,,,,,,0 sec
+2026-04-01 17:03:00.309714,STEP_CLEAN_START,,,,,,
+2026-04-01 17:03:00.309910,STEP_CLEAN_DONE,,,,,,0 sec
+2026-04-01 17:03:00.310151,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-01 17:03:00.310300,STEP_UPLOAD_CLEAN_DONE,,,,,,0 sec
+2026-04-01 17:03:00.310510,STEP_PREDICT_START,,,,,,
+2026-04-01 17:03:00.310649,STEP_PREDICT_DONE,,,,,,0 sec
+2026-04-01 17:03:00.310911,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-01 17:03:00.311074,STEP_UPLOAD_PRED_DONE,,,,,,0 sec
+2026-04-01 17:03:09.898604,PIPELINE_DONE,,,,,,Total 9 sec
+2026-04-02 10:25:34.547393,PIPELINE_START,,,,,,Full pipeline started
+2026-04-02 10:25:34.548743,STEP_EXTRACT_START,,,,,,
+2026-04-02 10:25:34.550161,EXTRACT_START,,,,,,Extraction started
+2026-04-02 10:26:13.235094,EXTRACT_STATE_START,Andaman and Nicobar Islands,,,,,State extraction start
+2026-04-02 10:26:41.284380,EXTRACT_STATE_FAIL,Andaman and Nicobar Islands,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7021529c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff701e7a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff701bddb2d]
+	chromedriver!(No symbol) [0x7ff701c36b9e]
+	chromedriver!(No symbol) [0x7ff701c36eac]
+	chromedriver!(No symbol) [0x7ff701c86fe7]
+	chromedriver!(No symbol) [0x7ff701c83b9b]
+	chromedriver!(No symbol) [0x7ff701c29298]
+	chromedriver!(No symbol) [0x7ff701c2a183]
+	chromedriver!GetHandleVerifier [0x7ff70217de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff702178588+313348]
+	chromedriver!GetHandleVerifier [0x7ff702199d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff701e96785+31545]
+	chromedriver!GetHandleVerifier [0x7ff701e9facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff701e83634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff701e837e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff701e67e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffdf8c1e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdf9e8c40c+2c]
+"
+2026-04-02 10:26:41.287118,EXTRACT_STATE_START,Andhra Pradesh,,,,,State extraction start
+2026-04-02 10:26:59.349103,EXTRACT_STATE_DONE,Andhra Pradesh,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-26-58_AM.csv
+2026-04-02 10:27:01.350688,EXTRACT_STATE_START,Arunachal Pradesh,,,,,State extraction start
+2026-04-02 10:27:14.624751,EXTRACT_STATE_SKIP,Arunachal Pradesh,,,,,No table data
+2026-04-02 10:27:14.647821,EXTRACT_STATE_START,Assam,,,,,State extraction start
+2026-04-02 10:27:30.328119,EXTRACT_STATE_DONE,Assam,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-27-30_AM.csv
+2026-04-02 10:27:32.331203,EXTRACT_STATE_START,Bihar,,,,,State extraction start
+2026-04-02 10:27:47.819413,EXTRACT_STATE_DONE,Bihar,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-27-48_AM.csv
+2026-04-02 10:27:49.822324,EXTRACT_STATE_START,Chandigarh,,,,,State extraction start
+2026-04-02 10:28:05.412098,EXTRACT_STATE_DONE,Chandigarh,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-28-05_AM.csv
+2026-04-02 10:28:07.415030,EXTRACT_STATE_START,Chhattisgarh,,,,,State extraction start
+2026-04-02 10:28:33.954552,EXTRACT_STATE_FAIL,Chhattisgarh,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7021529c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff701e7a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff701bddb2d]
+	chromedriver!(No symbol) [0x7ff701c36b9e]
+	chromedriver!(No symbol) [0x7ff701c36eac]
+	chromedriver!(No symbol) [0x7ff701c86fe7]
+	chromedriver!(No symbol) [0x7ff701c83b9b]
+	chromedriver!(No symbol) [0x7ff701c29298]
+	chromedriver!(No symbol) [0x7ff701c2a183]
+	chromedriver!GetHandleVerifier [0x7ff70217de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff702178588+313348]
+	chromedriver!GetHandleVerifier [0x7ff702199d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff701e96785+31545]
+	chromedriver!GetHandleVerifier [0x7ff701e9facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff701e83634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff701e837e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff701e67e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffdf8c1e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdf9e8c40c+2c]
+"
+2026-04-02 10:28:33.957581,EXTRACT_STATE_START,Dadra and Nagar Haveli and Daman and Diu,,,,,State extraction start
+2026-04-02 10:29:00.770997,EXTRACT_STATE_FAIL,Dadra and Nagar Haveli and Daman and Diu,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7021529c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff701e7a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff701bddb2d]
+	chromedriver!(No symbol) [0x7ff701c36b9e]
+	chromedriver!(No symbol) [0x7ff701c36eac]
+	chromedriver!(No symbol) [0x7ff701c86fe7]
+	chromedriver!(No symbol) [0x7ff701c83b9b]
+	chromedriver!(No symbol) [0x7ff701c29298]
+	chromedriver!(No symbol) [0x7ff701c2a183]
+	chromedriver!GetHandleVerifier [0x7ff70217de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff702178588+313348]
+	chromedriver!GetHandleVerifier [0x7ff702199d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff701e96785+31545]
+	chromedriver!GetHandleVerifier [0x7ff701e9facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff701e83634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff701e837e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff701e67e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffdf8c1e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdf9e8c40c+2c]
+"
+2026-04-02 10:29:00.776842,EXTRACT_STATE_START,Delhi,,,,,State extraction start
+2026-04-02 10:29:27.609324,EXTRACT_STATE_FAIL,Delhi,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7021529c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff701e7a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff701bddb2d]
+	chromedriver!(No symbol) [0x7ff701c36b9e]
+	chromedriver!(No symbol) [0x7ff701c36eac]
+	chromedriver!(No symbol) [0x7ff701c86fe7]
+	chromedriver!(No symbol) [0x7ff701c83b9b]
+	chromedriver!(No symbol) [0x7ff701c29298]
+	chromedriver!(No symbol) [0x7ff701c2a183]
+	chromedriver!GetHandleVerifier [0x7ff70217de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff702178588+313348]
+	chromedriver!GetHandleVerifier [0x7ff702199d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff701e96785+31545]
+	chromedriver!GetHandleVerifier [0x7ff701e9facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff701e83634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff701e837e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff701e67e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffdf8c1e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdf9e8c40c+2c]
+"
+2026-04-02 10:29:27.611056,EXTRACT_STATE_START,Goa,,,,,State extraction start
+2026-04-02 10:29:43.047006,EXTRACT_STATE_DONE,Goa,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-29-43_AM.csv
+2026-04-02 10:29:45.050731,EXTRACT_STATE_START,Gujarat,,,,,State extraction start
+2026-04-02 10:30:01.846975,EXTRACT_STATE_DONE,Gujarat,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-30-01_AM.csv
+2026-04-02 10:30:03.848834,EXTRACT_STATE_START,Haryana,,,,,State extraction start
+2026-04-02 10:30:20.568710,EXTRACT_STATE_DONE,Haryana,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-30-20_AM.csv
+2026-04-02 10:30:22.576469,EXTRACT_STATE_START,Himachal Pradesh,,,,,State extraction start
+2026-04-02 10:30:39.057178,EXTRACT_STATE_DONE,Himachal Pradesh,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-30-39_AM.csv
+2026-04-02 10:30:41.059373,EXTRACT_STATE_START,Jammu and Kashmir,,,,,State extraction start
+2026-04-02 10:30:57.816094,EXTRACT_STATE_DONE,Jammu and Kashmir,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-30-58_AM.csv
+2026-04-02 10:30:59.821515,EXTRACT_STATE_START,Jharkhand,,,,,State extraction start
+2026-04-02 10:31:13.084660,EXTRACT_STATE_SKIP,Jharkhand,,,,,No table data
+2026-04-02 10:31:13.092142,EXTRACT_STATE_START,Karnataka,,,,,State extraction start
+2026-04-02 10:31:28.586990,EXTRACT_STATE_DONE,Karnataka,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-31-29_AM.csv
+2026-04-02 10:31:30.599983,EXTRACT_STATE_START,Kerala,,,,,State extraction start
+2026-04-02 10:31:47.780502,EXTRACT_STATE_DONE,Kerala,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-31-47_AM.csv
+2026-04-02 10:31:49.782845,EXTRACT_STATE_START,Ladakh,,,,,State extraction start
+2026-04-02 10:32:16.771994,EXTRACT_STATE_FAIL,Ladakh,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7021529c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff701e7a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff701bddb2d]
+	chromedriver!(No symbol) [0x7ff701c36b9e]
+	chromedriver!(No symbol) [0x7ff701c36eac]
+	chromedriver!(No symbol) [0x7ff701c86fe7]
+	chromedriver!(No symbol) [0x7ff701c83b9b]
+	chromedriver!(No symbol) [0x7ff701c29298]
+	chromedriver!(No symbol) [0x7ff701c2a183]
+	chromedriver!GetHandleVerifier [0x7ff70217de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff702178588+313348]
+	chromedriver!GetHandleVerifier [0x7ff702199d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff701e96785+31545]
+	chromedriver!GetHandleVerifier [0x7ff701e9facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff701e83634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff701e837e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff701e67e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffdf8c1e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdf9e8c40c+2c]
+"
+2026-04-02 10:32:16.773004,EXTRACT_STATE_START,Lakshadweep,,,,,State extraction start
+2026-04-02 10:32:30.285046,EXTRACT_STATE_SKIP,Lakshadweep,,,,,No table data
+2026-04-02 10:32:30.286432,EXTRACT_STATE_START,Madhya Pradesh,,,,,State extraction start
+2026-04-02 10:32:46.232028,EXTRACT_STATE_DONE,Madhya Pradesh,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-32-46_AM.csv
+2026-04-02 10:32:48.240318,EXTRACT_STATE_START,Maharashtra,,,,,State extraction start
+2026-04-02 10:33:05.037784,EXTRACT_STATE_DONE,Maharashtra,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-33-04_AM.csv
+2026-04-02 10:33:07.039558,EXTRACT_STATE_START,Manipur,,,,,State extraction start
+2026-04-02 10:33:25.313729,EXTRACT_STATE_DONE,Manipur,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-33-23_AM.csv
+2026-04-02 10:33:27.404531,EXTRACT_STATE_START,Meghalaya,,,,,State extraction start
+2026-04-02 10:33:40.646420,EXTRACT_STATE_SKIP,Meghalaya,,,,,No table data
+2026-04-02 10:33:40.647793,EXTRACT_STATE_START,Mizoram,,,,,State extraction start
+2026-04-02 10:33:54.258877,EXTRACT_STATE_SKIP,Mizoram,,,,,No table data
+2026-04-02 10:33:54.260334,EXTRACT_STATE_START,Nagaland,,,,,State extraction start
+2026-04-02 10:34:09.564470,EXTRACT_STATE_DONE,Nagaland,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-34-10_AM.csv
+2026-04-02 10:34:11.566659,EXTRACT_STATE_START,Odisha,,,,,State extraction start
+2026-04-02 10:34:28.034224,EXTRACT_STATE_DONE,Odisha,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-34-28_AM.csv
+2026-04-02 10:34:30.035764,EXTRACT_STATE_START,Puducherry,,,,,State extraction start
+2026-04-02 10:34:56.982215,EXTRACT_STATE_FAIL,Puducherry,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff7021529c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff701e7a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff701bddb2d]
+	chromedriver!(No symbol) [0x7ff701c36b9e]
+	chromedriver!(No symbol) [0x7ff701c36eac]
+	chromedriver!(No symbol) [0x7ff701c86fe7]
+	chromedriver!(No symbol) [0x7ff701c83b9b]
+	chromedriver!(No symbol) [0x7ff701c29298]
+	chromedriver!(No symbol) [0x7ff701c2a183]
+	chromedriver!GetHandleVerifier [0x7ff70217de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff702178588+313348]
+	chromedriver!GetHandleVerifier [0x7ff702199d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff701e96785+31545]
+	chromedriver!GetHandleVerifier [0x7ff701e9facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff701e83634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff701e837e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff701e67e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ffdf8c1e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ffdf9e8c40c+2c]
+"
+2026-04-02 10:34:56.983730,EXTRACT_STATE_START,Punjab,,,,,State extraction start
+2026-04-02 10:35:12.417319,EXTRACT_STATE_DONE,Punjab,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-35-13_AM.csv
+2026-04-02 10:35:14.418925,EXTRACT_STATE_START,Rajasthan,,,,,State extraction start
+2026-04-02 10:35:29.753526,EXTRACT_STATE_DONE,Rajasthan,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-35-30_AM.csv
+2026-04-02 10:35:31.760312,EXTRACT_STATE_START,Sikkim,,,,,State extraction start
+2026-04-02 10:35:44.975196,EXTRACT_STATE_SKIP,Sikkim,,,,,No table data
+2026-04-02 10:35:44.978006,EXTRACT_STATE_START,Tamil Nadu,,,,,State extraction start
+2026-04-02 10:35:58.169011,EXTRACT_STATE_SKIP,Tamil Nadu,,,,,No table data
+2026-04-02 10:35:58.170147,EXTRACT_STATE_START,Telangana,,,,,State extraction start
+2026-04-02 10:36:13.583137,EXTRACT_STATE_DONE,Telangana,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-36-14_AM.csv
+2026-04-02 10:36:15.585633,EXTRACT_STATE_START,Tripura,,,,,State extraction start
+2026-04-02 10:36:31.953035,EXTRACT_STATE_DONE,Tripura,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-36-32_AM.csv
+2026-04-02 10:36:33.954915,EXTRACT_STATE_START,Uttar Pradesh,,,,,State extraction start
+2026-04-02 10:36:49.352591,EXTRACT_STATE_DONE,Uttar Pradesh,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-36-49_AM.csv
+2026-04-02 10:36:51.354430,EXTRACT_STATE_START,Uttarakhand,,,,,State extraction start
+2026-04-02 10:37:06.773109,EXTRACT_STATE_DONE,Uttarakhand,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-37-07_AM.csv
+2026-04-02 10:37:08.776574,EXTRACT_STATE_START,West Bengal,,,,,State extraction start
+2026-04-02 10:37:24.406898,EXTRACT_STATE_DONE,West Bengal,,,,,Downloaded Marketwise_Price_Arrival_02-04-2026_10-37-25_AM.csv
+2026-04-02 10:37:26.408724,EXTRACT_END,,,,36,,Extraction finished
+2026-04-02 10:37:29.130602,STEP_EXTRACT_DONE,,,,,,714 sec
+2026-04-02 10:37:29.131885,STEP_CLEAN_START,,,,,,
+2026-04-02 10:37:31.289254,STEP_CLEAN_DONE,,,,,,2 sec
+2026-04-02 10:37:31.289852,STEP_UPLOAD_CLEAN_START,,,,,,
+2026-04-02 10:37:31.290355,CLEAN_UPLOAD_START,,,,,,Clean upload started
+2026-04-02 10:37:33.295747,CLEAN_UPLOAD_STATE,Andhra Pradesh,,,13,,Uploading clean records
+2026-04-02 10:37:35.786519,CLEAN_UPLOAD_STATE,Assam,,,13,,Uploading clean records
+2026-04-02 10:37:36.074279,CLEAN_UPLOAD_STATE,Bihar,,,9,,Uploading clean records
+2026-04-02 10:37:36.331649,CLEAN_UPLOAD_STATE,Chandigarh,,,3,,Uploading clean records
+2026-04-02 10:37:36.634534,CLEAN_UPLOAD_STATE,Goa,,,6,,Uploading clean records
+2026-04-02 10:37:36.890676,CLEAN_UPLOAD_STATE,Gujarat,,,20,,Uploading clean records
+2026-04-02 10:37:37.205444,CLEAN_UPLOAD_STATE,Haryana,,,19,,Uploading clean records
+2026-04-02 10:37:37.480651,CLEAN_UPLOAD_STATE,Himachal Pradesh,,,9,,Uploading clean records
+2026-04-02 10:37:37.726552,CLEAN_UPLOAD_STATE,Jammu and Kashmir,,,6,,Uploading clean records
+2026-04-02 10:37:38.014443,CLEAN_UPLOAD_STATE,Karnataka,,,47,,Uploading clean records
+2026-04-02 10:37:38.322611,CLEAN_UPLOAD_STATE,Kerala,,,20,,Uploading clean records
+2026-04-02 10:37:38.580333,CLEAN_UPLOAD_STATE,Madhya Pradesh,,,51,,Uploading clean records
+2026-04-02 10:37:38.884406,CLEAN_UPLOAD_STATE,Maharashtra,,,40,,Uploading clean records
+2026-04-02 10:37:39.158378,CLEAN_UPLOAD_STATE,Manipur,,,8,,Uploading clean records
+2026-04-02 10:37:39.445964,CLEAN_UPLOAD_STATE,Meghalaya,,,1,,Uploading clean records
+2026-04-02 10:37:39.725685,CLEAN_UPLOAD_STATE,Nagaland,,,3,,Uploading clean records
+2026-04-02 10:37:40.078385,CLEAN_UPLOAD_STATE,Odisha,,,14,,Uploading clean records
+2026-04-02 10:37:40.368605,CLEAN_UPLOAD_STATE,Punjab,,,10,,Uploading clean records
+2026-04-02 10:37:40.721372,CLEAN_UPLOAD_STATE,Rajasthan,,,38,,Uploading clean records
+2026-04-02 10:37:40.992164,CLEAN_UPLOAD_STATE,Telangana,,,25,,Uploading clean records
+2026-04-02 10:37:41.234648,CLEAN_UPLOAD_STATE,Tripura,,,10,,Uploading clean records
+2026-04-02 10:37:41.492884,CLEAN_UPLOAD_STATE,Uttar Pradesh,,,35,,Uploading clean records
+2026-04-02 10:37:41.759225,CLEAN_UPLOAD_STATE,Uttarakhand,,,11,,Uploading clean records
+2026-04-02 10:37:42.010687,CLEAN_UPLOAD_STATE,West Bengal,,,24,,Uploading clean records
+2026-04-02 10:37:42.243915,CLEAN_UPLOAD_DONE,,,,435,,Clean upload finished
+2026-04-02 10:37:42.245656,STEP_UPLOAD_CLEAN_DONE,,,,,,10 sec
+2026-04-02 10:37:42.247155,STEP_PREDICT_START,,,,,,
+2026-04-02 10:37:42.248716,PREDICT_START,,,,,,Prediction run started
+2026-04-02 10:37:42.250307,STATE_START,Andaman and Nicobar Islands,,,,,State processing
+2026-04-02 10:37:42.251188,STATE_START,Andhra Pradesh,,,,,State processing
+2026-04-02 10:37:42.307436,MODEL_SELECT,Andhra Pradesh,Bengal Gram(Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.308195,METRICS,Andhra Pradesh,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.316576,MODEL_SELECT,Andhra Pradesh,Cotton,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.317383,METRICS,Andhra Pradesh,Cotton,,,SKIPPED,No test data
+2026-04-02 10:37:42.319289,MODEL_SELECT,Andhra Pradesh,Groundnut,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.320055,METRICS,Andhra Pradesh,Groundnut,,,SKIPPED,No test data
+2026-04-02 10:37:42.322846,MODEL_SELECT,Andhra Pradesh,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.323527,METRICS,Andhra Pradesh,Paddy(Common),,,SKIPPED,No test data
+2026-04-02 10:37:42.325647,MODEL_SELECT,Andhra Pradesh,Potato,fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.326163,METRICS,Andhra Pradesh,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:42.328902,MODEL_SELECT,Andhra Pradesh,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.329781,METRICS,Andhra Pradesh,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:42.340589,STATE_DONE,Andhra Pradesh,,,18,,Prediction CSV saved
+2026-04-02 10:37:42.341717,STATE_START,Arunachal Pradesh,,,,,State processing
+2026-04-02 10:37:42.343333,STATE_START,Assam,,,,,State processing
+2026-04-02 10:37:42.361882,MODEL_SELECT,Assam,Lentil(Masur)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.362634,METRICS,Assam,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.364931,MODEL_SELECT,Assam,Maize,fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.365567,METRICS,Assam,Maize,,,SKIPPED,No test data
+2026-04-02 10:37:42.367558,MODEL_SELECT,Assam,Mustard,fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.368088,METRICS,Assam,Mustard,,,SKIPPED,No test data
+2026-04-02 10:37:42.370269,MODEL_SELECT,Assam,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.370903,METRICS,Assam,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:42.373346,MODEL_SELECT,Assam,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.374111,METRICS,Assam,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:42.376564,MODEL_SELECT,Assam,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.377197,METRICS,Assam,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:42.385928,STATE_DONE,Assam,,,18,,Prediction CSV saved
+2026-04-02 10:37:42.386745,STATE_START,Bihar,,,,,State processing
+2026-04-02 10:37:42.404808,MODEL_SELECT,Bihar,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.405401,METRICS,Bihar,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:42.407511,MODEL_SELECT,Bihar,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.408076,METRICS,Bihar,Paddy(Common),,,SKIPPED,No test data
+2026-04-02 10:37:42.410384,MODEL_SELECT,Bihar,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.411120,METRICS,Bihar,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:42.419214,STATE_DONE,Bihar,,,9,,Prediction CSV saved
+2026-04-02 10:37:42.420072,STATE_START,Chandigarh,,,,,State processing
+2026-04-02 10:37:42.440927,MODEL_SELECT,Chandigarh,Onion,fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.441563,METRICS,Chandigarh,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:42.444038,MODEL_SELECT,Chandigarh,Potato,fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.444634,METRICS,Chandigarh,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:42.446633,MODEL_SELECT,Chandigarh,Tomato,fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.447317,METRICS,Chandigarh,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:42.455959,STATE_DONE,Chandigarh,,,9,,Prediction CSV saved
+2026-04-02 10:37:42.456887,STATE_START,Chhattisgarh,,,,,State processing
+2026-04-02 10:37:42.457718,STATE_START,Dadra and Nagar Haveli and Daman and Diu,,,,,State processing
+2026-04-02 10:37:42.458636,STATE_START,Delhi,,,,,State processing
+2026-04-02 10:37:42.459342,STATE_START,Goa,,,,,State processing
+2026-04-02 10:37:42.477741,MODEL_SELECT,Goa,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.478379,METRICS,Goa,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:42.480599,MODEL_SELECT,Goa,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.481194,METRICS,Goa,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:42.489973,STATE_DONE,Goa,,,6,,Prediction CSV saved
+2026-04-02 10:37:42.490910,STATE_START,Gujarat,,,,,State processing
+2026-04-02 10:37:42.509055,MODEL_SELECT,Gujarat,Arhar(Tur/Red Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.509712,METRICS,Gujarat,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.512028,MODEL_SELECT,Gujarat,Bengal Gram(Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.512826,METRICS,Gujarat,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.515101,MODEL_SELECT,Gujarat,Cotton,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.515731,METRICS,Gujarat,Cotton,,,SKIPPED,No test data
+2026-04-02 10:37:42.518130,MODEL_SELECT,Gujarat,Maize,fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.518713,METRICS,Gujarat,Maize,,,SKIPPED,No test data
+2026-04-02 10:37:42.520997,MODEL_SELECT,Gujarat,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.521964,METRICS,Gujarat,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:42.524278,MODEL_SELECT,Gujarat,Paddy(Common),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.525130,METRICS,Gujarat,Paddy(Common),,,SKIPPED,No test data
+2026-04-02 10:37:42.527468,MODEL_SELECT,Gujarat,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.528161,METRICS,Gujarat,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:42.531009,MODEL_SELECT,Gujarat,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.531829,METRICS,Gujarat,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:42.534164,MODEL_SELECT,Gujarat,Wheat,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.534743,METRICS,Gujarat,Wheat,,,SKIPPED,No test data
+2026-04-02 10:37:42.543553,STATE_DONE,Gujarat,,,27,,Prediction CSV saved
+2026-04-02 10:37:42.544286,STATE_START,Haryana,,,,,State processing
+2026-04-02 10:37:42.562323,MODEL_SELECT,Haryana,Bajra(Pearl Millet/Cumbu),fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.563158,METRICS,Haryana,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-04-02 10:37:42.565509,MODEL_SELECT,Haryana,Barley(Jau),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.566070,METRICS,Haryana,Barley(Jau),,,SKIPPED,No test data
+2026-04-02 10:37:42.568062,MODEL_SELECT,Haryana,Bengal Gram(Gram)(Whole),fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.568609,METRICS,Haryana,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.570775,MODEL_SELECT,Haryana,Cotton,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.571332,METRICS,Haryana,Cotton,,,SKIPPED,No test data
+2026-04-02 10:37:42.573325,MODEL_SELECT,Haryana,Mustard,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.573836,METRICS,Haryana,Mustard,,,SKIPPED,No test data
+2026-04-02 10:37:42.576032,MODEL_SELECT,Haryana,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.576992,METRICS,Haryana,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:42.578913,MODEL_SELECT,Haryana,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.579494,METRICS,Haryana,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:42.580723,MODEL_SELECT,Haryana,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.581246,METRICS,Haryana,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:42.589892,STATE_DONE,Haryana,,,24,,Prediction CSV saved
+2026-04-02 10:37:42.590741,STATE_START,Himachal Pradesh,,,,,State processing
+2026-04-02 10:37:42.606921,MODEL_SELECT,Himachal Pradesh,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.608255,METRICS,Himachal Pradesh,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:42.610381,MODEL_SELECT,Himachal Pradesh,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.610933,METRICS,Himachal Pradesh,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:42.613453,MODEL_SELECT,Himachal Pradesh,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.614030,METRICS,Himachal Pradesh,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:42.621299,STATE_DONE,Himachal Pradesh,,,9,,Prediction CSV saved
+2026-04-02 10:37:42.622048,STATE_START,Jammu and Kashmir,,,,,State processing
+2026-04-02 10:37:42.638008,MODEL_SELECT,Jammu and Kashmir,Onion,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.638642,METRICS,Jammu and Kashmir,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:42.640272,MODEL_SELECT,Jammu and Kashmir,Potato,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.640858,METRICS,Jammu and Kashmir,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:42.643013,MODEL_SELECT,Jammu and Kashmir,Tomato,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.643678,METRICS,Jammu and Kashmir,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:42.652475,STATE_DONE,Jammu and Kashmir,,,9,,Prediction CSV saved
+2026-04-02 10:37:42.653025,STATE_START,Jharkhand,,,,,State processing
+2026-04-02 10:37:42.653668,STATE_START,Karnataka,,,,,State processing
+2026-04-02 10:37:42.672732,MODEL_SELECT,Karnataka,Arhar(Tur/Red Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.673682,METRICS,Karnataka,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.677076,MODEL_SELECT,Karnataka,Bajra(Pearl Millet/Cumbu),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.677691,METRICS,Karnataka,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-04-02 10:37:42.680265,MODEL_SELECT,Karnataka,Barley(Jau),fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.680889,METRICS,Karnataka,Barley(Jau),,,SKIPPED,No test data
+2026-04-02 10:37:42.682997,MODEL_SELECT,Karnataka,Bengal Gram(Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.683484,METRICS,Karnataka,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.685568,MODEL_SELECT,Karnataka,Black Gram(Urd Beans)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.686583,METRICS,Karnataka,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.688674,MODEL_SELECT,Karnataka,Copra,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.689349,METRICS,Karnataka,Copra,,,SKIPPED,No test data
+2026-04-02 10:37:42.690833,MODEL_SELECT,Karnataka,Cotton,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.691371,METRICS,Karnataka,Cotton,,,SKIPPED,No test data
+2026-04-02 10:37:42.692548,MODEL_SELECT,Karnataka,Green Gram(Moong)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.692795,METRICS,Karnataka,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.694073,MODEL_SELECT,Karnataka,Groundnut,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.694717,METRICS,Karnataka,Groundnut,,,SKIPPED,No test data
+2026-04-02 10:37:42.696953,MODEL_SELECT,Karnataka,Jowar(Sorghum),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.697612,METRICS,Karnataka,Jowar(Sorghum),,,SKIPPED,No test data
+2026-04-02 10:37:42.699611,MODEL_SELECT,Karnataka,Maize,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.700212,METRICS,Karnataka,Maize,,,SKIPPED,No test data
+2026-04-02 10:37:42.702022,MODEL_SELECT,Karnataka,Mustard,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.702619,METRICS,Karnataka,Mustard,,,SKIPPED,No test data
+2026-04-02 10:37:42.704768,MODEL_SELECT,Karnataka,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.705301,METRICS,Karnataka,Paddy(Common),,,SKIPPED,No test data
+2026-04-02 10:37:42.707274,MODEL_SELECT,Karnataka,Ragi(Finger Millet),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.707883,METRICS,Karnataka,Ragi(Finger Millet),,,SKIPPED,No test data
+2026-04-02 10:37:42.709778,MODEL_SELECT,Karnataka,Safflower,fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.710594,METRICS,Karnataka,Safflower,,,SKIPPED,No test data
+2026-04-02 10:37:42.712267,MODEL_SELECT,Karnataka,"Sesamum(Sesame,Gingelly,Til)",fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.712876,METRICS,Karnataka,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-04-02 10:37:42.714881,MODEL_SELECT,Karnataka,Soyabean,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.715425,METRICS,Karnataka,Soyabean,,,SKIPPED,No test data
+2026-04-02 10:37:42.717541,MODEL_SELECT,Karnataka,Sunflower,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.718267,METRICS,Karnataka,Sunflower,,,SKIPPED,No test data
+2026-04-02 10:37:42.720234,MODEL_SELECT,Karnataka,Wheat,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.720706,METRICS,Karnataka,Wheat,,,SKIPPED,No test data
+2026-04-02 10:37:42.730399,STATE_DONE,Karnataka,,,57,,Prediction CSV saved
+2026-04-02 10:37:42.730952,STATE_START,Kerala,,,,,State processing
+2026-04-02 10:37:42.747830,MODEL_SELECT,Kerala,Arhar(Tur/Red Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.748443,METRICS,Kerala,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.750627,MODEL_SELECT,Kerala,Bengal Gram(Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.751209,METRICS,Kerala,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.753514,MODEL_SELECT,Kerala,Black Gram(Urd Beans)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.754078,METRICS,Kerala,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.756086,MODEL_SELECT,Kerala,Copra,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.756638,METRICS,Kerala,Copra,,,SKIPPED,No test data
+2026-04-02 10:37:42.758965,MODEL_SELECT,Kerala,Green Gram(Moong)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.759523,METRICS,Kerala,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.761564,MODEL_SELECT,Kerala,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.762121,METRICS,Kerala,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:42.764202,MODEL_SELECT,Kerala,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.764800,METRICS,Kerala,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:42.766791,MODEL_SELECT,Kerala,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.767381,METRICS,Kerala,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:42.775322,STATE_DONE,Kerala,,,24,,Prediction CSV saved
+2026-04-02 10:37:42.776311,STATE_START,Ladakh,,,,,State processing
+2026-04-02 10:37:42.777113,STATE_START,Lakshadweep,,,,,State processing
+2026-04-02 10:37:42.777671,STATE_START,Madhya Pradesh,,,,,State processing
+2026-04-02 10:37:42.798285,MODEL_SELECT,Madhya Pradesh,Arhar(Tur/Red Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.798942,METRICS,Madhya Pradesh,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.801251,MODEL_SELECT,Madhya Pradesh,Bajra(Pearl Millet/Cumbu),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.801971,METRICS,Madhya Pradesh,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-04-02 10:37:42.804189,MODEL_SELECT,Madhya Pradesh,Barley(Jau),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.804871,METRICS,Madhya Pradesh,Barley(Jau),,,SKIPPED,No test data
+2026-04-02 10:37:42.806978,MODEL_SELECT,Madhya Pradesh,Bengal Gram(Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.807512,METRICS,Madhya Pradesh,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.809312,MODEL_SELECT,Madhya Pradesh,Black Gram(Urd Beans)(Whole),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.809974,METRICS,Madhya Pradesh,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.812334,MODEL_SELECT,Madhya Pradesh,Cotton,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.812870,METRICS,Madhya Pradesh,Cotton,,,SKIPPED,No test data
+2026-04-02 10:37:42.815112,MODEL_SELECT,Madhya Pradesh,Green Gram(Moong)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.815860,METRICS,Madhya Pradesh,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.818047,MODEL_SELECT,Madhya Pradesh,Groundnut,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.818590,METRICS,Madhya Pradesh,Groundnut,,,SKIPPED,No test data
+2026-04-02 10:37:42.820642,MODEL_SELECT,Madhya Pradesh,Jowar(Sorghum),fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.821126,METRICS,Madhya Pradesh,Jowar(Sorghum),,,SKIPPED,No test data
+2026-04-02 10:37:42.822931,MODEL_SELECT,Madhya Pradesh,Lentil(Masur)(Whole),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.823610,METRICS,Madhya Pradesh,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.825677,MODEL_SELECT,Madhya Pradesh,Maize,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.826117,METRICS,Madhya Pradesh,Maize,,,SKIPPED,No test data
+2026-04-02 10:37:42.827875,MODEL_SELECT,Madhya Pradesh,Mustard,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.828674,METRICS,Madhya Pradesh,Mustard,,,SKIPPED,No test data
+2026-04-02 10:37:42.830577,MODEL_SELECT,Madhya Pradesh,Niger Seed(Ramtil),fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.831092,METRICS,Madhya Pradesh,Niger Seed(Ramtil),,,SKIPPED,No test data
+2026-04-02 10:37:42.833244,MODEL_SELECT,Madhya Pradesh,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.833762,METRICS,Madhya Pradesh,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:42.835895,MODEL_SELECT,Madhya Pradesh,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.836491,METRICS,Madhya Pradesh,Paddy(Common),,,SKIPPED,No test data
+2026-04-02 10:37:42.838825,MODEL_SELECT,Madhya Pradesh,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.839418,METRICS,Madhya Pradesh,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:42.841820,MODEL_SELECT,Madhya Pradesh,Soyabean,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.842607,METRICS,Madhya Pradesh,Soyabean,,,SKIPPED,No test data
+2026-04-02 10:37:42.844623,MODEL_SELECT,Madhya Pradesh,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.845347,METRICS,Madhya Pradesh,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:42.847617,MODEL_SELECT,Madhya Pradesh,Wheat,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.848238,METRICS,Madhya Pradesh,Wheat,,,SKIPPED,No test data
+2026-04-02 10:37:42.858775,STATE_DONE,Madhya Pradesh,,,57,,Prediction CSV saved
+2026-04-02 10:37:42.859730,STATE_START,Maharashtra,,,,,State processing
+2026-04-02 10:37:42.876873,MODEL_SELECT,Maharashtra,Arhar(Tur/Red Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.877550,METRICS,Maharashtra,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.879594,MODEL_SELECT,Maharashtra,Bajra(Pearl Millet/Cumbu),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.880244,METRICS,Maharashtra,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-04-02 10:37:42.882419,MODEL_SELECT,Maharashtra,Bengal Gram(Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.882963,METRICS,Maharashtra,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.885011,MODEL_SELECT,Maharashtra,Black Gram(Urd Beans)(Whole),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.885581,METRICS,Maharashtra,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.887329,MODEL_SELECT,Maharashtra,Cotton,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.887818,METRICS,Maharashtra,Cotton,,,SKIPPED,No test data
+2026-04-02 10:37:42.889896,MODEL_SELECT,Maharashtra,Green Gram(Moong)(Whole),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.890416,METRICS,Maharashtra,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.892417,MODEL_SELECT,Maharashtra,Groundnut,fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.892979,METRICS,Maharashtra,Groundnut,,,SKIPPED,No test data
+2026-04-02 10:37:42.895032,MODEL_SELECT,Maharashtra,Jowar(Sorghum),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.895634,METRICS,Maharashtra,Jowar(Sorghum),,,SKIPPED,No test data
+2026-04-02 10:37:42.897848,MODEL_SELECT,Maharashtra,Lentil(Masur)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.898495,METRICS,Maharashtra,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.901255,MODEL_SELECT,Maharashtra,Maize,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.901812,METRICS,Maharashtra,Maize,,,SKIPPED,No test data
+2026-04-02 10:37:42.904920,MODEL_SELECT,Maharashtra,Mustard,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.905722,METRICS,Maharashtra,Mustard,,,SKIPPED,No test data
+2026-04-02 10:37:42.907925,MODEL_SELECT,Maharashtra,Niger Seed(Ramtil),fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.908608,METRICS,Maharashtra,Niger Seed(Ramtil),,,SKIPPED,No test data
+2026-04-02 10:37:42.910999,MODEL_SELECT,Maharashtra,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.911640,METRICS,Maharashtra,Paddy(Common),,,SKIPPED,No test data
+2026-04-02 10:37:42.914580,MODEL_SELECT,Maharashtra,Ragi(Finger Millet),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.915247,METRICS,Maharashtra,Ragi(Finger Millet),,,SKIPPED,No test data
+2026-04-02 10:37:42.916987,MODEL_SELECT,Maharashtra,"Sesamum(Sesame,Gingelly,Til)",hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.917724,METRICS,Maharashtra,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-04-02 10:37:42.919929,MODEL_SELECT,Maharashtra,Soyabean,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.920531,METRICS,Maharashtra,Soyabean,,,SKIPPED,No test data
+2026-04-02 10:37:42.922970,MODEL_SELECT,Maharashtra,Wheat,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:42.924007,METRICS,Maharashtra,Wheat,,,SKIPPED,No test data
+2026-04-02 10:37:42.936403,STATE_DONE,Maharashtra,,,51,,Prediction CSV saved
+2026-04-02 10:37:42.937127,STATE_START,Manipur,,,,,State processing
+2026-04-02 10:37:42.956502,MODEL_SELECT,Manipur,Bengal Gram(Gram)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.957066,METRICS,Manipur,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.958714,MODEL_SELECT,Manipur,Black Gram(Urd Beans)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.959417,METRICS,Manipur,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:42.961498,MODEL_SELECT,Manipur,Onion,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.962067,METRICS,Manipur,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:42.963549,MODEL_SELECT,Manipur,Potato,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:42.964087,METRICS,Manipur,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:42.970367,STATE_DONE,Manipur,,,12,,Prediction CSV saved
+2026-04-02 10:37:42.970735,STATE_START,Meghalaya,,,,,State processing
+2026-04-02 10:37:42.986189,MODEL_SELECT,Meghalaya,Potato,fallback_copy,1,,Model chosen
+2026-04-02 10:37:42.986793,METRICS,Meghalaya,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:42.994015,STATE_DONE,Meghalaya,,,3,,Prediction CSV saved
+2026-04-02 10:37:42.994702,STATE_START,Mizoram,,,,,State processing
+2026-04-02 10:37:42.995039,STATE_START,Nagaland,,,,,State processing
+2026-04-02 10:37:43.007273,MODEL_SELECT,Nagaland,Potato,fallback_copy,1,,Model chosen
+2026-04-02 10:37:43.007874,METRICS,Nagaland,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:43.010201,MODEL_SELECT,Nagaland,Tomato,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:43.010954,METRICS,Nagaland,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:43.018469,STATE_DONE,Nagaland,,,6,,Prediction CSV saved
+2026-04-02 10:37:43.019164,STATE_START,Odisha,,,,,State processing
+2026-04-02 10:37:43.034551,MODEL_SELECT,Odisha,Maize,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:43.035149,METRICS,Odisha,Maize,,,SKIPPED,No test data
+2026-04-02 10:37:43.037352,MODEL_SELECT,Odisha,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.037977,METRICS,Odisha,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:43.039869,MODEL_SELECT,Odisha,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.040485,METRICS,Odisha,Paddy(Common),,,SKIPPED,No test data
+2026-04-02 10:37:43.042490,MODEL_SELECT,Odisha,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.043063,METRICS,Odisha,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:43.045024,MODEL_SELECT,Odisha,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.045640,METRICS,Odisha,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:43.053340,STATE_DONE,Odisha,,,15,,Prediction CSV saved
+2026-04-02 10:37:43.054094,STATE_START,Puducherry,,,,,State processing
+2026-04-02 10:37:43.054781,STATE_START,Punjab,,,,,State processing
+2026-04-02 10:37:43.071024,MODEL_SELECT,Punjab,Cotton,fallback_copy,1,,Model chosen
+2026-04-02 10:37:43.071739,METRICS,Punjab,Cotton,,,SKIPPED,No test data
+2026-04-02 10:37:43.073638,MODEL_SELECT,Punjab,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.074594,METRICS,Punjab,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:43.076783,MODEL_SELECT,Punjab,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.077341,METRICS,Punjab,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:43.079379,MODEL_SELECT,Punjab,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.080120,METRICS,Punjab,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:43.087625,STATE_DONE,Punjab,,,12,,Prediction CSV saved
+2026-04-02 10:37:43.088630,STATE_START,Rajasthan,,,,,State processing
+2026-04-02 10:37:43.106547,MODEL_SELECT,Rajasthan,Bajra(Pearl Millet/Cumbu),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.107239,METRICS,Rajasthan,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-04-02 10:37:43.109591,MODEL_SELECT,Rajasthan,Barley(Jau),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.110237,METRICS,Rajasthan,Barley(Jau),,,SKIPPED,No test data
+2026-04-02 10:37:43.112775,MODEL_SELECT,Rajasthan,Bengal Gram(Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.113483,METRICS,Rajasthan,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:43.115382,MODEL_SELECT,Rajasthan,Black Gram(Urd Beans)(Whole),fallback_copy,1,,Model chosen
+2026-04-02 10:37:43.115925,METRICS,Rajasthan,Black Gram(Urd Beans)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:43.117791,MODEL_SELECT,Rajasthan,Green Gram(Moong)(Whole),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.118615,METRICS,Rajasthan,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:43.120971,MODEL_SELECT,Rajasthan,Lentil(Masur)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:43.121591,METRICS,Rajasthan,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:43.123895,MODEL_SELECT,Rajasthan,Maize,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.124525,METRICS,Rajasthan,Maize,,,SKIPPED,No test data
+2026-04-02 10:37:43.126359,MODEL_SELECT,Rajasthan,Mustard,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.126818,METRICS,Rajasthan,Mustard,,,SKIPPED,No test data
+2026-04-02 10:37:43.129656,MODEL_SELECT,Rajasthan,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.130300,METRICS,Rajasthan,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:43.132590,MODEL_SELECT,Rajasthan,Paddy(Common),fallback_copy,1,,Model chosen
+2026-04-02 10:37:43.133063,METRICS,Rajasthan,Paddy(Common),,,SKIPPED,No test data
+2026-04-02 10:37:43.135897,MODEL_SELECT,Rajasthan,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.136585,METRICS,Rajasthan,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:43.138832,MODEL_SELECT,Rajasthan,"Sesamum(Sesame,Gingelly,Til)",hybrid_ma,2,,Model chosen
+2026-04-02 10:37:43.139655,METRICS,Rajasthan,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-04-02 10:37:43.141618,MODEL_SELECT,Rajasthan,Soyabean,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:43.142322,METRICS,Rajasthan,Soyabean,,,SKIPPED,No test data
+2026-04-02 10:37:43.144115,MODEL_SELECT,Rajasthan,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.144694,METRICS,Rajasthan,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:43.146146,MODEL_SELECT,Rajasthan,Wheat,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.146690,METRICS,Rajasthan,Wheat,,,SKIPPED,No test data
+2026-04-02 10:37:43.154460,STATE_DONE,Rajasthan,,,45,,Prediction CSV saved
+2026-04-02 10:37:43.155106,STATE_START,Sikkim,,,,,State processing
+2026-04-02 10:37:43.155790,STATE_START,Tamil Nadu,,,,,State processing
+2026-04-02 10:37:43.156443,STATE_START,Telangana,,,,,State processing
+2026-04-02 10:37:43.173105,MODEL_SELECT,Telangana,Arhar(Tur/Red Gram)(Whole),fallback_copy,1,,Model chosen
+2026-04-02 10:37:43.173942,METRICS,Telangana,Arhar(Tur/Red Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:43.179444,MODEL_SELECT,Telangana,Bengal Gram(Gram)(Whole),fallback_copy,1,,Model chosen
+2026-04-02 10:37:43.180189,METRICS,Telangana,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:43.182829,MODEL_SELECT,Telangana,Cotton,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.183494,METRICS,Telangana,Cotton,,,SKIPPED,No test data
+2026-04-02 10:37:43.185449,MODEL_SELECT,Telangana,Green Gram(Moong)(Whole),fallback_copy,1,,Model chosen
+2026-04-02 10:37:43.186022,METRICS,Telangana,Green Gram(Moong)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:43.187982,MODEL_SELECT,Telangana,Groundnut,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:43.188534,METRICS,Telangana,Groundnut,,,SKIPPED,No test data
+2026-04-02 10:37:43.190323,MODEL_SELECT,Telangana,Maize,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.190941,METRICS,Telangana,Maize,,,SKIPPED,No test data
+2026-04-02 10:37:43.193461,MODEL_SELECT,Telangana,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.194068,METRICS,Telangana,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:43.195890,MODEL_SELECT,Telangana,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.196352,METRICS,Telangana,Paddy(Common),,,SKIPPED,No test data
+2026-04-02 10:37:43.198157,MODEL_SELECT,Telangana,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.198634,METRICS,Telangana,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:43.200354,MODEL_SELECT,Telangana,Soyabean,fallback_copy,1,,Model chosen
+2026-04-02 10:37:43.200877,METRICS,Telangana,Soyabean,,,SKIPPED,No test data
+2026-04-02 10:37:43.203809,MODEL_SELECT,Telangana,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.204487,METRICS,Telangana,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:43.206790,MODEL_SELECT,Telangana,Wheat,fallback_copy,1,,Model chosen
+2026-04-02 10:37:43.207520,METRICS,Telangana,Wheat,,,SKIPPED,No test data
+2026-04-02 10:37:43.217399,STATE_DONE,Telangana,,,36,,Prediction CSV saved
+2026-04-02 10:37:43.218119,STATE_START,Tripura,,,,,State processing
+2026-04-02 10:37:43.234726,MODEL_SELECT,Tripura,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.235458,METRICS,Tripura,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:43.237644,MODEL_SELECT,Tripura,Paddy(Common),fallback_copy,1,,Model chosen
+2026-04-02 10:37:43.238232,METRICS,Tripura,Paddy(Common),,,SKIPPED,No test data
+2026-04-02 10:37:43.240288,MODEL_SELECT,Tripura,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.241100,METRICS,Tripura,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:43.243741,MODEL_SELECT,Tripura,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.244340,METRICS,Tripura,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:43.251651,STATE_DONE,Tripura,,,12,,Prediction CSV saved
+2026-04-02 10:37:43.252696,STATE_START,Uttar Pradesh,,,,,State processing
+2026-04-02 10:37:43.268286,MODEL_SELECT,Uttar Pradesh,Bajra(Pearl Millet/Cumbu),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.268918,METRICS,Uttar Pradesh,Bajra(Pearl Millet/Cumbu),,,SKIPPED,No test data
+2026-04-02 10:37:43.270089,MODEL_SELECT,Uttar Pradesh,Barley(Jau),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.270486,METRICS,Uttar Pradesh,Barley(Jau),,,SKIPPED,No test data
+2026-04-02 10:37:43.272191,MODEL_SELECT,Uttar Pradesh,Bengal Gram(Gram)(Whole),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.272823,METRICS,Uttar Pradesh,Bengal Gram(Gram)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:43.275170,MODEL_SELECT,Uttar Pradesh,Groundnut,hybrid_ma,2,,Model chosen
+2026-04-02 10:37:43.275942,METRICS,Uttar Pradesh,Groundnut,,,SKIPPED,No test data
+2026-04-02 10:37:43.278024,MODEL_SELECT,Uttar Pradesh,Jowar(Sorghum),fallback_copy,1,,Model chosen
+2026-04-02 10:37:43.278621,METRICS,Uttar Pradesh,Jowar(Sorghum),,,SKIPPED,No test data
+2026-04-02 10:37:43.280386,MODEL_SELECT,Uttar Pradesh,Lentil(Masur)(Whole),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:43.280936,METRICS,Uttar Pradesh,Lentil(Masur)(Whole),,,SKIPPED,No test data
+2026-04-02 10:37:43.282773,MODEL_SELECT,Uttar Pradesh,Maize,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.283321,METRICS,Uttar Pradesh,Maize,,,SKIPPED,No test data
+2026-04-02 10:37:43.285150,MODEL_SELECT,Uttar Pradesh,Mustard,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.285675,METRICS,Uttar Pradesh,Mustard,,,SKIPPED,No test data
+2026-04-02 10:37:43.287470,MODEL_SELECT,Uttar Pradesh,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.287968,METRICS,Uttar Pradesh,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:43.289782,MODEL_SELECT,Uttar Pradesh,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.290359,METRICS,Uttar Pradesh,Paddy(Common),,,SKIPPED,No test data
+2026-04-02 10:37:43.292669,MODEL_SELECT,Uttar Pradesh,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.293363,METRICS,Uttar Pradesh,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:43.295204,MODEL_SELECT,Uttar Pradesh,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.295753,METRICS,Uttar Pradesh,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:43.297840,MODEL_SELECT,Uttar Pradesh,Wheat,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.298406,METRICS,Uttar Pradesh,Wheat,,,SKIPPED,No test data
+2026-04-02 10:37:43.305742,STATE_DONE,Uttar Pradesh,,,39,,Prediction CSV saved
+2026-04-02 10:37:43.306430,STATE_START,Uttarakhand,,,,,State processing
+2026-04-02 10:37:43.317400,MODEL_SELECT,Uttarakhand,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.317900,METRICS,Uttarakhand,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:43.318997,MODEL_SELECT,Uttarakhand,Paddy(Common),hybrid_ma,2,,Model chosen
+2026-04-02 10:37:43.319547,METRICS,Uttarakhand,Paddy(Common),,,SKIPPED,No test data
+2026-04-02 10:37:43.321868,MODEL_SELECT,Uttarakhand,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.322605,METRICS,Uttarakhand,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:43.324475,MODEL_SELECT,Uttarakhand,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.325032,METRICS,Uttarakhand,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:43.332695,STATE_DONE,Uttarakhand,,,12,,Prediction CSV saved
+2026-04-02 10:37:43.333181,STATE_START,West Bengal,,,,,State processing
+2026-04-02 10:37:43.349795,MODEL_SELECT,West Bengal,Maize,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.350460,METRICS,West Bengal,Maize,,,SKIPPED,No test data
+2026-04-02 10:37:43.352819,MODEL_SELECT,West Bengal,Mustard,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.353608,METRICS,West Bengal,Mustard,,,SKIPPED,No test data
+2026-04-02 10:37:43.355950,MODEL_SELECT,West Bengal,Onion,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.356567,METRICS,West Bengal,Onion,,,SKIPPED,No test data
+2026-04-02 10:37:43.359018,MODEL_SELECT,West Bengal,Paddy(Common),hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.359683,METRICS,West Bengal,Paddy(Common),,,SKIPPED,No test data
+2026-04-02 10:37:43.361745,MODEL_SELECT,West Bengal,Potato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.362321,METRICS,West Bengal,Potato,,,SKIPPED,No test data
+2026-04-02 10:37:43.364324,MODEL_SELECT,West Bengal,"Sesamum(Sesame,Gingelly,Til)",hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.364874,METRICS,West Bengal,"Sesamum(Sesame,Gingelly,Til)",,,SKIPPED,No test data
+2026-04-02 10:37:43.367131,MODEL_SELECT,West Bengal,Tomato,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.367740,METRICS,West Bengal,Tomato,,,SKIPPED,No test data
+2026-04-02 10:37:43.369555,MODEL_SELECT,West Bengal,Wheat,hybrid_trend,3,,Model chosen
+2026-04-02 10:37:43.370103,METRICS,West Bengal,Wheat,,,SKIPPED,No test data
+2026-04-02 10:37:43.377584,STATE_DONE,West Bengal,,,24,,Prediction CSV saved
+2026-04-02 10:37:43.378451,PREDICT_END,,,,,,Prediction run finished
+2026-04-02 10:37:43.379453,STEP_PREDICT_DONE,,,,,,1 sec
+2026-04-02 10:37:43.380177,STEP_UPLOAD_PRED_START,,,,,,
+2026-04-02 10:37:43.380847,PRED_UPLOAD_START,,,,,,Prediction upload started
+2026-04-02 10:37:44.219203,PRED_UPLOAD_STATE,Andhra Pradesh,,,18,,Uploading predictions
+2026-04-02 10:37:46.008275,PRED_UPLOAD_OK,Andhra Pradesh,,,18,,Upload success
+2026-04-02 10:37:46.065368,PRED_UPLOAD_STATE,Assam,,,18,,Uploading predictions
+2026-04-02 10:37:46.342583,PRED_UPLOAD_OK,Assam,,,18,,Upload success
+2026-04-02 10:37:46.412206,PRED_UPLOAD_STATE,Bihar,,,9,,Uploading predictions
+2026-04-02 10:37:46.647908,PRED_UPLOAD_OK,Bihar,,,9,,Upload success
+2026-04-02 10:37:46.714490,PRED_UPLOAD_STATE,Chandigarh,,,9,,Uploading predictions
+2026-04-02 10:37:46.936106,PRED_UPLOAD_OK,Chandigarh,,,9,,Upload success
+2026-04-02 10:37:46.998190,PRED_UPLOAD_STATE,Goa,,,6,,Uploading predictions
+2026-04-02 10:37:47.245159,PRED_UPLOAD_OK,Goa,,,6,,Upload success
+2026-04-02 10:37:47.307622,PRED_UPLOAD_STATE,Gujarat,,,27,,Uploading predictions
+2026-04-02 10:37:47.602517,PRED_UPLOAD_OK,Gujarat,,,27,,Upload success
+2026-04-02 10:37:47.669755,PRED_UPLOAD_STATE,Haryana,,,24,,Uploading predictions
+2026-04-02 10:37:47.904073,PRED_UPLOAD_OK,Haryana,,,24,,Upload success
+2026-04-02 10:37:47.971787,PRED_UPLOAD_STATE,Himachal Pradesh,,,9,,Uploading predictions
+2026-04-02 10:37:48.190472,PRED_UPLOAD_OK,Himachal Pradesh,,,9,,Upload success
+2026-04-02 10:37:48.257807,PRED_UPLOAD_STATE,Jammu and Kashmir,,,9,,Uploading predictions
+2026-04-02 10:37:48.562997,PRED_UPLOAD_OK,Jammu and Kashmir,,,9,,Upload success
+2026-04-02 10:37:48.651743,PRED_UPLOAD_STATE,Karnataka,,,57,,Uploading predictions
+2026-04-02 10:37:48.941318,PRED_UPLOAD_OK,Karnataka,,,57,,Upload success
+2026-04-02 10:37:49.004687,PRED_UPLOAD_STATE,Kerala,,,24,,Uploading predictions
+2026-04-02 10:37:49.328492,PRED_UPLOAD_OK,Kerala,,,24,,Upload success
+2026-04-02 10:37:49.432323,PRED_UPLOAD_STATE,Madhya Pradesh,,,57,,Uploading predictions
+2026-04-02 10:37:49.723238,PRED_UPLOAD_OK,Madhya Pradesh,,,57,,Upload success
+2026-04-02 10:37:49.850061,PRED_UPLOAD_STATE,Maharashtra,,,51,,Uploading predictions
+2026-04-02 10:37:50.129422,PRED_UPLOAD_OK,Maharashtra,,,51,,Upload success
+2026-04-02 10:37:50.178981,PRED_UPLOAD_STATE,Manipur,,,12,,Uploading predictions
+2026-04-02 10:37:50.409033,PRED_UPLOAD_OK,Manipur,,,12,,Upload success
+2026-04-02 10:37:50.494427,PRED_UPLOAD_STATE,Meghalaya,,,3,,Uploading predictions
+2026-04-02 10:37:50.733401,PRED_UPLOAD_OK,Meghalaya,,,3,,Upload success
+2026-04-02 10:37:50.769079,PRED_UPLOAD_STATE,Nagaland,,,6,,Uploading predictions
+2026-04-02 10:37:50.959449,PRED_UPLOAD_OK,Nagaland,,,6,,Upload success
+2026-04-02 10:37:51.065473,PRED_UPLOAD_STATE,Odisha,,,15,,Uploading predictions
+2026-04-02 10:37:51.326273,PRED_UPLOAD_OK,Odisha,,,15,,Upload success
+2026-04-02 10:37:51.701732,PRED_UPLOAD_STATE,Punjab,,,12,,Uploading predictions
+2026-04-02 10:37:51.989729,PRED_UPLOAD_OK,Punjab,,,12,,Upload success
+2026-04-02 10:37:52.041994,PRED_UPLOAD_STATE,Rajasthan,,,45,,Uploading predictions
+2026-04-02 10:37:52.283779,PRED_UPLOAD_OK,Rajasthan,,,45,,Upload success
+2026-04-02 10:37:52.327317,PRED_UPLOAD_STATE,Telangana,,,36,,Uploading predictions
+2026-04-02 10:37:52.727921,PRED_UPLOAD_OK,Telangana,,,36,,Upload success
+2026-04-02 10:37:52.782725,PRED_UPLOAD_STATE,Tripura,,,12,,Uploading predictions
+2026-04-02 10:37:53.009618,PRED_UPLOAD_OK,Tripura,,,12,,Upload success
+2026-04-02 10:37:53.083592,PRED_UPLOAD_STATE,Uttar Pradesh,,,39,,Uploading predictions
+2026-04-02 10:37:53.420807,PRED_UPLOAD_OK,Uttar Pradesh,,,39,,Upload success
+2026-04-02 10:37:53.485480,PRED_UPLOAD_STATE,Uttarakhand,,,12,,Uploading predictions
+2026-04-02 10:37:53.697484,PRED_UPLOAD_OK,Uttarakhand,,,12,,Upload success
+2026-04-02 10:37:53.757829,PRED_UPLOAD_STATE,West Bengal,,,24,,Uploading predictions
+2026-04-02 10:37:54.004395,PRED_UPLOAD_OK,West Bengal,,,24,,Upload success
+2026-04-02 10:37:54.005319,PRED_UPLOAD_DONE,,,,534,,Prediction upload finished
+2026-04-02 10:37:54.006595,STEP_UPLOAD_PRED_DONE,,,,,,10 sec
+2026-04-02 10:38:04.585622,PIPELINE_DONE,,,,,,Total 750 sec
+2026-04-02 11:40:19.558890,PIPELINE_START,,,,,,Full pipeline started
+2026-04-02 11:40:19.559972,STEP_EXTRACT_START,,,,,,
+2026-04-02 11:40:19.562696,EXTRACT_START,,,,,,Extraction started
+2026-04-02 11:42:32.056870,EXTRACT_STATE_START,Andaman and Nicobar Islands,,,,,State extraction start
+2026-04-02 11:43:02.797895,EXTRACT_STATE_FAIL,Andaman and Nicobar Islands,,,,,"Message: 
+Stacktrace:
+	chromedriver!GetHandleVerifier [0x7ff744f229c5+2ed785]
+	chromedriver!GetHandleVerifier [0x7ff744c4a0d0+14e90]
+	chromedriver!(No symbol) [0x7ff7449adb2d]
+	chromedriver!(No symbol) [0x7ff744a06b9e]
+	chromedriver!(No symbol) [0x7ff744a06eac]
+	chromedriver!(No symbol) [0x7ff744a56fe7]
+	chromedriver!(No symbol) [0x7ff744a53b9b]
+	chromedriver!(No symbol) [0x7ff7449f9298]
+	chromedriver!(No symbol) [0x7ff7449fa183]
+	chromedriver!GetHandleVerifier [0x7ff744f4de0d+318bcd]
+	chromedriver!GetHandleVerifier [0x7ff744f48588+313348]
+	chromedriver!GetHandleVerifier [0x7ff744f69d7a+334b3a]
+	chromedriver!GetHandleVerifier [0x7ff744c66785+31545]
+	chromedriver!GetHandleVerifier [0x7ff744c6facc+3a88c]
+	chromedriver!GetHandleVerifier [0x7ff744c53634+1e3f4]
+	chromedriver!GetHandleVerifier [0x7ff744c537e6+1e5a6]
+	chromedriver!GetHandleVerifier [0x7ff744c37e37+2bf7]
+	KERNEL32!BaseThreadInitThunk [0x7ff9b535e8d7+17]
+	ntdll!RtlUserThreadStart [0x7ff9b5a2c40c+2c]
+"
+2026-04-02 11:43:02.799467,EXTRACT_STATE_START,Andhra Pradesh,,,,,State extraction start
